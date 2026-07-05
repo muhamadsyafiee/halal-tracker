@@ -81,6 +81,11 @@ def init_db():
             db.execute('ALTER TABLE users ADD COLUMN {} {}'.format(col, col_def))
         except sqlite3.OperationalError:
             pass  # Column already exists
+    # visitors.source: platform trafik (utm_source), first-touch per hari
+    try:
+        db.execute("ALTER TABLE visitors ADD COLUMN source TEXT DEFAULT 'direct'")
+    except sqlite3.OperationalError:
+        pass
     db.commit()
     db.close()
 
@@ -803,6 +808,20 @@ tr:hover td{background:rgba(96,165,250,.08)}
 {% if not mall_reqs %}<tr><td colspan="5" class="muted">- Tiada permintaan -</td></tr>{% endif %}
 </tbody></table>
 
+<h2>Sumber Trafik (30 Hari)</h2>
+<div class="visitor-chart">
+{% set tmax = traffic[0].cnt if traffic else 1 %}
+{% set names = {'facebook':'&#128218; Facebook','instagram':'&#128248; Instagram','whatsapp':'&#128172; WhatsApp','tiktok':'&#127925; TikTok','direct':'&#128279; Terus / Lain'} %}
+{% for t in traffic %}
+<div class="chart-bar">
+  <span class="date" style="width:120px">{{ names.get(t.src, '&#127760; ' ~ t.src)|safe }}</span>
+  <span class="bar" style="width:{{ (t.cnt / tmax * 100) if tmax > 0 else 0 }}%;background:#7c3aed"></span>
+  <span class="count">{{ t.cnt }} ({{ t.cnt * 100 // traffic_total }}%)</span>
+</div>
+{% endfor %}
+{% if not traffic %}<p class="muted">- Tiada data -</p>{% endif %}
+</div>
+
 <h2>Visitor 30 Hari Terakhir</h2>
 <div class="visitor-chart">
 {% set max_cnt = visits_history[0].cnt if visits_history else 1 %}
@@ -938,9 +957,12 @@ def auto_track_visitor():
     ua = request.headers.get('User-Agent', '')
     visitor_key = hashlib.sha256((ip + '|' + ua).encode()).hexdigest()[:32]
     today = datetime.utcnow().strftime('%Y-%m-%d')
+    # sumber platform dari ?utm_source= (fb/ig/wasap/tiktok...). Kosong -> 'direct'.
+    src = re.sub(r'[^a-z0-9_-]', '', (request.args.get('utm_source') or '').strip().lower())[:32] or 'direct'
     db = get_db()
-    db.execute('INSERT OR IGNORE INTO visitors (visitor_key, visit_date) VALUES (?, ?)',
-              (visitor_key, today))
+    # INSERT OR IGNORE -> first-touch: sumber lawatan PERTAMA hari itu dikekalkan
+    db.execute('INSERT OR IGNORE INTO visitors (visitor_key, visit_date, source) VALUES (?, ?, ?)',
+              (visitor_key, today, src))
     db.commit()
     db.close()
 
@@ -1000,10 +1022,18 @@ def admin_page():
     ''').fetchall()
     mall_reqs = db.execute("SELECT * FROM mall_requests ORDER BY (status='pending') DESC, "
                            "COALESCE(reviewed_at, created_at) DESC LIMIT 60").fetchall()
+    # pecahan sumber trafik (30 hari) — kira lawatan unik per hari ikut platform
+    traffic = db.execute('''
+        SELECT COALESCE(source,'direct') AS src, COUNT(*) AS cnt
+        FROM visitors WHERE visit_date >= date('now','-30 days')
+        GROUP BY src ORDER BY cnt DESC
+    ''').fetchall()
+    traffic_total = sum(r['cnt'] for r in traffic) or 1
     db.close()
     visits = get_visitor_counts()
     return render_template_string(ADMIN_HTML, users=users, total_users=total_users,
                                   visits=visits, visits_history=visits_history, mall_reqs=mall_reqs,
+                                  traffic=traffic, traffic_total=traffic_total,
                                   user_email=auth[1], pending_certs=pending_cert_count())
 
 
