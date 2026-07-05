@@ -455,6 +455,7 @@ phantom-ui::part(shimmer){background:linear-gradient(90deg,transparent 0%,rgba(1
         <span class="subtitle">F&amp;B Halal Dashboard</span>
       </div>
       <div class="header-right">
+        <a href="/apa-baru" class="btn-whatsnew">&#10024; Apa baru</a>
         {% if logged_in %}
         {% if is_admin %}{% if pending_certs %}<a href="/admin/certs" class="badge-admin-header" style="background:#78350f;color:#fbbf24">&#128220; {{ pending_certs }} sijil</a>{% endif %}<a href="/admin" class="badge-admin-header">&#9889; Panel Admin</a>{% endif %}
         <span class="header-email" title="{{ user_email }}">{{ user_email }}</span>
@@ -582,6 +583,8 @@ Sumber direktori: laman rasmi setiap mall (live).</div>
 .cert-msg.ok{color:#4ade80}.cert-msg.err{color:#f87171}
 .btn-login{display:inline-flex;align-items:center;gap:5px;padding:6px 13px;border-radius:20px;font-size:.72rem;font-weight:600;color:#4ade80;background:rgba(74,222,128,.12);border:1px solid rgba(74,222,128,.25);text-decoration:none;white-space:nowrap}
 .btn-login:hover{background:rgba(74,222,128,.2)}
+.btn-whatsnew{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.72rem;font-weight:600;color:#c4b5fd;background:rgba(167,139,250,.12);border:1px solid rgba(167,139,250,.25);text-decoration:none;white-space:nowrap}
+.btn-whatsnew:hover{background:rgba(167,139,250,.2)}
 .table-outer{position:relative}
 .table-outer.locked .table-wrap{filter:blur(6px);pointer-events:none;user-select:none;max-height:420px;overflow:hidden}
 .lock-overlay{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:16px;background:linear-gradient(180deg,rgba(15,23,42,.15),rgba(15,23,42,.75))}
@@ -815,6 +818,41 @@ tr:hover td{background:rgba(96,165,250,.08)}
 {% endif %}
 </div>
 
+</div></body></html>'''
+
+WHATSNEW_HTML = '''<!DOCTYPE html><html lang="ms"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Apa Baru — Halal Tracker</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;line-height:1.65}
+.container{max-width:680px;margin:0 auto;padding:24px 16px 60px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:6px}
+.back{color:#60a5fa;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.2);border-radius:20px;padding:7px 14px;font-size:.8rem;text-decoration:none;white-space:nowrap}
+h1{font-size:1.7rem;color:#f1f5f9;margin-top:8px}
+.lead{color:#94a3b8;font-size:.92rem;margin:6px 0 22px}
+.card{background:#1e293b;border:1px solid #334155;border-radius:14px;padding:16px 18px;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start}
+.emoji{font-size:1.5rem;line-height:1.2;flex-shrink:0}
+.card .t{font-weight:700;color:#f1f5f9;font-size:1rem}
+.card .d{color:#94a3b8;font-size:.88rem;margin-top:2px}
+.sec{font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:#64748b;margin:22px 0 10px;font-weight:700}
+.foot{color:#64748b;font-size:.8rem;margin-top:26px;text-align:center}
+</style></head><body>
+<div class="container">
+  <div class="top">
+    <div class="sec" style="margin:0">&#10024; Kemas kini terkini</div>
+    <a href="/" class="back">&#8592; Kembali</a>
+  </div>
+  <h1>Apa Yang Baru?</h1>
+  <div class="lead">Ciri-ciri terbaru untuk memudahkan anda menyemak status halal kedai di mall Malaysia.</div>
+
+  {% for it in items %}
+  <div class="card">
+    <div class="emoji">{{ it[0] }}</div>
+    <div><div class="t">{{ it[1] }}</div><div class="d">{{ it[2] }}</div></div>
+  </div>
+  {% endfor %}
+
+  <div class="foot">Status halal dari portal rasmi JAKIM MyeHalal &bull; Tiada sijil bukan bermaksud haram.</div>
 </div></body></html>'''
 
 CERTS_HTML = '''<!DOCTYPE html><html lang="ms"><head><meta charset="UTF-8">
@@ -1225,6 +1263,22 @@ def reset_page():
             return render_template_string(RESET_HTML, error=None, success=success, token=None)
     db.close()
     return render_template_string(RESET_HTML, error=error, success=success, token=token)
+
+@app.route('/apa-baru')
+def whats_new():
+    # senarai plain-language utk pengguna biasa (bukan teknikal)
+    items = [
+        ("🔐", "Log masuk dengan Google", "Tak perlu ingat kata laluan — log masuk pantas guna akaun Google anda."),
+        ("🔍", "Cari mall dengan mudah", "Taip nama mall pada kotak carian untuk terus jumpa, tak perlu skrol panjang."),
+        ("🎯", "Tapis kedai ikut status", "Tekan kad Halal / Perlu Semak / Tiada Sijil / Non-Halal, atau guna dropdown, untuk lihat kedai ikut kategori."),
+        ("📷", "Muat naik sijil halal", "Ada sijil halal sesebuah kedai? Muat naik gambar untuk bantu kami sahkan."),
+        ("🏙️", "Cadang mall baharu", "Mall kegemaran anda tiada dalam senarai? Cadangkan dan kami akan tambah."),
+        ("👀", "Lihat tanpa log masuk", "Boleh tengok ringkasan setiap mall dahulu; log masuk untuk senarai penuh."),
+        ("🏬", "Banyak mall dalam satu tempat", "Semak kedai F&B untuk pelbagai pusat membeli-belah di seluruh Malaysia."),
+        ("🔄", "Data sentiasa segar", "Senarai kedai dan status halal dikemas kini secara automatik setiap minggu."),
+    ]
+    return render_template_string(WHATSNEW_HTML, items=items)
+
 
 @app.route('/logout')
 def logout():
