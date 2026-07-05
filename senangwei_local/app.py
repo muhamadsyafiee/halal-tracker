@@ -296,6 +296,13 @@ header .sub{font-size:.78rem;color:#94a3b8;margin-top:2px}
 .stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:16px 0}
 @media(min-width:500px){.stats{grid-template-columns:1fr 1fr 1fr}}
 .stat-card{background:#1e293b;border-radius:12px;padding:14px;text-align:center;border:1px solid #334155}
+.stat-card.clickable{cursor:pointer;transition:border-color .15s,transform .1s}
+.stat-card.clickable:hover{border-color:#64748b;transform:translateY(-1px)}
+.stat-card.active{border-color:#e2e8f0;box-shadow:0 0 0 2px rgba(226,232,240,.35)}
+.filter-row{display:flex;gap:8px;align-items:stretch;margin:12px 0}
+.filter-row .search-wrap{flex:1;margin:0}
+#statusFilter{flex-shrink:0;padding:9px 12px;border-radius:10px;border:1px solid #334155;background:#1e293b;color:#e2e8f0;font-size:.85rem;outline:none;cursor:pointer}
+#statusFilter:focus{border-color:#60a5fa}
 .stat-card .num{font-size:1.6rem;font-weight:700}
 .stat-card .label{font-size:.7rem;color:#94a3b8;margin-top:2px}
 .stat-card.blue .num{color:#60a5fa}
@@ -484,7 +491,18 @@ phantom-ui::part(shimmer){background:linear-gradient(90deg,transparent 0%,rgba(1
 
 <div class="stats" id="stats"></div>
 
-<div class="search-wrap"><span class="search-icon">?</span><input type="text" id="search" placeholder="Cari kedai..." oninput="filter()"></div>
+<div class="filter-row">
+  <div class="search-wrap"><span class="search-icon">?</span><input type="text" id="search" placeholder="Cari kedai..." oninput="applyFilters()"></div>
+  {% if logged_in %}
+  <select id="statusFilter" onchange="setStatus(this.value)">
+    <option value="">Semua status</option>
+    <option value="certified">Halal (JAKIM)</option>
+    <option value="review">Perlu Semak</option>
+    <option value="uncertified">Tiada Sijil</option>
+    <option value="non_halal">Non-Halal</option>
+  </select>
+  {% endif %}
+</div>
 
 <div class="table-outer{% if not logged_in %} locked{% endif %}">
   <div class="table-wrap"><table><thead><tr><th>Kedai</th><th>Lokasi</th><th>Status</th>{% if logged_in %}<th>Sijil</th>{% endif %}</tr></thead><tbody id="tbody"></tbody></table></div>
@@ -599,10 +617,11 @@ function renderMall(){
   if(!m){document.getElementById('tbody').innerHTML='';document.getElementById('stats').innerHTML='';return;}
   var s=m.summary||{};
   document.getElementById('stats').innerHTML=
-    '<div class="stat-card green"><div class="num">'+(s.certified||0)+'</div><div class="label">Halal (JAKIM)</div></div>'+
-    '<div class="stat-card yellow"><div class="num">'+(s.review||0)+'</div><div class="label">Perlu Semak</div></div>'+
-    '<div class="stat-card blue"><div class="num">'+(s.uncertified||0)+'</div><div class="label">Tiada Sijil</div></div>'+
-    '<div class="stat-card red"><div class="num">'+(s.non_halal||0)+'</div><div class="label">Non-Halal</div></div>';
+    '<div class="stat-card green clickable" data-status="certified"><div class="num">'+(s.certified||0)+'</div><div class="label">Halal (JAKIM)</div></div>'+
+    '<div class="stat-card yellow clickable" data-status="review"><div class="num">'+(s.review||0)+'</div><div class="label">Perlu Semak</div></div>'+
+    '<div class="stat-card blue clickable" data-status="uncertified"><div class="num">'+(s.uncertified||0)+'</div><div class="label">Tiada Sijil</div></div>'+
+    '<div class="stat-card red clickable" data-status="non_halal"><div class="num">'+(s.non_halal||0)+'</div><div class="label">Non-Halal</div></div>';
+  syncActiveCard();
   if(!LOGGED_IN){
     // placeholder rows (blurred) so guests see a teaser sized to the real count
     var n=Math.min(m.count||0,12), ph='';
@@ -615,11 +634,30 @@ function renderMall(){
     var key=(m.mall+'|'+d.name).toLowerCase();
     var verified=APPROVED.has(key)?'<span class="badge b-verified">✓ Disahkan</span>':'';
     var btn='<button class="cert-btn" data-i="'+i+'">📷 Sijil</button>';
-    return '<tr><td class="name-col" title="'+esc(d.name)+'">'+esc(d.name)+'</td><td class="loc">'+esc(d.lot||'')+'</td><td>'+badge(d.status)+verified+'</td><td>'+btn+'</td></tr>'
+    return '<tr data-status="'+d.status+'"><td class="name-col" title="'+esc(d.name)+'">'+esc(d.name)+'</td><td class="loc">'+esc(d.lot||'')+'</td><td>'+badge(d.status)+verified+'</td><td>'+btn+'</td></tr>'
   }).join('');
-  filter();
+  applyFilters();
 }
-function filter(){var q=document.getElementById('search').value.toLowerCase();document.querySelectorAll('#tbody tr').forEach(function(r){r.style.display=r.textContent.toLowerCase().indexOf(q)!==-1?'':'none'})}
+// ── Penapisan: gabung carian teks + kategori status ──
+var curStatus='';
+function applyFilters(){
+  var q=document.getElementById('search').value.toLowerCase();
+  document.querySelectorAll('#tbody tr').forEach(function(r){
+    var okText=r.textContent.toLowerCase().indexOf(q)!==-1;
+    var okStatus=!curStatus||r.getAttribute('data-status')===curStatus;
+    r.style.display=(okText&&okStatus)?'':'none';
+  });
+}
+function setStatus(v){curStatus=v; var sf=document.getElementById('statusFilter'); if(sf)sf.value=v; syncActiveCard(); applyFilters();}
+function syncActiveCard(){document.querySelectorAll('#stats .stat-card').forEach(function(c){
+  c.classList.toggle('active', !!curStatus && c.getAttribute('data-status')===curStatus);});}
+// klik kad stat -> tapis ikut kategori (guest: perlu sign in dulu)
+document.getElementById('stats').addEventListener('click',function(e){
+  var card=e.target.closest('.stat-card'); if(!card)return;
+  if(!LOGGED_IN){document.querySelector('.table-outer').scrollIntoView({behavior:'smooth',block:'center'}); return;}
+  var st=card.getAttribute('data-status');
+  setStatus(curStatus===st?'':st);   // klik semula kad sama = buang tapisan
+});
 // ── upload sijil ──
 var curOutlet=null;
 document.getElementById('tbody').addEventListener('click',function(e){
