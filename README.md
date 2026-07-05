@@ -4,10 +4,15 @@ Sistem yang mengumpul senarai kedai F&B dari direktori rasmi pusat membeli-belah
 di Malaysia, menyemak status pensijilan halal setiap outlet terhadap portal rasmi
 **JAKIM MyeHalal**, dan memaparkannya sebagai papan pemuka web berbilang-mall.
 
+🔗 **[halal.senangwei.com](https://halal.senangwei.com)**
+
+![Papan pemuka Halal Tracker](docs/screenshot.png)
+
 > **Prinsip:** *Tiada sijil ≠ haram.* Ketiadaan rekod sijil dikelaskan sebagai
 > "Tiada Sijil" (`uncertified`), bukan haram.
 
-Dokumentasi teknikal penuh: [`Dokumentasi_Halal_Tracker.docx`](Dokumentasi_Halal_Tracker.docx)
+- 📄 Dokumentasi teknikal penuh: [`Dokumentasi_Halal_Tracker.docx`](Dokumentasi_Halal_Tracker.docx)
+- 📝 Sejarah perubahan: [`CHANGELOG.md`](CHANGELOG.md)
 
 ## Aliran proses
 
