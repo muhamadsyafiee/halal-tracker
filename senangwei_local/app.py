@@ -835,6 +835,10 @@ h1{font-size:1.7rem;color:#f1f5f9;margin-top:8px}
 .card .t{font-weight:700;color:#f1f5f9;font-size:1rem}
 .card .d{color:#94a3b8;font-size:.88rem;margin-top:2px}
 .sec{font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:#64748b;margin:22px 0 10px;font-weight:700}
+.datehead{display:flex;align-items:center;gap:10px;margin:26px 0 12px}
+.datehead .dt{font-size:.95rem;font-weight:700;color:#cbd5e1}
+.datehead .line{flex:1;height:1px;background:#334155}
+.pill-new{background:#134e4a;color:#5eead4;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:20px;text-transform:uppercase;letter-spacing:.5px}
 .foot{color:#64748b;font-size:.8rem;margin-top:26px;text-align:center}
 </style></head><body>
 <div class="container">
@@ -843,13 +847,20 @@ h1{font-size:1.7rem;color:#f1f5f9;margin-top:8px}
     <a href="/" class="back">&#8592; Kembali</a>
   </div>
   <h1>Apa Yang Baru?</h1>
-  <div class="lead">Ciri-ciri terbaru untuk memudahkan anda menyemak status halal kedai di mall Malaysia.</div>
+  <div class="lead">Ciri-ciri terbaru untuk memudahkan anda menyemak status halal kedai di mall Malaysia. Disusun dari yang terkini.</div>
 
-  {% for it in items %}
+  {% for g in groups %}
+  <div class="datehead">
+    <span class="dt">{{ g.date }}</span>
+    {% if loop.first %}<span class="pill-new">Terbaru</span>{% endif %}
+    <span class="line"></span>
+  </div>
+  {% for it in g.feats %}
   <div class="card">
     <div class="emoji">{{ it[0] }}</div>
     <div><div class="t">{{ it[1] }}</div><div class="d">{{ it[2] }}</div></div>
   </div>
+  {% endfor %}
   {% endfor %}
 
   <div class="foot">Status halal dari portal rasmi JAKIM MyeHalal &bull; Tiada sijil bukan bermaksud haram.</div>
@@ -1266,18 +1277,25 @@ def reset_page():
 
 @app.route('/apa-baru')
 def whats_new():
-    # senarai plain-language utk pengguna biasa (bukan teknikal)
-    items = [
-        ("🔐", "Log masuk dengan Google", "Tak perlu ingat kata laluan — log masuk pantas guna akaun Google anda."),
-        ("🔍", "Cari mall dengan mudah", "Taip nama mall pada kotak carian untuk terus jumpa, tak perlu skrol panjang."),
-        ("🎯", "Tapis kedai ikut status", "Tekan kad Halal / Perlu Semak / Tiada Sijil / Non-Halal, atau guna dropdown, untuk lihat kedai ikut kategori."),
-        ("📷", "Muat naik sijil halal", "Ada sijil halal sesebuah kedai? Muat naik gambar untuk bantu kami sahkan."),
-        ("🏙️", "Cadang mall baharu", "Mall kegemaran anda tiada dalam senarai? Cadangkan dan kami akan tambah."),
-        ("👀", "Lihat tanpa log masuk", "Boleh tengok ringkasan setiap mall dahulu; log masuk untuk senarai penuh."),
-        ("🏬", "Banyak mall dalam satu tempat", "Semak kedai F&B untuk pelbagai pusat membeli-belah di seluruh Malaysia."),
-        ("🔄", "Data sentiasa segar", "Senarai kedai dan status halal dikemas kini secara automatik setiap minggu."),
+    # senarai plain-language utk pengguna biasa (bukan teknikal), disusun terkini dahulu
+    groups = [
+        {"date": "5 Julai 2026", "feats": [
+            ("🎯", "Tapis kedai ikut status", "Tekan kad Halal / Perlu Semak / Tiada Sijil / Non-Halal, atau guna dropdown, untuk lihat kedai ikut kategori."),
+            ("🔍", "Cari mall dengan mudah", "Taip nama mall pada kotak carian untuk terus jumpa, tak perlu skrol panjang."),
+            ("🏙️", "Cadang mall baharu", "Mall kegemaran anda tiada dalam senarai? Cadangkan dan kami akan tambah."),
+        ]},
+        {"date": "4 Julai 2026", "feats": [
+            ("🔐", "Log masuk dengan Google", "Tak perlu ingat kata laluan — log masuk pantas guna akaun Google anda."),
+            ("👀", "Lihat tanpa log masuk", "Boleh tengok ringkasan setiap mall dahulu; log masuk untuk senarai penuh."),
+            ("📷", "Muat naik sijil halal", "Ada sijil halal sesebuah kedai? Muat naik gambar untuk bantu kami sahkan."),
+        ]},
+        {"date": "3 Julai 2026", "feats": [
+            ("🏬", "Banyak mall dalam satu tempat", "Semak kedai F&B untuk pelbagai pusat membeli-belah di seluruh Malaysia."),
+            ("✅", "Status halal ikut JAKIM", "Setiap kedai disemak dengan portal rasmi JAKIM MyeHalal."),
+            ("🔄", "Data sentiasa segar", "Senarai kedai dan status halal dikemas kini secara automatik setiap minggu."),
+        ]},
     ]
-    return render_template_string(WHATSNEW_HTML, items=items)
+    return render_template_string(WHATSNEW_HTML, groups=groups)
 
 
 @app.route('/logout')
