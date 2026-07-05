@@ -270,12 +270,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 /* ── Premium Header ── */
 .app-header{position:sticky;top:0;z-index:50;background:linear-gradient(135deg,rgba(30,41,59,.95),rgba(15,23,42,.98));backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:1px solid rgba(51,65,85,.6);box-shadow:0 4px 24px rgba(0,0,0,.3)}
 .header-inner{max-width:820px;margin:0 auto;padding:14px 16px 10px}
-.header-row1{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.header-row1{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 .header-brand{display:flex;flex-direction:column;gap:1px;min-width:0}
 .header-brand h2{font-size:1.2rem;font-weight:700;color:#f1f5f9;letter-spacing:-.3px;white-space:nowrap}
 .header-brand h2 .icon{color:#60a5fa;margin-right:6px}
 .header-brand .subtitle{font-size:.7rem;color:#64748b;white-space:nowrap}
-.header-right{display:flex;align-items:center;gap:10px;flex-shrink:0}
+.header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end;min-width:0}
 .header-email{font-size:.73rem;color:#94a3b8;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .badge-admin-header{display:inline-flex;align-items:center;gap:4px;background:rgba(251,191,36,.15);color:#fbbf24;padding:4px 10px;border-radius:20px;font-size:.68rem;font-weight:600;text-decoration:none;border:1px solid rgba(251,191,36,.25);transition:all .2s}
 .badge-admin-header:hover{background:rgba(251,191,36,.25);border-color:rgba(251,191,36,.4)}
@@ -349,6 +349,9 @@ tr:hover td{background:rgba(96,165,250,.08)}
   .header-brand h2{font-size:1.05rem}
   .header-email{display:none}
   .header-row1{gap:8px}
+  /* butang kanan turun ke barisnya sendiri supaya tak bertembung dgn tajuk */
+  .header-right{width:100%;justify-content:flex-start;gap:6px}
+  .header-right a{font-size:.68rem;padding:5px 10px}
   .header-row2{gap:6px;margin-top:8px}
   .stat-chip{padding:4px 10px;font-size:.65rem}
   .stat-chip .val{font-size:.7rem}
