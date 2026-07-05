@@ -154,7 +154,7 @@ def admin_required(f):
         user = db.execute('SELECT is_admin FROM users WHERE id = ?', (auth[0],)).fetchone()
         db.close()
         if not user or not user['is_admin']:
-            return '<body style="background:#0f172a;color:#e2e8f0;display:flex;align-items:center;justify-content:center;height:100vh;font-family:sans-serif"><div style="text-align:center"><h1 style="color:#f87171">403</h1><p>Akses ditolak. Admin sahaja.</p><a href="/" style="color:#60a5fa">← Dashboard</a></div></body>', 403
+            return '<body style="background:#0f172a;color:#e2e8f0;display:flex;align-items:center;justify-content:center;height:100vh;font-family:sans-serif"><div style="text-align:center"><h1 style="color:#f87171">403</h1><p>Akses ditolak. Admin sahaja.</p><a href="/" style="color:#f97316">← Dashboard</a></div></body>', 403
         return f(*args, **kwargs)
     return decorated
 
@@ -252,15 +252,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .form-group{margin-bottom:16px}
 .form-group label{display:block;font-size:.8rem;color:#94a3b8;margin-bottom:6px;font-weight:500}
 .form-group input{width:100%;padding:10px 14px;border-radius:10px;border:1px solid #334155;background:#0f172a;color:#e2e8f0;font-size:.9rem;outline:none}
-.form-group input:focus{border-color:#60a5fa}
+.form-group input:focus{border-color:#f97316}
 .btn{display:block;width:100%;padding:12px;border-radius:10px;font-weight:600;font-size:.9rem;cursor:pointer;border:none;transition:all .2s}
-.btn-primary{background:#2563eb;color:#fff}
+.btn-primary{background:#ea580c;color:#fff}
 .btn-primary:hover{background:#1d4ed8}
 .alert{padding:10px 14px;border-radius:10px;font-size:.8rem;margin-bottom:16px}
 .alert-error{background:#450a0a;color:#fca5a5;border:1px solid #991b1b}
 .alert-success{background:#14532d;color:#86efac;border:1px solid #166534}
 .footer{text-align:center;margin-top:20px;font-size:.78rem;color:#64748b}
-.footer a{color:#60a5fa;text-decoration:none}
+.footer a{color:#f97316;text-decoration:none}
 .footer a:hover{text-decoration:underline}
 '''
 
@@ -273,7 +273,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .header-row1{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 .header-brand{display:flex;flex-direction:column;gap:1px;min-width:0}
 .header-brand h2{font-size:1.2rem;font-weight:700;color:#f1f5f9;letter-spacing:-.3px;white-space:nowrap}
-.header-brand h2 .icon{color:#60a5fa;margin-right:6px}
+.header-brand h2 .icon{color:#f97316;margin-right:6px}
 .header-brand .subtitle{font-size:.7rem;color:#64748b;white-space:nowrap}
 .header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end;min-width:0}
 .header-email{font-size:.73rem;color:#94a3b8;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -307,7 +307,7 @@ header .sub{font-size:.78rem;color:#94a3b8;margin-top:2px}
 .filter-row{display:flex;gap:8px;align-items:stretch;margin:12px 0}
 .filter-row .search-wrap{flex:1;margin:0}
 #statusFilter{flex-shrink:0;padding:9px 12px;border-radius:10px;border:1px solid #334155;background:#1e293b;color:#e2e8f0;font-size:.85rem;outline:none;cursor:pointer}
-#statusFilter:focus{border-color:#60a5fa}
+#statusFilter:focus{border-color:#f97316}
 .stat-card .num{font-size:1.6rem;font-weight:700}
 .stat-card .label{font-size:.7rem;color:#94a3b8;margin-top:2px}
 .stat-card.blue .num{color:#60a5fa}
@@ -317,10 +317,10 @@ header .sub{font-size:.78rem;color:#94a3b8;margin-top:2px}
 /* ── Tabs ── */
 .tabs{display:flex;gap:0;margin:16px 0 0;border-bottom:2px solid #334155;overflow-x:auto;-webkit-overflow-scrolling:touch}
 .tab{padding:10px 14px;font-size:.78rem;font-weight:600;color:#94a3b8;cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;margin-bottom:-2px}
-.tab.active{color:#60a5fa;border-bottom-color:#60a5fa}
+.tab.active{color:#f97316;border-bottom-color:#f97316}
 .search-wrap{margin:12px 0;position:relative}
 .search-wrap input{width:100%;padding:9px 12px 9px 34px;border-radius:10px;border:1px solid #334155;background:#1e293b;color:#e2e8f0;font-size:.85rem;outline:none}
-.search-wrap input:focus{border-color:#60a5fa}
+.search-wrap input:focus{border-color:#f97316}
 .search-icon{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:#64748b;font-size:.85rem}
 .panel{display:none}
 .panel.active{display:block}
@@ -370,7 +370,7 @@ LOGIN_HTML = '''<!DOCTYPE html><html lang="ms"><head><meta charset="UTF-8">
 <style>''' + CSS + '''</style></head><body class="auth-body">
 <div style="position:fixed;top:0;left:0;right:0;background:#1e293b;border-bottom:1px solid #334155;padding:8px 16px;display:flex;justify-content:center;gap:24px;font-size:.7rem;color:#94a3b8;z-index:20;flex-wrap:wrap">
   <span>Hari ini: <strong style="color:#4ade80">{{ visits.today }}</strong></span>
-  <span>Minggu ini: <strong style="color:#60a5fa">{{ visits.week }}</strong></span>
+  <span>Minggu ini: <strong style="color:#f97316">{{ visits.week }}</strong></span>
   <span>Tahun ini: <strong style="color:#fbbf24">{{ visits.year }}</strong></span>
 </div>
 <div class="card" style="margin-top:48px">
@@ -578,7 +578,7 @@ Sumber direktori: laman rasmi setiap mall (live).</div>
 .badge.b-uncert{background:#334155;color:#94a3b8}
 .badge.b-nonhalal{background:#450a0a;color:#f87171}
 .badge.b-verified{background:#134e4a;color:#5eead4;margin-left:4px}
-.cert-btn{cursor:pointer;border:1px solid #334155;background:#0f172a;color:#60a5fa;border-radius:8px;padding:3px 8px;font-size:.72rem;white-space:nowrap}
+.cert-btn{cursor:pointer;border:1px solid #334155;background:#0f172a;color:#f97316;border-radius:8px;padding:3px 8px;font-size:.72rem;white-space:nowrap}
 .cert-btn:hover{background:#1e293b}
 .cert-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:100;align-items:center;justify-content:center;padding:16px}
 .cert-modal.show{display:flex}
@@ -591,8 +591,8 @@ Sumber direktori: laman rasmi setiap mall (live).</div>
 .cert-msg.ok{color:#4ade80}.cert-msg.err{color:#f87171}
 .btn-login{display:inline-flex;align-items:center;gap:5px;padding:6px 13px;border-radius:20px;font-size:.72rem;font-weight:600;color:#4ade80;background:rgba(74,222,128,.12);border:1px solid rgba(74,222,128,.25);text-decoration:none;white-space:nowrap}
 .btn-login:hover{background:rgba(74,222,128,.2)}
-.btn-whatsnew{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.72rem;font-weight:600;color:#c4b5fd;background:rgba(167,139,250,.12);border:1px solid rgba(167,139,250,.25);text-decoration:none;white-space:nowrap}
-.btn-whatsnew:hover{background:rgba(167,139,250,.2)}
+.btn-whatsnew{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.72rem;font-weight:600;color:#fdba74;background:rgba(249,115,22,.12);border:1px solid rgba(249,115,22,.25);text-decoration:none;white-space:nowrap}
+.btn-whatsnew:hover{background:rgba(249,115,22,.2)}
 .table-outer{position:relative}
 .table-outer.locked .table-wrap{filter:blur(6px);pointer-events:none;user-select:none;max-height:420px;overflow:hidden}
 .lock-overlay{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:16px;background:linear-gradient(180deg,rgba(15,23,42,.15),rgba(15,23,42,.75))}
@@ -722,8 +722,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .header-brand .subtitle{font-size:.7rem;color:#64748b;white-space:nowrap}
 .header-right{display:flex;align-items:center;gap:10px;flex-shrink:0}
 .header-email{font-size:.73rem;color:#94a3b8;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.btn-back{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.7rem;font-weight:500;color:#60a5fa;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.2);text-decoration:none;transition:all .2s;cursor:pointer;white-space:nowrap}
-.btn-back:hover{background:rgba(96,165,250,.2)}
+.btn-back{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.7rem;font-weight:500;color:#f97316;background:rgba(249,115,22,.1);border:1px solid rgba(249,115,22,.2);text-decoration:none;transition:all .2s;cursor:pointer;white-space:nowrap}
+.btn-back:hover{background:rgba(249,115,22,.2)}
 .btn-logout{display:inline-flex;align-items:center;gap:4px;padding:6px 11px;border-radius:20px;font-size:.7rem;font-weight:500;color:#f87171;background:rgba(248,113,113,.1);border:1px solid rgba(248,113,113,.2);text-decoration:none;transition:all .2s;cursor:pointer;white-space:nowrap}
 .btn-logout:hover{background:rgba(248,113,113,.2);border-color:rgba(248,113,113,.35)}
 .container{max-width:800px;margin:0 auto;padding:16px}
@@ -749,7 +749,7 @@ tr:hover td{background:rgba(96,165,250,.08)}
 .visitor-chart{margin-top:8px}
 .chart-bar{display:flex;align-items:center;gap:8px;margin:4px 0;font-size:.7rem}
 .chart-bar .date{width:80px;color:#94a3b8;text-align:right}
-.chart-bar .bar{height:16px;background:#2563eb;border-radius:4px;min-width:20px;transition:width .3s}
+.chart-bar .bar{height:16px;background:#ea580c;border-radius:4px;min-width:20px;transition:width .3s}
 .chart-bar .count{color:#e2e8f0;font-weight:600;min-width:30px}
 @media(max-width:500px){.stats-row{grid-template-columns:repeat(3,1fr)}.stat .num{font-size:1.1rem}table{font-size:.7rem}td,th{padding:6px 4px}.header-email{display:none}.header-brand h2{font-size:1.05rem}.header-inner{padding:12px 12px 10px}}
 </style></head><body>
@@ -802,7 +802,7 @@ tr:hover td{background:rgba(96,165,250,.08)}
 {% for r in mall_reqs %}
 <tr>
   <td>{{ r.mall_name }}</td>
-  <td class="muted" style="max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{% if r.mall_url %}<a href="{{ r.mall_url }}" target="_blank" rel="noopener" style="color:#60a5fa">{{ r.mall_url }}</a>{% else %}-{% endif %}</td>
+  <td class="muted" style="max-width:160px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{% if r.mall_url %}<a href="{{ r.mall_url }}" target="_blank" rel="noopener" style="color:#f97316">{{ r.mall_url }}</a>{% else %}-{% endif %}</td>
   <td class="muted">{{ r.submitter_email or '-' }}</td>
   <td>{% if r.status=='pending' %}<span class="badge badge-inactive">Pending</span>{% elif r.status=='approved' %}<span class="badge badge-active">Approved</span>{% else %}<span class="badge badge-admin">Rejected</span>{% endif %}</td>
   <td>{% if r.status=='pending' %}<form method="POST" style="display:flex;gap:6px"><button formaction="/admin/mall/{{ r.id }}/approve" style="border:none;border-radius:6px;padding:5px 10px;font-weight:600;font-size:.72rem;cursor:pointer;background:#14532d;color:#4ade80">&#10003;</button><button formaction="/admin/mall/{{ r.id }}/reject" style="border:none;border-radius:6px;padding:5px 10px;font-weight:600;font-size:.72rem;cursor:pointer;background:#450a0a;color:#f87171">&times;</button></form>{% else %}<span class="muted">{{ (r.reviewed_at or '')[:10] }}</span>{% endif %}</td>
@@ -818,7 +818,7 @@ tr:hover td{background:rgba(96,165,250,.08)}
 {% for t in traffic %}
 <div class="chart-bar">
   <span class="date" style="width:120px">{{ names.get(t.src, '&#127760; ' ~ t.src)|safe }}</span>
-  <span class="bar" style="width:{{ (t.cnt / tmax * 100) if tmax > 0 else 0 }}%;background:#7c3aed"></span>
+  <span class="bar" style="width:{{ (t.cnt / tmax * 100) if tmax > 0 else 0 }}%;background:#ea580c"></span>
   <span class="count">{{ t.cnt }} ({{ t.cnt * 100 // traffic_total }}%)</span>
 </div>
 {% endfor %}
@@ -849,7 +849,7 @@ WHATSNEW_HTML = '''<!DOCTYPE html><html lang="ms"><head><meta charset="UTF-8">
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;line-height:1.65}
 .container{max-width:680px;margin:0 auto;padding:24px 16px 60px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:6px}
-.back{color:#60a5fa;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.2);border-radius:20px;padding:7px 14px;font-size:.8rem;text-decoration:none;white-space:nowrap}
+.back{color:#f97316;background:rgba(249,115,22,.1);border:1px solid rgba(249,115,22,.2);border-radius:20px;padding:7px 14px;font-size:.8rem;text-decoration:none;white-space:nowrap}
 h1{font-size:1.7rem;color:#f1f5f9;margin-top:8px}
 .lead{color:#94a3b8;font-size:.92rem;margin:6px 0 22px}
 .card{background:#1e293b;border:1px solid #334155;border-radius:14px;padding:16px 18px;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start}
@@ -897,7 +897,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 h1{font-size:1.3rem;margin:16px 0}
 h2{font-size:1rem;color:#94a3b8;margin:22px 0 10px;padding-bottom:6px;border-bottom:1px solid #334155}
 .topbar{display:flex;justify-content:space-between;align-items:center;gap:10px}
-.btn-back{color:#60a5fa;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.2);border-radius:20px;padding:6px 12px;font-size:.75rem;text-decoration:none}
+.btn-back{color:#f97316;background:rgba(249,115,22,.1);border:1px solid rgba(249,115,22,.2);border-radius:20px;padding:6px 12px;font-size:.75rem;text-decoration:none}
 .card{background:#1e293b;border:1px solid #334155;border-radius:12px;padding:14px;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start}
 .card img{width:120px;height:120px;object-fit:cover;border-radius:8px;border:1px solid #334155;background:#0f172a;flex-shrink:0}
 .card .meta{flex:1;min-width:0}
@@ -1240,7 +1240,7 @@ def signup_page():
                           (email, username, pwd_hash))
                 db.commit()
                 db.close()
-                success = 'Pendaftaran berjaya! Sila <a href="/login" style="color:#60a5fa">login</a>.'
+                success = 'Pendaftaran berjaya! Sila <a href="/login" style="color:#f97316">login</a>.'
                 return render_template_string(SIGNUP_HTML, error=None, success=success)
             db.close()
     return render_template_string(SIGNUP_HTML, error=error, success=success)
@@ -1265,7 +1265,7 @@ def forgot_page():
                 reset_link = "/reset-password?token=" + token
                 success = (
                     'Link reset telah dijana.<br><br>'
-                    '<a href="' + reset_link + '" style="color:#60a5fa;font-weight:600">'
+                    '<a href="' + reset_link + '" style="color:#f97316;font-weight:600">'
                     'Klik sini untuk reset password</a><br><br>'
                     '<small style="color:#64748b">(dalam production, link ini dihantar melalui email)</small>'
                 )
@@ -1303,7 +1303,7 @@ def reset_page():
             db.execute('UPDATE reset_tokens SET used = 1 WHERE id = ?', (reset['id'],))
             db.commit()
             db.close()
-            success = 'Password berjaya ditukar! Sila <a href="/login" style="color:#60a5fa">login</a>.'
+            success = 'Password berjaya ditukar! Sila <a href="/login" style="color:#f97316">login</a>.'
             return render_template_string(RESET_HTML, error=None, success=success, token=None)
     db.close()
     return render_template_string(RESET_HTML, error=error, success=success, token=token)
