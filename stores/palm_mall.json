@@ -1,0 +1,118 @@
+{
+  "mall": "Palm Mall",
+  "directory_url": "http://www.palmmall.my/Directory_3_1.htm",
+  "count": 15,
+  "summary": {
+    "certified": 5,
+    "review": 4,
+    "uncertified": 6,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "BlackBall",
+      "lot": "2-2F-39A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "1-1F-FB-01",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG-LG-4",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Manhattan Fish Market",
+      "lot": "G-G-33B",
+      "status": "review",
+      "myehalal_matches": 9,
+      "cert_holder": "MFM RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Johnny's Restaurant",
+      "lot": "G-G-38",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "1-1F-39",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Nando's",
+      "lot": "UG-UG-35, 36 & 37",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "UG-UG-27",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Sushi Go",
+      "lot": "1-1F-33B",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "SUSHI KING SDN BHD"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "G-G-37",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G-G-01",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rancher Steak House",
+      "lot": "LG-LG-03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MyeongDong Topokki",
+      "lot": "UG-UG-32",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Subway",
+      "lot": "UG-UG-39",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "UG-UG-29",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

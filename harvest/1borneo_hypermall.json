@@ -1,0 +1,372 @@
+{
+  "mall": "1Borneo Hypermall",
+  "directory_url": "https://1borneohypermall.com/directory/",
+  "method": "jet-tabs template API (wp-json/jet-tabs-api/v1/elementor-template)",
+  "count": 91,
+  "outlets": [
+    {
+      "name": "GERID’S KITCHEN",
+      "lot": "C-109A"
+    },
+    {
+      "name": "KFC",
+      "lot": "C-118"
+    },
+    {
+      "name": "NUR BALQIS RESTAURANT",
+      "lot": "C-123 & C-135"
+    },
+    {
+      "name": "KIMBAB",
+      "lot": "C-124 & C-133"
+    },
+    {
+      "name": "BOMBAY BRIYANI HOUSE",
+      "lot": "C-128"
+    },
+    {
+      "name": "MULTI BAKE",
+      "lot": "C-138"
+    },
+    {
+      "name": "LUNA II",
+      "lot": "C-153 & C-153A"
+    },
+    {
+      "name": "RAINBOW",
+      "lot": "C-200B"
+    },
+    {
+      "name": "NASI KUKUS",
+      "lot": "C-212"
+    },
+    {
+      "name": "TOMYAM THAI",
+      "lot": "C-214A"
+    },
+    {
+      "name": "MCDONALDS",
+      "lot": "C-218"
+    },
+    {
+      "name": "BIG APPLE",
+      "lot": "C-223 & C-224"
+    },
+    {
+      "name": "AYAM PENYET RIA",
+      "lot": "C-227"
+    },
+    {
+      "name": "RESTORAN PESONA RASA",
+      "lot": "C-229"
+    },
+    {
+      "name": "SUFIAN CAFÉ",
+      "lot": "C-309"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "C-310 & C-311"
+    },
+    {
+      "name": "THE CHICKEN RICE SHOP",
+      "lot": "C-312 & C-313"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "C-317"
+    },
+    {
+      "name": "ALL DAY CAFÉ",
+      "lot": "C-322"
+    },
+    {
+      "name": "CITY FOOD CENTRE",
+      "lot": "C-601"
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "C-611"
+    },
+    {
+      "name": "Q BAIK",
+      "lot": "C-613 & C-612"
+    },
+    {
+      "name": "ROYAL FRIED CHICKEN",
+      "lot": "C-616"
+    },
+    {
+      "name": "ZAZA CAFÉ",
+      "lot": "C-619A"
+    },
+    {
+      "name": "THE OWL",
+      "lot": "C-625"
+    },
+    {
+      "name": "COOL CITY (MY PRETZEL)",
+      "lot": "C-703"
+    },
+    {
+      "name": "FOOD NEAR ME",
+      "lot": "C-700A"
+    },
+    {
+      "name": "NELSON’S",
+      "lot": "C-701A"
+    },
+    {
+      "name": "MY PRETZEL",
+      "lot": "C-703"
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "C-704A"
+    },
+    {
+      "name": "EGG TASTE",
+      "lot": "C-706"
+    },
+    {
+      "name": "JAPANESE BOAT TAKOYAKI",
+      "lot": "C-707 & C-743A"
+    },
+    {
+      "name": "GOLDEN FISH",
+      "lot": "C-707 & C-788"
+    },
+    {
+      "name": "15 MINUTES BAKE",
+      "lot": "C-707"
+    },
+    {
+      "name": "CHEEZY MOZZA",
+      "lot": "C-707"
+    },
+    {
+      "name": "TASTY HAUS",
+      "lot": "C-711"
+    },
+    {
+      "name": "SB",
+      "lot": "C-713A"
+    },
+    {
+      "name": "TOLO TOLO",
+      "lot": "C-732A & C-732B"
+    },
+    {
+      "name": "YES YES",
+      "lot": "C-735"
+    },
+    {
+      "name": "FAIRY TALE",
+      "lot": "C-742"
+    },
+    {
+      "name": "UNCLE BOB",
+      "lot": "C-743"
+    },
+    {
+      "name": "RAINBOW",
+      "lot": "C-755"
+    },
+    {
+      "name": "AWAN DANIA",
+      "lot": "C-757"
+    },
+    {
+      "name": "TAYTO",
+      "lot": "C-771"
+    },
+    {
+      "name": "CENDOL INA",
+      "lot": "C-781"
+    },
+    {
+      "name": "BOOST JUICE BAR",
+      "lot": "C-783"
+    },
+    {
+      "name": "SUSHI LOVE",
+      "lot": "C-785"
+    },
+    {
+      "name": "FRIED BANANA",
+      "lot": "C-789"
+    },
+    {
+      "name": "HAJI",
+      "lot": "G-185"
+    },
+    {
+      "name": "P2 KAM",
+      "lot": "G-186"
+    },
+    {
+      "name": "HOME DELIGHT",
+      "lot": "G-193"
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "G-236"
+    },
+    {
+      "name": "FIRMAN JAYA",
+      "lot": "G-238"
+    },
+    {
+      "name": "FY FRUITS",
+      "lot": "G-239 & G-240A"
+    },
+    {
+      "name": "GERAI WAZNA",
+      "lot": "G-240"
+    },
+    {
+      "name": "PUTRI MEE",
+      "lot": "G-241"
+    },
+    {
+      "name": "HOME DELIGHT",
+      "lot": "G-241A"
+    },
+    {
+      "name": "LINA JALINDAN ENTERPRISE",
+      "lot": "G-242"
+    },
+    {
+      "name": "R&R CAFE",
+      "lot": "G-243"
+    },
+    {
+      "name": "DUNKIN DONUTS",
+      "lot": "G-302"
+    },
+    {
+      "name": "SUGAR SUGAR CANDY COTTAGE",
+      "lot": "G-348 & G-788"
+    },
+    {
+      "name": "MAX MANGOLA",
+      "lot": "G-615"
+    },
+    {
+      "name": "YOYO",
+      "lot": "G-644"
+    },
+    {
+      "name": "FAMOUS AMOS",
+      "lot": "G-701A"
+    },
+    {
+      "name": "PERFECT TIME FROZEN YOGURT",
+      "lot": "G-702"
+    },
+    {
+      "name": "KARAMELL ALMONDO",
+      "lot": "G-707B"
+    },
+    {
+      "name": "MINI SNACK",
+      "lot": "G-715A"
+    },
+    {
+      "name": "COOL CITY",
+      "lot": "G-797 & G-788"
+    },
+    {
+      "name": "MUSTHAFA MAJU",
+      "lot": "G-810"
+    },
+    {
+      "name": "SEOUL GARDEN",
+      "lot": "G-811"
+    },
+    {
+      "name": "5 STAR CHICKEN RICE & SEAFOOD",
+      "lot": "G-817"
+    },
+    {
+      "name": "GAMTONG",
+      "lot": "G-823"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": "G-825"
+    },
+    {
+      "name": "NYONYA HOUSE",
+      "lot": "G-826"
+    },
+    {
+      "name": "FOOK FAH RESTAURANT",
+      "lot": "G-828"
+    },
+    {
+      "name": "UPPERSTAR",
+      "lot": "G-829"
+    },
+    {
+      "name": "STARBUCKS",
+      "lot": "G-832 & F-832"
+    },
+    {
+      "name": "SECRET RECIPE",
+      "lot": "G-833"
+    },
+    {
+      "name": "SRI TANJUNG SEAFOOD RESTAURANT",
+      "lot": "G-836"
+    },
+    {
+      "name": "MY KITCHEN CURRY HOUSE",
+      "lot": "G-907"
+    },
+    {
+      "name": "BAOKANG",
+      "lot": "G-909"
+    },
+    {
+      "name": "AZMAL MAJU RESTAURANT",
+      "lot": "G-922"
+    },
+    {
+      "name": "CAPTAIN COOL",
+      "lot": "F-104"
+    },
+    {
+      "name": "DEWI CAFE",
+      "lot": "F-217"
+    },
+    {
+      "name": "QQ DELIGHT",
+      "lot": "F-707B"
+    },
+    {
+      "name": "U-SNACK",
+      "lot": "F-750B"
+    },
+    {
+      "name": "LITTLE POT",
+      "lot": "F-831 & 831A"
+    },
+    {
+      "name": "GERABAK 88",
+      "lot": "F-838"
+    },
+    {
+      "name": "MOK CORNER",
+      "lot": "S-120"
+    },
+    {
+      "name": "JOLLY DOVEY",
+      "lot": "S-710A & S-710B"
+    },
+    {
+      "name": "GOLDEN FISH",
+      "lot": "S-712"
+    }
+  ]
+}

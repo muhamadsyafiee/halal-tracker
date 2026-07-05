@@ -1,0 +1,320 @@
+{
+  "mall": "IOI Mall Puchong",
+  "directory_url": "https://www.ioimp.com.my/directory-imp/",
+  "method": "curl_amap_json",
+  "count": 78,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "EF13-13A"
+    },
+    {
+      "name": "Ah Cheng Laksa (Opening Soon)",
+      "lot": null
+    },
+    {
+      "name": "Ali, Muthu & Ah Hock (Opening Soon)",
+      "lot": null
+    },
+    {
+      "name": "Asam House",
+      "lot": "S19-S21"
+    },
+    {
+      "name": "Asam House",
+      "lot": null
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "GK-01C"
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": "FS09-FS11"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "GK-03"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "FS35-FS36"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "GK-001B"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "FS31"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "EG-01A"
+    },
+    {
+      "name": "Chicken Rice Hub",
+      "lot": "G00B3A"
+    },
+    {
+      "name": "Childhood",
+      "lot": "EF13-EF13A"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": null
+    },
+    {
+      "name": "D'Penyetz",
+      "lot": null
+    },
+    {
+      "name": "DayOne DayOne Noodles",
+      "lot": "FS03 & 03A"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "GK-01A"
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": "FS15-16"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null
+    },
+    {
+      "name": "Fei Fan Hotpot",
+      "lot": "FS17 & FS18"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "EFK-03"
+    },
+    {
+      "name": "Go Noodle House",
+      "lot": "FS12-FS14"
+    },
+    {
+      "name": "Hanam BBQ",
+      "lot": "G00B5"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "EF32-B"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "EF33"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "SK-02"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": null
+    },
+    {
+      "name": "Jangsajang Deopbap",
+      "lot": null
+    },
+    {
+      "name": "JIPINHE SCONES",
+      "lot": null
+    },
+    {
+      "name": "Jordan Hong Kong Restaurant",
+      "lot": "FS05&FS29"
+    },
+    {
+      "name": "Kakatoo Go",
+      "lot": "FS33"
+    },
+    {
+      "name": "Kenny Rogers Roaster",
+      "lot": "F19-F20"
+    },
+    {
+      "name": "Kimchi Queen",
+      "lot": "FS19"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "GK-01E"
+    },
+    {
+      "name": "Lao Hu Nan",
+      "lot": "EF6&EF7"
+    },
+    {
+      "name": "Lavender",
+      "lot": "G43"
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "GK-01D"
+    },
+    {
+      "name": "luckin coffee",
+      "lot": "G-18C1"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "EF25-26"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "FS22"
+    },
+    {
+      "name": "MIAO",
+      "lot": "SP03-2"
+    },
+    {
+      "name": "MiX Store",
+      "lot": "G38A & G38C"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "EFK-02"
+    },
+    {
+      "name": "Nak Nak",
+      "lot": "EG-02A"
+    },
+    {
+      "name": "Nando's",
+      "lot": "G00A7&00A8"
+    },
+    {
+      "name": "Nanyang Café",
+      "lot": "G00A1"
+    },
+    {
+      "name": "Nikumai",
+      "lot": null
+    },
+    {
+      "name": "Noodle King House",
+      "lot": "FS28"
+    },
+    {
+      "name": "Nyonya Cendol",
+      "lot": "FS23A"
+    },
+    {
+      "name": "ParaThai",
+      "lot": "G00A3A1"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "G18B"
+    },
+    {
+      "name": "PUTIEN",
+      "lot": null
+    },
+    {
+      "name": "Ramen Seirock-Ya",
+      "lot": "FS21"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "EF23"
+    },
+    {
+      "name": "Seri Bako",
+      "lot": "EGK-18A"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "ET6A"
+    },
+    {
+      "name": "Siong Tong Gai",
+      "lot": "FS06-07"
+    },
+    {
+      "name": "Souper Tang",
+      "lot": "FS26&27"
+    },
+    {
+      "name": "Sour Little 7 酸小七",
+      "lot": null
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G42"
+    },
+    {
+      "name": "Subway",
+      "lot": "EF-32A"
+    },
+    {
+      "name": "Sukishi",
+      "lot": "ET5"
+    },
+    {
+      "name": "Sukiya",
+      "lot": "FS08"
+    },
+    {
+      "name": "Sushi Tei (Opening Soon)",
+      "lot": "SP-05"
+    },
+    {
+      "name": "Tealive",
+      "lot": null
+    },
+    {
+      "name": "ThaiYang Kope",
+      "lot": "FS20"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "FS01-FS02"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "GA3A & GA5B"
+    },
+    {
+      "name": "Ticco",
+      "lot": null
+    },
+    {
+      "name": "Top Teppanyaki",
+      "lot": "FS37"
+    },
+    {
+      "name": "Vanilla Crepe",
+      "lot": null
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "EF33A"
+    },
+    {
+      "name": "Yunnan",
+      "lot": "SP-06A"
+    },
+    {
+      "name": "Zai San Bei",
+      "lot": "GA6"
+    },
+    {
+      "name": "Zhao Ji Desserts",
+      "lot": "FS29A"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "FK-02"
+    },
+    {
+      "name": "吴孃孃骨汤米粉 Aunt Wu Bone Soup Rice Noodles",
+      "lot": "EF22"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "mall": "Gurney Plaza",
+  "directory_url": "https://gurneyplaza.com.my/stores/",
+  "method": "https://gurneyplaza.com.my/stores/?_sft_store=food-beverages (Search & Filter Pro GET pagination; lot from single store pages)",
+  "count": 105,
+  "outlets": [
+    {
+      "name": "Aburi Sushi",
+      "lot": "170-B1-37/K21/K22"
+    },
+    {
+      "name": "Alor Portuguese Grill",
+      "lot": "170-04-20B"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "170-03-65/66"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "170-B1-K30/K31"
+    },
+    {
+      "name": "B.O.D 包栈",
+      "lot": "170-B1-10"
+    },
+    {
+      "name": "Baked By Kenny Hills",
+      "lot": "170-G-75"
+    },
+    {
+      "name": "Ban Heang",
+      "lot": "170-B1-33B"
+    },
+    {
+      "name": "Bar B Q Plaza",
+      "lot": "170-B1-05A"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "170-01-K8"
+    },
+    {
+      "name": "Beryl’s Chocolate",
+      "lot": "170-B1-09A"
+    },
+    {
+      "name": "Bite Me Dessert",
+      "lot": "170-04-38"
+    },
+    {
+      "name": "Black Ball Mini",
+      "lot": "170-03-63A"
+    },
+    {
+      "name": "BOOST Juice Bars",
+      "lot": "170-07-16"
+    },
+    {
+      "name": "BOOST Juice Bars",
+      "lot": "170-B1-K1"
+    },
+    {
+      "name": "Bread History.Bakery",
+      "lot": "170-B1-35"
+    },
+    {
+      "name": "CANTON-i",
+      "lot": "170-B1-03/04"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "170-G-42"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "170-G-62/63"
+    },
+    {
+      "name": "Chennai Express",
+      "lot": "170-04-22"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "170-B1-22A"
+    },
+    {
+      "name": "Classic Fried",
+      "lot": "170-04-29"
+    },
+    {
+      "name": "Claypot & Sizzling Noodles",
+      "lot": "170-04-23A"
+    },
+    {
+      "name": "CU",
+      "lot": "170-B1-39"
+    },
+    {
+      "name": "Dapur Syawal",
+      "lot": "170-04"
+    },
+    {
+      "name": "DIN TAI FUNG",
+      "lot": "170-B1-5A2"
+    },
+    {
+      "name": "Dragon-i",
+      "lot": "170-02-59/60/61"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "170-B1-20/21"
+    },
+    {
+      "name": "Famous amos",
+      "lot": "170-B1-K27/K28"
+    },
+    {
+      "name": "FENG YI",
+      "lot": "170-04-95"
+    },
+    {
+      "name": "Fusion Butter Cakes",
+      "lot": "170-B1-K37"
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "170-B1-K7"
+    },
+    {
+      "name": "GONG CHA",
+      "lot": "170-B1-K23/25"
+    },
+    {
+      "name": "Hakata Ippudo",
+      "lot": "170-G-37/37A"
+    },
+    {
+      "name": "HAKU RASA",
+      "lot": "170-04-92"
+    },
+    {
+      "name": "HeyTea",
+      "lot": "170-B1-33A"
+    },
+    {
+      "name": "HO MIN SAN",
+      "lot": "170-B1-33, 170-B1-K6"
+    },
+    {
+      "name": "Hokkien Mee",
+      "lot": "170-04-41"
+    },
+    {
+      "name": "Hong Kong Old Mac Bakery",
+      "lot": "170-06-03"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "170-04-70/96"
+    },
+    {
+      "name": "ILOVEYOO!",
+      "lot": "170-04-20C"
+    },
+    {
+      "name": "KFC",
+      "lot": "170-04-93"
+    },
+    {
+      "name": "Kim Gary Restaurant",
+      "lot": "170-06-04"
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "170-B1-K4/K14"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "170-B1-36A"
+    },
+    {
+      "name": "LAVENDER",
+      "lot": "170-B1-06/07/08"
+    },
+    {
+      "name": "Le Cocoa Chateau",
+      "lot": "170-07-13"
+    },
+    {
+      "name": "Leekor Leekor",
+      "lot": "170-B1-K16A"
+    },
+    {
+      "name": "Legend Of Tea",
+      "lot": "170-B1-29"
+    },
+    {
+      "name": "Leomag",
+      "lot": "170-B1-K29"
+    },
+    {
+      "name": "llaollao",
+      "lot": "170-B1-K16"
+    },
+    {
+      "name": "LONGJING",
+      "lot": "170-03-85/85A"
+    },
+    {
+      "name": "Loong Kee",
+      "lot": "170-B1-30"
+    },
+    {
+      "name": "Madam Kwan’s",
+      "lot": "170-G-40/41"
+    },
+    {
+      "name": "MELVADOS",
+      "lot": "170-B1-K5"
+    },
+    {
+      "name": "Ming Xiang Tai",
+      "lot": "170-B1-36B"
+    },
+    {
+      "name": "MIXUE 蜜雪冰城",
+      "lot": "170-06-05/06"
+    },
+    {
+      "name": "Mr Shawerma",
+      "lot": "170-04-20G"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "170-04-42"
+    },
+    {
+      "name": "MR. KOO 古巨鸡",
+      "lot": "170-04-25"
+    },
+    {
+      "name": "MYEureka",
+      "lot": "170-B1-K8/K11"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "170-G-72"
+    },
+    {
+      "name": "Nasi Lemak & Padang",
+      "lot": "170-04-31"
+    },
+    {
+      "name": "Offffive Coffee",
+      "lot": "170-02-41A"
+    },
+    {
+      "name": "OH!SOME",
+      "lot": "170-07-09/10/10A/11/12/5A"
+    },
+    {
+      "name": "One Dish One Taste Chongqing Hotpot 一碟一味，重庆火锅",
+      "lot": "170-03-86/87/88/89"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "170-B1-45/46/K9/K10"
+    },
+    {
+      "name": "ParaThai",
+      "lot": "170-B1-31/32/K12/K13"
+    },
+    {
+      "name": "PARIS BAGUETTE",
+      "lot": "170-G-43"
+    },
+    {
+      "name": "Park’s Kitchen",
+      "lot": "170-04-93A"
+    },
+    {
+      "name": "PATIO CAFE",
+      "lot": "170-04-39/40"
+    },
+    {
+      "name": "Penang Road Famous Teochew Chendul",
+      "lot": "170-04-43A"
+    },
+    {
+      "name": "PIZZA WAGON",
+      "lot": "170-04-23"
+    },
+    {
+      "name": "POLAR PUFFS & CAKES",
+      "lot": "170-B1-K7a"
+    },
+    {
+      "name": "ROYCE’",
+      "lot": "170-B1-K33"
+    },
+    {
+      "name": "Sandwich Box",
+      "lot": "170-B1-K3"
+    },
+    {
+      "name": "SERI BAKO",
+      "lot": "170-B1-K38/K39"
+    },
+    {
+      "name": "Shan Xin",
+      "lot": "170-G-45A"
+    },
+    {
+      "name": "Shantea Dessert",
+      "lot": "170-B1-28"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "170-B1-K2"
+    },
+    {
+      "name": "Something Poke",
+      "lot": "170-B1-K19/K20"
+    },
+    {
+      "name": "Spicy Jack’s Mini Hotpot",
+      "lot": "170-04-20D"
+    },
+    {
+      "name": "Starbucks Reserve",
+      "lot": "170-G-39"
+    },
+    {
+      "name": "Super Hot Plate",
+      "lot": "170-04-33"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "170-02-58"
+    },
+    {
+      "name": "Sushi Tei",
+      "lot": "170-03-60A/61A"
+    },
+    {
+      "name": "TAI HO JIAK 台好甲",
+      "lot": "170-03-82/83"
+    },
+    {
+      "name": "Tamarind Tomyam",
+      "lot": "170-04-35"
+    },
+    {
+      "name": "Tan Ngan Lo Herbal Tea",
+      "lot": "170-B1-K36"
+    },
+    {
+      "name": "Thailander",
+      "lot": "170-04-36"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "170-B1-05B"
+    },
+    {
+      "name": "TOKYO MILK CHEESE FACTORY",
+      "lot": "170-B1-K34/K35"
+    },
+    {
+      "name": "Triple Star Hainanese Chicken Rice",
+      "lot": "170-04-32"
+    },
+    {
+      "name": "UNCLE KIN – CHILI PAN MEE",
+      "lot": "170-04-20E"
+    },
+    {
+      "name": "Western Kitchen",
+      "lot": "170-04-33A"
+    },
+    {
+      "name": "Wok Heyy",
+      "lot": "170-04-27"
+    },
+    {
+      "name": "Xiang Xiang Hunan Cuisine",
+      "lot": "170-06-12/13/14"
+    },
+    {
+      "name": "XIYU 喜鱼",
+      "lot": "170-06-09/10/11"
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "170-03-67A/67B"
+    },
+    {
+      "name": "YONG TAU FOO",
+      "lot": "170-04-20"
+    },
+    {
+      "name": "YONNY 鱼你",
+      "lot": "170-03-83A"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "170-03-68"
+    },
+    {
+      "name": "ăn viet",
+      "lot": "170-B1-32A"
+    },
+    {
+      "name": "小娘惹 The Little Nyonya Cuisine",
+      "lot": "170-B1-32B"
+    },
+    {
+      "name": "恭和堂 KOONG WOH TONG",
+      "lot": "170-B1-K26, 170-06-08"
+    },
+    {
+      "name": "美珍香 BEE CHENG HIANG",
+      "lot": "170-B1-09"
+    }
+  ]
+}

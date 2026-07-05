@@ -1,0 +1,27 @@
+{
+  "mall": "Terminal 1",
+  "directory_url": "https://www.terminal1sbn.com/tenants/",
+  "count": 2,
+  "summary": {
+    "certified": 0,
+    "review": 2,
+    "uncertified": 0,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "KFC",
+      "lot": "LG 33",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "LG 35",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "mall": "KB Mall",
+  "directory_url": "https://kbmall.com.my/Directory.html",
+  "method": "curl",
+  "count": 39,
+  "outlets": [
+    {
+      "name": "Pacific Bakery & Coffee",
+      "lot": "Lot G-888, Level G"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Lot G47, Level G"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Lot G01, Level G"
+    },
+    {
+      "name": "KFC",
+      "lot": "Lot G23 & G23A, Level G"
+    },
+    {
+      "name": "Harold's Bread",
+      "lot": "Lot G25, Level G"
+    },
+    {
+      "name": "ChaGee",
+      "lot": "Lot G26, Level G"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "Lot G27 & G28, Level G"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Lot G29, Level G"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "Lot G29A & G30, Level G"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Lot G40, Level G"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "Lot G43, Level G"
+    },
+    {
+      "name": "Mexico Taste",
+      "lot": "Lot G43A, Level G"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Lot G50, Level G"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "Lot G53, Level G"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "Lot G55, Level G"
+    },
+    {
+      "name": "Kopi Kenangan",
+      "lot": "Lot GK02A-F, Level G"
+    },
+    {
+      "name": "GIGI Coffee",
+      "lot": "Lot GK05A, Level G"
+    },
+    {
+      "name": "Sweetly",
+      "lot": "Lot GK08, Level G"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Lot GK09, Level G"
+    },
+    {
+      "name": "Tealive",
+      "lot": "Lot GK10, Level G"
+    },
+    {
+      "name": "Big Apple Donuts",
+      "lot": "Lot GK11, Level G"
+    },
+    {
+      "name": "llaollao",
+      "lot": "Lot GK12/13A, Level G"
+    },
+    {
+      "name": "Hot & Rolls",
+      "lot": "Lot GK13, Level G"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lot GK15, Level G"
+    },
+    {
+      "name": "Nasken Coffee",
+      "lot": "Lot GK16, Level G"
+    },
+    {
+      "name": "Little Tako",
+      "lot": "Lot GK31, Level G"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "Lot GK23A, Level G"
+    },
+    {
+      "name": "Baked Sweet Potato",
+      "lot": "Lot GK37, Level G"
+    },
+    {
+      "name": "Cool Blog",
+      "lot": "Lot GK22, Level G"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Lot GK33, Level G"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "Lot GK43, Level G"
+    },
+    {
+      "name": "My Laksa",
+      "lot": "Lot 1K07, Level 1"
+    },
+    {
+      "name": "McDonald's Ice Cream Kiosk",
+      "lot": "Lot 1K08, Level 1"
+    },
+    {
+      "name": "Medan Selera KB",
+      "lot": "Lot 2.01, Level 2"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "Lot 2.18, Level 2"
+    },
+    {
+      "name": "Ayam penyet AP",
+      "lot": "Lot 2.16A, Level 2"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "Lot 3.01A, Level 3"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "Lot 3.02/03/03A, Level 3"
+    },
+    {
+      "name": "Sugarbomb",
+      "lot": "Lot GK13B, Level G"
+    }
+  ]
+}

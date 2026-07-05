@@ -1,0 +1,223 @@
+{
+  "mall": "CityONE Megamall",
+  "directory_url": "http://www.cityonemanagement.com.my/storedirectory.php",
+  "count": 30,
+  "summary": {
+    "certified": 3,
+    "review": 3,
+    "uncertified": 24,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Sugarbun",
+      "lot": "G3, 3A, 5, 5A & 6, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pezzo",
+      "lot": "MLG1 & GP02, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lot 10 Cafe",
+      "lot": "MLG1 & MLG1 - MLG2, Lower Ground",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "EMART24 HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Place 2 Chat",
+      "lot": "G18, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Magic Fingers Crispy Chicken",
+      "lot": "G32, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ding Tea",
+      "lot": "G35, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jamaica Blue Coffee",
+      "lot": "MG13, MG14 & MG15, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Potato Story",
+      "lot": "G33 & G33A, Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "POTATO STORY (EM) SDN BHD"
+    },
+    {
+      "name": "Potato King",
+      "lot": "G58, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Macao Imperial Tea",
+      "lot": "MG23 & MG23A, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bazaru",
+      "lot": "G1 & G2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Encounter Bistro",
+      "lot": "G62, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Farmer's Crib",
+      "lot": "MT37, Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OH Sedap",
+      "lot": "S30, Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rising Ramen",
+      "lot": "G41, G43 & G43A, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yomie Rice Yougurt",
+      "lot": "G45 & G46, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Taka Patisserie",
+      "lot": "MG12-3, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Velvet Cake House",
+      "lot": "G38, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Restoran Seri Rasa",
+      "lot": "Sublot 8",
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "RESTORAN SERI RIA"
+    },
+    {
+      "name": "Aroi Mookata Thai Steamboat",
+      "lot": "G61, Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "THAI AROI DEE JING JING MOOKATA TRADING"
+    },
+    {
+      "name": "Du Men Yi",
+      "lot": "MG28 - MG30, Ground Floor",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "GOLDEN DONUTS SDN BHD"
+    },
+    {
+      "name": "LI Garden",
+      "lot": "MG12-2, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Food Emporium",
+      "lot": "MF21, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Seafood Shangri-La",
+      "lot": "Rooftop",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Coolala",
+      "lot": "G5, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ahh Yum Street Food",
+      "lot": "G9, Ground Floor",
+      "status": "review",
+      "myehalal_matches": 9,
+      "cert_holder": "KAMPONG KRAVERS (M) SDN BHD"
+    },
+    {
+      "name": "Meat Lovers Club",
+      "lot": "G8, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Eat Together Café",
+      "lot": "G10, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hey Boba Bubble Tea",
+      "lot": "#G11 & #G12, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Milk & Honey Cafe",
+      "lot": "#T17, Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

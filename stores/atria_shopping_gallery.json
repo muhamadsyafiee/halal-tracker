@@ -1,0 +1,195 @@
+{
+  "mall": "Atria Shopping Gallery",
+  "directory_url": "https://www.atria.com.my/stores.html",
+  "count": 26,
+  "summary": {
+    "certified": 0,
+    "review": 4,
+    "uncertified": 22,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "KFC",
+      "lot": "C09",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Subway",
+      "lot": "C11",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "C23A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Soon Thye Hang",
+      "lot": "C13",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "C23",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "C12",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MIKI Bakery",
+      "lot": "CK05A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mr Chizu",
+      "lot": "CK5",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "C19A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive",
+      "lot": "CK2",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Dave's Deli",
+      "lot": "C26",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": "C41",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Little Eat Shop",
+      "lot": "C21",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Little Penang Kafé",
+      "lot": "C29 & C30",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Spitalfield's Gastobar",
+      "lot": "C37",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Swich",
+      "lot": "C11A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tedboy Express",
+      "lot": "C22",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "C01A",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "Mr Fish Seafood Noodle",
+      "lot": "C36",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BlackBall",
+      "lot": "GK6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Antipodean",
+      "lot": "G37 & GK1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Korean BBQ House",
+      "lot": "G27",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pu Tien",
+      "lot": "G28 - G30",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Texture by C3 Lab",
+      "lot": "G05 – G03A & B-GK-3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G38",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Moim Modern Korean Cuisine",
+      "lot": "T 03A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

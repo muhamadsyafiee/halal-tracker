@@ -1,0 +1,17 @@
+{
+  "mall": "Fahrenheit 88",
+  "directory_url": "https://fahrenheit88.com/shop/",
+  "method": "html",
+  "count": 9,
+  "outlets": [
+    {"name": "The Bean", "lot": "1-26, 1st Floor"},
+    {"name": "Shin Jjajang • Jjambbong", "lot": "2-28-33, 2nd Floor"},
+    {"name": "ZUS Signature", "lot": "G-11, Ground Floor"},
+    {"name": "Masala King", "lot": "1-24, 1st Floor"},
+    {"name": "Tutti Frutti", "lot": "G-43, Ground Floor"},
+    {"name": "KoRyo-Won", "lot": "2-34-40, 2nd Floor"},
+    {"name": "Grand Harbour Restaurant", "lot": "LG1-52 (01) - LG1-52 (04), Lower Ground Floor"},
+    {"name": "Al-Amar Express", "lot": "G-44(01-03), Ground Floor"},
+    {"name": "CYOU Lemon", "lot": "1-57, 1st Floor"}
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "mall": "Setia City Mall",
+  "directory_url": "https://setiacitymall.com/index.php/directory/",
+  "count": 116,
+  "summary": {
+    "certified": 32,
+    "review": 38,
+    "uncertified": 46,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 108,
+      "cert_holder": "ABE WAN GLOBAL SDN BHD"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Asam Pedas Premier",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "ASAM PEDAS PREMIER SDN. BHD."
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Ayam Penyet Ria",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "RIGHT CORNER SDN. BHD."
+    },
+    {
+      "name": "Bananabro",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 23,
+      "cert_holder": "HTFU RESTAURANTS SDN. BHD."
+    },
+    {
+      "name": "Bangkok Bangkok",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "GARDEN RECIPE CAFE (M) SDN.BHD."
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beutea 茶仙子",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BMS Organics",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 34,
+      "cert_holder": "AROIVER BOAT NOODLE"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "Burger King",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Cafe Chef Wan",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "ALIRAN ANDALAS SDN BHD"
+    },
+    {
+      "name": "Candy House",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chagee",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Chateraise",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 70,
+      "cert_holder": "GREY HERON SDN BHD"
+    },
+    {
+      "name": "Childhood",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chili’s",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "RESTORAN AZLEZAH SIGNATURE CHILI CRAB SDN BHD"
+    },
+    {
+      "name": "Chizu",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "DRINKS KINGDOM SDN. BHD."
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "J & J BAKERY DAILY FRESH"
+    },
+    {
+      "name": "Dandy",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "DANDY MODERN FOOD SDN BHD"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "ASIA MEX CONCEPTS SDN BHD"
+    },
+    {
+      "name": "Dookki",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dubuyo",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "DUBUYO SDN. BHD."
+    },
+    {
+      "name": "Dunkin’",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 108,
+      "cert_holder": "GOLDEN DONUTS SDN BHD"
+    },
+    {
+      "name": "dáo",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "GA HOTEL MANAGEMENT SDN. BHD."
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Empire Sushi (Dine-In)",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "Go Noodle House Plus",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "Grand Imperial",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Haidilao Huǒguō 海底捞火锅",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 66,
+      "cert_holder": "PALATERIUM SDN. BHD."
+    },
+    {
+      "name": "I love Yoo",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "ZENSHO ICHIBAN MALAYSIA SDN BHD"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 55,
+      "cert_holder": "THE INSIDE SCOOP SDN BHD"
+    },
+    {
+      "name": "ISTANOODLE",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "ISTANOODLE SDN BHD"
+    },
+    {
+      "name": "Jardin Coffee",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jipinhe Scones (Temporarily Closed)",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "JIPINHE SCONES (MY) SDN. BHD."
+    },
+    {
+      "name": "JM Bariani House",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Juice Works",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jungle House (Coming Soon)",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "K Fry Urban Korean",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 9,
+      "cert_holder": "K FRY SDN BHD"
+    },
+    {
+      "name": "Ke Ren Lai",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 123,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "KOI",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Krata-B",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "RIA FOOD SDN. BHD."
+    },
+    {
+      "name": "Kyros Kebab",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lavender",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "KOPERASI BELA MASYARAKAT MELAKA BERHAD (HOTEL KOBEMAS)"
+    },
+    {
+      "name": "Little Nyonya",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Llao Llao",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Luna Luna",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "MadChilli Pan Mee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "DA DAPUR SDN BHD"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "McDonald’s",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "MHFB RESOURCES SDN BHD"
+    },
+    {
+      "name": "Mon Chinese Beef Roti",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mr. Tuk Tuk",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "myEureka",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "NakNak",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 12,
+      "cert_holder": "K FRY KITCHENS SDN BHD"
+    },
+    {
+      "name": "Nando’s",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Nasi Lemak Shop",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "NLS F&B SDN. BHD."
+    },
+    {
+      "name": "Nong Geng Ji Hunan Cuisine 农耕记湖南菜",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "O’Briens Irish Sandwich Café",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "NORTH POLESTAR ALLIANCE SDN. BHD."
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pop Meal",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "FARM TO FORK SDN. BHD."
+    },
+    {
+      "name": "Potato Corner",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "ROCKS FOODS SDN. BHD."
+    },
+    {
+      "name": "RASA Food Arena",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "WESRIA FOOD SDN BHD"
+    },
+    {
+      "name": "Rich Kopitiam",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "RICH KOPITIAM WAY SDN BHD"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Rotiboy",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Serai",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 23,
+      "cert_holder": "SERAI GROUP SDN BHD"
+    },
+    {
+      "name": "Shabu-yo",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 12,
+      "cert_holder": "NIPPON SUSHI SHABUYAKI SDN. BHD."
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 11,
+      "cert_holder": "SISTERS CRISPY POPIAH (M) SDN BHD"
+    },
+    {
+      "name": "Sopoong",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "FUTURE OUTLOOK SDN BHD"
+    },
+    {
+      "name": "Subway",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Sukiya",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 31,
+      "cert_holder": "NABE HOTPOT SDN BHD"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sushi King",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SUSHIHAN",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 14,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Teazzi",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "JS NIKMAT RASA SDN. BHD."
+    },
+    {
+      "name": "Teh Tarik Place",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "NSS GEMILANG RESOURCES"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 104,
+      "cert_holder": "TEXAS CHICKEN (MALAYSIA) SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Thong Bowl & Thong Cha",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 3,
+      "cert_holder": "THONG EMPIRE SDN BHD"
+    },
+    {
+      "name": "Ticco (Coming Soon)",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "TICCO SUCCESS SDN. BHD."
+    },
+    {
+      "name": "TIEN by PUTIEN",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "True Bakery",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YANG GUO FU",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yayoi",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "YAYOI MALAYSIA SDN.BHD"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

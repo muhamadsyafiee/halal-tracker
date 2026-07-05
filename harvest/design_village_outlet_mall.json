@@ -1,0 +1,80 @@
+{
+  "mall": "Design Village Outlet Mall",
+  "directory_url": "https://designvillagepenang.com/directory/",
+  "method": "mapsvg_embedded_json",
+  "count": 18,
+  "outlets": [
+    {
+      "name": "Memang Meow",
+      "lot": "G.66"
+    },
+    {
+      "name": "IIao IIao",
+      "lot": "G.106b"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G.160"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G.106a"
+    },
+    {
+      "name": "Cafe Amazon",
+      "lot": "G.161b"
+    },
+    {
+      "name": "KorFry",
+      "lot": "G.79"
+    },
+    {
+      "name": "Tealive",
+      "lot": "CP-5"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "CP-6"
+    },
+    {
+      "name": "Burger King",
+      "lot": "G.22"
+    },
+    {
+      "name": "Yummy Mama",
+      "lot": "KS.2, KS-2"
+    },
+    {
+      "name": "Mixue",
+      "lot": "CP-1b"
+    },
+    {
+      "name": "KFC",
+      "lot": "G.80, G.81"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "CP-4"
+    },
+    {
+      "name": "Laksa Sayang",
+      "lot": "CP-7"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "CP-6b"
+    },
+    {
+      "name": "PapaFry",
+      "lot": "G.116"
+    },
+    {
+      "name": "Padi House",
+      "lot": "G.25"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "G.57"
+    }
+  ]
+}

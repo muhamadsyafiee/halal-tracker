@@ -1,0 +1,296 @@
+{
+  "mall": "Suria Sabah Shopping Mall",
+  "directory_url": "https://suriasabah.com.my/directory/",
+  "method": "curl",
+  "count": 72,
+  "outlets": [
+    {
+      "name": "5 Star Hainanese Chicken Rice",
+      "lot": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null
+    },
+    {
+      "name": "Beautea",
+      "lot": null
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": null
+    },
+    {
+      "name": "Burger King",
+      "lot": null
+    },
+    {
+      "name": "Choc Boutique",
+      "lot": null
+    },
+    {
+      "name": "Dunkin Donuts",
+      "lot": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": null
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": null
+    },
+    {
+      "name": "iZ Jeruk",
+      "lot": null
+    },
+    {
+      "name": "Karamell Almondo",
+      "lot": null
+    },
+    {
+      "name": "Kenny Rogers",
+      "lot": null
+    },
+    {
+      "name": "KFC",
+      "lot": null
+    },
+    {
+      "name": "llao llao",
+      "lot": null
+    },
+    {
+      "name": "Matcha Studio by GDC",
+      "lot": null
+    },
+    {
+      "name": "McDonald's Kiosk",
+      "lot": null
+    },
+    {
+      "name": "Multi Bake",
+      "lot": null
+    },
+    {
+      "name": "Pezzo",
+      "lot": null
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": null
+    },
+    {
+      "name": "QCC Baked",
+      "lot": null
+    },
+    {
+      "name": "Subway",
+      "lot": null
+    },
+    {
+      "name": "Sushi King",
+      "lot": null
+    },
+    {
+      "name": "Sushi Panda",
+      "lot": null
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": null
+    },
+    {
+      "name": "Tea Co.",
+      "lot": null
+    },
+    {
+      "name": "Tealive",
+      "lot": null
+    },
+    {
+      "name": "Teppanya",
+      "lot": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": null
+    },
+    {
+      "name": "True Brew",
+      "lot": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": null
+    },
+    {
+      "name": "Chagee",
+      "lot": null
+    },
+    {
+      "name": "15 Minutes Bake",
+      "lot": null
+    },
+    {
+      "name": "McDonald's",
+      "lot": null
+    },
+    {
+      "name": "Nando's",
+      "lot": null
+    },
+    {
+      "name": "New WK Dining",
+      "lot": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null
+    },
+    {
+      "name": "Starbucks",
+      "lot": null
+    },
+    {
+      "name": "Sushihan",
+      "lot": null
+    },
+    {
+      "name": "Upperstar",
+      "lot": null
+    },
+    {
+      "name": "Hing's Cuisine",
+      "lot": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null
+    },
+    {
+      "name": "Japan Boat Takoyaki",
+      "lot": null
+    },
+    {
+      "name": "Living Seed Vegetarian Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Oriental Kopi 华阳",
+      "lot": null
+    },
+    {
+      "name": "Ramen Kumo",
+      "lot": null
+    },
+    {
+      "name": "Seoul Garden HOTPOT",
+      "lot": null
+    },
+    {
+      "name": "Shu Da Xia Hotpot",
+      "lot": null
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": null
+    },
+    {
+      "name": "Jing Si Books & Cafe",
+      "lot": null
+    },
+    {
+      "name": "W.H.Y. Yogurt",
+      "lot": null
+    },
+    {
+      "name": "Sushi King Kiosk",
+      "lot": null
+    },
+    {
+      "name": "Sugar Sugar Candy Cottage",
+      "lot": null
+    },
+    {
+      "name": "Crowd 99 Cafe",
+      "lot": null
+    },
+    {
+      "name": "The Bretzel Co.",
+      "lot": null
+    },
+    {
+      "name": "U Tea",
+      "lot": null
+    },
+    {
+      "name": "Chapter Two Coffee",
+      "lot": null
+    },
+    {
+      "name": "Happy Potato",
+      "lot": null
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": null
+    },
+    {
+      "name": "Eureka Snack",
+      "lot": null
+    },
+    {
+      "name": "Ju Xiang",
+      "lot": null
+    },
+    {
+      "name": "4 Fingers",
+      "lot": null
+    },
+    {
+      "name": "Nyonya House",
+      "lot": null
+    },
+    {
+      "name": "Ah Yan (Traditional Fried Pork Kuey Teow)",
+      "lot": null
+    },
+    {
+      "name": "Gam Tong Hong Kong Recipe",
+      "lot": null
+    },
+    {
+      "name": "Fatt Kee Seafood Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Liya Authentic Szechuan & Steamboat",
+      "lot": null
+    },
+    {
+      "name": "HK Seafood Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Tai Feng Cafe",
+      "lot": null
+    },
+    {
+      "name": "Papa's",
+      "lot": null
+    }
+  ]
+}

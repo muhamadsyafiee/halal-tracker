@@ -1,0 +1,380 @@
+{
+  "mall": "Paradigm Mall Petaling Jaya",
+  "directory_url": "https://paradigmmall.com.my/categories.aspx",
+  "method": "curl",
+  "count": 93,
+  "outlets": [
+    {
+      "name": "EatBBQ",
+      "lot": "LEVEL LG, LOT 15 & 16"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "LEVEL CC, LOT 18A"
+    },
+    {
+      "name": "Zui De Yi",
+      "lot": "LEVEL G, LOT 15 & GB-12"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LEVEL LG, LOT K01(P)"
+    },
+    {
+      "name": "Ipoh Ais Kopi",
+      "lot": "LEVEL LG, LOT 60(P) & 61(P)"
+    },
+    {
+      "name": "Three Super Nuts",
+      "lot": "LEVEL LG, LOT K03A(P)"
+    },
+    {
+      "name": "Tetangga Kita",
+      "lot": "LEVEL LG, LOT 10"
+    },
+    {
+      "name": "MBG Fruitshop",
+      "lot": "LEVEL LG, LOT 06"
+    },
+    {
+      "name": "An Viet",
+      "lot": "LEVEL LG, LOT 02-03A"
+    },
+    {
+      "name": "Cake Sense",
+      "lot": "LEVEL LG, LOT 30"
+    },
+    {
+      "name": "Salad Atelier",
+      "lot": "LEVEL LG, LOT 13 & 13A"
+    },
+    {
+      "name": "Samy & Min",
+      "lot": "LEVEL 2, LOT 26 & 27"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "lot": "LEVEL LG, LOT K05(P)"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LEVEL LG, LOT K07(P)"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LEVEL LG, LOT K12(P)"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "LEVEL LG, LOT 49"
+    },
+    {
+      "name": "Yew Yew",
+      "lot": "LEVEL CC, LOT 62 (P)"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LEVEL LG, LOT 43"
+    },
+    {
+      "name": "Subway",
+      "lot": "LEVEL LG, LOT 33A(P)"
+    },
+    {
+      "name": "M.BBQ",
+      "lot": "LEVEL LG, LOT 23A"
+    },
+    {
+      "name": "Pulau Tikus Market",
+      "lot": "LEVEL LG, LOT 11 & 12"
+    },
+    {
+      "name": "Vanilla The Mille Crepe Café",
+      "lot": "LEVEL LG, LOT 42"
+    },
+    {
+      "name": "Chagee Express",
+      "lot": "LEVEL CC, LOT 56(P)"
+    },
+    {
+      "name": "Serai",
+      "lot": "LEVEL G, LOT GB15 & 15A"
+    },
+    {
+      "name": "KFC",
+      "lot": "LEVEL CC, LOT 13 & 22"
+    },
+    {
+      "name": "Nyonya Cendol",
+      "lot": "LEVEL LG, LOT 48"
+    },
+    {
+      "name": "Pop Meals",
+      "lot": "LEVEL LG, LOT 47"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LEVEL LG, LOT 08"
+    },
+    {
+      "name": "Vicked Good",
+      "lot": "LEVEL LG, LOT K10 (P)"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "LEVEL 2, LOT 15"
+    },
+    {
+      "name": "Shihlin",
+      "lot": "LEVEL LG, LOT 25"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "LEVEL LG, LOT K-02(P)"
+    },
+    {
+      "name": "Oiso Korean",
+      "lot": "LEVEL G, LOT 10, 11 & GB 13"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LEVEL CC, LOT 60(P) & 61(P)"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LEVEL LG, LOT 38A(P)"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LEVEL LG, LOT 38B(P)"
+    },
+    {
+      "name": "Sukiya Tokyo Bowls & Noodles",
+      "lot": "LEVEL LG, LOT 39A(P)"
+    },
+    {
+      "name": "Aroi Thai",
+      "lot": "LEVEL LG, LOT 39B(P)"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "LEVEL UG, LOT K02"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "LEVEL LG, LOT K13(P)"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "LEVEL G, LOT 02A"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "LEVEL CC, LOT 53"
+    },
+    {
+      "name": "Go Noodle House",
+      "lot": "LEVEL G, LOT 19 & 20"
+    },
+    {
+      "name": "Canton Kitchen",
+      "lot": "LEVEL UG, LOT 15"
+    },
+    {
+      "name": "PappaRoti",
+      "lot": "LEVEL LG, LOT K01 & 02"
+    },
+    {
+      "name": "Molten Chocolate Cafe",
+      "lot": "LEVEL G, LOT 02"
+    },
+    {
+      "name": "Fong Woh Tong",
+      "lot": "LEVEL LG, LOT 35 (P)"
+    },
+    {
+      "name": "A&W",
+      "lot": "LEVEL G, LOT GB-08"
+    },
+    {
+      "name": "Frozen",
+      "lot": "LEVEL UG, LOT K01"
+    },
+    {
+      "name": "B.O.D",
+      "lot": "LEVEL LG, LOT 40"
+    },
+    {
+      "name": "Faizal Kong Mee Tarik",
+      "lot": "LEVEL LG, LOT 62(P)"
+    },
+    {
+      "name": "Melvados",
+      "lot": "LEVEL LG, LOT 13A(P)"
+    },
+    {
+      "name": "Paradise Dynasty",
+      "lot": "LEVEL 1, LOT 15"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "LEVEL 1, LOT 16 & 17"
+    },
+    {
+      "name": "Vivo Pizza",
+      "lot": "LEVEL CC, LOT CF 15 & 23"
+    },
+    {
+      "name": "Juice Works",
+      "lot": "LEVEL 1, LOT K02"
+    },
+    {
+      "name": "Childhood",
+      "lot": "LEVEL CC, LOT 59(P)"
+    },
+    {
+      "name": "Ah Yip Herbal Soup",
+      "lot": "LEVEL LG, LOT 59 (P)"
+    },
+    {
+      "name": "Kim Lian Kee",
+      "lot": "LEVEL 2, LOT 31"
+    },
+    {
+      "name": "Manjoe Dumpling",
+      "lot": "LEVEL LG, LOT 29"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "LEVEL CC, LOT 11"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "LEVEL LG, LOT 33B (P)"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LEVEL CC, LOT 32"
+    },
+    {
+      "name": "Eat Pizza",
+      "lot": "LEVEL LG, LOT 26 & 27"
+    },
+    {
+      "name": "Rasa Mala",
+      "lot": "LEVEL G, LOT 37"
+    },
+    {
+      "name": "Chon Dak",
+      "lot": "LEVEL LG, LOT 39C(P)"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LEVEL LG, LOT 28"
+    },
+    {
+      "name": "Blackbixon Cafe & Restaurant",
+      "lot": "LEVEL CC, LOT 09"
+    },
+    {
+      "name": "Mr Dakgalbi",
+      "lot": "LEVEL 2, LOT 18 & 19"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LEVEL 2, LOT 16"
+    },
+    {
+      "name": "My Little Herbal Tea",
+      "lot": "LEVEL LG, LOT 41"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "LEVEL CC, LOT 38 & 39"
+    },
+    {
+      "name": "Si Si Hotpot",
+      "lot": "LEVEL G, LOT 09 & GB-13A"
+    },
+    {
+      "name": "Chili's",
+      "lot": "LEVEL G, LOT GB 01"
+    },
+    {
+      "name": "d'italiane",
+      "lot": "LEVEL G, LOT GB-03A & 05"
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "LEVEL UG, LOT 13"
+    },
+    {
+      "name": "Seng Kee Chicken Rice",
+      "lot": "LEVEL 2, LOT 32 & 33"
+    },
+    {
+      "name": "1978 Cucur Udang",
+      "lot": "LEVEL LG, LOT 07"
+    },
+    {
+      "name": "Candy House",
+      "lot": "LEVEL CC, LOT 55"
+    },
+    {
+      "name": "Yi Poh",
+      "lot": "LEVEL 2, LOT 22"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "LEVEL 2, LOT 13"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "LEVEL LG, LOT 53A"
+    },
+    {
+      "name": "Mixue",
+      "lot": "LEVEL CC, LOT 57(P) & 58(P)"
+    },
+    {
+      "name": "Food Arcade",
+      "lot": "LEVEL LG, LOT 17 - 23"
+    },
+    {
+      "name": "Ramen Hitoyoshi",
+      "lot": "LEVEL G, LOT 12 & 13"
+    },
+    {
+      "name": "Chez Choux",
+      "lot": "LEVEL LG, LOT 37"
+    },
+    {
+      "name": "Mr. Chizu",
+      "lot": "LEVEL LG, LOT 50"
+    },
+    {
+      "name": "Stuff'd",
+      "lot": "LEVEL LG, LOT 09"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "LEVEL LG, LOT K11 (P)"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "LEVEL CC, LOT 29"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": "LEVEL CC, LOT 36"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "LEVEL LG, LOT 31 - 33"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "LEVEL LG, LOT K08(P)"
+    }
+  ]
+}

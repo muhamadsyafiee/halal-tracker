@@ -1,0 +1,52 @@
+{
+  "mall": "The LINC KL",
+  "directory_url": "https://thelinckl.com.my/explore/",
+  "method": "html",
+  "count": 11,
+  "outlets": [
+    {
+      "name": "Bean Brothers",
+      "lot": "Ground Floor, Lot G-1 & 1-1"
+    },
+    {
+      "name": "Ben's",
+      "lot": "Level 1, Lot 1-7 & 1-8"
+    },
+    {
+      "name": "Bricks & Butter",
+      "lot": "1-10, 1-10-AF, 1-15, 1-15-AF, 1-15A-AF"
+    },
+    {
+      "name": "Chawan Tea",
+      "lot": "Ground Floor, Lot G-3A"
+    },
+    {
+      "name": "De.Wan 1958 by Chef Wan",
+      "lot": "Level 2, Lot 2-1, 2-2 & 2-3 & AF"
+    },
+    {
+      "name": "Maruki Ramen",
+      "lot": "Level 2, Lot 2-23 to 2-28"
+    },
+    {
+      "name": "OMG Crab",
+      "lot": "Level 2, Lot 2-21B & 2-22"
+    },
+    {
+      "name": "Ruits Juices",
+      "lot": "Level 1, Lot 1-6-AF & 1-6A-AF"
+    },
+    {
+      "name": "SOULed OUT",
+      "lot": "Ground Floor, G-12-AF & Level 1, Lot 1-3 & 1-3-AF"
+    },
+    {
+      "name": "Thai Co",
+      "lot": "Level 1, Lot 1-11 & 1-11-AF"
+    },
+    {
+      "name": "The Hub Coffee Roaster",
+      "lot": "Level 1, Lot L1-3B"
+    }
+  ]
+}

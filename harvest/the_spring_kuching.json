@@ -1,0 +1,172 @@
+{
+  "mall": "The Spring Kuching",
+  "directory_url": "https://www.thespring.com.my/shops",
+  "method": "sitemap+ssr_pages_curl",
+  "count": 41,
+  "outlets": [
+    {
+      "name": ".Nuts",
+      "lot": "G54E"
+    },
+    {
+      "name": "An Viet",
+      "lot": "G38"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "KB3"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": null
+    },
+    {
+      "name": "Big Apple Donuts",
+      "lot": "G54H"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G54F"
+    },
+    {
+      "name": "Chagee",
+      "lot": null
+    },
+    {
+      "name": "Chatramue",
+      "lot": "G54G"
+    },
+    {
+      "name": "Cocoa Wonder",
+      "lot": "KB5"
+    },
+    {
+      "name": "Croissantier",
+      "lot": "B12A"
+    },
+    {
+      "name": "Fei Fei Crab",
+      "lot": "G47C"
+    },
+    {
+      "name": "Food Bazaar",
+      "lot": "113"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "G47A"
+    },
+    {
+      "name": "Godiva",
+      "lot": "G54D"
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "G58B"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null
+    },
+    {
+      "name": "iJooz",
+      "lot": "KB2"
+    },
+    {
+      "name": "John's Pie",
+      "lot": null
+    },
+    {
+      "name": "Jungle House",
+      "lot": null
+    },
+    {
+      "name": "Keeper's Ground",
+      "lot": "G40"
+    },
+    {
+      "name": "KFC",
+      "lot": "G6"
+    },
+    {
+      "name": "Koharu Taiyaki",
+      "lot": "B11C"
+    },
+    {
+      "name": "Lisse",
+      "lot": null
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "G8A"
+    },
+    {
+      "name": "Ling's Kopitiam",
+      "lot": "129"
+    },
+    {
+      "name": "Magic Bites",
+      "lot": "B3"
+    },
+    {
+      "name": "Nando's",
+      "lot": "G11"
+    },
+    {
+      "name": "Nuto Nuto",
+      "lot": null
+    },
+    {
+      "name": "Potato Story",
+      "lot": "211"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "119"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G9A"
+    },
+    {
+      "name": "Sugarbun",
+      "lot": "120"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "G40A"
+    },
+    {
+      "name": "Sweet Sensation Art Studio",
+      "lot": "B2"
+    },
+    {
+      "name": "Tables & Tales",
+      "lot": "G1"
+    },
+    {
+      "name": "Taka Patisserie",
+      "lot": "G59B"
+    },
+    {
+      "name": "Tealive",
+      "lot": "B11A"
+    },
+    {
+      "name": "TeapackGo",
+      "lot": "B11B"
+    },
+    {
+      "name": "The Famous Amos",
+      "lot": null
+    },
+    {
+      "name": "Xiangshan Fish Steamboat",
+      "lot": "122"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "G39"
+    }
+  ]
+}

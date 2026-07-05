@@ -1,0 +1,288 @@
+{
+  "mall": "Toppen Shopping Centre",
+  "directory_url": "https://toppen.my/a-z-directory/",
+  "method": "curl+html_inline",
+  "count": 70,
+  "outlets": [
+    {
+      "name": "Atok Wan Tan Mee",
+      "lot": "L2-65"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "L2-63"
+    },
+    {
+      "name": "Ayam Penyet Place",
+      "lot": "L2-05"
+    },
+    {
+      "name": "Bar. B. Q Plaza",
+      "lot": "L1-12"
+    },
+    {
+      "name": "Bingxue",
+      "lot": "L2-57"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "L2-113A-115"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "L1-K-19"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "L1-K-05"
+    },
+    {
+      "name": "Cheezuto",
+      "lot": "L2-K-03A"
+    },
+    {
+      "name": "Coffee Over Chaos",
+      "lot": "L2-K07C"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "L2-K-06B"
+    },
+    {
+      "name": "CREPE 'n' San Churros",
+      "lot": "L2-K-07A"
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": "L2-K-06D"
+    },
+    {
+      "name": "Dookki",
+      "lot": "L3-06"
+    },
+    {
+      "name": "Dubuyo",
+      "lot": "L2-106-107"
+    },
+    {
+      "name": "Dunkin Donuts",
+      "lot": "L2-K-02"
+    },
+    {
+      "name": "D’laPasta",
+      "lot": "L1-02"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "L2-62"
+    },
+    {
+      "name": "Euforia, Italian Ice Cream",
+      "lot": "L1-K11"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "L1-K01"
+    },
+    {
+      "name": "Food Empire",
+      "lot": "L3-26"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "L1-50"
+    },
+    {
+      "name": "Go Noodle House Plus",
+      "lot": "L1-49"
+    },
+    {
+      "name": "Harvest Brew",
+      "lot": "L2-K08"
+    },
+    {
+      "name": "Hock Kee Restaurant & Café",
+      "lot": "L3-16"
+    },
+    {
+      "name": "I like & Yogurt in a Can",
+      "lot": "L2-K06A & L2-K06C"
+    },
+    {
+      "name": "IKEA Resturant",
+      "lot": "L2-001"
+    },
+    {
+      "name": "IKEA Swedish Bistro & Café",
+      "lot": "L1-00"
+    },
+    {
+      "name": "J.Co Donuts",
+      "lot": "L1-01"
+    },
+    {
+      "name": "Jinjak Chikin x Love Yog x Taiwan Wolf",
+      "lot": "G.K03 & 03A"
+    },
+    {
+      "name": "Johnny's Restaurant",
+      "lot": "L2-113"
+    },
+    {
+      "name": "JomCha",
+      "lot": "L1.K10"
+    },
+    {
+      "name": "KFC Malaysia",
+      "lot": "L2-108"
+    },
+    {
+      "name": "Kogu",
+      "lot": "L2-63A"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "G-26-27"
+    },
+    {
+      "name": "Kopi Rakyat",
+      "lot": "L3-10"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "L1-K18"
+    },
+    {
+      "name": "La Mimi Seafood",
+      "lot": "L1-13A"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "L2-01-02"
+    },
+    {
+      "name": "Mixue",
+      "lot": "L2-112"
+    },
+    {
+      "name": "Molten Chocolate Café",
+      "lot": "L3-28"
+    },
+    {
+      "name": "Momoyo",
+      "lot": "L1-05"
+    },
+    {
+      "name": "Monaco Dining",
+      "lot": "L3-31"
+    },
+    {
+      "name": "Monaco Signature",
+      "lot": "L3-32"
+    },
+    {
+      "name": "Mr Ryori",
+      "lot": "L3-33"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "L3-09"
+    },
+    {
+      "name": "Mr. Roti Coffee",
+      "lot": "L1-K10A"
+    },
+    {
+      "name": "Nice Girl Yogurt",
+      "lot": "L2.K03"
+    },
+    {
+      "name": "OldTown White Coffee",
+      "lot": "L3-07"
+    },
+    {
+      "name": "Padi Kopitiam",
+      "lot": "L1-11"
+    },
+    {
+      "name": "Polo Buns",
+      "lot": "L2-K07B & D"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "L2-59"
+    },
+    {
+      "name": "Sang Gerai",
+      "lot": "L2-116"
+    },
+    {
+      "name": "Sarwa",
+      "lot": "L2-02 & 03"
+    },
+    {
+      "name": "Season Bakery",
+      "lot": "L1-51"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "L2-101"
+    },
+    {
+      "name": "SF Coffee",
+      "lot": "L1-52"
+    },
+    {
+      "name": "Shabuyaki by Nippon Sushi",
+      "lot": "L2-92 & 93"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "L3-11"
+    },
+    {
+      "name": "Strudel Bakery House",
+      "lot": "L2-K02A"
+    },
+    {
+      "name": "Sukiya Tokyo Bowls & Noodles",
+      "lot": "L2-03A"
+    },
+    {
+      "name": "Swee Kee",
+      "lot": "L1-48"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "L2-118"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "L2-102-103"
+    },
+    {
+      "name": "The Sanctum Garden by CS Group of Restaurant",
+      "lot": "L3-20 – A23"
+    },
+    {
+      "name": "Thong Bowl & Thong Cha",
+      "lot": "L1-101"
+    },
+    {
+      "name": "Yangguofu",
+      "lot": "L2-103A & 105"
+    },
+    {
+      "name": "Yonny",
+      "lot": "L1-50A"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "L1-K03A"
+    },
+    {
+      "name": "丰@Taiwanese",
+      "lot": "L1-47"
+    }
+  ]
+}

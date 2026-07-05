@@ -1,0 +1,44 @@
+{
+  "mall": "Klang Parade",
+  "directory_url": "https://klang.parade.com.my/store/",
+  "method": "wp-json /wp/v2/restaurant (REST API custom post type)",
+  "count": 9,
+  "outlets": [
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G-50"
+    },
+    {
+      "name": "Don Kaiten",
+      "lot": "G-65"
+    },
+    {
+      "name": "Dynasty Dragon Seafood Restaurant",
+      "lot": "S-65 & 66"
+    },
+    {
+      "name": "GO Noodle House",
+      "lot": "G-61"
+    },
+    {
+      "name": "Just You Dessert Cafe",
+      "lot": "G-57"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "G-59"
+    },
+    {
+      "name": "Old Town White Coffee",
+      "lot": "G-63"
+    },
+    {
+      "name": "Tealive",
+      "lot": "G-58"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "G-70"
+    }
+  ]
+}

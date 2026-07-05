@@ -1,0 +1,176 @@
+{
+  "mall": "KL Gateway Mall",
+  "directory_url": "https://www.klgatewaymall.com/stores",
+  "method": "html",
+  "count": 42,
+  "outlets": [
+    {
+      "name": "Salam Tiara Restaurant",
+      "lot": "LG1.07"
+    },
+    {
+      "name": "Yonny",
+      "lot": "LG1.10 & LG1.S10"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "LG1.22 & LG1.S22"
+    },
+    {
+      "name": "Gopizza",
+      "lot": "LG1.21"
+    },
+    {
+      "name": "Tian Tian Braised Chicken",
+      "lot": "G.04"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "G.31"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "G.15 & G.16"
+    },
+    {
+      "name": "MammaBunz",
+      "lot": "LG1.K3"
+    },
+    {
+      "name": "HWC COFFEE",
+      "lot": "LG1.K1"
+    },
+    {
+      "name": "Papasan Express",
+      "lot": "LG1.12"
+    },
+    {
+      "name": "Mixue",
+      "lot": "G.14"
+    },
+    {
+      "name": "Tender Hearts",
+      "lot": "L2.05"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "G.K2"
+    },
+    {
+      "name": "Toast Maker",
+      "lot": "G.27"
+    },
+    {
+      "name": "Kimchi Rang",
+      "lot": "LG1.19 & 20"
+    },
+    {
+      "name": "Edohonchou",
+      "lot": "LG1.13"
+    },
+    {
+      "name": "Hoho Kitchen",
+      "lot": "G.03"
+    },
+    {
+      "name": "Fruit Lab",
+      "lot": "LG1.24(i)"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG1.K5 (ii)"
+    },
+    {
+      "name": "Ah Yip Herbal Soup",
+      "lot": "LG1.02"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG1.K5"
+    },
+    {
+      "name": "Stuff'd",
+      "lot": "LG1.K6"
+    },
+    {
+      "name": "Suria Nasi Kandar",
+      "lot": "LG1.06 & LG1.S6"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "LG1.25"
+    },
+    {
+      "name": "Noodles Expert",
+      "lot": "LG1.14"
+    },
+    {
+      "name": "Penang Asam House",
+      "lot": "LG1.07 & LG1.S7"
+    },
+    {
+      "name": "KungFu Soup",
+      "lot": "G.05, 06 & 07"
+    },
+    {
+      "name": "Aroii Thai",
+      "lot": "G.24 & G.25"
+    },
+    {
+      "name": "Ayam Penyet Best",
+      "lot": "UG.17"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "LG1.23(i)"
+    },
+    {
+      "name": "Burger King",
+      "lot": "G.22 & G.23"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "UG.32"
+    },
+    {
+      "name": "Tobby's",
+      "lot": "LG1.K2"
+    },
+    {
+      "name": "Kedai Kopi Malaya",
+      "lot": "LG1.27"
+    },
+    {
+      "name": "KFC",
+      "lot": "G.17 & G.18"
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "LG1.01 & LG1.S1"
+    },
+    {
+      "name": "Mee Tarik Faizal Kong",
+      "lot": "LG1.09 & LG1.S9"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G.20 & G.21"
+    },
+    {
+      "name": "Restaurant Good Taste",
+      "lot": "LG1.26"
+    },
+    {
+      "name": "Chizu",
+      "lot": "LG1.15 & 16"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "G.19 & 32(ii)"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG1.24(ii)"
+    }
+  ]
+}

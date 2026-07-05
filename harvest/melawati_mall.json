@@ -1,0 +1,240 @@
+{
+  "mall": "Melawati Mall",
+  "directory_url": "https://www.melawatimall.com/shop-index/all",
+  "method": "html",
+  "count": 58,
+  "outlets": [
+    {
+      "name": "Chagee",
+      "lot": "GF-28"
+    },
+    {
+      "name": "Chizu",
+      "lot": "GF-24/25"
+    },
+    {
+      "name": "Lapisan Pâtisserie",
+      "lot": "GF-29"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "GF-26"
+    },
+    {
+      "name": "Molten Chocolate Café",
+      "lot": "GF-20"
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "GF-27"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "GF-08"
+    },
+    {
+      "name": "Village Cafe",
+      "lot": "LG-01"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "L1-K1"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "L3-21"
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": "L1-K4, L1-12"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "L3-24A/25"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "L3-07"
+    },
+    {
+      "name": "Carl's Jr",
+      "lot": "LG-23/24B"
+    },
+    {
+      "name": "Champur",
+      "lot": "L3-09"
+    },
+    {
+      "name": "Golden Valley",
+      "lot": "L3-18/19"
+    },
+    {
+      "name": "Johnny's Steamboat",
+      "lot": "L3-26"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "L3-05"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "L3-12, L3-K4"
+    },
+    {
+      "name": "Mr Dakgalbi & Chicken Plus",
+      "lot": "L3-27/28"
+    },
+    {
+      "name": "Nabe-Ya By Nabe Hotpot & Sukiyaki",
+      "lot": "L3-08"
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": "LG-27"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "L3-29"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "L3-01/02"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "L3-03/04"
+    },
+    {
+      "name": "Sopoong",
+      "lot": "L3-20"
+    },
+    {
+      "name": "Subway",
+      "lot": "L3-22"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-26"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "L3-06, L3-K5B"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-22/23A"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "L3-10/11"
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "LG-03"
+    },
+    {
+      "name": "The Manhattan Fish Market",
+      "lot": "L3-15, L3-K5A"
+    },
+    {
+      "name": "TonyRoma's",
+      "lot": "L3-16A"
+    },
+    {
+      "name": "US PIZZA",
+      "lot": "L5-06"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "L1-K3"
+    },
+    {
+      "name": "Beutea",
+      "lot": "LG-09D"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "LG-09C"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG-09"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG-30/31"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "L2-K2"
+    },
+    {
+      "name": "Cheeky Croffle",
+      "lot": "LG-11"
+    },
+    {
+      "name": "Cheezuto",
+      "lot": "L3-K3A"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-32/33"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-10"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG-09E"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "LG-08"
+    },
+    {
+      "name": "Komugi",
+      "lot": "LG-25"
+    },
+    {
+      "name": "Llaollao",
+      "lot": "L3-K1"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "LG-15B, LG-15C"
+    },
+    {
+      "name": "Mixue",
+      "lot": "LG-14"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LG-02A"
+    },
+    {
+      "name": "QCC Baked",
+      "lot": "LG-13, LG-35"
+    },
+    {
+      "name": "Sushi Panda",
+      "lot": "L3-32"
+    },
+    {
+      "name": "Sweetly",
+      "lot": "L3-K3"
+    },
+    {
+      "name": "Tealive",
+      "lot": "LG-09B"
+    },
+    {
+      "name": "THE BRETZEL CO",
+      "lot": "LG-09A"
+    },
+    {
+      "name": "Food Empire",
+      "lot": "L3-33"
+    }
+  ]
+}

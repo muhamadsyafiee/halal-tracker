@@ -1,0 +1,139 @@
+{
+  "mall": "Design Village Outlet Mall",
+  "directory_url": "https://designvillagepenang.com/directory/",
+  "count": 18,
+  "summary": {
+    "certified": 3,
+    "review": 8,
+    "uncertified": 7,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Memang Meow",
+      "lot": "G.66",
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "GEORGIA VILLA SDN BHD"
+    },
+    {
+      "name": "IIao IIao",
+      "lot": "G.106b",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G.160",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G.106a",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cafe Amazon",
+      "lot": "G.161b",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "CAFE HUB SDN BHD"
+    },
+    {
+      "name": "KorFry",
+      "lot": "G.79",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "PAPA FRY SDN. BHD."
+    },
+    {
+      "name": "Tealive",
+      "lot": "CP-5",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "CP-6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Burger King",
+      "lot": "G.22",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Yummy Mama",
+      "lot": "KS.2, KS-2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mixue",
+      "lot": "CP-1b",
+      "status": "certified",
+      "myehalal_matches": 251,
+      "cert_holder": "MIXUE MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "KFC",
+      "lot": "G.80, G.81",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "CP-4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Laksa Sayang",
+      "lot": "CP-7",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "CP-6b",
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "PapaFry",
+      "lot": "G.116",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "PAPA FRY SDN. BHD."
+    },
+    {
+      "name": "Padi House",
+      "lot": "G.25",
+      "status": "certified",
+      "myehalal_matches": 13,
+      "cert_holder": "PADI HOUSE HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "G.57",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

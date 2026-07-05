@@ -1,0 +1,108 @@
+{
+  "mall": "Bintang Megamall",
+  "directory_url": "https://bintangmegamall.com/directory/",
+  "method": "curl_html",
+  "count": 25,
+  "outlets": [
+    {
+      "name": "Chagee",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Korbi Grill",
+      "lot": "GF . West"
+    },
+    {
+      "name": "The One",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Go Pie",
+      "lot": "LG . East"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "GF. East"
+    },
+    {
+      "name": "HokkaiDo",
+      "lot": "GF. West"
+    },
+    {
+      "name": "Nando's",
+      "lot": "GF . East"
+    },
+    {
+      "name": "BB.q Chicken",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Tea Co",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Gigi",
+      "lot": "GF . West"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Yole",
+      "lot": "GF . West"
+    },
+    {
+      "name": "Big Apple",
+      "lot": "GF . West"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "GF . West"
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": "GF . West"
+    },
+    {
+      "name": "Fuel Shack",
+      "lot": "GF . East"
+    },
+    {
+      "name": "Pezzo",
+      "lot": "1F . East"
+    },
+    {
+      "name": "Subway",
+      "lot": "1F . East"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "1F . East"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG . East"
+    },
+    {
+      "name": "Magic Bites",
+      "lot": "LG . East"
+    },
+    {
+      "name": "Hog & Wild",
+      "lot": "LG . East"
+    },
+    {
+      "name": "Potato Story Plus",
+      "lot": "LG . East"
+    },
+    {
+      "name": "M Corner",
+      "lot": "2F . East"
+    },
+    {
+      "name": "Share Tea",
+      "lot": "2F . West"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "mall": "The Curve",
+  "directory_url": "https://thecurve.com.my/directory/",
+  "count": 58,
+  "summary": {
+    "certified": 15,
+    "review": 11,
+    "uncertified": 32,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Tealive",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Juice Works",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Petite Maison Brasserie",
+      "lot": "G88A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Wunderbar German",
+      "lot": "G66",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Congkak",
+      "lot": "G51",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "G86 / G86A / G88B",
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "ASIA MEX CONCEPTS SDN BHD"
+    },
+    {
+      "name": "Italiannies",
+      "lot": "G75",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kim Gary Restaurant",
+      "lot": "140",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Macha & Co",
+      "lot": "G41",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "Oiso",
+      "lot": "154",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tasty Chapathi",
+      "lot": "G68",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "T.G.I Friday’s",
+      "lot": "G77 / G78 / G82",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G50",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Steamboat by Ketam Village",
+      "lot": "G52",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Waroeng Penyet",
+      "lot": "132",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "G88",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Teh Tarik Place",
+      "lot": "G36 / G36A",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "NSS GEMILANG RESOURCES"
+    },
+    {
+      "name": "DÔME Café",
+      "lot": "G85",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "DOME CAFE SDN.BHD"
+    },
+    {
+      "name": "Gigi Coffee Diner",
+      "lot": "GZF1 / GZF2 / GZF3",
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "O’Briens Irish Sandwich Cafe",
+      "lot": "G79",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "NORTH POLESTAR ALLIANCE SDN. BHD."
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G1",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "J & J BAKERY DAILY FRESH"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "J.CO Donuts & Coffee",
+      "lot": "GZF-7A",
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Thosai Cafè",
+      "lot": "GZF-4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Soup Base Kitchen",
+      "lot": "133",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "G1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Flint",
+      "lot": "G41A/G43",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gamaro Chicken & Burger",
+      "lot": "G110",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dae Ga Korean Grill & BBQ",
+      "lot": "146",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Padi House",
+      "lot": "141 / 142 / 143",
+      "status": "certified",
+      "myehalal_matches": 13,
+      "cert_holder": "PADI HOUSE HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "155 / 156",
+      "status": "certified",
+      "myehalal_matches": 32,
+      "cert_holder": "M SUKI MAJU ENTERPRISE"
+    },
+    {
+      "name": "Suria Food Court",
+      "lot": "148 / 157C",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yishensu",
+      "lot": "144 / 145",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Me'nate Steak Hub",
+      "lot": "G53",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "G68A",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Kim's Roaster",
+      "lot": "138 / 139",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koppiku",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "KOPPIKU SDN. BHD."
+    },
+    {
+      "name": "Toast Maker",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Serai",
+      "lot": "G72 / G73 / G74",
+      "status": "certified",
+      "myehalal_matches": 23,
+      "cert_holder": "SERAI GROUP SDN BHD"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "G94",
+      "status": "certified",
+      "myehalal_matches": 123,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "Happy Potato",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bingxue",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 37,
+      "cert_holder": "FIVE TASTES F&B GROUP SDN. BHD."
+    },
+    {
+      "name": "BBQ Town",
+      "lot": "G45 / G39D",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gula Cakery",
+      "lot": "G49",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lotteria",
+      "lot": "GZF5 / GZF6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Top Kunafa",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Thai Charoen",
+      "lot": "152 / 152A",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "THAI CHAROEN SDN. BHD."
+    },
+    {
+      "name": "K Bunsik",
+      "lot": "G107",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

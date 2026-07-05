@@ -1,0 +1,139 @@
+{
+  "mall": "Tropicana Gardens Mall",
+  "directory_url": "https://www.tropicanacorp.com.my/merchant-listing",
+  "count": 18,
+  "summary": {
+    "certified": 1,
+    "review": 1,
+    "uncertified": 16,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Chapter One",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chuan Yue De Cuisine",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cream & Culture",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Elegant Fine Food",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gin Shui Tei",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "India Gate Restaurant",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "INDIA GATE CENTRE KITCHEN SDN. BHD."
+    },
+    {
+      "name": "JWC, The Factory 30",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MIN Cafe",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "M SUKI MAJU ENTERPRISE"
+    },
+    {
+      "name": "Meltkies",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "QingHeGu Korean Restaurant",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shu Guo Yin Xiang Hotpot",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sutera Dining",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tedboy",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Den - Capri by Fraser",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TheBar",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Twenty7 Restaurant",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yuan Lao Si Hotpot",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "flaaah",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

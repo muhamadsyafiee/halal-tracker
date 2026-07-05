@@ -1,0 +1,625 @@
+{
+  "description": "Major shopping malls in Malaysia with official website and store-directory status",
+  "generated": "2026-07-03",
+  "count": 77,
+  "with_website": 75,
+  "with_directory": 73,
+  "malls": [
+    {
+      "name": "AEON Tebrau City",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://aeonmallmy.com/page/mall/aeon-mall-tebrau-city",
+      "has_directory": true,
+      "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-tebrau-city#shop-directory"
+    },
+    {
+      "name": "Johor Bahru City Square",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://www.citysqjb.com/",
+      "has_directory": true,
+      "directory_url": "https://www.citysqjb.com/store-directories"
+    },
+    {
+      "name": "KSL City Mall",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://www.kslcity.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.kslcity.com.my/shops"
+    },
+    {
+      "name": "Mid Valley Southkey",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://www.midvalleysouthkey.com/",
+      "has_directory": true,
+      "directory_url": "https://www.midvalleysouthkey.com/shop/directory/"
+    },
+    {
+      "name": "Paradigm Mall Johor Bahru",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://www.paradigmmall.com.my/jb/",
+      "has_directory": true,
+      "directory_url": "https://www.paradigmmall.com.my/jb/categories.aspx"
+    },
+    {
+      "name": "Toppen Shopping Centre",
+      "city": "Johor Bahru",
+      "state": "Johor",
+      "website": "https://toppen.my/",
+      "has_directory": true,
+      "directory_url": "https://toppen.my/a-z-directory/"
+    },
+    {
+      "name": "Aman Central",
+      "city": "Alor Setar",
+      "state": "Kedah",
+      "website": "https://www.amancentral.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.amancentral.com.my/directory/"
+    },
+    {
+      "name": "AEON Mall Kota Bharu",
+      "city": "Kota Bharu",
+      "state": "Kelantan",
+      "website": "https://aeonmallmy.com/page/mall/aeon-mall-kota-bharu",
+      "has_directory": true,
+      "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-kota-bharu"
+    },
+    {
+      "name": "KB Mall",
+      "city": "Kota Bharu",
+      "state": "Kelantan",
+      "website": "https://kbmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://kbmall.com.my/Directory.html"
+    },
+    {
+      "name": "Avenue K",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.avenuek.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.avenuek.com.my/stores/"
+    },
+    {
+      "name": "Berjaya Times Square",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://berjayatimessquarekl.com/",
+      "has_directory": true,
+      "directory_url": "https://berjayatimessquarekl.com/store-directory/"
+    },
+    {
+      "name": "Fahrenheit 88",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://fahrenheit88.com/",
+      "has_directory": true,
+      "directory_url": "https://fahrenheit88.com/shop/"
+    },
+    {
+      "name": "KL Gateway Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.klgatewaymall.com/",
+      "has_directory": true,
+      "directory_url": "https://www.klgatewaymall.com/stores"
+    },
+    {
+      "name": "Lot 10 Shopping Centre",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://lot10.com.my/",
+      "has_directory": true,
+      "directory_url": "https://lot10.com.my/pages/directory"
+    },
+    {
+      "name": "Melawati Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.melawatimall.com/",
+      "has_directory": true,
+      "directory_url": "https://www.melawatimall.com/shop-index/all"
+    },
+    {
+      "name": "Mid Valley Megamall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.midvalley.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.midvalley.com.my/shop/directory/"
+    },
+    {
+      "name": "MyTOWN Shopping Centre",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://mytownkl.com.my/",
+      "has_directory": true,
+      "directory_url": "https://mytownkl.com.my/directory/store"
+    },
+    {
+      "name": "NU Sentral",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.nusentral.com/",
+      "has_directory": true,
+      "directory_url": "https://www.nusentral.com/store-directory/"
+    },
+    {
+      "name": "Pavilion Bukit Jalil",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://pavilion-bukitjalil.com/",
+      "has_directory": true,
+      "directory_url": "https://pavilion-bukitjalil.com/directory"
+    },
+    {
+      "name": "Pavilion Kuala Lumpur",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.pavilion-kl.com/",
+      "has_directory": true,
+      "directory_url": "https://www.pavilion-kl.com/stores/"
+    },
+    {
+      "name": "Quill City Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://quillcitymall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://quillcitymall.com.my/directory/"
+    },
+    {
+      "name": "Sungei Wang Plaza",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.sungeiwang.com/",
+      "has_directory": true,
+      "directory_url": "https://www.sungeiwang.com/shop/"
+    },
+    {
+      "name": "Sunway Putra Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.sunwayputramall.com/",
+      "has_directory": true,
+      "directory_url": "https://www.sunwayputramall.com/directory"
+    },
+    {
+      "name": "Sunway Velocity Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.sunwayvelocitymall.com/",
+      "has_directory": true,
+      "directory_url": "https://www.sunwayvelocitymall.com/directory"
+    },
+    {
+      "name": "Suria KLCC",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.suriaklcc.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.suriaklcc.com.my/shopping-dining-categories"
+    },
+    {
+      "name": "The Exchange TRX",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.theexchange.my/",
+      "has_directory": true,
+      "directory_url": "https://www.theexchange.my/dine/directory/"
+    },
+    {
+      "name": "The Gardens Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://www.thegardensmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.thegardensmall.com.my/stores"
+    },
+    {
+      "name": "The LINC KL",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://thelinckl.com.my/",
+      "has_directory": true,
+      "directory_url": "https://thelinckl.com.my/explore/"
+    },
+    {
+      "name": "The Starhill",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://thestarhill.com.my/",
+      "has_directory": true,
+      "directory_url": "https://thestarhill.com.my/pages/shop-directory"
+    },
+    {
+      "name": "Wangsa Walk Mall",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur",
+      "website": "https://wangsawalkmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://wangsawalkmall.com.my/directory"
+    },
+    {
+      "name": "Dataran Pahlawan Melaka Megamall",
+      "city": "Melaka City",
+      "state": "Melaka",
+      "website": "https://hattengrp.com/property/dataran-pahlawan/",
+      "has_directory": false,
+      "directory_url": null
+    },
+    {
+      "name": "Mahkota Parade",
+      "city": "Melaka City",
+      "state": "Melaka",
+      "website": "https://www.mahkotaparade.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.mahkotaparade.com.my/shop/shop-category.php"
+    },
+    {
+      "name": "AEON Seremban 2",
+      "city": "Seremban",
+      "state": "Negeri Sembilan",
+      "website": "https://aeonmallmy.com/page/mall/aeon-mall-seremban-2",
+      "has_directory": true,
+      "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-seremban-2#shop-directory"
+    },
+    {
+      "name": "Palm Mall",
+      "city": "Seremban",
+      "state": "Negeri Sembilan",
+      "website": "https://www.palmmall.my/",
+      "has_directory": true,
+      "directory_url": "http://www.palmmall.my/Directory_3_1.htm"
+    },
+    {
+      "name": "Terminal 1",
+      "city": "Seremban",
+      "state": "Negeri Sembilan",
+      "website": "https://www.terminal1sbn.com/",
+      "has_directory": true,
+      "directory_url": "https://www.terminal1sbn.com/tenants/"
+    },
+    {
+      "name": "Berjaya Megamall Kuantan",
+      "city": "Kuantan",
+      "state": "Pahang",
+      "website": null,
+      "has_directory": false,
+      "directory_url": null
+    },
+    {
+      "name": "East Coast Mall",
+      "city": "Kuantan",
+      "state": "Pahang",
+      "website": "https://eastcoastmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://eastcoastmall.com.my/stores-locate-to/"
+    },
+    {
+      "name": "Genting Highlands Premium Outlets",
+      "city": "Genting Highlands",
+      "state": "Pahang",
+      "website": "https://www.premiumoutlets.com.my/genting-highlands-premium-outlets",
+      "has_directory": true,
+      "directory_url": "https://www.premiumoutlets.com.my/genting-highlands-premium-outlets/stores"
+    },
+    {
+      "name": "SkyAvenue Genting Highlands",
+      "city": "Genting Highlands",
+      "state": "Pahang",
+      "website": "https://www.rwgenting.com/en/things-to-do/shopping/skyavenue-complex.html",
+      "has_directory": true,
+      "directory_url": "https://www.rwgenting.com/en/things-to-do/shopping/skyavenue-complex.html"
+    },
+    {
+      "name": "1st Avenue Mall",
+      "city": "George Town",
+      "state": "Penang",
+      "website": "https://www.1st-avenuepenang.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.1st-avenuepenang.com.my/directory/"
+    },
+    {
+      "name": "Design Village Outlet Mall",
+      "city": "Batu Kawan",
+      "state": "Penang",
+      "website": "https://designvillagepenang.com/",
+      "has_directory": true,
+      "directory_url": "https://designvillagepenang.com/directory/"
+    },
+    {
+      "name": "Gurney Paragon Mall",
+      "city": "George Town",
+      "state": "Penang",
+      "website": "https://www.gurneyparagon.com/",
+      "has_directory": true,
+      "directory_url": "https://www.gurneyparagon.com/index.php/stores"
+    },
+    {
+      "name": "Gurney Plaza",
+      "city": "George Town",
+      "state": "Penang",
+      "website": "https://gurneyplaza.com.my/",
+      "has_directory": true,
+      "directory_url": "https://gurneyplaza.com.my/stores/"
+    },
+    {
+      "name": "Queensbay Mall",
+      "city": "Bayan Lepas",
+      "state": "Penang",
+      "website": "https://queensbaymallmalaysia.com/",
+      "has_directory": true,
+      "directory_url": "https://www.queensbaymallmalaysia.com/highlightDetailPage?hightlightId=37"
+    },
+    {
+      "name": "Sunway Carnival Mall",
+      "city": "Seberang Jaya",
+      "state": "Penang",
+      "website": "https://www.sunwaycarnival.com/",
+      "has_directory": true,
+      "directory_url": "https://www.sunwaycarnival.com/directory"
+    },
+    {
+      "name": "AEON Mall Kinta City",
+      "city": "Ipoh",
+      "state": "Perak",
+      "website": "https://aeonmallmy.com/page/mall/aeon-mall-kinta-city",
+      "has_directory": true,
+      "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-kinta-city#shop-directory"
+    },
+    {
+      "name": "Ipoh Parade",
+      "city": "Ipoh",
+      "state": "Perak",
+      "website": "https://ipoh.parade.com.my/",
+      "has_directory": true,
+      "directory_url": "https://ipoh.parade.com.my/store/"
+    },
+    {
+      "name": "Alamanda Shopping Centre",
+      "city": "Putrajaya",
+      "state": "Putrajaya",
+      "website": "https://www.alamanda.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.alamanda.com.my/shopping-categories/"
+    },
+    {
+      "name": "IOI City Mall",
+      "city": "Putrajaya",
+      "state": "Putrajaya",
+      "website": "https://www.ioicitymall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.ioicitymall.com.my/directory-icm/"
+    },
+    {
+      "name": "1Borneo Hypermall",
+      "city": "Kota Kinabalu",
+      "state": "Sabah",
+      "website": "https://1borneohypermall.com/",
+      "has_directory": true,
+      "directory_url": "https://1borneohypermall.com/directory/"
+    },
+    {
+      "name": "Centre Point Sabah",
+      "city": "Kota Kinabalu",
+      "state": "Sabah",
+      "website": "https://centrepointsabah.com/",
+      "has_directory": true,
+      "directory_url": "https://centrepointsabah.com/stores-map/"
+    },
+    {
+      "name": "Imago Shopping Mall",
+      "city": "Kota Kinabalu",
+      "state": "Sabah",
+      "website": "https://www.imago.my/",
+      "has_directory": true,
+      "directory_url": "https://shop.imago.my/shop/shop-list"
+    },
+    {
+      "name": "Suria Sabah Shopping Mall",
+      "city": "Kota Kinabalu",
+      "state": "Sabah",
+      "website": "https://suriasabah.com.my/",
+      "has_directory": true,
+      "directory_url": "https://suriasabah.com.my/directory/"
+    },
+    {
+      "name": "Bintang Megamall",
+      "city": "Miri",
+      "state": "Sarawak",
+      "website": "https://bintangmegamall.com/",
+      "has_directory": true,
+      "directory_url": "https://bintangmegamall.com/directory/"
+    },
+    {
+      "name": "Boulevard Shopping Mall",
+      "city": "Miri",
+      "state": "Sarawak",
+      "website": null,
+      "has_directory": false,
+      "directory_url": null
+    },
+    {
+      "name": "CityONE Megamall",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "website": "https://www.cityone.com.my/",
+      "has_directory": true,
+      "directory_url": "http://www.cityonemanagement.com.my/storedirectory.php"
+    },
+    {
+      "name": "Plaza Merdeka",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "website": "http://plazamerdeka.com/",
+      "has_directory": true,
+      "directory_url": "http://plazamerdeka.com/shop-3/"
+    },
+    {
+      "name": "The Spring Kuching",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "website": "https://www.thespring.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.thespring.com.my/shops"
+    },
+    {
+      "name": "Vivacity Megamall",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "website": "https://vivacity.com.my/",
+      "has_directory": true,
+      "directory_url": "https://vivacity.com.my/business-directory/"
+    },
+    {
+      "name": "1 Utama Shopping Centre",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://www.1utama.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.1utama.com.my/mall-shop/"
+    },
+    {
+      "name": "3 Damansara (Tropicana City Mall)",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://3damansara.com.my/",
+      "has_directory": true,
+      "directory_url": "https://3damansara.com.my/stores/"
+    },
+    {
+      "name": "AEON Bukit Tinggi",
+      "city": "Klang",
+      "state": "Selangor",
+      "website": "https://aeonmallmy.com/page/mall/aeon-mall-bukit-tinggi",
+      "has_directory": true,
+      "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-bukit-tinggi"
+    },
+    {
+      "name": "Atria Shopping Gallery",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://www.atria.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.atria.com.my/stores.html"
+    },
+    {
+      "name": "Central i-City",
+      "city": "Shah Alam",
+      "state": "Selangor",
+      "website": "https://central-icity.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.central-icity.com.my/directory"
+    },
+    {
+      "name": "Citta Mall",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://citta.com.my/",
+      "has_directory": true,
+      "directory_url": "https://citta.com.my/listings/"
+    },
+    {
+      "name": "Da Men Mall",
+      "city": "Subang Jaya",
+      "state": "Selangor",
+      "website": "https://damen-mallcom.com/",
+      "has_directory": true,
+      "directory_url": "https://damen-mallcom.com/store-list/"
+    },
+    {
+      "name": "Empire Shopping Gallery",
+      "city": "Subang Jaya",
+      "state": "Selangor",
+      "website": "https://nuempire.com.my/",
+      "has_directory": false,
+      "directory_url": null
+    },
+    {
+      "name": "IOI Mall Puchong",
+      "city": "Puchong",
+      "state": "Selangor",
+      "website": "https://www.ioimp.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.ioimp.com.my/directory-imp/"
+    },
+    {
+      "name": "Klang Parade",
+      "city": "Klang",
+      "state": "Selangor",
+      "website": "https://klang.parade.com.my/",
+      "has_directory": true,
+      "directory_url": "https://klang.parade.com.my/store/"
+    },
+    {
+      "name": "Paradigm Mall Petaling Jaya",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://paradigmmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://paradigmmall.com.my/categories.aspx"
+    },
+    {
+      "name": "Setia City Mall",
+      "city": "Shah Alam",
+      "state": "Selangor",
+      "website": "https://setiacitymall.com/",
+      "has_directory": true,
+      "directory_url": "https://setiacitymall.com/index.php/directory/"
+    },
+    {
+      "name": "Subang Parade",
+      "city": "Subang Jaya",
+      "state": "Selangor",
+      "website": "https://www.subangparade.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.subangparade.com.my/shop/shop-category.php"
+    },
+    {
+      "name": "Sunway Pyramid",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://www.sunwaypyramid.com/",
+      "has_directory": true,
+      "directory_url": "https://www.sunwaypyramid.com/directory"
+    },
+    {
+      "name": "The Curve",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://thecurve.com.my/",
+      "has_directory": true,
+      "directory_url": "https://thecurve.com.my/directory/"
+    },
+    {
+      "name": "Tropicana Gardens Mall",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "website": "https://www.tropicanacorp.com.my/TropicanaGardensMall",
+      "has_directory": true,
+      "directory_url": "https://www.tropicanacorp.com.my/merchant-listing"
+    },
+    {
+      "name": "KTCC Mall",
+      "city": "Kuala Terengganu",
+      "state": "Terengganu",
+      "website": "https://ktccmall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://ktccmall.com.my/directory.php"
+    },
+    {
+      "name": "Mesra Mall",
+      "city": "Kerteh",
+      "state": "Terengganu",
+      "website": "https://www.mesramall.com.my/",
+      "has_directory": true,
+      "directory_url": "https://www.mesramall.com.my/shopping/"
+    }
+  ]
+}

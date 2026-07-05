@@ -1,0 +1,512 @@
+{
+  "mall": "MyTOWN Shopping Centre",
+  "directory_url": "https://mytownkl.com.my/directory/store",
+  "method": "html",
+  "count": 126,
+  "outlets": [
+    {
+      "name": "[Coming Soon] 100 Hours Curry",
+      "lot": "L1-035"
+    },
+    {
+      "name": "[Coming Soon] Mubarak Mala Tang Jalan Sultan",
+      "lot": "L3-043"
+    },
+    {
+      "name": "[Coming Soon] Yonny",
+      "lot": "B1-09"
+    },
+    {
+      "name": "Absolute Thai",
+      "lot": "L1-022"
+    },
+    {
+      "name": "Ai-CHA Ice Cream & Tea",
+      "lot": "L3-K-01"
+    },
+    {
+      "name": "Apricot by Peaches and Cream",
+      "lot": "G-019 & G-E-019"
+    },
+    {
+      "name": "Aroi Thai",
+      "lot": "B1-069 & B1-E-069"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "B1-043"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "B1-047"
+    },
+    {
+      "name": "Baby Cami Sushi",
+      "lot": "L3-039 & L3-E-039"
+    },
+    {
+      "name": "Bakar Thai Bowl",
+      "lot": "G-012D"
+    },
+    {
+      "name": "Bananabro",
+      "lot": "B1-072"
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": "B1-065"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G-K-09"
+    },
+    {
+      "name": "BBQ Town",
+      "lot": "L2-023A"
+    },
+    {
+      "name": "Beef Roti by Sutera Mas",
+      "lot": "B1-088"
+    },
+    {
+      "name": "BeRempahh!",
+      "lot": "B1-027"
+    },
+    {
+      "name": "Beutea",
+      "lot": "G-018"
+    },
+    {
+      "name": "Bhai Jim Jum",
+      "lot": "B1-09"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "B1-030"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "B1-058"
+    },
+    {
+      "name": "Bread History & SandwichBox",
+      "lot": "B1-066"
+    },
+    {
+      "name": "Breadstory",
+      "lot": "B1-037"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "B1-056"
+    },
+    {
+      "name": "Butter Kaya Kopitiam",
+      "lot": "L1-043A"
+    },
+    {
+      "name": "Canton Boy",
+      "lot": "G-012B"
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": "B1-K-07"
+    },
+    {
+      "name": "Chagee",
+      "lot": "G-K-017"
+    },
+    {
+      "name": "Cheezuto",
+      "lot": "B1-080"
+    },
+    {
+      "name": "Chez Choux",
+      "lot": "B1-078"
+    },
+    {
+      "name": "Chicago Chicken",
+      "lot": "L1-033A"
+    },
+    {
+      "name": "Churros+",
+      "lot": "B1-046"
+    },
+    {
+      "name": "Cluck 'nCone",
+      "lot": "B1-087"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "lot": "G-K-019"
+    },
+    {
+      "name": "Cookie Doh By Cookie People",
+      "lot": "B1-048"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "L1-K-05"
+    },
+    {
+      "name": "Crab Bro Noodle House",
+      "lot": "G-012H & G-012J"
+    },
+    {
+      "name": "D'Laksa",
+      "lot": "B1-052"
+    },
+    {
+      "name": "D'Penyetz",
+      "lot": "L3-038"
+    },
+    {
+      "name": "Dakchigo",
+      "lot": "L3-037 & L3-E-037"
+    },
+    {
+      "name": "Dong Nae BBQ",
+      "lot": "L1-020"
+    },
+    {
+      "name": "Dookki",
+      "lot": "L2-026"
+    },
+    {
+      "name": "Dubuyo Mini",
+      "lot": "B1-023A"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "B1-K-06"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "B1-053A"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "G-K-01"
+    },
+    {
+      "name": "Food Empire",
+      "lot": "L3-021 & L3-E-021"
+    },
+    {
+      "name": "FUIYOH! Its's Uncle Roger",
+      "lot": "L1-043 & L1-068"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "B1-039"
+    },
+    {
+      "name": "GO Noodle House",
+      "lot": "L2-043"
+    },
+    {
+      "name": "Goobne",
+      "lot": "L3-043A & L3-E-043A"
+    },
+    {
+      "name": "Gula Petite by Gula Cakery",
+      "lot": "G-K-012A & G-K-012B"
+    },
+    {
+      "name": "Hadramot Village",
+      "lot": "L1-021A"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "B1-K-05"
+    },
+    {
+      "name": "Has#tag Sweets",
+      "lot": "B1-043A & B1-045"
+    },
+    {
+      "name": "Hongmen Palace",
+      "lot": "G-015B & G-E-015B"
+    },
+    {
+      "name": "IKEA Swedish Bistro",
+      "lot": "B1-K-02"
+    },
+    {
+      "name": "Ipoh Ais Kopi",
+      "lot": "G-012C"
+    },
+    {
+      "name": "J.Co Donuts & Coffee",
+      "lot": "G-049"
+    },
+    {
+      "name": "Juice Works",
+      "lot": "G-01"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "G-047"
+    },
+    {
+      "name": "KFC",
+      "lot": "B1-05, B1-06, B1-E-05 , B1-E-06"
+    },
+    {
+      "name": "Koong Woh Tong & Daily Fresh",
+      "lot": "B1-068"
+    },
+    {
+      "name": "Kopi Rakyat",
+      "lot": "B1-035"
+    },
+    {
+      "name": "Kopi Saigon",
+      "lot": "B1-081"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "L1-K-09"
+    },
+    {
+      "name": "Kunafa Finger's",
+      "lot": "B1-078A"
+    },
+    {
+      "name": "KyoChon 1991",
+      "lot": "G-03"
+    },
+    {
+      "name": "Kyros Kebab",
+      "lot": "B1-06A"
+    },
+    {
+      "name": "llao llao",
+      "lot": "B1-038"
+    },
+    {
+      "name": "M.BBQ",
+      "lot": "B1-082 & B1-083"
+    },
+    {
+      "name": "Mad Chili Pan Mee",
+      "lot": "B1-020 & B1-021"
+    },
+    {
+      "name": "MammaBunz",
+      "lot": "B1-050"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "B1-03 & B1-E-03 & G-K-020"
+    },
+    {
+      "name": "McDonald's Dessert Kiosk",
+      "lot": "G-K-020"
+    },
+    {
+      "name": "Molten Chocolate Café",
+      "lot": "G-02"
+    },
+    {
+      "name": "Monstr",
+      "lot": "B1-K-01"
+    },
+    {
+      "name": "More Yogurt",
+      "lot": "G-027"
+    },
+    {
+      "name": "Mori Kohi",
+      "lot": "G-048"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "L2-027"
+    },
+    {
+      "name": "Mukbang Tteobokki Buffet",
+      "lot": "G-012E"
+    },
+    {
+      "name": "My Virtual Foodhall & Bumbu Babah",
+      "lot": "L1-019"
+    },
+    {
+      "name": "myBurgerLab & Inside Scoop",
+      "lot": "G-020 & G-E-020"
+    },
+    {
+      "name": "Nabe Hotpot & Sukiyaki",
+      "lot": "B1-028"
+    },
+    {
+      "name": "Nam Heong Ipoh",
+      "lot": "L1-036"
+    },
+    {
+      "name": "Nando's",
+      "lot": "B1-02"
+    },
+    {
+      "name": "Nicegirl Yogurt",
+      "lot": "B1-K-010"
+    },
+    {
+      "name": "NoodleKing House",
+      "lot": "B1-023"
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "B1-042 & B1-051"
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": "B1-067A"
+    },
+    {
+      "name": "Para Thai",
+      "lot": "G-042A & G-E-042A"
+    },
+    {
+      "name": "Paradise Dynasty",
+      "lot": "G-042 & G-E-042"
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": "B1-040"
+    },
+    {
+      "name": "Pickzza",
+      "lot": "B1-053"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "B1-022"
+    },
+    {
+      "name": "QCC Baked",
+      "lot": "B1-041A"
+    },
+    {
+      "name": "Ramen Seirock-Ya",
+      "lot": "G-012G"
+    },
+    {
+      "name": "Rasa Mala",
+      "lot": "B1-010"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "B1-011"
+    },
+    {
+      "name": "Sawee Sikdang",
+      "lot": "L1-021"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "B1-025"
+    },
+    {
+      "name": "Seoul Garden Korbi Grill",
+      "lot": "L1-018"
+    },
+    {
+      "name": "Serai Cafe",
+      "lot": "G-038, G-E-038 & G-039"
+    },
+    {
+      "name": "Sister Crispy Popiah",
+      "lot": "B1-K-03"
+    },
+    {
+      "name": "Sopoong",
+      "lot": "B1-070"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "B1-049"
+    },
+    {
+      "name": "Stuff'd",
+      "lot": "B1-067"
+    },
+    {
+      "name": "Subway",
+      "lot": "B1-07 & B1-08"
+    },
+    {
+      "name": "Suka Hati Kopitiam",
+      "lot": "B1-076, 077 & 089, 090"
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "L2-042"
+    },
+    {
+      "name": "Supernomms Fried Chicken",
+      "lot": "B1-073"
+    },
+    {
+      "name": "Sushi Plus",
+      "lot": "B1-075"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "G-021 & G-021A"
+    },
+    {
+      "name": "Syok Ayam Gepuk",
+      "lot": "B1-083A & B1-085"
+    },
+    {
+      "name": "Tealive",
+      "lot": "B1-055 & L3-K-04"
+    },
+    {
+      "name": "TGI Fridays",
+      "lot": "G-016"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "B1-026"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G-03A"
+    },
+    {
+      "name": "Ticco",
+      "lot": "G-026"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "B1-071"
+    },
+    {
+      "name": "Ume Tei",
+      "lot": "L1-012B"
+    },
+    {
+      "name": "Urban Juicer",
+      "lot": "L1-K-08"
+    },
+    {
+      "name": "Vanilla Crepe",
+      "lot": "B1-057"
+    },
+    {
+      "name": "Whisk KL",
+      "lot": "L1-012A"
+    },
+    {
+      "name": "Yo! Coconut",
+      "lot": "G-K-018"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "G-K-015 & G-K-016"
+    }
+  ]
+}

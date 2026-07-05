@@ -1,0 +1,314 @@
+{
+  "mall": "1 Utama Shopping Centre",
+  "categories": [
+    "bakery",
+    "snacks-dessert-confectionery"
+  ],
+  "count": 76,
+  "outlets": [
+    {
+      "name": "KOMUGI",
+      "lot": "LG209-LGK1A"
+    },
+    {
+      "name": "Lavender Bakery",
+      "lot": "G212"
+    },
+    {
+      "name": "Rotiboy Bakeshoppe",
+      "lot": "LG353A"
+    },
+    {
+      "name": "Sunmoulin",
+      "lot": "G201"
+    },
+    {
+      "name": "Verrona Hills Bread & Patisserie",
+      "lot": "LG333"
+    },
+    {
+      "name": "AUNTEA JENNY",
+      "lot": "FK1C"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LGK3"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "FK8"
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "lot": "LG210A"
+    },
+    {
+      "name": "Beryl's",
+      "lot": "LG212"
+    },
+    {
+      "name": "BEUTEA茶仙子",
+      "lot": "GK102"
+    },
+    {
+      "name": "BIBI'S POPIAH",
+      "lot": "LGK1B"
+    },
+    {
+      "name": "Bisou",
+      "lot": "FK6"
+    },
+    {
+      "name": "Bo the Avocado",
+      "lot": "SK8"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "FK101"
+    },
+    {
+      "name": "Châteraisé",
+      "lot": "LG330"
+    },
+    {
+      "name": "Cheevit Cheeva",
+      "lot": "F336"
+    },
+    {
+      "name": "Chez Choux",
+      "lot": "LGK103A"
+    },
+    {
+      "name": "Childhood",
+      "lot": "S128"
+    },
+    {
+      "name": "CHIZU",
+      "lot": "SK2E-SK2F"
+    },
+    {
+      "name": "CHUCHAT",
+      "lot": "LGK1C"
+    },
+    {
+      "name": "Churros+",
+      "lot": "LG319A"
+    },
+    {
+      "name": "CINNABON",
+      "lot": "GK103"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "LGK2A"
+    },
+    {
+      "name": "Eggette Lab",
+      "lot": "LGK107"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "G145"
+    },
+    {
+      "name": "Frost n Bites",
+      "lot": "LGK5"
+    },
+    {
+      "name": "Garrett Popcorn Shops",
+      "lot": "LGK2"
+    },
+    {
+      "name": "Gindaco",
+      "lot": "LGK102"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "GK111"
+    },
+    {
+      "name": "Haagen Dazs",
+      "lot": "SK5"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "LG313"
+    },
+    {
+      "name": "I Love Yoo",
+      "lot": "LG117"
+    },
+    {
+      "name": "ILike& Yogurt in a Can",
+      "lot": "G218B"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "S203"
+    },
+    {
+      "name": "Jom Cha by Farm Fresh",
+      "lot": "FK109"
+    },
+    {
+      "name": "Joymom's",
+      "lot": "LGK11"
+    },
+    {
+      "name": "Juice Works",
+      "lot": "FK3B"
+    },
+    {
+      "name": "Jungle House",
+      "lot": "LG213"
+    },
+    {
+      "name": "KOI The",
+      "lot": "LG329"
+    },
+    {
+      "name": "KRISPY KREME DOUGHNUTS",
+      "lot": "LGK116C"
+    },
+    {
+      "name": "KUMO KUMO KEJU",
+      "lot": "LG220"
+    },
+    {
+      "name": "llaollao",
+      "lot": "SK106A"
+    },
+    {
+      "name": "LUCKY CUP",
+      "lot": "G626"
+    },
+    {
+      "name": "MAHNAZ FOOD",
+      "lot": "LGK7"
+    },
+    {
+      "name": "Mayuri's Ipoh Murukku",
+      "lot": "LGK116A"
+    },
+    {
+      "name": "MBG",
+      "lot": "LGK1"
+    },
+    {
+      "name": "Melvados™",
+      "lot": "LGK116B"
+    },
+    {
+      "name": "Mil Toast",
+      "lot": "G613A-G613B"
+    },
+    {
+      "name": "MiX.STORE",
+      "lot": "LG308D"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "G627"
+    },
+    {
+      "name": "MMM CUBE BY LESIM",
+      "lot": "LGK116"
+    },
+    {
+      "name": "MYEureka Snack Bar",
+      "lot": "SK2C"
+    },
+    {
+      "name": "Nadeje",
+      "lot": "GK101"
+    },
+    {
+      "name": "Nelson's",
+      "lot": "SK2D"
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": "LGK9"
+    },
+    {
+      "name": "OLOIYA",
+      "lot": "LG313B"
+    },
+    {
+      "name": "Patchi",
+      "lot": "G107"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LGK113"
+    },
+    {
+      "name": "ROYCE",
+      "lot": "G145A"
+    },
+    {
+      "name": "Seaweed Club",
+      "lot": "LGK110"
+    },
+    {
+      "name": "SHANTEA DESSERT",
+      "lot": "FK105A"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG312A"
+    },
+    {
+      "name": "Shojikiya (Second Floor)",
+      "lot": "SK9AA"
+    },
+    {
+      "name": "SS2 Goreng Pisang",
+      "lot": "LGK112"
+    },
+    {
+      "name": "Strudel Bakery House",
+      "lot": "LGK116D"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "SK101"
+    },
+    {
+      "name": "TGV",
+      "lot": "SK110"
+    },
+    {
+      "name": "The Bretzel & Co",
+      "lot": "SK2B"
+    },
+    {
+      "name": "The Cocoa Trees",
+      "lot": "LGK6"
+    },
+    {
+      "name": "The Ice Cream Bar",
+      "lot": "FK105B"
+    },
+    {
+      "name": "Ticco",
+      "lot": "GK105"
+    },
+    {
+      "name": "Yolé",
+      "lot": "GK112"
+    },
+    {
+      "name": "Yomaro Frozen Yogurt",
+      "lot": "FK5A"
+    },
+    {
+      "name": "Yong Sheng",
+      "lot": "LG215"
+    },
+    {
+      "name": "Zhaoji Desserts",
+      "lot": "G213"
+    }
+  ]
+}

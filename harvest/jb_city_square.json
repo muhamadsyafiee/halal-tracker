@@ -1,0 +1,100 @@
+{
+  "mall": "Johor Bahru City Square",
+  "directory_url": "https://www.citysqjb.com/store-directories",
+  "method": "html (Joomla category page /food-beverage, paginated via ?start=)",
+  "count": 23,
+  "outlets": [
+    {
+      "name": "AK Noodles",
+      "lot": "Level 2"
+    },
+    {
+      "name": "Arashi",
+      "lot": "Level 2"
+    },
+    {
+      "name": "Avery-Day",
+      "lot": "Level 1"
+    },
+    {
+      "name": "BAR-B-Q Plaza",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "Level 1"
+    },
+    {
+      "name": "BornGa Korean Restaurant",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Burger King",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "Level 2"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Hock Kee Kopitiam",
+      "lot": "Level 4"
+    },
+    {
+      "name": "J.Co Donuts & Coffee",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Meng Meng Roasted Duck",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Ming Ang",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "Basement 1"
+    },
+    {
+      "name": "Penang Road Famous Teochew Chendul",
+      "lot": "Level 3"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Tao Yuan",
+      "lot": "Level 2"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Level 2"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Level 1"
+    },
+    {
+      "name": "Ticco",
+      "lot": "Level 3"
+    }
+  ]
+}

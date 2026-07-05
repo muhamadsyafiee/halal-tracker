@@ -1,0 +1,316 @@
+{
+  "mall": "Vivacity Megamall",
+  "directory_url": "https://vivacity.com.my/business-directory/",
+  "method": "curl_html_wpbdp_category_pagination",
+  "count": 77,
+  "outlets": [
+    {
+      "name": "4FINGERS",
+      "lot": "L3-045"
+    },
+    {
+      "name": "Ages Ago & Liang Crispy Roll",
+      "lot": "LG-K003"
+    },
+    {
+      "name": "Ajisen Ramen",
+      "lot": "L3-042"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "L1-K003"
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "lot": "LG-007"
+    },
+    {
+      "name": "Beeź Gelato",
+      "lot": "L3-K003"
+    },
+    {
+      "name": "BeuTea",
+      "lot": "L3-020"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "LG-003B"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "L3-001 & L3-002"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G-K001A"
+    },
+    {
+      "name": "Bungkus Away",
+      "lot": "LG-K007"
+    },
+    {
+      "name": "Candy Street",
+      "lot": "LG-K010A"
+    },
+    {
+      "name": "Cha Time",
+      "lot": "L3-K005(B)"
+    },
+    {
+      "name": "Chickilicious",
+      "lot": "L3-032A"
+    },
+    {
+      "name": "Chijue Bae",
+      "lot": "LG-K011A"
+    },
+    {
+      "name": "Cocoa Wonder",
+      "lot": "LG-K009"
+    },
+    {
+      "name": "Ding Tea",
+      "lot": "L2-063"
+    },
+    {
+      "name": "Dubuyo",
+      "lot": "LG-017 & LG-018"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-K009A"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "L1-K005"
+    },
+    {
+      "name": "Farmer’s Crib",
+      "lot": "L3-026"
+    },
+    {
+      "name": "Food Court-Great Viva",
+      "lot": "L3-006A &L3-006B"
+    },
+    {
+      "name": "Fun Hut",
+      "lot": "LG-024 & LG-025"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "G-074As & G-074Bs"
+    },
+    {
+      "name": "Go Noodle House",
+      "lot": "L3-021 & L3-022"
+    },
+    {
+      "name": "Godiva",
+      "lot": "G-K005"
+    },
+    {
+      "name": "Grand Castella",
+      "lot": "L3-K009A"
+    },
+    {
+      "name": "Haidilao Hot Pot",
+      "lot": "L3-037A & L3-037B"
+    },
+    {
+      "name": "Hazukido",
+      "lot": "LG-K006"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "G-075s & G-076As"
+    },
+    {
+      "name": "I Love Yoo",
+      "lot": "L3-006C"
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": "L3-003 & L3-004"
+    },
+    {
+      "name": "Kejuú",
+      "lot": "L3-K008A"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "L3-016"
+    },
+    {
+      "name": "KFC",
+      "lot": "G-072A, G-072B & G-072As"
+    },
+    {
+      "name": "Koi Thé",
+      "lot": "G-077s, G-078s & G-079s"
+    },
+    {
+      "name": "Kopi Kopi",
+      "lot": "LG-006"
+    },
+    {
+      "name": "Kosa Coffee",
+      "lot": "G-K008"
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "G-K009"
+    },
+    {
+      "name": "Loong Kee",
+      "lot": "L3-036"
+    },
+    {
+      "name": "Magic Bites",
+      "lot": "L3-K002"
+    },
+    {
+      "name": "MammaBunz",
+      "lot": "L3-K004(B)"
+    },
+    {
+      "name": "Manhattan Fish Market",
+      "lot": "L3-019"
+    },
+    {
+      "name": "Master Lee Klang Claypot Bak Kut Teh",
+      "lot": "L3-017"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "G-075s"
+    },
+    {
+      "name": "Mokti’s",
+      "lot": "L3-K005(A)"
+    },
+    {
+      "name": "Momoyo",
+      "lot": "LG-K002"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "G-051, G-051s & G-065B"
+    },
+    {
+      "name": "Peanuts Anchovies",
+      "lot": "L3-024"
+    },
+    {
+      "name": "Potato King",
+      "lot": "L3-007"
+    },
+    {
+      "name": "Potato Story",
+      "lot": "LG-K008"
+    },
+    {
+      "name": "Raw Juicery",
+      "lot": "LG-K004"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "LG-012B"
+    },
+    {
+      "name": "Roycé Chocolate",
+      "lot": "G-K012"
+    },
+    {
+      "name": "Sangkaya",
+      "lot": "LG-K010B"
+    },
+    {
+      "name": "Seoul Chicken",
+      "lot": "L3-043 & L3-044"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "L3-038 & L3-039"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-012A"
+    },
+    {
+      "name": "Signature Madam Tang’s Cafe",
+      "lot": "L3-005C"
+    },
+    {
+      "name": "SORU YOKOHAMA RAMEN",
+      "lot": "L3-008"
+    },
+    {
+      "name": "Street Churros",
+      "lot": "L3-025B"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": "L3-018"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "L3-023"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "L3-027 & L3-028"
+    },
+    {
+      "name": "Ta-Daa Box",
+      "lot": "L3-K010A & L3-K010B"
+    },
+    {
+      "name": "Taka Patisserie",
+      "lot": "LG-013, LG-014 & LG-015"
+    },
+    {
+      "name": "Tealive",
+      "lot": "LG-K005"
+    },
+    {
+      "name": "Teppanyaki Guys",
+      "lot": "G-072C"
+    },
+    {
+      "name": "The Bretzel Co",
+      "lot": "L3-K008B"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "L3-040 & L3-041"
+    },
+    {
+      "name": "Thumbs",
+      "lot": "L3-K004(A)"
+    },
+    {
+      "name": "Tuk Tuk Thai Boat Noodle",
+      "lot": "L3-015"
+    },
+    {
+      "name": "Uncle Bob",
+      "lot": "LG-022 & LG-023"
+    },
+    {
+      "name": "YOGURT PLANET",
+      "lot": "L3 K004B"
+    },
+    {
+      "name": "Yolé",
+      "lot": "L3-025A"
+    },
+    {
+      "name": "YONNY",
+      "lot": "L3-009"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "L3-K006"
+    }
+  ]
+}

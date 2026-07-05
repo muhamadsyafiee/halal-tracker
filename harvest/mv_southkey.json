@@ -1,0 +1,424 @@
+{
+  "mall": "Mid Valley Southkey",
+  "directory_url": "https://www.midvalleysouthkey.com/shop/directory/",
+  "method": "html",
+  "count": 104,
+  "outlets": [
+    {
+      "name": "4Fingers Crispy Chicken",
+      "lot": null
+    },
+    {
+      "name": "A&W",
+      "lot": null
+    },
+    {
+      "name": "Absolute Thai",
+      "lot": null
+    },
+    {
+      "name": "Antipodean",
+      "lot": null
+    },
+    {
+      "name": "APOLLO Pick-A-LiciOus",
+      "lot": null
+    },
+    {
+      "name": "Arashi Shabu-Shabu",
+      "lot": null
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": null
+    },
+    {
+      "name": "B.O.D 包栈",
+      "lot": null
+    },
+    {
+      "name": "Bao Jun Hot Pot",
+      "lot": null
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null
+    },
+    {
+      "name": "Beutea",
+      "lot": null
+    },
+    {
+      "name": "Carl's Jr",
+      "lot": null
+    },
+    {
+      "name": "CHAGEE 霸王茶姬",
+      "lot": null
+    },
+    {
+      "name": "Chateraise",
+      "lot": null
+    },
+    {
+      "name": "Chi-Gui Mala Hot Pot",
+      "lot": null
+    },
+    {
+      "name": "Childhood",
+      "lot": null
+    },
+    {
+      "name": "Din by Din Tai Fung",
+      "lot": null
+    },
+    {
+      "name": "dipndip",
+      "lot": null
+    },
+    {
+      "name": "Dragon-i",
+      "lot": null
+    },
+    {
+      "name": "Dubu Yo (Urban Korean Food)",
+      "lot": null
+    },
+    {
+      "name": "DUNKIN'",
+      "lot": null
+    },
+    {
+      "name": "Eggette Lab",
+      "lot": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null
+    },
+    {
+      "name": "Eureka Snack Bar",
+      "lot": null
+    },
+    {
+      "name": "FamilyMart",
+      "lot": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null
+    },
+    {
+      "name": "Fix Banana Leaf",
+      "lot": null
+    },
+    {
+      "name": "FUIYOH! It's UNCLE ROGER",
+      "lot": null
+    },
+    {
+      "name": "Garrett Popcorn Shops®",
+      "lot": null
+    },
+    {
+      "name": "GIGI Coffee",
+      "lot": null
+    },
+    {
+      "name": "Gong cha",
+      "lot": null
+    },
+    {
+      "name": "HEYTEA",
+      "lot": null
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": null
+    },
+    {
+      "name": "Jang Won Korea BBQ",
+      "lot": null
+    },
+    {
+      "name": "JIN Gastrobar by Aurum Theatre",
+      "lot": null
+    },
+    {
+      "name": "Juice Works",
+      "lot": null
+    },
+    {
+      "name": "Jungle House",
+      "lot": null
+    },
+    {
+      "name": "Ke Ren Lai",
+      "lot": null
+    },
+    {
+      "name": "Kedai Kopitiam Oriental Kopi",
+      "lot": null
+    },
+    {
+      "name": "KFC",
+      "lot": null
+    },
+    {
+      "name": "Kinsahi",
+      "lot": null
+    },
+    {
+      "name": "KOI The",
+      "lot": null
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": null
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": null
+    },
+    {
+      "name": "Kwan Kee Store",
+      "lot": null
+    },
+    {
+      "name": "KyoChon 1991",
+      "lot": null
+    },
+    {
+      "name": "Lapisan Patisserie",
+      "lot": null
+    },
+    {
+      "name": "Lavender",
+      "lot": null
+    },
+    {
+      "name": "llaollao",
+      "lot": null
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": null
+    },
+    {
+      "name": "Madam Kwan's",
+      "lot": null
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": null
+    },
+    {
+      "name": "Mak's Chee Authentic Wonton 麥氏西池港式雲吞麵",
+      "lot": null
+    },
+    {
+      "name": "Marrybrown",
+      "lot": null
+    },
+    {
+      "name": "Meng Meng Roasted Duck",
+      "lot": null
+    },
+    {
+      "name": "MiX.STORE",
+      "lot": null
+    },
+    {
+      "name": "Mr Dakgalbi Restaurant",
+      "lot": null
+    },
+    {
+      "name": "MyIPOH 怡保",
+      "lot": null
+    },
+    {
+      "name": "Nam Heong Ipoh",
+      "lot": null
+    },
+    {
+      "name": "Nando's",
+      "lot": null
+    },
+    {
+      "name": "Nong Geng Ji Hunan Cuisine 农耕记湖南菜",
+      "lot": null
+    },
+    {
+      "name": "OldTown White Coffee",
+      "lot": null
+    },
+    {
+      "name": "Palsaik Korean BBQ",
+      "lot": null
+    },
+    {
+      "name": "ParaThai",
+      "lot": null
+    },
+    {
+      "name": "Pasta Zanmai",
+      "lot": null
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": null
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": null
+    },
+    {
+      "name": "PopCorn Food Hall",
+      "lot": null
+    },
+    {
+      "name": "RA-MEN BANKARA",
+      "lot": null
+    },
+    {
+      "name": "Ramah Ramah",
+      "lot": null
+    },
+    {
+      "name": "Royce",
+      "lot": null
+    },
+    {
+      "name": "S.D.S SINCE 1987 Bakery Café",
+      "lot": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null
+    },
+    {
+      "name": "SEK TONG by 深夜食糖",
+      "lot": null
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": null
+    },
+    {
+      "name": "Signature Market",
+      "lot": null
+    },
+    {
+      "name": "Sin Man Kee HK Char Chan Teng",
+      "lot": null
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": null
+    },
+    {
+      "name": "Souper Tang",
+      "lot": null
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": null
+    },
+    {
+      "name": "SUBWAY®",
+      "lot": null
+    },
+    {
+      "name": "Sukiya",
+      "lot": null
+    },
+    {
+      "name": "Sumido",
+      "lot": null
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": null
+    },
+    {
+      "name": "Tao Yuan",
+      "lot": null
+    },
+    {
+      "name": "Taro Yuan",
+      "lot": null
+    },
+    {
+      "name": "Tealive",
+      "lot": null
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": null
+    },
+    {
+      "name": "TGI Fridays",
+      "lot": null
+    },
+    {
+      "name": "ThaiExpress",
+      "lot": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null
+    },
+    {
+      "name": "The Founders Bakery",
+      "lot": null
+    },
+    {
+      "name": "The Founders Cafe",
+      "lot": null
+    },
+    {
+      "name": "Tokyo Japanese Cuisine",
+      "lot": null
+    },
+    {
+      "name": "Tonkatsu by Ma Maison",
+      "lot": null
+    },
+    {
+      "name": "Udders",
+      "lot": null
+    },
+    {
+      "name": "VERRONA HILLS",
+      "lot": null
+    },
+    {
+      "name": "Village Grocer",
+      "lot": null
+    },
+    {
+      "name": "Vivo American Pizza & Panini",
+      "lot": null
+    },
+    {
+      "name": "Yonny 鱼你",
+      "lot": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": null
+    },
+    {
+      "name": "樂天皇朝 Paradise Dynasty / 美滋锅 Beauty In The Pot",
+      "lot": null
+    }
+  ]
+}

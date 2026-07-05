@@ -1,0 +1,272 @@
+{
+  "mall": "Aman Central",
+  "directory_url": "https://www.amancentral.com.my/directory/",
+  "method": "curl_category_filter",
+  "count": 66,
+  "outlets": [
+    {
+      "name": "Bananabro",
+      "lot": "4-36 & 37"
+    },
+    {
+      "name": "Bask Bear Coffee",
+      "lot": "LG-K02"
+    },
+    {
+      "name": "Beutea",
+      "lot": "4-K02A"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "4-K03A-A"
+    },
+    {
+      "name": "Bingxue",
+      "lot": "4-K03-A&B"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "G-60 & 72"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "4-38 & K13A"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG-02"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG-29 & 30"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "LG-20"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "LG-K16"
+    },
+    {
+      "name": "Damas King",
+      "lot": "LG-K11 & K12"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "G-63A-A & 75 AF"
+    },
+    {
+      "name": "Dubuyo",
+      "lot": "LG-15 & 16"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "4-K05"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "4-K06"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-05"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LG-K13"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "LG-23 & 23-A"
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": "LG- 25 & 26"
+    },
+    {
+      "name": "Jom Amigo Steamboat",
+      "lot": "4-32"
+    },
+    {
+      "name": "JomCha",
+      "lot": "4-K01B"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "G-66 & 77"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "LG-09 & 10"
+    },
+    {
+      "name": "KFC",
+      "lot": "1-40 & 56 & 57"
+    },
+    {
+      "name": "Kopi Utara",
+      "lot": "2-K02"
+    },
+    {
+      "name": "Ma Chinese Muslim Roti",
+      "lot": "LG-K05 & K06"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "1-39A, 58, 59, 60, 67 & 68"
+    },
+    {
+      "name": "Mee Tarik Warisan Asli",
+      "lot": "4-30 & 31"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "4-36 & 37"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "4-28 & 29"
+    },
+    {
+      "name": "Oiso Korean Traditional  Cuisine & Cafe",
+      "lot": "4-25 & 26"
+    },
+    {
+      "name": "Pasta Port",
+      "lot": "LG-K21 & 22"
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": "4-23A"
+    },
+    {
+      "name": "Penyetpenyet.com",
+      "lot": "4-27"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "2-23"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "1-53, 1-53A, 1-63A & 1-65"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G-65 & 76"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "3-23"
+    },
+    {
+      "name": "Sopoong",
+      "lot": "G-59 & 71"
+    },
+    {
+      "name": "Sparq Coffee",
+      "lot": "3-K02"
+    },
+    {
+      "name": "Sukiya",
+      "lot": "4-23"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "4-01B"
+    },
+    {
+      "name": "Tealive",
+      "lot": "4-K03A-C & D"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "1-47 & 50"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-13 & 13A"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G-62A & 73A"
+    },
+    {
+      "name": "Thong Bowl & Thong Cha",
+      "lot": "1-51,52, 62 & 63"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "LG-K28 & K29"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LG-K25 & K26"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G-07 & 12"
+    },
+    {
+      "name": "Chagee",
+      "lot": "G-61 & 73"
+    },
+    {
+      "name": "Churros+",
+      "lot": "LG-K19 & K20"
+    },
+    {
+      "name": "Empire Sushi Dine-In",
+      "lot": "LG-31"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-K23 & K23A"
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "LG-K07"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG-K13A"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "LG-K30"
+    },
+    {
+      "name": "llaollao",
+      "lot": "1-K03"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "LG-K32 & K33"
+    },
+    {
+      "name": "MyLaksa",
+      "lot": "LG-11"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-K08 & K09"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "LG-K15"
+    },
+    {
+      "name": "Sweetly",
+      "lot": "LG-K31"
+    },
+    {
+      "name": "Tropical Cut Fruits",
+      "lot": "LG-K10"
+    },
+    {
+      "name": "Xixiang",
+      "lot": "3-K03 & K06"
+    }
+  ]
+}

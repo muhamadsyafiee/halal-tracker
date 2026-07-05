@@ -1,0 +1,324 @@
+{
+  "mall": "Berjaya Times Square",
+  "directory_url": "https://berjayatimessquarekl.com/store-directory/",
+  "method": "endpoint",
+  "count": 79,
+  "outlets": [
+    {
+      "name": "unimart",
+      "lot": "02-49-10"
+    },
+    {
+      "name": "BikBok",
+      "lot": "LG-19D 2"
+    },
+    {
+      "name": "PADI by Shikiya",
+      "lot": "04-92"
+    },
+    {
+      "name": "Yihe Tang",
+      "lot": "01-18"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "LG-69"
+    },
+    {
+      "name": "Auntie Sophia",
+      "lot": "K-02-02"
+    },
+    {
+      "name": "BerryGood",
+      "lot": "LG-18-01"
+    },
+    {
+      "name": "Chill Up",
+      "lot": "LG-19B-2"
+    },
+    {
+      "name": "Papparoti",
+      "lot": "LG-18C-05"
+    },
+    {
+      "name": "Thong Bowl",
+      "lot": "LG-12 & 13"
+    },
+    {
+      "name": "Beutea",
+      "lot": "G-13"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "LG-49B"
+    },
+    {
+      "name": "Beard Papa’s",
+      "lot": "LG-19B-1"
+    },
+    {
+      "name": "PobbyIce",
+      "lot": "LG-18A-2"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "LG-49A-1"
+    },
+    {
+      "name": "PapaFry",
+      "lot": "LG-71"
+    },
+    {
+      "name": "Memang Meow Kopitiam",
+      "lot": "LG-50"
+    },
+    {
+      "name": "Ikat Tepi B289",
+      "lot": "LG-19G-3"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "LG-19F"
+    },
+    {
+      "name": "BreadStory",
+      "lot": "LG-18A"
+    },
+    {
+      "name": "Kung Ting Su",
+      "lot": "LG-19D-1"
+    },
+    {
+      "name": "Madchilli Pan Mee",
+      "lot": "LG-57"
+    },
+    {
+      "name": "Selera Kampung",
+      "lot": "03-102"
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "K-02-01"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "LG-18C-02"
+    },
+    {
+      "name": "KOI The",
+      "lot": "LG-49A-2"
+    },
+    {
+      "name": "Mee Tarik Faizal Kong",
+      "lot": "03-103"
+    },
+    {
+      "name": "Ai-CHA",
+      "lot": "LG-26"
+    },
+    {
+      "name": "Tangkak Beef Noodle House",
+      "lot": "LG-21 & 22"
+    },
+    {
+      "name": "Yu Kiosuku",
+      "lot": "LG-18C-01"
+    },
+    {
+      "name": "The Food Tree",
+      "lot": "03-110"
+    },
+    {
+      "name": "Only Mee DIY",
+      "lot": "03-90"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-73"
+    },
+    {
+      "name": "Kadir Pasembor",
+      "lot": "01-20"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LG-18C-06"
+    },
+    {
+      "name": "Tacobell",
+      "lot": "LG-09B"
+    },
+    {
+      "name": "LUNA LUNA",
+      "lot": "LG-72"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "LG-18C-03A"
+    },
+    {
+      "name": "Kopi Recipe",
+      "lot": "06-81"
+    },
+    {
+      "name": "Kakatoo",
+      "lot": "01-12"
+    },
+    {
+      "name": "Ayam Penyet Ria",
+      "lot": "LG-40"
+    },
+    {
+      "name": "Mixue",
+      "lot": "K-02-03"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "LG-10"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-18A-1"
+    },
+    {
+      "name": "Cwtch Fish & Chips",
+      "lot": "LG-19B-3"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "K-01-03C"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "01-11"
+    },
+    {
+      "name": "Paradise Reyan",
+      "lot": "04-88"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "05-100-101"
+    },
+    {
+      "name": "Bubu Cafe",
+      "lot": "05-88"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "03-98A"
+    },
+    {
+      "name": "Hadramot Express",
+      "lot": "04-93"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "03-104"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG-09A"
+    },
+    {
+      "name": "Ayam Penyet Express",
+      "lot": "03-101"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "01-06"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "K-01-03B"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "K-01-02"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "K-01-01"
+    },
+    {
+      "name": "Hometown Hainan Coffee",
+      "lot": "G-12D & 12E,14-16"
+    },
+    {
+      "name": "Starbucks Reserve",
+      "lot": "G-11,11C,11D,11E,11G & G12"
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "lot": "LG-09C"
+    },
+    {
+      "name": "Vivo American Pizza & Panini",
+      "lot": "LG-65-68"
+    },
+    {
+      "name": "Banana Bro",
+      "lot": "LG-59B"
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": "LG-58-1 & 58-2"
+    },
+    {
+      "name": "Lee Da Jie Chong Qing Noodles",
+      "lot": "LG-51-53"
+    },
+    {
+      "name": "Llaollao",
+      "lot": "LG-49A"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "LG-47-49"
+    },
+    {
+      "name": "Taste of Asia",
+      "lot": "LG-23"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts & Coffee",
+      "lot": "LG-19C"
+    },
+    {
+      "name": "Juicy Fresh Juice Bar",
+      "lot": "LG-18C-03"
+    },
+    {
+      "name": "Iz Tropical Fruit",
+      "lot": "LG-18D-3"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-18D-2"
+    },
+    {
+      "name": "Tealive",
+      "lot": "LG-18D-1"
+    },
+    {
+      "name": "Miki Bakery",
+      "lot": "LG-18-06"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LG-19A"
+    },
+    {
+      "name": "My Eureka Snack Bar",
+      "lot": "LG-18-03A"
+    },
+    {
+      "name": "McDonalds Ice Cream Kiosk",
+      "lot": "LG-18-03"
+    },
+    {
+      "name": "KFC",
+      "lot": "LG-34A"
+    }
+  ]
+}

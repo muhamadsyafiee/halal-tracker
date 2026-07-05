@@ -1,0 +1,419 @@
+{
+  "mall": "Melawati Mall",
+  "directory_url": "https://www.melawatimall.com/shop-index/all",
+  "count": 58,
+  "summary": {
+    "certified": 19,
+    "review": 16,
+    "uncertified": 23,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Chagee",
+      "lot": "GF-28",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Chizu",
+      "lot": "GF-24/25",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "DRINKS KINGDOM SDN. BHD."
+    },
+    {
+      "name": "Lapisan Pâtisserie",
+      "lot": "GF-29",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "GF-26",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "HEXTAR LUCKIN (M) SDN BHD"
+    },
+    {
+      "name": "Molten Chocolate Café",
+      "lot": "GF-20",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "GF-27",
+      "status": "certified",
+      "myehalal_matches": 18,
+      "cert_holder": "SAN FRANCISCO COFFEE SDN BHD"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "GF-08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Village Cafe",
+      "lot": "LG-01",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "L1-K1",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "L3-21",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": "L1-K4, L1-12",
+      "status": "review",
+      "myehalal_matches": 135,
+      "cert_holder": "BB COFFEE SDN BHD"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "L3-24A/25",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "L3-07",
+      "status": "certified",
+      "myehalal_matches": 34,
+      "cert_holder": "AROIVER BOAT NOODLE"
+    },
+    {
+      "name": "Carl's Jr",
+      "lot": "LG-23/24B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Champur",
+      "lot": "L3-09",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Golden Valley",
+      "lot": "L3-18/19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Johnny's Steamboat",
+      "lot": "L3-26",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "L3-05",
+      "status": "certified",
+      "myehalal_matches": 240,
+      "cert_holder": "MARRYBROWN SDN BHD (FORMERLY KNOWN AS MARRYBROWN FRIED CHICKEN SDN BHD)"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "L3-12, L3-K4",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "MHFB RESOURCES SDN BHD"
+    },
+    {
+      "name": "Mr Dakgalbi & Chicken Plus",
+      "lot": "L3-27/28",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nabe-Ya By Nabe Hotpot & Sukiyaki",
+      "lot": "L3-08",
+      "status": "certified",
+      "myehalal_matches": 3,
+      "cert_holder": "NABE HOTPOT SDN BHD"
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": "LG-27",
+      "status": "review",
+      "myehalal_matches": 10,
+      "cert_holder": "DESSERT CAPTAIN SDN BHD"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "L3-29",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "L3-01/02",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "L3-03/04",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Sopoong",
+      "lot": "L3-20",
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "FUTURE OUTLOOK SDN BHD"
+    },
+    {
+      "name": "Subway",
+      "lot": "L3-22",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-26",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "L3-06, L3-K5B",
+      "status": "certified",
+      "myehalal_matches": 50,
+      "cert_holder": "TEA GARDEN RESTAURANT (MY) SDN. BHD."
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-22/23A",
+      "status": "certified",
+      "myehalal_matches": 104,
+      "cert_holder": "TEXAS CHICKEN (MALAYSIA) SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "L3-10/11",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "LG-03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Manhattan Fish Market",
+      "lot": "L3-15, L3-K5A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TonyRoma's",
+      "lot": "L3-16A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "US PIZZA",
+      "lot": "L5-06",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "DOMMAL FOOD SERVICES SDN BHD"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "L1-K3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beutea",
+      "lot": "LG-09D",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "LG-09C",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG-09",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG-30/31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "L2-K2",
+      "status": "review",
+      "myehalal_matches": 70,
+      "cert_holder": "GREY HERON SDN BHD"
+    },
+    {
+      "name": "Cheeky Croffle",
+      "lot": "LG-11",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cheezuto",
+      "lot": "L3-K3A",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "ZUTO GROUP SDN. BHD."
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-32/33",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-10",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG-09E",
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "LG-08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Komugi",
+      "lot": "LG-25",
+      "status": "review",
+      "myehalal_matches": 13,
+      "cert_holder": "MULTIPLE REWARD SDN BHD"
+    },
+    {
+      "name": "Llaollao",
+      "lot": "L3-K1",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "LG-15B, LG-15C",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mixue",
+      "lot": "LG-14",
+      "status": "certified",
+      "myehalal_matches": 251,
+      "cert_holder": "MIXUE MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LG-02A",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "ROCKS FOODS SDN. BHD."
+    },
+    {
+      "name": "QCC Baked",
+      "lot": "LG-13, LG-35",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sushi Panda",
+      "lot": "L3-32",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sweetly",
+      "lot": "L3-K3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive",
+      "lot": "LG-09B",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "THE BRETZEL CO",
+      "lot": "LG-09A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Food Empire",
+      "lot": "L3-33",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    }
+  ]
+}

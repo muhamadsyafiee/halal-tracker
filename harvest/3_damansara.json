@@ -1,0 +1,164 @@
+{
+  "mall": "3 Damansara (Tropicana City Mall)",
+  "directory_url": "https://3damansara.com.my/stores/",
+  "method": "curl_sf_paged_html",
+  "count": 39,
+  "outlets": [
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": null
+    },
+    {
+      "name": "Ah Yip Herbal Soup",
+      "lot": null
+    },
+    {
+      "name": "Ayam Penyet Best Station",
+      "lot": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": null
+    },
+    {
+      "name": "Zai San Bei",
+      "lot": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": null
+    },
+    {
+      "name": "恭和堂 KOONG WOH TONG",
+      "lot": null
+    },
+    {
+      "name": "Boonaz Cafe",
+      "lot": null
+    },
+    {
+      "name": "Brussels Beer Cafe",
+      "lot": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": null
+    },
+    {
+      "name": "BURGER KING",
+      "lot": null
+    },
+    {
+      "name": "Cocoa Peanut",
+      "lot": null
+    },
+    {
+      "name": "Coolblog",
+      "lot": null
+    },
+    {
+      "name": "Dessert Mi",
+      "lot": null
+    },
+    {
+      "name": "Di’Vine Meats",
+      "lot": null
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": null
+    },
+    {
+      "name": "Fong Woh Tong 芳禾堂",
+      "lot": null
+    },
+    {
+      "name": "Gai Kitchen",
+      "lot": null
+    },
+    {
+      "name": "Gerkins Tea",
+      "lot": null
+    },
+    {
+      "name": "Honey Bunny",
+      "lot": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null
+    },
+    {
+      "name": "Kingdom Palace Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Kobo Bakery",
+      "lot": null
+    },
+    {
+      "name": "Koppiku",
+      "lot": null
+    },
+    {
+      "name": "Mixue",
+      "lot": null
+    },
+    {
+      "name": "Nando’s",
+      "lot": null
+    },
+    {
+      "name": "Oiso Korean Traditional Cuisine & Cafe",
+      "lot": null
+    },
+    {
+      "name": "Papa’s Cafe",
+      "lot": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null
+    },
+    {
+      "name": "Rise & Sip",
+      "lot": null
+    },
+    {
+      "name": "Seoul Station",
+      "lot": null
+    },
+    {
+      "name": "Shanghai Da Da Hun Tun",
+      "lot": null
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": null
+    },
+    {
+      "name": "STARBUCKS COFFEE",
+      "lot": null
+    },
+    {
+      "name": "SUSHI GO",
+      "lot": null
+    },
+    {
+      "name": "Sushihan",
+      "lot": null
+    },
+    {
+      "name": "The Brew House",
+      "lot": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null
+    },
+    {
+      "name": "The Meat Experts",
+      "lot": null
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "mall": "AEON Mall Kinta City",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-kinta-city",
+  "count": 28,
+  "summary": {
+    "certified": 9,
+    "review": 5,
+    "uncertified": 14,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "HOCKHUA TONIC",
+      "lot": "G01&G45",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "G02",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "G18",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "JOHNNY’S RESTAURANT",
+      "lot": "G19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SHIHLIN TAIWAN STREET SNACKS",
+      "lot": "G20",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ICHIBAN RAMEN",
+      "lot": "G25",
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "ZENSHO ICHIBAN MALAYSIA SDN BHD"
+    },
+    {
+      "name": "VIVO AMERICAN PIZZA & PANINI",
+      "lot": "G26",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "THE COFFEE BEAN & TEA LEAF",
+      "lot": "G33",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BLACK CANYON",
+      "lot": "G29",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "EU YAN SANG",
+      "lot": "G35",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "AUNTIE ANNE'S",
+      "lot": "G36",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "EMPIRE SUSHI",
+      "lot": "G37",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "LEGEND OF TEA",
+      "lot": "G38",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "G42",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "RESTAURANT TING HAO",
+      "lot": "F52",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KINTA VILLAGE",
+      "lot": "F57",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "F61",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SECRET RECIPE",
+      "lot": "F62",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "llaollao",
+      "lot": "G41",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": "G27 & G28",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "KRISPY KREME",
+      "lot": "G48",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "F65",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "SUKIYA",
+      "lot": "G16",
+      "status": "review",
+      "myehalal_matches": 31,
+      "cert_holder": "NABE HOTPOT SDN BHD"
+    },
+    {
+      "name": "SEOUL GARDEN",
+      "lot": "G21 & G22",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "GK01",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "RICHEESE FACTORY",
+      "lot": "G17",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "KF-02",
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "BAHULU PERAK",
+      "lot": "F48",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

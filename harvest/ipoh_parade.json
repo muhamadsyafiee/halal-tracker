@@ -1,0 +1,172 @@
+{
+  "mall": "Ipoh Parade",
+  "directory_url": "https://ipoh.parade.com.my/store/",
+  "method": "wp-json /wp/v2/restaurant (REST API custom post type)",
+  "count": 41,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "G27 & G28"
+    },
+    {
+      "name": "AYAM PENYET BEST STATION",
+      "lot": "T17"
+    },
+    {
+      "name": "BANANABRO",
+      "lot": "G19D"
+    },
+    {
+      "name": "BASKIN-ROBBINS",
+      "lot": "G29"
+    },
+    {
+      "name": "BLACK CANYON",
+      "lot": "G19C"
+    },
+    {
+      "name": "BOAT NOODLE",
+      "lot": "T16"
+    },
+    {
+      "name": "BOOST JUICE BAR",
+      "lot": "KT04"
+    },
+    {
+      "name": "BORN & BREAD",
+      "lot": "T11A & T11B"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": "G23"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "G26B"
+    },
+    {
+      "name": "CHATERAISE",
+      "lot": "G02"
+    },
+    {
+      "name": "EGGSPERT",
+      "lot": "KS04"
+    },
+    {
+      "name": "EMPIRE SUSHI",
+      "lot": "KS03"
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "KG13A"
+    },
+    {
+      "name": "HOKKAIDO BAKED CHEESE TART BY SECRET RECIPE",
+      "lot": "G44"
+    },
+    {
+      "name": "HWC COFFEE",
+      "lot": "KF02"
+    },
+    {
+      "name": "ILIKE&YOGURT",
+      "lot": "KS05"
+    },
+    {
+      "name": "JOM CHA",
+      "lot": "KG01"
+    },
+    {
+      "name": "KENANGAN COFFEE",
+      "lot": "KG15"
+    },
+    {
+      "name": "KOONG WOH TONG",
+      "lot": "G40B"
+    },
+    {
+      "name": "KRISPY KREME",
+      "lot": "KG06"
+    },
+    {
+      "name": "LAM FONG YUEN",
+      "lot": "F22 & F53A"
+    },
+    {
+      "name": "LEGEND OF TEA",
+      "lot": "F52"
+    },
+    {
+      "name": "LIANG CRISPY ROLL",
+      "lot": "G-19A, G-19B"
+    },
+    {
+      "name": "LLAOLLAO",
+      "lot": "G30A"
+    },
+    {
+      "name": "MARRYBROWN",
+      "lot": "G21"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "G41B"
+    },
+    {
+      "name": "MYEONGDONG TOPOKKI",
+      "lot": "T15"
+    },
+    {
+      "name": "NEXT FOOD AVENUE",
+      "lot": "T12 & T13"
+    },
+    {
+      "name": "OISO",
+      "lot": "F37, F38 & KF01"
+    },
+    {
+      "name": "PENANG CHENDUL",
+      "lot": "T15A"
+    },
+    {
+      "name": "SALON DU CHOCOLAT",
+      "lot": "G26A"
+    },
+    {
+      "name": "SECRET RECIPE",
+      "lot": "G44"
+    },
+    {
+      "name": "SHIHLIN TAIWAN STREET SNACKS",
+      "lot": "F23 & F53B"
+    },
+    {
+      "name": "SOUPER TANG",
+      "lot": "G19A & G19B"
+    },
+    {
+      "name": "STARBUCKS",
+      "lot": "G24 & G25"
+    },
+    {
+      "name": "SUBWAY",
+      "lot": "F24 & F53C"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "G22"
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "KF03"
+    },
+    {
+      "name": "THE CHICKEN RICE SHOP",
+      "lot": "G20"
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "G03"
+    }
+  ]
+}

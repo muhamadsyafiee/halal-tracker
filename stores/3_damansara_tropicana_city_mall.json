@@ -1,0 +1,286 @@
+{
+  "mall": "3 Damansara (Tropicana City Mall)",
+  "directory_url": "https://3damansara.com.my/stores/",
+  "count": 39,
+  "summary": {
+    "certified": 8,
+    "review": 5,
+    "uncertified": 25,
+    "non_halal": 1
+  },
+  "outlets": [
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ah Yip Herbal Soup",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ayam Penyet Best Station",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "SMART GREEN TRADING SDN. BHD."
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zai San Bei",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "恭和堂 KOONG WOH TONG",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boonaz Cafe",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Brussels Beer Cafe",
+      "lot": null,
+      "status": "non_halal",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Cocoa Peanut",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Coolblog",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 161,
+      "cert_holder": "COOLBLOG ENTERPRISE SDN BHD"
+    },
+    {
+      "name": "Dessert Mi",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Di’Vine Meats",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Fong Woh Tong 芳禾堂",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gai Kitchen",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gerkins Tea",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Honey Bunny",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 66,
+      "cert_holder": "PALATERIUM SDN. BHD."
+    },
+    {
+      "name": "Kingdom Palace Restaurant",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kobo Bakery",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koppiku",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "KOPPIKU SDN. BHD."
+    },
+    {
+      "name": "Mixue",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 251,
+      "cert_holder": "MIXUE MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Nando’s",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Oiso Korean Traditional Cuisine & Cafe",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Papa’s Cafe",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Rise & Sip",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Seoul Station",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shanghai Da Da Hun Tun",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 11,
+      "cert_holder": "SISTERS CRISPY POPIAH (M) SDN BHD"
+    },
+    {
+      "name": "STARBUCKS COFFEE",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "SUSHI GO",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "SUSHI KING SDN BHD"
+    },
+    {
+      "name": "Sushihan",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Brew House",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Meat Experts",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "mall": "AEON Tebrau City",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-tebrau-city",
+  "method": "html",
+  "count": 76,
+  "outlets": [
+    {
+      "name": "STARBUCKS COFFEE",
+      "lot": "G110"
+    },
+    {
+      "name": "BASKIN ROBBINS (GF)",
+      "lot": "G113"
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "S02"
+    },
+    {
+      "name": "SANOOK KITCHEN",
+      "lot": "S22"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": "S20 & S21"
+    },
+    {
+      "name": "VIVO AMERICAN PIZZA",
+      "lot": "S29 & KS8"
+    },
+    {
+      "name": "PENANG ROAD FAMOUS TEOCHEW CHENDUL",
+      "lot": "S30"
+    },
+    {
+      "name": "PAPPA ROTI",
+      "lot": "S32"
+    },
+    {
+      "name": "NATURAL HEALTH FARM",
+      "lot": "S41"
+    },
+    {
+      "name": "Legend Of Tea",
+      "lot": "S42"
+    },
+    {
+      "name": "SECRET RECIPE",
+      "lot": "S48"
+    },
+    {
+      "name": "THE CHICKEN RICE SHOP",
+      "lot": "S49"
+    },
+    {
+      "name": "SOUPER TANG",
+      "lot": "S50"
+    },
+    {
+      "name": "TOKYO KIBOU- KEN",
+      "lot": "S110"
+    },
+    {
+      "name": "ARASHI SHABU SHABU",
+      "lot": "S113"
+    },
+    {
+      "name": "KINSAHI",
+      "lot": "S115"
+    },
+    {
+      "name": "AUNTIE ANNE&#039;S",
+      "lot": "GK 4"
+    },
+    {
+      "name": "KOI THE",
+      "lot": "S08"
+    },
+    {
+      "name": "MEE HIRIS CHINA MUSLIM",
+      "lot": "S49A"
+    },
+    {
+      "name": "JIPINHE SCONES",
+      "lot": "KS2"
+    },
+    {
+      "name": "EU YAN SANG",
+      "lot": "G33"
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "KS6"
+    },
+    {
+      "name": "JOM CHA BY FARM FRESH",
+      "lot": "S33 & SK4"
+    },
+    {
+      "name": "DUBUYO MINI",
+      "lot": "S25"
+    },
+    {
+      "name": "INSIDE SCOOP",
+      "lot": "S28"
+    },
+    {
+      "name": "BEUTEA",
+      "lot": "KS1"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "F30&FK6"
+    },
+    {
+      "name": "HWC COFFEE",
+      "lot": "S12"
+    },
+    {
+      "name": "HAIDILAO",
+      "lot": "S122A"
+    },
+    {
+      "name": "MR SOTONG",
+      "lot": "S10"
+    },
+    {
+      "name": "ROMANLIN ICE CREAM & TEA",
+      "lot": "KS13"
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "KS10"
+    },
+    {
+      "name": "POTATO CORNER",
+      "lot": "GK17"
+    },
+    {
+      "name": "CINNABON",
+      "lot": "GK9"
+    },
+    {
+      "name": "MARUKI RAMEN",
+      "lot": "G 133"
+    },
+    {
+      "name": "108 MATCH SARO MALAYSIA",
+      "lot": "GK7A & 7B"
+    },
+    {
+      "name": "OISO KOREAN TRADITIONAL CUISINE & CAFE",
+      "lot": "G135"
+    },
+    {
+      "name": "KYOCHON 1991",
+      "lot": "G136"
+    },
+    {
+      "name": "SHABU - YO",
+      "lot": "G137"
+    },
+    {
+      "name": "TONKATSU BY MA MAISON",
+      "lot": "G139"
+    },
+    {
+      "name": "CHATRAMUE",
+      "lot": "GK11"
+    },
+    {
+      "name": "EAT PIZZA",
+      "lot": "GK19"
+    },
+    {
+      "name": "FRESCO GELATO",
+      "lot": "GK15"
+    },
+    {
+      "name": "ROYCE&#039;",
+      "lot": "GK13"
+    },
+    {
+      "name": "KWAN KEE STORE",
+      "lot": "GK12"
+    },
+    {
+      "name": "FISH&FISH",
+      "lot": "GK18"
+    },
+    {
+      "name": "THE FOUNDERS BAKERY",
+      "lot": "GK08"
+    },
+    {
+      "name": "O&#039;BRIENS IRISH SANDWICH MALAYSIA",
+      "lot": "GK16"
+    },
+    {
+      "name": "KE REN LAI",
+      "lot": "S129 & S130"
+    },
+    {
+      "name": "KANBE RAMEN",
+      "lot": "G138"
+    },
+    {
+      "name": "FATMAMA BAKERY",
+      "lot": "KS12"
+    },
+    {
+      "name": "AN VIET",
+      "lot": "G111"
+    },
+    {
+      "name": "DIN TAI FUNG 鼎泰豐",
+      "lot": "G112"
+    },
+    {
+      "name": "NONG GENG JI HUNAN CUISINE",
+      "lot": "G116"
+    },
+    {
+      "name": "AH MA TEOCHEW KUIH",
+      "lot": "F118"
+    },
+    {
+      "name": "KOPI RAKYAT JB",
+      "lot": "FK12A"
+    },
+    {
+      "name": "BOOST JUICE FOOD HALL",
+      "lot": "GK10"
+    },
+    {
+      "name": "GENKI SUSHI",
+      "lot": "G132"
+    },
+    {
+      "name": "CHUCHAT",
+      "lot": "FK9"
+    },
+    {
+      "name": "DUNKIN&#039; DONUTS",
+      "lot": "FK5"
+    },
+    {
+      "name": "FEIFAN HOTPOT",
+      "lot": "F08"
+    },
+    {
+      "name": "BEI&#039;S PASTRY",
+      "lot": "S119"
+    },
+    {
+      "name": "YI HE FENG",
+      "lot": "F07"
+    },
+    {
+      "name": "HUA MUI RESTAURANT",
+      "lot": "F65"
+    },
+    {
+      "name": "YAKINIKU TORA",
+      "lot": "F66"
+    },
+    {
+      "name": "KHUNYA THAI KITCHEN",
+      "lot": "F06"
+    },
+    {
+      "name": "VERRONA BAKERY",
+      "lot": "G53"
+    },
+    {
+      "name": "ALL ABOUT CHEW",
+      "lot": "F35"
+    },
+    {
+      "name": "OC&#039;DAKA",
+      "lot": "KS11"
+    },
+    {
+      "name": "XIN DESSERT",
+      "lot": "KS11A"
+    },
+    {
+      "name": "TIM HORTONS",
+      "lot": "G15"
+    },
+    {
+      "name": "TSUKIJI SUSHI & HUT DINING BUFFET",
+      "lot": "S45"
+    },
+    {
+      "name": "BLACK CANYON",
+      "lot": "S46A"
+    },
+    {
+      "name": "NESPRESSO",
+      "lot": "FK1"
+    },
+    {
+      "name": "MADAM KWAN&#039;S",
+      "lot": "G109B"
+    },
+    {
+      "name": "DUDU HOUSE",
+      "lot": "S35 & S36"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "mall": "The Gardens Mall",
+  "directory_url": "https://www.thegardensmall.com.my/stores",
+  "count": 87,
+  "summary": {
+    "certified": 12,
+    "review": 8,
+    "uncertified": 67,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "% ARABICA (Coming Soon)",
+      "lot": "F-K01",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Absolute Thai Gardens",
+      "lot": "T-219, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Alexis",
+      "lot": "F-209 & 209A, 1st Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BananaBro",
+      "lot": "LG-243B, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 23,
+      "cert_holder": "HTFU RESTAURANTS SDN. BHD."
+    },
+    {
+      "name": "Barcook",
+      "lot": "LG-225, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "S-K01, 2nd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beauty In The Pot",
+      "lot": "Lot T-201B, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "LG-221, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 34,
+      "cert_holder": "AROIVER BOAT NOODLE"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "T-K02, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BreadStory",
+      "lot": "LG-212, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LG-K23",
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "Canton-i (Under Renovations)",
+      "lot": "LG-202 & 203A, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "PEAK KITCHEN SDN. BHD."
+    },
+    {
+      "name": "cha:coal (Coming Soon)",
+      "lot": "T-216D, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chagee",
+      "lot": "T-K01, 3rd Floor",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Chicken Claypot House",
+      "lot": "LG-233, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chonky Cookies",
+      "lot": "LG-K03, Lower Ground Floor.",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Coliseum",
+      "lot": "LG-216, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "COLISEUM CAFE & HOTEL (KL) SDN. BHD"
+    },
+    {
+      "name": "Delectable Treats",
+      "lot": "LG-K25B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "LG-207 & 208, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DOME Cafe",
+      "lot": "F-237B & 238",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "DOME CAFE SDN.BHD"
+    },
+    {
+      "name": "DOME Cafe (F-K05)",
+      "lot": "F-K05",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "DOME CAFE SDN.BHD"
+    },
+    {
+      "name": "Eggette Lab",
+      "lot": "LG-K08A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Eight Ounce Coffee",
+      "lot": "F-K06, 1st Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Eight Ounce Coffee (Coming Soon)",
+      "lot": "F-226C, 1st Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Fong Lye Coffee Tea House",
+      "lot": "T-208, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Genki Sushi",
+      "lot": "LG-232A, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 6,
+      "cert_holder": "GENKI SUSHI (MALAYSIA) SDN. BHD"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-C9, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LG-K09A, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "Hock Kee Heritage",
+      "lot": "Lot S-226B, 2nd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "S-213, 2nd Floor",
+      "status": "review",
+      "myehalal_matches": 66,
+      "cert_holder": "PALATERIUM SDN. BHD."
+    },
+    {
+      "name": "I Love YOO!",
+      "lot": "LG-K06, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "LG-K22, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 55,
+      "cert_holder": "THE INSIDE SCOOP SDN BHD"
+    },
+    {
+      "name": "IPPUDO | MAiSEN",
+      "lot": "T-217 & 218, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KGB - Killer Gourmet Burgers",
+      "lot": "LG-232B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ko Hyang",
+      "lot": "Lot LG-236A&B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "LG-211, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kubis & Kale",
+      "lot": "Lot LG-201A&B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Llaollao",
+      "lot": "LG-K19, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": "LG-K01, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "LÄDERACH",
+      "lot": "G-211 & 248",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Machi Machi",
+      "lot": "LG-226, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ManJoe",
+      "lot": "T-235, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MARCO",
+      "lot": "T-206, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Monster Curry & Café モンスターカレー",
+      "lot": "LG-231B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mr. Tuk Tuk",
+      "lot": "LG-243A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nadeje",
+      "lot": "LG-227, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "LG-230A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Padi House",
+      "lot": "T-237 A&B, 3rd Floor",
+      "status": "certified",
+      "myehalal_matches": 13,
+      "cert_holder": "PADI HOUSE HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Penang Flavours",
+      "lot": "Lot LG-235, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pulau Ketam Yong Tau Foo",
+      "lot": "LG-K07, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Purple Cane Tea Cuisine",
+      "lot": "LG-206, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PUTIEN",
+      "lot": "S-215, 2nd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "T-201A, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Red Kettle",
+      "lot": "G-250A, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rich Kopitiam",
+      "lot": "LG-228 & 228A, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "RICH KOPITIAM WAY SDN BHD"
+    },
+    {
+      "name": "ROCKU Yakiniku",
+      "lot": "S-209, 2nd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Royce",
+      "lot": "LG-K25A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "LG-239, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 18,
+      "cert_holder": "SAN FRANCISCO COFFEE SDN BHD"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-K05, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shojikiya & Sushi Zanmai",
+      "lot": "LG-240 & 241A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shucked",
+      "lot": "T-218A, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SNITCH By The Thieves",
+      "lot": "T-225 A&B, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SOU'S KITCHEN",
+      "lot": "G-247, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Soyya",
+      "lot": "LG-K28, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SUSHI JIRO",
+      "lot": "Lot LG-K02, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SUSHIHAN",
+      "lot": "LG-210, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tapestry",
+      "lot": "F-247, 1st Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "LG-K09B, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 14,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-213 , Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "LG-223, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Han Room",
+      "lot": "T-216A, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tofu G (Coming Soon)",
+      "lot": "LG-237B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TWG Tea",
+      "lot": "G-233A, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "UPEH",
+      "lot": "LG-230B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Venchi",
+      "lot": "G-235, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Verrona Hills Bread & Pâtisserie (Coming Soon)",
+      "lot": "LG-217, Lower Ground",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Village Roast Duck",
+      "lot": "LG-205, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Wagyu More",
+      "lot": "T-216B, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YAYOI",
+      "lot": "LG – 231C, Lower Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "YAYOI MALAYSIA SDN.BHD"
+    },
+    {
+      "name": "yewyewkl / MOGU Yakiniku",
+      "lot": "LG-231A, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yomie's Rice X Yogurt",
+      "lot": "LG-K08B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yong Sheng",
+      "lot": "LG-K27, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yoursnackies Desserts (Coming Soon)",
+      "lot": "LG-K03, Lower Ground",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YU By Oriental Group",
+      "lot": "Lot G-243, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yuzu Japanese Restaurant",
+      "lot": "T-236, 3rd Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ZUS Signature Coffee (Coming Soon)",
+      "lot": "G-249, Ground Floor",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "Ăn Viet",
+      "lot": "LG-203B, Lower Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

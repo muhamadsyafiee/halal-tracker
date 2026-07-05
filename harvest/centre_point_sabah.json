@@ -1,0 +1,272 @@
+{
+ "mall": "Centre Point Sabah",
+ "directory_url": "https://centrepointsabah.com/stores-map/",
+ "method": "browser_woocommerce",
+ "count": 66,
+ "outlets": [
+  {
+   "name": "1 SOTO MAKASSAR ASLI",
+   "lot": "S8 BASEMENT"
+  },
+  {
+   "name": "ATUKUUPI",
+   "lot": "S26C BASEMENT"
+  },
+  {
+   "name": "BBQ CHICKEN (KOREA FRIED CHICKEN)",
+   "lot": "E16B A2 FIFTH FLOOR"
+  },
+  {
+   "name": "Big Old Brother Fast Food",
+   "lot": "S20 BASEMENT"
+  },
+  {
+   "name": "BING CHUN DELIGHT SDN BHD",
+   "lot": "BF P1 BASEMENT"
+  },
+  {
+   "name": "Bonda Fareez Cafe",
+   "lot": "D14 THIRD FLOOR"
+  },
+  {
+   "name": "COOL CITY",
+   "lot": "P43 FOURTH FLOOR"
+  },
+  {
+   "name": "COOLBLOG",
+   "lot": "BF 1A BASEMENT"
+  },
+  {
+   "name": "CREPE EXPRESS",
+   "lot": "BF4A BASEMENT"
+  },
+  {
+   "name": "CREPE N WAFFLE",
+   "lot": "L4A BASEMENT"
+  },
+  {
+   "name": "CRISPY KAMPUNG",
+   "lot": "BF 3A BASEMENT"
+  },
+  {
+   "name": "DAPUR ABANG J",
+   "lot": "D18 THIRD FLOOR"
+  },
+  {
+   "name": "DAYA SQUID",
+   "lot": "K3 FOURTH FLOOR"
+  },
+  {
+   "name": "EASY FRESH FRUITS",
+   "lot": "S28B BASEMENT"
+  },
+  {
+   "name": "Efira Cafe & Catering",
+   "lot": "S39 BASEMENT"
+  },
+  {
+   "name": "GEN-Y ELEVEN",
+   "lot": "L3B BASEMENT"
+  },
+  {
+   "name": "GO GO TEA",
+   "lot": "S28A BASEMENT"
+  },
+  {
+   "name": "Golden Fish",
+   "lot": "B50 A SECOND FLOOR"
+  },
+  {
+   "name": "HAPPY POTATO",
+   "lot": "PF6A FOURTH FLOOR"
+  },
+  {
+   "name": "JENG HOMEMADE",
+   "lot": "B45 A SECOND FLOOR"
+  },
+  {
+   "name": "JJ GOLDEN FISH",
+   "lot": "1FD FIRST FLOOR"
+  },
+  {
+   "name": "JOLLIBEE",
+   "lot": "G75A C GROUND FLOOR"
+  },
+  {
+   "name": "Ka Hon Wei Restaurant",
+   "lot": "S25 BASEMENT"
+  },
+  {
+   "name": "Kedai Makan Islamic Restoran",
+   "lot": "S40 S41 BASEMENT"
+  },
+  {
+   "name": "Kinabalu Fried Chicken",
+   "lot": "S11 BASEMENT"
+  },
+  {
+   "name": "KINCHAI BOUTIQUE CAFE",
+   "lot": "B66 SECOND FLOOR"
+  },
+  {
+   "name": "KOTA KINABALU CITY",
+   "lot": "S8 BASEMENT"
+  },
+  {
+   "name": "KUNG FU LA MIAN",
+   "lot": "S10 BASEMENT"
+  },
+  {
+   "name": "Manisa Cafe",
+   "lot": "S37 BASEMENT"
+  },
+  {
+   "name": "McDonald’s",
+   "lot": "L5 L8 BASEMENT"
+  },
+  {
+   "name": "METTING U (HAPPY NIKO)",
+   "lot": "2FE SECOND FLOOR"
+  },
+  {
+   "name": "NASI ANJE 1",
+   "lot": "S13 S14 BASEMENT"
+  },
+  {
+   "name": "Nasi Ayam CPS",
+   "lot": "S22 S23 BASEMENT"
+  },
+  {
+   "name": "NASI AYAM PENYET STATION",
+   "lot": "S12 BASEMENT"
+  },
+  {
+   "name": "Nelta Cafe & Catering",
+   "lot": "S9 BASEMENT"
+  },
+  {
+   "name": "ONE MOREEE",
+   "lot": "L10 B BASEMENT"
+  },
+  {
+   "name": "OSBEL",
+   "lot": "L9 B1 B2 BASEMENT"
+  },
+  {
+   "name": "PAK KOPI 1969 CENTRE POINT",
+   "lot": "BF 2A BASEMENT"
+  },
+  {
+   "name": "PAKZO",
+   "lot": "S16 BASEMENT"
+  },
+  {
+   "name": "Palm Cafe",
+   "lot": "P32A C FOURTH FLOOR"
+  },
+  {
+   "name": "PAPA’S",
+   "lot": "S30 BASEMENT"
+  },
+  {
+   "name": "PEZZO PIZZA",
+   "lot": "L10 A BASEMENT"
+  },
+  {
+   "name": "Plus One",
+   "lot": "S21 BASEMENT"
+  },
+  {
+   "name": "PURE TAY MILO",
+   "lot": "K2 FOURTH FLOOR"
+  },
+  {
+   "name": "QC FACTORY CONCEPT",
+   "lot": "A64 FIRST FLOOR"
+  },
+  {
+   "name": "QCC BAKED",
+   "lot": "GF6B GROUND FLOOR"
+  },
+  {
+   "name": "RASA DAMASCUS",
+   "lot": "S26A BASEMENT"
+  },
+  {
+   "name": "KFC",
+   "lot": "S17 BASEMENT"
+  },
+  {
+   "name": "RFC",
+   "lot": "G26 GROUND FLOOR"
+  },
+  {
+   "name": "ROBERT T",
+   "lot": "1FH FIRST FLOOR"
+  },
+  {
+   "name": "Secret Recipe",
+   "lot": "P22 P23 FOURTH FLOOR"
+  },
+  {
+   "name": "SQ Delight",
+   "lot": "D58 THIRD FLOOR"
+  },
+  {
+   "name": "Starbucks Coffee",
+   "lot": "P37 FOURTH FLOOR"
+  },
+  {
+   "name": "SUBWAY",
+   "lot": "S1 BASEMENT"
+  },
+  {
+   "name": "SUGAR LIPS",
+   "lot": "P9L10 C BASEMENT"
+  },
+  {
+   "name": "SUGARBUN",
+   "lot": "S1 BASEMENT"
+  },
+  {
+   "name": "Super Faezah Cafeteria",
+   "lot": "S38 BASEMENT"
+  },
+  {
+   "name": "Sushi King",
+   "lot": "P32B FOURTH FLOOR"
+  },
+  {
+   "name": "SUSHI PANDA",
+   "lot": "G5 GROUND FLOOR"
+  },
+  {
+   "name": "Sweet Centre",
+   "lot": "S27 BASEMENT"
+  },
+  {
+   "name": "TEA TWISTER/TEA PUSING",
+   "lot": "G76 L3 GROUND FLOOR"
+  },
+  {
+   "name": "THE SNACK HOUSE",
+   "lot": "L3A BASEMENT"
+  },
+  {
+   "name": "UNCLE BOB",
+   "lot": "S34 BASEMENT"
+  },
+  {
+   "name": "Wan Chai Food Corner",
+   "lot": "S24 BASEMENT"
+  },
+  {
+   "name": "YOYO CAFE",
+   "lot": "G51 GROUND FLOOR"
+  },
+  {
+   "name": "YULK KREPEK",
+   "lot": "K4 FOURTH FLOOR"
+  }
+ ]
+}

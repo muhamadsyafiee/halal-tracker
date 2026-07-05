@@ -1,0 +1,188 @@
+{
+  "mall": "Bintang Megamall",
+  "directory_url": "https://bintangmegamall.com/directory/",
+  "count": 25,
+  "summary": {
+    "certified": 8,
+    "review": 8,
+    "uncertified": 9,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Chagee",
+      "lot": "GF . East",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Korbi Grill",
+      "lot": "GF . West",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "The One",
+      "lot": "GF . East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Go Pie",
+      "lot": "LG . East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "GF. East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HokkaiDo",
+      "lot": "GF. West",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "HBCT BAKE SDN. BHD."
+    },
+    {
+      "name": "Nando's",
+      "lot": "GF . East",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "BB.q Chicken",
+      "lot": "GF . East",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "GENESIS BBQ CHICKEN (M) SDN. BHD."
+    },
+    {
+      "name": "Tea Co",
+      "lot": "GF . East",
+      "status": "review",
+      "myehalal_matches": 244,
+      "cert_holder": "THE COFFEE BEAN & TEA LEAF (M) SDN BHD"
+    },
+    {
+      "name": "Gigi",
+      "lot": "GF . West",
+      "status": "certified",
+      "myehalal_matches": 55,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "GF . East",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Yole",
+      "lot": "GF . West",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Big Apple",
+      "lot": "GF . West",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "GF . West",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": "GF . West",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Fuel Shack",
+      "lot": "GF . East",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "SHALIMAR TEAHOUSE SDN. BHD."
+    },
+    {
+      "name": "Pezzo",
+      "lot": "1F . East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Subway",
+      "lot": "1F . East",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "McDonald's",
+      "lot": "1F . East",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG . East",
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "Magic Bites",
+      "lot": "LG . East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hog & Wild",
+      "lot": "LG . East",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Potato Story Plus",
+      "lot": "LG . East",
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "POTATO STORY (EM) SDN BHD"
+    },
+    {
+      "name": "M Corner",
+      "lot": "2F . East",
+      "status": "review",
+      "myehalal_matches": 12,
+      "cert_holder": "CORNERY FNB SDN BHD"
+    },
+    {
+      "name": "Share Tea",
+      "lot": "2F . West",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

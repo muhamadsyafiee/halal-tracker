@@ -1,0 +1,196 @@
+{
+  "mall": "East Coast Mall",
+  "directory_url": "https://eastcoastmall.com.my/stores-locate-to/",
+  "method": "curl_html_pagination",
+  "count": 47,
+  "outlets": [
+    {
+      "name": "4FINGERS CRISPY CHICKEN",
+      "lot": null
+    },
+    {
+      "name": "A&W",
+      "lot": null
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": null
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": null
+    },
+    {
+      "name": "BANANABRO",
+      "lot": null
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null
+    },
+    {
+      "name": "Beryl’s",
+      "lot": null
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": null
+    },
+    {
+      "name": "Black Canyon Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": null
+    },
+    {
+      "name": "BOOST Juice Bars",
+      "lot": null
+    },
+    {
+      "name": "Chagee",
+      "lot": null
+    },
+    {
+      "name": "Chocolate Corner",
+      "lot": null
+    },
+    {
+      "name": "CoolBlog & Bean Garden",
+      "lot": null
+    },
+    {
+      "name": "DOLLY DIM SUM",
+      "lot": null
+    },
+    {
+      "name": "DUNKIN’ DONUTS",
+      "lot": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null
+    },
+    {
+      "name": "Eureka",
+      "lot": null
+    },
+    {
+      "name": "Famous amos",
+      "lot": null
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": null
+    },
+    {
+      "name": "Happy Potato",
+      "lot": null
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": null
+    },
+    {
+      "name": "HWC COFFEE",
+      "lot": null
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": null
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": null
+    },
+    {
+      "name": "Kenny Rogers ROASTERS",
+      "lot": null
+    },
+    {
+      "name": "KyoChon",
+      "lot": null
+    },
+    {
+      "name": "Llao Llao",
+      "lot": null
+    },
+    {
+      "name": "Mixue",
+      "lot": null
+    },
+    {
+      "name": "MyLaksa",
+      "lot": null
+    },
+    {
+      "name": "Nando’s",
+      "lot": null
+    },
+    {
+      "name": "Oiso Korean Traditional Cuisine & Cafe",
+      "lot": null
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": null
+    },
+    {
+      "name": "STARBUCKS COFFEE",
+      "lot": null
+    },
+    {
+      "name": "SUBWAY",
+      "lot": null
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": null
+    },
+    {
+      "name": "Sweetly",
+      "lot": null
+    },
+    {
+      "name": "tealive",
+      "lot": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": null
+    }
+  ]
+}

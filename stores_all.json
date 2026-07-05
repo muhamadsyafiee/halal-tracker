@@ -1,0 +1,654 @@
+{
+  "note": "status: certified=nama padan holder sijil | review=ada sijil tapi nama holder lain, semak manual | uncertified=tiada sijil JAKIM (BUKAN haram) | non_halal=keyword khinzir/arak",
+  "source": "JAKIM MyeHalal (myehalal.halal.gov.my), kategori PE",
+  "malls": [
+    {
+      "mall": "1Borneo Hypermall",
+      "summary": {
+        "certified": 11,
+        "review": 15,
+        "uncertified": 62,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "1st Avenue Mall",
+      "summary": {
+        "certified": 9,
+        "review": 10,
+        "uncertified": 6,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "1 Utama Shopping Centre",
+      "summary": {
+        "certified": 29,
+        "review": 39,
+        "uncertified": 147,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "3 Damansara (Tropicana City Mall)",
+      "summary": {
+        "certified": 8,
+        "review": 5,
+        "uncertified": 25,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "AEON Bukit Tinggi",
+      "summary": {
+        "certified": 12,
+        "review": 15,
+        "uncertified": 28,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "AEON Mall Kinta City",
+      "summary": {
+        "certified": 9,
+        "review": 5,
+        "uncertified": 14,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "AEON Mall Kota Bharu",
+      "summary": {
+        "certified": 14,
+        "review": 9,
+        "uncertified": 16,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "AEON Seremban 2",
+      "summary": {
+        "certified": 11,
+        "review": 10,
+        "uncertified": 10,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "AEON Tebrau City",
+      "summary": {
+        "certified": 13,
+        "review": 12,
+        "uncertified": 51,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Alamanda Shopping Centre",
+      "summary": {
+        "certified": 22,
+        "review": 15,
+        "uncertified": 20,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Aman Central",
+      "summary": {
+        "certified": 27,
+        "review": 19,
+        "uncertified": 20,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Atria Shopping Gallery",
+      "summary": {
+        "certified": 0,
+        "review": 4,
+        "uncertified": 22,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Avenue K",
+      "summary": {
+        "certified": 9,
+        "review": 11,
+        "uncertified": 38,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Berjaya Times Square",
+      "summary": {
+        "certified": 20,
+        "review": 20,
+        "uncertified": 37,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Bintang Megamall",
+      "summary": {
+        "certified": 8,
+        "review": 8,
+        "uncertified": 9,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Central i-City",
+      "summary": {
+        "certified": 0,
+        "review": 0,
+        "uncertified": 0,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Centre Point Sabah",
+      "summary": {
+        "certified": 8,
+        "review": 12,
+        "uncertified": 46,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Citta Mall",
+      "summary": {
+        "certified": 12,
+        "review": 12,
+        "uncertified": 22,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "CityONE Megamall",
+      "summary": {
+        "certified": 3,
+        "review": 3,
+        "uncertified": 24,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Da Men Mall",
+      "summary": {
+        "certified": 0,
+        "review": 0,
+        "uncertified": 0,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Design Village Outlet Mall",
+      "summary": {
+        "certified": 3,
+        "review": 8,
+        "uncertified": 7,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "East Coast Mall",
+      "summary": {
+        "certified": 20,
+        "review": 13,
+        "uncertified": 14,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Fahrenheit 88",
+      "summary": {
+        "certified": 0,
+        "review": 3,
+        "uncertified": 6,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Genting Highlands Premium Outlets",
+      "summary": {
+        "certified": 7,
+        "review": 10,
+        "uncertified": 17,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Gurney Paragon Mall",
+      "summary": {
+        "certified": 4,
+        "review": 4,
+        "uncertified": 32,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "Gurney Plaza",
+      "summary": {
+        "certified": 16,
+        "review": 18,
+        "uncertified": 69,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Imago Shopping Mall",
+      "summary": {
+        "certified": 21,
+        "review": 15,
+        "uncertified": 61,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "IOI City Mall",
+      "summary": {
+        "certified": 38,
+        "review": 35,
+        "uncertified": 102,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "IOI Mall Puchong",
+      "summary": {
+        "certified": 19,
+        "review": 16,
+        "uncertified": 42,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Ipoh Parade",
+      "summary": {
+        "certified": 11,
+        "review": 11,
+        "uncertified": 19,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Johor Bahru City Square",
+      "summary": {
+        "certified": 6,
+        "review": 4,
+        "uncertified": 13,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "KB Mall",
+      "summary": {
+        "certified": 17,
+        "review": 8,
+        "uncertified": 13,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "KL Gateway Mall",
+      "summary": {
+        "certified": 8,
+        "review": 11,
+        "uncertified": 22,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Klang Parade",
+      "summary": {
+        "certified": 1,
+        "review": 2,
+        "uncertified": 6,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "KSL City Mall",
+      "summary": {
+        "certified": 7,
+        "review": 3,
+        "uncertified": 27,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "KTCC Mall",
+      "summary": {
+        "certified": 12,
+        "review": 6,
+        "uncertified": 16,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Lot 10 Shopping Centre",
+      "summary": {
+        "certified": 3,
+        "review": 3,
+        "uncertified": 19,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Mahkota Parade",
+      "summary": {
+        "certified": 0,
+        "review": 0,
+        "uncertified": 0,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Melawati Mall",
+      "summary": {
+        "certified": 19,
+        "review": 16,
+        "uncertified": 23,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Mesra Mall",
+      "summary": {
+        "certified": 11,
+        "review": 4,
+        "uncertified": 10,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Mid Valley Megamall",
+      "summary": {
+        "certified": 24,
+        "review": 23,
+        "uncertified": 89,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "Mid Valley Southkey",
+      "summary": {
+        "certified": 20,
+        "review": 18,
+        "uncertified": 62,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "MyTOWN Shopping Centre",
+      "summary": {
+        "certified": 28,
+        "review": 25,
+        "uncertified": 73,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "NU Sentral",
+      "summary": {
+        "certified": 21,
+        "review": 19,
+        "uncertified": 58,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Palm Mall",
+      "summary": {
+        "certified": 5,
+        "review": 4,
+        "uncertified": 6,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Paradigm Mall Johor Bahru",
+      "summary": {
+        "certified": 28,
+        "review": 17,
+        "uncertified": 62,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Paradigm Mall Petaling Jaya",
+      "summary": {
+        "certified": 20,
+        "review": 18,
+        "uncertified": 54,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Pavilion Bukit Jalil",
+      "summary": {
+        "certified": 30,
+        "review": 27,
+        "uncertified": 101,
+        "non_halal": 2
+      }
+    },
+    {
+      "mall": "Pavilion Kuala Lumpur",
+      "summary": {
+        "certified": 23,
+        "review": 29,
+        "uncertified": 117,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "Plaza Merdeka",
+      "summary": {
+        "certified": 10,
+        "review": 12,
+        "uncertified": 15,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Queensbay Mall",
+      "summary": {
+        "certified": 20,
+        "review": 17,
+        "uncertified": 45,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Quill City Mall",
+      "summary": {
+        "certified": 7,
+        "review": 13,
+        "uncertified": 24,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Setia City Mall",
+      "summary": {
+        "certified": 32,
+        "review": 38,
+        "uncertified": 46,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "SkyAvenue Genting Highlands",
+      "summary": {
+        "certified": 12,
+        "review": 6,
+        "uncertified": 51,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Subang Parade",
+      "summary": {
+        "certified": 0,
+        "review": 0,
+        "uncertified": 0,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Sungei Wang Plaza",
+      "summary": {
+        "certified": 5,
+        "review": 15,
+        "uncertified": 55,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Sunway Carnival Mall",
+      "summary": {
+        "certified": 23,
+        "review": 25,
+        "uncertified": 57,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Sunway Putra Mall",
+      "summary": {
+        "certified": 24,
+        "review": 19,
+        "uncertified": 33,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Sunway Pyramid",
+      "summary": {
+        "certified": 46,
+        "review": 42,
+        "uncertified": 158,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Sunway Velocity Mall",
+      "summary": {
+        "certified": 26,
+        "review": 23,
+        "uncertified": 103,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "Suria KLCC",
+      "summary": {
+        "certified": 18,
+        "review": 23,
+        "uncertified": 69,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Suria Sabah Shopping Mall",
+      "summary": {
+        "certified": 15,
+        "review": 16,
+        "uncertified": 40,
+        "non_halal": 1
+      }
+    },
+    {
+      "mall": "Terminal 1",
+      "summary": {
+        "certified": 0,
+        "review": 2,
+        "uncertified": 0,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The Curve",
+      "summary": {
+        "certified": 15,
+        "review": 11,
+        "uncertified": 32,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The Exchange TRX",
+      "summary": {
+        "certified": 12,
+        "review": 18,
+        "uncertified": 87,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The Gardens Mall",
+      "summary": {
+        "certified": 12,
+        "review": 8,
+        "uncertified": 67,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The LINC KL",
+      "summary": {
+        "certified": 0,
+        "review": 2,
+        "uncertified": 9,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The Spring Kuching",
+      "summary": {
+        "certified": 9,
+        "review": 7,
+        "uncertified": 25,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "The Starhill",
+      "summary": {
+        "certified": 0,
+        "review": 0,
+        "uncertified": 12,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Toppen Shopping Centre",
+      "summary": {
+        "certified": 23,
+        "review": 9,
+        "uncertified": 38,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Tropicana Gardens Mall",
+      "summary": {
+        "certified": 1,
+        "review": 1,
+        "uncertified": 16,
+        "non_halal": 0
+      }
+    },
+    {
+      "mall": "Vivacity Megamall",
+      "summary": {
+        "certified": 18,
+        "review": 14,
+        "uncertified": 44,
+        "non_halal": 1
+      }
+    }
+  ]
+}

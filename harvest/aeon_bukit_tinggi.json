@@ -1,0 +1,228 @@
+{
+  "mall": "AEON Bukit Tinggi",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-bukit-tinggi",
+  "method": "html",
+  "count": 55,
+  "outlets": [
+    {
+      "name": "MAHNAZ FOOD",
+      "lot": "G05"
+    },
+    {
+      "name": "KOONG WOH TONG",
+      "lot": "G11"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "G16"
+    },
+    {
+      "name": "PORRIDGE TIME",
+      "lot": "G17"
+    },
+    {
+      "name": "Lavender",
+      "lot": "G18"
+    },
+    {
+      "name": "McDonald&#039;s",
+      "lot": "G20"
+    },
+    {
+      "name": "STARBUCKS COFFEE",
+      "lot": "G22"
+    },
+    {
+      "name": "Nando&#039;s",
+      "lot": "G25"
+    },
+    {
+      "name": "TACO BELL",
+      "lot": "G26"
+    },
+    {
+      "name": "VivoPizza",
+      "lot": "G27"
+    },
+    {
+      "name": "Texas CHICKEN",
+      "lot": "G29"
+    },
+    {
+      "name": "KFC",
+      "lot": "G30"
+    },
+    {
+      "name": "Haagen Dazs",
+      "lot": "G31"
+    },
+    {
+      "name": "llaollao.",
+      "lot": "G32"
+    },
+    {
+      "name": "tealive",
+      "lot": "F01"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "F06"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "F07"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "F08"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "F09"
+    },
+    {
+      "name": "che Go",
+      "lot": "F10"
+    },
+    {
+      "name": "SIONG TONG GAI",
+      "lot": "F13"
+    },
+    {
+      "name": "HONG KONG KIM GARY RESTAURANT",
+      "lot": "F15"
+    },
+    {
+      "name": "BAR.B.Q PLAZA",
+      "lot": "F16"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "F17"
+    },
+    {
+      "name": "JOHNNY&#039;S RESTAURANT",
+      "lot": "F18"
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "F20"
+    },
+    {
+      "name": "BIG APPLE DONUTS AND COFFEE",
+      "lot": "S30"
+    },
+    {
+      "name": "SUBWAY",
+      "lot": "S31"
+    },
+    {
+      "name": "THE COFFEE BEAN & TEA LEAF",
+      "lot": "G28"
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "G41"
+    },
+    {
+      "name": "KOI The",
+      "lot": "G35"
+    },
+    {
+      "name": "BANANABRO",
+      "lot": "F02"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "KG01 & KG01A"
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "F26"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "KG03 & KG05"
+    },
+    {
+      "name": "EMPIRE SUSHI",
+      "lot": "F19"
+    },
+    {
+      "name": "Jom Cha",
+      "lot": "KF05"
+    },
+    {
+      "name": "HOT & roll",
+      "lot": "KS07"
+    },
+    {
+      "name": "Nyonya Delights",
+      "lot": "KF02 & KF02A"
+    },
+    {
+      "name": "POTATO CORNER",
+      "lot": "G40"
+    },
+    {
+      "name": "DUNKIN&#039;",
+      "lot": "KF06"
+    },
+    {
+      "name": "YOGURT YOOGOO",
+      "lot": "F29"
+    },
+    {
+      "name": "Auntie Anne&#039;s",
+      "lot": "G33"
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "G55"
+    },
+    {
+      "name": "NANYANG CAFE",
+      "lot": "G21"
+    },
+    {
+      "name": "BEUTEA",
+      "lot": "KG02"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "KG02A"
+    },
+    {
+      "name": "YANGGUOFU",
+      "lot": "F36"
+    },
+    {
+      "name": "Da Xue Kedai Kopitiam",
+      "lot": "F12"
+    },
+    {
+      "name": "Huo Long Malatang",
+      "lot": "F11"
+    },
+    {
+      "name": "MANMI YOGURT",
+      "lot": "KF03"
+    },
+    {
+      "name": "Yun Nans 云海肴",
+      "lot": "G19"
+    },
+    {
+      "name": "MARU COFFEE",
+      "lot": "G03"
+    },
+    {
+      "name": "FOOD TALK",
+      "lot": "S01"
+    },
+    {
+      "name": "SHANTEA DESSERT",
+      "lot": "G56"
+    }
+  ]
+}

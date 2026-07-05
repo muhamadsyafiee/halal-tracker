@@ -1,0 +1,576 @@
+{
+  "mall": "1 Utama Shopping Centre",
+  "directory_url": "https://www.1utama.com.my/mall-shop/",
+  "method": "admin-ajax.php?action=jsforwp_1U_collection (cat=food-beverages)",
+  "count": 142,
+  "outlets": [
+    {
+      "name": "Absolute Thai",
+      "lot": "LG351"
+    },
+    {
+      "name": "AK Noodles House",
+      "lot": "LG121"
+    },
+    {
+      "name": "ANTE",
+      "lot": "F346"
+    },
+    {
+      "name": "Baba Nyonya House",
+      "lot": "SK7A"
+    },
+    {
+      "name": "BANANABRO",
+      "lot": "LG221C"
+    },
+    {
+      "name": "Bar B Q Plaza",
+      "lot": "F338A"
+    },
+    {
+      "name": "Bask Bear Coffee",
+      "lot": "G218C"
+    },
+    {
+      "name": "BHC CHICKEN",
+      "lot": "G601"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "LG323-LG323A"
+    },
+    {
+      "name": "BMS Organics",
+      "lot": "LG310"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "LG321"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LGK105-LGK108"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG312"
+    },
+    {
+      "name": "Canton-i",
+      "lot": "G208"
+    },
+    {
+      "name": "Champignons Patisserie",
+      "lot": "SK107"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "lot": "S310A"
+    },
+    {
+      "name": "Chin Swee Vegeciting",
+      "lot": "LG609"
+    },
+    {
+      "name": "Cili Kampung",
+      "lot": "S313"
+    },
+    {
+      "name": "COFFEE MEETS PASTRY by ZUS",
+      "lot": "G601A"
+    },
+    {
+      "name": "Come True Cafe",
+      "lot": "G315A"
+    },
+    {
+      "name": "Cong Caphe",
+      "lot": "G130A"
+    },
+    {
+      "name": "Dave's Bistro Bar & Grill",
+      "lot": "G209"
+    },
+    {
+      "name": "De Irrfan's Cafe",
+      "lot": "LG312C"
+    },
+    {
+      "name": "Dragon-i",
+      "lot": "S313A"
+    },
+    {
+      "name": "DUA NASI KARI MALATANG",
+      "lot": "G621-G622"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "SK108"
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": "LG326"
+    },
+    {
+      "name": "Fei Fan Hotpot",
+      "lot": "S122"
+    },
+    {
+      "name": "Fish & Co",
+      "lot": "LG350"
+    },
+    {
+      "name": "Fong Lye",
+      "lot": "G316"
+    },
+    {
+      "name": "Food District",
+      "lot": "S346-S347"
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "G129A"
+    },
+    {
+      "name": "GO Unique",
+      "lot": "LG308"
+    },
+    {
+      "name": "Hai Di Lao",
+      "lot": "G116-G117A"
+    },
+    {
+      "name": "Hansang Korean Restaurant",
+      "lot": "LG615"
+    },
+    {
+      "name": "Hokkaido Sushi",
+      "lot": "S129"
+    },
+    {
+      "name": "Hong Kong Kim Gary Restaurant",
+      "lot": "F345A"
+    },
+    {
+      "name": "Hotpot Kitchen",
+      "lot": "G355"
+    },
+    {
+      "name": "House of Pok",
+      "lot": "S121B"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "SK106"
+    },
+    {
+      "name": "I'm Bagel",
+      "lot": "LGK102A-LGK103"
+    },
+    {
+      "name": "India Gate Restaurant",
+      "lot": "LG337"
+    },
+    {
+      "name": "Ippudo",
+      "lot": "LG352"
+    },
+    {
+      "name": "Jardin Coffee & Tea",
+      "lot": "F101A"
+    },
+    {
+      "name": "JIPINHE SCONES 吉品合",
+      "lot": "LGK113A"
+    },
+    {
+      "name": "Johnny's Restaurant",
+      "lot": "G215-G216"
+    },
+    {
+      "name": "K Fry",
+      "lot": "LG221A"
+    },
+    {
+      "name": "KAKI 5",
+      "lot": "G628"
+    },
+    {
+      "name": "Kampung Dining Signature",
+      "lot": "LG612"
+    },
+    {
+      "name": "KENANGAN COFFEE",
+      "lot": "LGK101B"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "LG227"
+    },
+    {
+      "name": "KFC",
+      "lot": "LG222"
+    },
+    {
+      "name": "Ko Hyang",
+      "lot": "LG116"
+    },
+    {
+      "name": "KyoChon 1991",
+      "lot": "LG311"
+    },
+    {
+      "name": "LAEM CHAROEN THAI SEAFOOD",
+      "lot": "LG223"
+    },
+    {
+      "name": "Little Cravings",
+      "lot": "LG320-LG320A"
+    },
+    {
+      "name": "Little Nyonya",
+      "lot": "LG311C"
+    },
+    {
+      "name": "Long Jing 绿茶餐厅",
+      "lot": "G210B"
+    },
+    {
+      "name": "LOVNS",
+      "lot": "G316A"
+    },
+    {
+      "name": "Lung Ngen Claypot Coffee",
+      "lot": "SK3"
+    },
+    {
+      "name": "Luretta DOP",
+      "lot": "G308A"
+    },
+    {
+      "name": "Madam Kwan’s",
+      "lot": "G342-G343"
+    },
+    {
+      "name": "Makii Makii",
+      "lot": "F223B"
+    },
+    {
+      "name": "Mak's Chee Authentic Wonton",
+      "lot": "LG311D"
+    },
+    {
+      "name": "Marco",
+      "lot": "G146"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "LG221"
+    },
+    {
+      "name": "Mee Tarik Faizal Kong",
+      "lot": "LG338"
+    },
+    {
+      "name": "Melaka Corner",
+      "lot": "LG123"
+    },
+    {
+      "name": "Menya Musashi",
+      "lot": "LG606"
+    },
+    {
+      "name": "MODU",
+      "lot": "LG602"
+    },
+    {
+      "name": "Monster Curry & Cafe",
+      "lot": "S131"
+    },
+    {
+      "name": "Mr Fish Fish & Seafood Noodle",
+      "lot": "LG333A"
+    },
+    {
+      "name": "mr. Tuk Tuk",
+      "lot": "LG103A"
+    },
+    {
+      "name": "NAKNAK",
+      "lot": "LG345"
+    },
+    {
+      "name": "Nam Heong Ipoh",
+      "lot": "LG221B"
+    },
+    {
+      "name": "Nando's",
+      "lot": "F351"
+    },
+    {
+      "name": "NIPPORI",
+      "lot": "G207"
+    },
+    {
+      "name": "Noodle Shack",
+      "lot": "LG110C-LG111-LG112"
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "FK106"
+    },
+    {
+      "name": "One Piece Onigirazu",
+      "lot": "LGK111"
+    },
+    {
+      "name": "Oversea Restaurant",
+      "lot": "G218"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "G139A"
+    },
+    {
+      "name": "Park's Bagels",
+      "lot": "LG357-LG358"
+    },
+    {
+      "name": "PASAR EATAI",
+      "lot": "G623-G624-G625"
+    },
+    {
+      "name": "PENANG CHENDUL",
+      "lot": "LGK106-LGK115"
+    },
+    {
+      "name": "PETITE MAISON BOULANGERIE",
+      "lot": "G218D"
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": "S312"
+    },
+    {
+      "name": "Porridge Time",
+      "lot": "LG113A"
+    },
+    {
+      "name": "Pu Tien",
+      "lot": "G213A"
+    },
+    {
+      "name": "Restaurant Pao Xiang Bah Kut Teh",
+      "lot": "LG311A"
+    },
+    {
+      "name": "Restoran Peranakan Place",
+      "lot": "F221C"
+    },
+    {
+      "name": "Rich Kopitiam",
+      "lot": "LG603-LG603A"
+    },
+    {
+      "name": "Robataya",
+      "lot": "G202-G203"
+    },
+    {
+      "name": "Rocku Yakiniku",
+      "lot": "F355-F356-F357"
+    },
+    {
+      "name": "Samtai YAMCH'A",
+      "lot": "LG122"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "LG353-LG355"
+    },
+    {
+      "name": "Sekinchan Catch",
+      "lot": "LGK109"
+    },
+    {
+      "name": "SHABU-YO",
+      "lot": "LG105-LG106"
+    },
+    {
+      "name": "SHIN JJAJANG. BUDAE JJIGAE",
+      "lot": "LG613A"
+    },
+    {
+      "name": "Since 1939",
+      "lot": "LG607"
+    },
+    {
+      "name": "Soup Restaurant",
+      "lot": "G210A"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "F352"
+    },
+    {
+      "name": "Starbucks Reserve",
+      "lot": "G139B-G139D"
+    },
+    {
+      "name": "Strangers",
+      "lot": "G360"
+    },
+    {
+      "name": "Stuff'd",
+      "lot": "LG328"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG318A"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG322"
+    },
+    {
+      "name": "SUSHI ZANMAI",
+      "lot": "SK9A"
+    },
+    {
+      "name": "SUSHIRO",
+      "lot": "G343A"
+    },
+    {
+      "name": "Sushiya",
+      "lot": "LG605"
+    },
+    {
+      "name": "Tai Er",
+      "lot": "G210C"
+    },
+    {
+      "name": "Tai Ho Jiak 台好甲",
+      "lot": "LG608"
+    },
+    {
+      "name": "Tanyu Grilled Fish 探鱼烤鱼",
+      "lot": "F337-F338"
+    },
+    {
+      "name": "Teh Tarik Club",
+      "lot": "LG335"
+    },
+    {
+      "name": "Teh Tarik Nation",
+      "lot": "SK102"
+    },
+    {
+      "name": "Teo Chew Lor",
+      "lot": "LG113"
+    },
+    {
+      "name": "Teppanyaki",
+      "lot": "LG327"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG309A"
+    },
+    {
+      "name": "TGI Fridays",
+      "lot": "G203A-G205-G206"
+    },
+    {
+      "name": "Thai Chicken Rice Station",
+      "lot": "LG325"
+    },
+    {
+      "name": "Thai Hou Sek",
+      "lot": "S132"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G211"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G323C"
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "LG115"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "LG349"
+    },
+    {
+      "name": "TOKYO SECRET",
+      "lot": "FK107"
+    },
+    {
+      "name": "Tonkatsu by Ma Maison",
+      "lot": "LG226"
+    },
+    {
+      "name": "TOUS les JOURS Cafe",
+      "lot": "FK3"
+    },
+    {
+      "name": "WANG DONKAS",
+      "lot": "LG616-LG617"
+    },
+    {
+      "name": "Wanhoi Noodle House 雲海",
+      "lot": "LG101A"
+    },
+    {
+      "name": "Whisk, Outpost",
+      "lot": "G139"
+    },
+    {
+      "name": "WOK HEY",
+      "lot": "LG210"
+    },
+    {
+      "name": "Wong Kok Char Chan Teng",
+      "lot": "F225"
+    },
+    {
+      "name": "WONJO BUANJIB",
+      "lot": "LG618-LG619-LG620"
+    },
+    {
+      "name": "WPS Café",
+      "lot": "SK7"
+    },
+    {
+      "name": "XIAO MAN DUMPLING",
+      "lot": "LG118"
+    },
+    {
+      "name": "Yakiniku Kuro",
+      "lot": "LG311B"
+    },
+    {
+      "name": "YAT YAT SENG 日日升",
+      "lot": "G619-G620"
+    },
+    {
+      "name": "Yuan Room by Oriental Group",
+      "lot": "G309A"
+    },
+    {
+      "name": "Yun Bridge Noodle",
+      "lot": "S130"
+    },
+    {
+      "name": "Yun Nans",
+      "lot": "G359"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "SK9"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "mall": "Atria Shopping Gallery",
+  "directory_url": "https://www.atria.com.my/stores.html",
+  "method": "curl",
+  "count": 26,
+  "outlets": [
+    {
+      "name": "KFC",
+      "lot": "C09"
+    },
+    {
+      "name": "Subway",
+      "lot": "C11"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "C23A"
+    },
+    {
+      "name": "Soon Thye Hang",
+      "lot": "C13"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "C23"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "C12"
+    },
+    {
+      "name": "MIKI Bakery",
+      "lot": "CK05A"
+    },
+    {
+      "name": "Mr Chizu",
+      "lot": "CK5"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "C19A"
+    },
+    {
+      "name": "Tealive",
+      "lot": "CK2"
+    },
+    {
+      "name": "Dave's Deli",
+      "lot": "C26"
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": "C41"
+    },
+    {
+      "name": "Little Eat Shop",
+      "lot": "C21"
+    },
+    {
+      "name": "Little Penang Kafé",
+      "lot": "C29 & C30"
+    },
+    {
+      "name": "Spitalfield's Gastobar",
+      "lot": "C37"
+    },
+    {
+      "name": "Swich",
+      "lot": "C11A"
+    },
+    {
+      "name": "Tedboy Express",
+      "lot": "C22"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "C01A"
+    },
+    {
+      "name": "Mr Fish Seafood Noodle",
+      "lot": "C36"
+    },
+    {
+      "name": "BlackBall",
+      "lot": "GK6"
+    },
+    {
+      "name": "Antipodean",
+      "lot": "G37 & GK1"
+    },
+    {
+      "name": "Korean BBQ House",
+      "lot": "G27"
+    },
+    {
+      "name": "Pu Tien",
+      "lot": "G28 - G30"
+    },
+    {
+      "name": "Texture by C3 Lab",
+      "lot": "G05 – G03A & B-GK-3"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G38"
+    },
+    {
+      "name": "Moim Modern Korean Cuisine",
+      "lot": "T 03A"
+    }
+  ]
+}

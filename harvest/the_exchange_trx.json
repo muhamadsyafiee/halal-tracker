@@ -1,0 +1,476 @@
+{
+  "mall": "The Exchange TRX",
+  "directory_url": "https://www.theexchange.my/dine/directory/",
+  "method": "html",
+  "count": 117,
+  "outlets": [
+    {
+      "name": "% Arabica",
+      "lot": "C.73.A"
+    },
+    {
+      "name": "108 Matcha Saro",
+      "lot": "C.OS.06"
+    },
+    {
+      "name": "Absolute Thai",
+      "lot": "C.96.0"
+    },
+    {
+      "name": "All About Chew",
+      "lot": "C.OS.03"
+    },
+    {
+      "name": "Amazonas",
+      "lot": "PL.09.0"
+    },
+    {
+      "name": "a’rest Cafe",
+      "lot": "GS.02.0"
+    },
+    {
+      "name": "B.E.D",
+      "lot": "GS.03.0"
+    },
+    {
+      "name": "Bacha Coffee",
+      "lot": "G.92.0 & G.93.0"
+    },
+    {
+      "name": "BananaBro",
+      "lot": "C.86.0"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "L1.74.0 & L1.75.0"
+    },
+    {
+      "name": "Beauty in the Pot",
+      "lot": "L1.45.B"
+    },
+    {
+      "name": "Ben's Cookies",
+      "lot": "C.56.0"
+    },
+    {
+      "name": "Beryl's",
+      "lot": "C.35.0"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "C.06.0"
+    },
+    {
+      "name": "Bobby's Burgers",
+      "lot": "C.59.0"
+    },
+    {
+      "name": "Boost Juice (Concourse)",
+      "lot": "C.OS.02"
+    },
+    {
+      "name": "Boost Juice (Level 2)",
+      "lot": "L2.OS.02"
+    },
+    {
+      "name": "Busaba",
+      "lot": "L1.02.0"
+    },
+    {
+      "name": "Cafe Colombo",
+      "lot": "L2T.08.0 & L2T.09.0"
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": "L2.OS.03"
+    },
+    {
+      "name": "Chica Bonita",
+      "lot": "L2.51.0"
+    },
+    {
+      "name": "Chonky Cookies",
+      "lot": "L1.OS.06"
+    },
+    {
+      "name": "Christine’s Bakery",
+      "lot": "L2.70.0 & L2.72.0"
+    },
+    {
+      "name": "Chulop!",
+      "lot": "GS.06.0"
+    },
+    {
+      "name": "Churros+",
+      "lot": "C.55.0"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "C.OS.11"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "lot": "C.OS.04"
+    },
+    {
+      "name": "Day One Day One Noodles",
+      "lot": "C.52.0"
+    },
+    {
+      "name": "De.Wan 1958 by Chef Wan",
+      "lot": "L1.46.0"
+    },
+    {
+      "name": "DIN by Din Tai Fung",
+      "lot": "C.94.0"
+    },
+    {
+      "name": "dipndip",
+      "lot": "C.OS.07"
+    },
+    {
+      "name": "Donkai",
+      "lot": "C.90.0"
+    },
+    {
+      "name": "Dunkin’ Donuts",
+      "lot": "C.OS.08"
+    },
+    {
+      "name": "Eight Ounce Coffee",
+      "lot": "L1.34.0"
+    },
+    {
+      "name": "Elementary Restaurant & Bar",
+      "lot": "L2T.10.0"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "C.OS.01"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "C.OS.09"
+    },
+    {
+      "name": "Fong Lye Tea House",
+      "lot": "C.38.0"
+    },
+    {
+      "name": "G'rai",
+      "lot": "L2.54.0"
+    },
+    {
+      "name": "Garrett Popcorn Shops",
+      "lot": "C.05.0"
+    },
+    {
+      "name": "Godiva",
+      "lot": "G.84.B"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "L2.OS.05"
+    },
+    {
+      "name": "Gu On Korean BBQ",
+      "lot": "PL.07.0"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "C.07.0-C.10.0"
+    },
+    {
+      "name": "Hokkaido Table",
+      "lot": "L2.AT.3"
+    },
+    {
+      "name": "Honolu Ramen",
+      "lot": "GS.19 & GS.20"
+    },
+    {
+      "name": "Hot Bird",
+      "lot": "GS.07.0"
+    },
+    {
+      "name": "Ignition by Wolf & Turtle Coffee",
+      "lot": "GS.21"
+    },
+    {
+      "name": "Jipinhe Scones 吉品合",
+      "lot": "C.87.0"
+    },
+    {
+      "name": "K Fry Urban Korean",
+      "lot": "C.53.0"
+    },
+    {
+      "name": "Kanbe Ramen",
+      "lot": "PL.08.0"
+    },
+    {
+      "name": "Kenny Hills Bakers On The Park",
+      "lot": "PL.05.0 & PL.06.0"
+    },
+    {
+      "name": "KIMIYA",
+      "lot": "C.42.0&C.43.0"
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "C.85.0"
+    },
+    {
+      "name": "Lane 23",
+      "lot": "GS.03.0 & GS.04.0"
+    },
+    {
+      "name": "Las Meninas",
+      "lot": "L2T.07.0"
+    },
+    {
+      "name": "Lavender",
+      "lot": "C.82.0-C.84.0"
+    },
+    {
+      "name": "Le Shrimp Noodle Bar",
+      "lot": "C.97.0"
+    },
+    {
+      "name": "llao llao",
+      "lot": "C.OS.10"
+    },
+    {
+      "name": "Läderach",
+      "lot": "G.29.0"
+    },
+    {
+      "name": "Madam Kwan’s",
+      "lot": "C.36.0"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "C.100.0 & C.101.0"
+    },
+    {
+      "name": "Makii-Makii",
+      "lot": "C.58.0"
+    },
+    {
+      "name": "Match Eight",
+      "lot": "L2.73.0"
+    },
+    {
+      "name": "Meriah by Serai Group",
+      "lot": "L1.03.0"
+    },
+    {
+      "name": "Mil Toast House",
+      "lot": "L2.84.0"
+    },
+    {
+      "name": "MODU SAMGYETANG",
+      "lot": "L2T.04.0, L2T.05.0"
+    },
+    {
+      "name": "Momo Yakitori",
+      "lot": "GS.16.0"
+    },
+    {
+      "name": "Mr Bean",
+      "lot": "C.44.0"
+    },
+    {
+      "name": "NAISNOW",
+      "lot": "C.11.0 & C.12.0"
+    },
+    {
+      "name": "Nak Nak",
+      "lot": "C.57.0"
+    },
+    {
+      "name": "Nando's",
+      "lot": "C.95.0"
+    },
+    {
+      "name": "Nanyang Café",
+      "lot": "C.50.0 & C.51.0"
+    },
+    {
+      "name": "OGA Tea & Dessert",
+      "lot": "L1.OS.04"
+    },
+    {
+      "name": "OMI Wagyu",
+      "lot": "L1.09.0"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "C.45.0 - C.46.0"
+    },
+    {
+      "name": "Paolo Paolo Gelato",
+      "lot": "L2.OS.01"
+    },
+    {
+      "name": "Paradise Dynasty",
+      "lot": "L2.63.0 & L2.64.0"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "C.88.0 & C.89.0"
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": "L2.20.0 & L2.21.0"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "C.55.0"
+    },
+    {
+      "name": "Quivo",
+      "lot": "L2.49.0"
+    },
+    {
+      "name": "Reborn Coffee",
+      "lot": "L2.62.0"
+    },
+    {
+      "name": "Robataya Izakaya",
+      "lot": "L2T.01.0"
+    },
+    {
+      "name": "Saffron & Spices, Bar Saffron - Indian Cuisine",
+      "lot": "L1.49.0 & L1.OS.07"
+    },
+    {
+      "name": "Samtai YAMCH'A",
+      "lot": "C.13.0 & C.14.0"
+    },
+    {
+      "name": "Shae.co",
+      "lot": "C.OS.12"
+    },
+    {
+      "name": "Shake Shack",
+      "lot": "PL.11.0"
+    },
+    {
+      "name": "SHUYI",
+      "lot": "L2.OS.06"
+    },
+    {
+      "name": "Souper Tang",
+      "lot": "L1.45.D"
+    },
+    {
+      "name": "SoYoung",
+      "lot": "C.OS.05"
+    },
+    {
+      "name": "Starbucks Reserve",
+      "lot": "L2.75.0 & L2.76.0"
+    },
+    {
+      "name": "Super Matcha",
+      "lot": "GS.01.0"
+    },
+    {
+      "name": "Tai Er",
+      "lot": "C.40.0"
+    },
+    {
+      "name": "Tanba Japanese BBQ & Sukiyaki",
+      "lot": "L1.45.C"
+    },
+    {
+      "name": "Tarbush",
+      "lot": "PL.03.0"
+    },
+    {
+      "name": "Tea Rock",
+      "lot": "GS.18.0"
+    },
+    {
+      "name": "Tealive+",
+      "lot": "C.60.0"
+    },
+    {
+      "name": "Tertemu Ramen",
+      "lot": "C.93.0"
+    },
+    {
+      "name": "The J Pot Kitchen",
+      "lot": "C.39.0"
+    },
+    {
+      "name": "Ticco",
+      "lot": "C.37.0"
+    },
+    {
+      "name": "Tofu G Gelato",
+      "lot": "L2T.06.0"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "C.48.0"
+    },
+    {
+      "name": "Tucker & Co",
+      "lot": "L1.52.0 & L1.53.0"
+    },
+    {
+      "name": "TWG TEA SALON & BOUTIQUE",
+      "lot": "G.82.0"
+    },
+    {
+      "name": "TWO SONS The Loft",
+      "lot": "PL.02.0"
+    },
+    {
+      "name": "Upper Palace Teow Chew",
+      "lot": "L1.50.0"
+    },
+    {
+      "name": "VCR Stacks",
+      "lot": "L2.52.0 & L2.52E.0"
+    },
+    {
+      "name": "Venchi",
+      "lot": "G.32.0"
+    },
+    {
+      "name": "Warung Eropa",
+      "lot": "L2.49.A"
+    },
+    {
+      "name": "Yakuniku Kuro",
+      "lot": "C.54.0"
+    },
+    {
+      "name": "YOGIYO",
+      "lot": "L2.37.0"
+    },
+    {
+      "name": "Yomaro Frozen Yorgurt",
+      "lot": "C.OS.17"
+    },
+    {
+      "name": "Yoursnackies",
+      "lot": "GS.08.0 & GS.08.A"
+    },
+    {
+      "name": "Zok Noodle House Signature",
+      "lot": "L2.65.0"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "C.98.0"
+    },
+    {
+      "name": "农耕记 Nong Geng Ji",
+      "lot": "C.91.0 & C.92.0"
+    }
+  ]
+}

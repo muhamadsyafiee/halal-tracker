@@ -1,0 +1,316 @@
+{
+  "mall": "Sunway Putra Mall",
+  "directory_url": "https://www.sunwayputramall.com/directory",
+  "method": "json_api",
+  "count": 77,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "LG-8 & 9"
+    },
+    {
+      "name": "A'DECADE",
+      "lot": "LG-13B"
+    },
+    {
+      "name": "Absolute Thai",
+      "lot": "LG-18"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "L4-43B"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "L1-34A"
+    },
+    {
+      "name": "Ayam Penyet Best",
+      "lot": "L2-25"
+    },
+    {
+      "name": "Ayla Steakhouse",
+      "lot": "L4-81"
+    },
+    {
+      "name": "BananaBro",
+      "lot": "L3-29"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "L1-26"
+    },
+    {
+      "name": "Batik & Kopi",
+      "lot": "L4-59"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "L3-25"
+    },
+    {
+      "name": "Bliss Dessert Bar",
+      "lot": "L3-34"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "L4-43D"
+    },
+    {
+      "name": "Boost Juice Bar",
+      "lot": "LG.29"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG-26B"
+    },
+    {
+      "name": "Breadstory",
+      "lot": "LG-28D"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LG-27A"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG-11"
+    },
+    {
+      "name": "Chagee",
+      "lot": "G-1-8 & 9"
+    },
+    {
+      "name": "Chicken Plus",
+      "lot": "LG-16B"
+    },
+    {
+      "name": "Childhood",
+      "lot": "LG-26A"
+    },
+    {
+      "name": "Chili’s",
+      "lot": "G-20"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "G-7"
+    },
+    {
+      "name": "Dua Nasi Malatang",
+      "lot": "LG-21"
+    },
+    {
+      "name": "Dubuyo",
+      "lot": "L4-84"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-25B"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-25A"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "L1-33"
+    },
+    {
+      "name": "Go Noodle House",
+      "lot": "L1-13"
+    },
+    {
+      "name": "Grill Teppanyaki",
+      "lot": "L4-91"
+    },
+    {
+      "name": "HADRAMOT VILLAGE",
+      "lot": "L3-26"
+    },
+    {
+      "name": "Happy Bee Farm",
+      "lot": "LG-16C"
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "LG-28A"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "L4-62"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "LG-31A"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "1-30"
+    },
+    {
+      "name": "Kedai Kopi Malaya",
+      "lot": "L1--35A"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "L1-20"
+    },
+    {
+      "name": "Kenny Roger Roasters",
+      "lot": "LG-20"
+    },
+    {
+      "name": "Kentucky Fried Chicken (KFC)",
+      "lot": "LG-3"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "lot": "LG-28E"
+    },
+    {
+      "name": "Me'nate",
+      "lot": "G-23 &G-24"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "LG-15"
+    },
+    {
+      "name": "Melvados",
+      "lot": "L1-38"
+    },
+    {
+      "name": "Memang Meow",
+      "lot": "L3-28"
+    },
+    {
+      "name": "Mercato",
+      "lot": "LG-1A"
+    },
+    {
+      "name": "MIGA K",
+      "lot": "L4-45"
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "LG-28C"
+    },
+    {
+      "name": "Mixue",
+      "lot": "L1-34B"
+    },
+    {
+      "name": "Mr Dakgalbi",
+      "lot": "LG-16B"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LG-24"
+    },
+    {
+      "name": "Nasi Lemak Pak Ali",
+      "lot": "L4.50"
+    },
+    {
+      "name": "Onde",
+      "lot": "L1-31"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "G-1-6&7"
+    },
+    {
+      "name": "Pak Jen Gulai Panas Langkawi",
+      "lot": "L4-83"
+    },
+    {
+      "name": "Pak Nik Burger™️",
+      "lot": "L4-48A"
+    },
+    {
+      "name": "Pop Meals",
+      "lot": "LG-10"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LG-27B"
+    },
+    {
+      "name": "Rumah Makan Nusantara",
+      "lot": "Level 9, Sunway Putra Hotel"
+    },
+    {
+      "name": "Savoury Kitchen",
+      "lot": "L4-47"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "LG-22"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "L3-27"
+    },
+    {
+      "name": "Serai",
+      "lot": "G-26 and G-26A"
+    },
+    {
+      "name": "Station Kopitiam",
+      "lot": "L4-43"
+    },
+    {
+      "name": "Subway",
+      "lot": "L4-60"
+    },
+    {
+      "name": "Sukiya Tokyo Bowls & Noodles",
+      "lot": "LG-6"
+    },
+    {
+      "name": "Super Saigon",
+      "lot": "L1-29"
+    },
+    {
+      "name": "Sushi Kazoku",
+      "lot": "L4-43A"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-19"
+    },
+    {
+      "name": "Tealive & Llao Llao",
+      "lot": "LG-28B"
+    },
+    {
+      "name": "Teh Tarik Place Signature",
+      "lot": "L4-85"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-13A"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-23"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "L1-36"
+    },
+    {
+      "name": "The Manhattan Fish Market",
+      "lot": "LG-17"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "G-27"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "L2-33"
+    }
+  ]
+}

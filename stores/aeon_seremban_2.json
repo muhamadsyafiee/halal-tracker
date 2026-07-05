@@ -1,0 +1,230 @@
+{
+  "mall": "AEON Seremban 2",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-seremban-2",
+  "count": 31,
+  "summary": {
+    "certified": 11,
+    "review": 10,
+    "uncertified": 10,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "LAC Nutrition for Life",
+      "lot": "G33",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OLD TOWN WHITE COFFEE",
+      "lot": "G37",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "G38",
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "ZENSHO ICHIBAN MALAYSIA SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G39",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "G40",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Johnny's Restaurant",
+      "lot": "G42",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KFC",
+      "lot": "G45",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "G46",
+      "status": "certified",
+      "myehalal_matches": 21,
+      "cert_holder": "BERJAYA ROASTERS (M) SDN BHD"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "G47",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G48",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G49 & G50",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snack",
+      "lot": "G53",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G55",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Pappa Roti",
+      "lot": "G57",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "G58",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "G59",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Purple Cane",
+      "lot": "G60",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Subway",
+      "lot": "G61",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "G62",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Auntie Anne",
+      "lot": "G66",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "llaollao",
+      "lot": "KF2",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "FAMOUS AMOS",
+      "lot": "KF1",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "MCDONALD'S",
+      "lot": "G43",
+      "status": "review",
+      "myehalal_matches": 26,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "POP MEALS",
+      "lot": "G41",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "FARM TO FORK SDN. BHD."
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "KF8",
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "HONG KONG KIM GARY RESTAURANT",
+      "lot": "G51",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "KF6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "G63",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "GONG CHA",
+      "lot": "KF5",
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "KRISPY KREME",
+      "lot": "GK1",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "BANANABRO",
+      "lot": "G52",
+      "status": "review",
+      "myehalal_matches": 23,
+      "cert_holder": "HTFU RESTAURANTS SDN. BHD."
+    }
+  ]
+}

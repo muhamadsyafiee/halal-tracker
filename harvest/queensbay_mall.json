@@ -1,0 +1,344 @@
+{
+  "mall": "Queensbay Mall",
+  "directory_url": "https://www.queensbaymallmalaysia.com/",
+  "method": "category_page_html (getDirectoryPage?categoryId=9, paginated pages 1-11)",
+  "count": 84,
+  "outlets": [
+    {
+      "name": "ZUS Coffee",
+      "lot": "LG-17"
+    },
+    {
+      "name": "Bask Bear Coffee",
+      "lot": null
+    },
+    {
+      "name": "CHAGEE MY 霸王茶姬",
+      "lot": "3F-26"
+    },
+    {
+      "name": "DubuYo Mini",
+      "lot": "LG-46"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": null
+    },
+    {
+      "name": "Gravy Baby",
+      "lot": "GF-121/122"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "2F-K3A/K3B"
+    },
+    {
+      "name": "Haidilao Hot Pot 海底捞火锅",
+      "lot": "3F-27"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "GF-89"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "LG-122"
+    },
+    {
+      "name": "MiX.STORE",
+      "lot": "3F-30-33A"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "GF-98"
+    },
+    {
+      "name": "Häagen-Dazs",
+      "lot": "GF-103(a)"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "GF-136 - 138"
+    },
+    {
+      "name": "J.CO Donuts & Coffee",
+      "lot": "GF-103, 105 & 143"
+    },
+    {
+      "name": "HEYTEA 喜茶",
+      "lot": "LG-102"
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "1F-140 & 140 (ca)"
+    },
+    {
+      "name": "San Francisco Coffee Express",
+      "lot": "1F-153 / 153 (a)"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "LG-57 & 58"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "GF-123 (a), 127, 140"
+    },
+    {
+      "name": "Starbucks Express",
+      "lot": "1F-108 & 109"
+    },
+    {
+      "name": "Winter Warmers Coffee & Tea House",
+      "lot": "GF-06"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LG-77"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "2F-103(a)"
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "lot": "LG-43(a)"
+    },
+    {
+      "name": "Boost Juice Bara",
+      "lot": "LG-49"
+    },
+    {
+      "name": "Busan Chicken",
+      "lot": "3F-41"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG-73/73(a)/75/76/80/81"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-79"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-71"
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "LG-1047"
+    },
+    {
+      "name": "Ming Xiang Tai",
+      "lot": "LG-70"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-69"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "LG-105 & 106"
+    },
+    {
+      "name": "Azuma",
+      "lot": "2F-87"
+    },
+    {
+      "name": "An Viet",
+      "lot": "LG-42"
+    },
+    {
+      "name": "CANTON-I",
+      "lot": "2F-49"
+    },
+    {
+      "name": "Dragon-i",
+      "lot": "2F-115, 116, 117, 118"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-108"
+    },
+    {
+      "name": "Eureka Snack Bar",
+      "lot": "LG-103"
+    },
+    {
+      "name": "ROYCE' Chocolate",
+      "lot": "LG-103A"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-72 & 82"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "LG-87"
+    },
+    {
+      "name": "KFC",
+      "lot": "GF-12(a)"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG-51"
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "lot": "2F-95/96/103"
+    },
+    {
+      "name": "Robataya",
+      "lot": "2F-02"
+    },
+    {
+      "name": "Little Nyonya",
+      "lot": "LG-116 & 117"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-113(a), 115, 111(a)"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-93"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LG-92"
+    },
+    {
+      "name": "Menya Miyabi",
+      "lot": "1F-152"
+    },
+    {
+      "name": "Ho Min San",
+      "lot": "LG-118, 119 & 118(ca)"
+    },
+    {
+      "name": "Hong Kong Kim Gary Restaurant",
+      "lot": "1F-110, 111, 113"
+    },
+    {
+      "name": "Jungle House",
+      "lot": "LG-30"
+    },
+    {
+      "name": "Kwoong Woh Tong",
+      "lot": "LG-40"
+    },
+    {
+      "name": "Lao Ba Cha Tea House",
+      "lot": "LG-21 & 22"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "LG-93A"
+    },
+    {
+      "name": "65c Ondo",
+      "lot": "LG-133/133A"
+    },
+    {
+      "name": "茶仙子 Beutea",
+      "lot": "LG-37/36"
+    },
+    {
+      "name": "Cotti Coffee",
+      "lot": "GF-21"
+    },
+    {
+      "name": "JO’s Cha 茶救星球",
+      "lot": "GF-05"
+    },
+    {
+      "name": "Laem Charoen Thai Seafood",
+      "lot": "2F-50"
+    },
+    {
+      "name": "Madam Kwan's",
+      "lot": "GF-11 & 12"
+    },
+    {
+      "name": "ParaThai",
+      "lot": "LG-112/120/121"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "3F-39"
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "2F-77/78"
+    },
+    {
+      "name": "Childhood - A Taste of Memory",
+      "lot": null
+    },
+    {
+      "name": "Dandy Modern Food",
+      "lot": "GF-112"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "LG-23"
+    },
+    {
+      "name": "Beryl's Chocolate",
+      "lot": "LG-48"
+    },
+    {
+      "name": "Rich Baker",
+      "lot": "LG-45/46"
+    },
+    {
+      "name": "Seri Bako by Kwan Kee Store",
+      "lot": "LG-03/03A"
+    },
+    {
+      "name": "Lucky Cup",
+      "lot": "LG-130"
+    },
+    {
+      "name": "Oriental Kopi 华阳",
+      "lot": "LG-86"
+    },
+    {
+      "name": "ChaPanda",
+      "lot": "3F-23(01)"
+    },
+    {
+      "name": "Pasta Port",
+      "lot": "3F-40"
+    },
+    {
+      "name": "Zok Noodle House 竹麵館",
+      "lot": "LG-45/46"
+    },
+    {
+      "name": "Signature Market",
+      "lot": "3F-22A"
+    },
+    {
+      "name": "蜀都丰 Sodofun",
+      "lot": "GF-130/131/139(A)"
+    },
+    {
+      "name": "B.O.D 包栈",
+      "lot": "LG-67/68"
+    },
+    {
+      "name": "LONGJING 绿茶餐厅",
+      "lot": "GF-01(B)"
+    },
+    {
+      "name": "蒙自源 (Coming Soon)",
+      "lot": "2F-72/73"
+    },
+    {
+      "name": "Shantea Dessert (Coming Soon)",
+      "lot": "LG-01/02"
+    }
+  ]
+}

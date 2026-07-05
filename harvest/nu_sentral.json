@@ -1,0 +1,400 @@
+{
+  "mall": "NU Sentral",
+  "directory_url": "https://www.nusentral.com/store-directory/",
+  "method": "endpoint",
+  "count": 98,
+  "outlets": [
+    {
+      "name": "Cinnabon",
+      "lot": "Level Concourse, CC.10C"
+    },
+    {
+      "name": "Kopi Rakyat",
+      "lot": "Level Ground, GF.26"
+    },
+    {
+      "name": "4 Fingers Crispy Chicken",
+      "lot": "Level Concourse, CC.14"
+    },
+    {
+      "name": "5 Coffee (OFFFFive Coffee)",
+      "lot": "Level Ground, GF.22"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "Level Lower Ground, LG.16"
+    },
+    {
+      "name": "Ali, Muthu & Ah Hock",
+      "lot": "Level Ground, GF.37, GF.38"
+    },
+    {
+      "name": "Aroii Thai",
+      "lot": "Level Lower Ground, LG.33"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "Level Concourse, CC.13A"
+    },
+    {
+      "name": "Ayam Penyet AP",
+      "lot": "Level Lower Ground, LG.17"
+    },
+    {
+      "name": "B.Bap Korean Food",
+      "lot": "Level Ground, GF.08"
+    },
+    {
+      "name": "Bake Brown",
+      "lot": "Level Ground, GF.21"
+    },
+    {
+      "name": "Banana Bistro",
+      "lot": "Level 4, L4.12"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Level Ground, GF.48"
+    },
+    {
+      "name": "BBQ Nation Select",
+      "lot": "Level 5, L5.08, L5.09"
+    },
+    {
+      "name": "Beard Papa’s",
+      "lot": "Level Lower Ground, LG.11"
+    },
+    {
+      "name": "Being Juice",
+      "lot": "Level Lower Ground, LG.52"
+    },
+    {
+      "name": "Beryl’s Chocolate",
+      "lot": "Level Lower Ground, LG.41A"
+    },
+    {
+      "name": "Bibi’s Popiah",
+      "lot": "Level Lower Ground, LG.44"
+    },
+    {
+      "name": "Big Apple Donut & Coffee",
+      "lot": "Level Concourse, CC.12"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "Level 4, L4.06"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "Level Concourse, CC.10B"
+    },
+    {
+      "name": "Bread History",
+      "lot": "Level Lower Ground, LG.41"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "Level Lower Ground, LG.37"
+    },
+    {
+      "name": "Chagee Express",
+      "lot": "Level Concourse, CC.10D"
+    },
+    {
+      "name": "Churros+",
+      "lot": "Level Lower Ground, LG.50C"
+    },
+    {
+      "name": "Cong Caphe",
+      "lot": "Level Lower Ground, LG.19"
+    },
+    {
+      "name": "Cornery",
+      "lot": "Level Lower Ground, LG.50D"
+    },
+    {
+      "name": "Creem Artisan",
+      "lot": "Level Ground, GF.04"
+    },
+    {
+      "name": "DIN by Din Tai Fung",
+      "lot": "Level 3, L3.5, L3.6"
+    },
+    {
+      "name": "Dodo Korea",
+      "lot": "Level 4, L4.07"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "Level Lower Ground, LG.42A, LG.43"
+    },
+    {
+      "name": "Dubu Yo",
+      "lot": "Level 4, L4.04"
+    },
+    {
+      "name": "Dunkin Donuts",
+      "lot": "Level Lower Ground, LG.50A, LG.50B"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Level Lower Ground, LG.14"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Level Concourse, CC.10A"
+    },
+    {
+      "name": "Fuel Shack",
+      "lot": "Level 5, L5.11"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "Level Lower Ground, LG.42"
+    },
+    {
+      "name": "Godiva Chocolatier",
+      "lot": "Level Concourse, CC.37A"
+    },
+    {
+      "name": "Haagen Dazs",
+      "lot": "Level 1, L1.27"
+    },
+    {
+      "name": "Hanbing Korean Dessert Café",
+      "lot": "Level Lower Ground, LG.21"
+    },
+    {
+      "name": "Havana Dining",
+      "lot": "Level 6, L6.01, L6.02, L6.03, L6.04"
+    },
+    {
+      "name": "Homie Recipe",
+      "lot": "Level Lower Ground, LG.18"
+    },
+    {
+      "name": "HRC SkyLounge",
+      "lot": "Level 6, L6.02, L6.02B"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "Level 4, L4.23"
+    },
+    {
+      "name": "illy Caffè",
+      "lot": "Level Ground, GF.41"
+    },
+    {
+      "name": "Kailash Parbat",
+      "lot": "Level Lower Ground, LG.27, LG.28"
+    },
+    {
+      "name": "Kakatoo",
+      "lot": "Level Ground, GF.46, GF.47"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "Level Lower Ground, LG.09"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "Level 4, L4.20, L4.21"
+    },
+    {
+      "name": "KFC",
+      "lot": "Level 5, L5.16"
+    },
+    {
+      "name": "Kopi Saigon (Coming Soon)",
+      "lot": "Level Ground, GF.34"
+    },
+    {
+      "name": "Kra Pow",
+      "lot": "Level Ground, GF.44, GF.45"
+    },
+    {
+      "name": "Lizzie by Lisette’s Cafe",
+      "lot": "Level Lower Ground, LG.25"
+    },
+    {
+      "name": "Luck Bros Kopi",
+      "lot": "Level Concourse, CC.06,07,08"
+    },
+    {
+      "name": "luckin coffee",
+      "lot": "Level Ground, LG.49"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "Level 4, L4.02, L4.03"
+    },
+    {
+      "name": "Melvados",
+      "lot": "Level Ground, GF.35"
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "Level Ground Floor, LG.40"
+    },
+    {
+      "name": "Mixue Ice Cream and Tea",
+      "lot": "Level Lower Ground, LG.10"
+    },
+    {
+      "name": "Mr Tuk Tuk",
+      "lot": "Level 4, L4.10, L4.11A"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "Level 4, L4.05"
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "Level 3, L3.27"
+    },
+    {
+      "name": "Nyonya Tingkat by Aroma Village",
+      "lot": "Level 5, L5.12"
+    },
+    {
+      "name": "O’Briens",
+      "lot": "Level Ground, GF.07"
+    },
+    {
+      "name": "Original Penang Kayu Nasi Kandar",
+      "lot": "Level Lower Ground, LG.30, LG.31"
+    },
+    {
+      "name": "Pak Jen",
+      "lot": "Level Ground, GF.27,GF.28"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "Level Concourse, CC.15A"
+    },
+    {
+      "name": "Quizinn Foodcourt by Rasa Food Arena",
+      "lot": "Level 3, L3.14"
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "Level 4, L4.18, L4.19"
+    },
+    {
+      "name": "Ramen Seirock-ya",
+      "lot": "Level 5, L5.05"
+    },
+    {
+      "name": "Rasa Habibi",
+      "lot": "Level Lower Ground, LG.32"
+    },
+    {
+      "name": "Roberto’s",
+      "lot": "Level Lower Ground, LG.26"
+    },
+    {
+      "name": "Rollti",
+      "lot": "Level Lower Ground, LG.39"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lower Ground, LG.12"
+    },
+    {
+      "name": "Salad Atelier",
+      "lot": "Level Lower Ground, LG.20"
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "Level Ground, GF.09"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "Level Concourse, CC.05"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "Level 4, L4.8A"
+    },
+    {
+      "name": "Shin Jjajang . Budae Jjigae",
+      "lot": "Level 3, L3.07, L3.08"
+    },
+    {
+      "name": "Slim Chicken",
+      "lot": "Level 5, L5.06"
+    },
+    {
+      "name": "Sparq Coffee",
+      "lot": "Level 3, L3.15"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "Level Ground, GF.05, GF.06"
+    },
+    {
+      "name": "Subway",
+      "lot": "Level 4, L4.13"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "Level 5, L5.1A, L5.2"
+    },
+    {
+      "name": "Taco Bell",
+      "lot": "Level 4, L4.11"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "Level 4, L4.01"
+    },
+    {
+      "name": "Tealive & llaollao",
+      "lot": "Level Concourse, CC.04"
+    },
+    {
+      "name": "Thai Chicken Rice Station",
+      "lot": "Level Lower Ground, LG.15"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Level 4, L4.16, L4.17"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Level Lower Ground, LG.29"
+    },
+    {
+      "name": "THE FISH BOWL",
+      "lot": "Level 5, L5.10"
+    },
+    {
+      "name": "The Grass",
+      "lot": "Level Lower Ground , LG.13"
+    },
+    {
+      "name": "TIRAMISU & COFFEE",
+      "lot": "Level 5, L504A"
+    },
+    {
+      "name": "Toast Maker",
+      "lot": "Level Lower Ground, LG.38"
+    },
+    {
+      "name": "Volcano Crisp",
+      "lot": "Level Lower Ground, LG.53"
+    },
+    {
+      "name": "Waroeng Penyet",
+      "lot": "Level 4, L4.08"
+    },
+    {
+      "name": "Yamazaki by Sun Moulin",
+      "lot": "Level Concourse, CC.13"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Level Concourse, CC.04A"
+    }
+  ]
+}

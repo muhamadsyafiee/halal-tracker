@@ -1,0 +1,23 @@
+{
+  "mall": "Palm Mall",
+  "directory_url": "http://www.palmmall.my/Directory_3_1.htm",
+  "method": "curl",
+  "count": 15,
+  "outlets": [
+    {"name": "BlackBall", "lot": "2-2F-39A"},
+    {"name": "Famous Amos", "lot": "1-1F-FB-01"},
+    {"name": "Burger King", "lot": "LG-LG-4"},
+    {"name": "Manhattan Fish Market", "lot": "G-G-33B"},
+    {"name": "Johnny's Restaurant", "lot": "G-G-38"},
+    {"name": "Seoul Garden", "lot": "1-1F-39"},
+    {"name": "Nando's", "lot": "UG-UG-35, 36 & 37"},
+    {"name": "Sushi King", "lot": "UG-UG-27"},
+    {"name": "Sushi Go", "lot": "1-1F-33B"},
+    {"name": "Black Canyon", "lot": "G-G-37"},
+    {"name": "The Chicken Rice Shop", "lot": "G-G-01"},
+    {"name": "Rancher Steak House", "lot": "LG-LG-03"},
+    {"name": "MyeongDong Topokki", "lot": "UG-UG-32"},
+    {"name": "Subway", "lot": "UG-UG-39"},
+    {"name": "Zus Coffee", "lot": "UG-UG-29"}
+  ]
+}

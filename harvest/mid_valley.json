@@ -1,0 +1,568 @@
+{
+  "mall": "Mid Valley Megamall",
+  "directory_url": "https://www.midvalley.com.my/shop/directory/",
+  "method": "html",
+  "count": 140,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "T-074"
+    },
+    {
+      "name": "APOLLO Pick-A-LiCious",
+      "lot": "TK-07"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "T-030"
+    },
+    {
+      "name": "Bananabro",
+      "lot": "T-043"
+    },
+    {
+      "name": "Bean Factory 怡保祖传豆花",
+      "lot": "T-072 & TK-17"
+    },
+    {
+      "name": "BMS Organics",
+      "lot": "T-014A"
+    },
+    {
+      "name": "Carl's Jr",
+      "lot": "T-005A"
+    },
+    {
+      "name": "Creme de la crème",
+      "lot": "TK-01"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "TK-27"
+    },
+    {
+      "name": "House of Pok",
+      "lot": "T-041B"
+    },
+    {
+      "name": "Kiku-Zakura",
+      "lot": "T-002A"
+    },
+    {
+      "name": "llaollao",
+      "lot": "TK-04"
+    },
+    {
+      "name": "Mala Mini Hotpot",
+      "lot": "T-013D & 061"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "T-045"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "T-029"
+    },
+    {
+      "name": "MyeongDong Topokki",
+      "lot": "T-028A"
+    },
+    {
+      "name": "Nasi Lemak Shop",
+      "lot": "T-042A & 043A"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "T-041 &041A"
+    },
+    {
+      "name": "PopCorn Food Hall 4 Elements",
+      "lot": "T-013"
+    },
+    {
+      "name": "RA-MEN BANKARA",
+      "lot": "T-028"
+    },
+    {
+      "name": "RIGHTSIDE",
+      "lot": "T-005B"
+    },
+    {
+      "name": "Snowflake",
+      "lot": "T-014"
+    },
+    {
+      "name": "Stuff'd",
+      "lot": "T-014F"
+    },
+    {
+      "name": "Sugirl Desserts",
+      "lot": "T-045A & TK-22"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "T-052 & 053"
+    },
+    {
+      "name": "tealive plus",
+      "lot": "TK-08"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "T-033A"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "T-006C,007 & TK-14 & 23"
+    },
+    {
+      "name": "吉品合 Jipinhe Scones",
+      "lot": "TK-06"
+    },
+    {
+      "name": "Amarin Heavenly Thai",
+      "lot": "S-045"
+    },
+    {
+      "name": "BBQ Town",
+      "lot": "S-025 & 026"
+    },
+    {
+      "name": "Beutea",
+      "lot": "S-027"
+    },
+    {
+      "name": "Haagen-Dazs",
+      "lot": "SK-01"
+    },
+    {
+      "name": "Hotpot Kitchen",
+      "lot": "S-045A"
+    },
+    {
+      "name": "Just Good Coffee",
+      "lot": "S-064C"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "SK-09"
+    },
+    {
+      "name": "Squeezby",
+      "lot": "S-063B"
+    },
+    {
+      "name": "The Travelling Duck",
+      "lot": "S-046 & 047"
+    },
+    {
+      "name": "Yin's Sourdough Bakery & Cafe",
+      "lot": "S-018 & 019"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "SK-10"
+    },
+    {
+      "name": "Nononsense Coffee",
+      "lot": "FK-10"
+    },
+    {
+      "name": "Ayam Gepuk Hut",
+      "lot": "F-028B &028C"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "FK-02"
+    },
+    {
+      "name": "Christine's Bakery & Cafè",
+      "lot": "F-051"
+    },
+    {
+      "name": "Empire Sushi Dine-In",
+      "lot": "F-029 & FK-16"
+    },
+    {
+      "name": "GIGI Coffee",
+      "lot": "FK-06"
+    },
+    {
+      "name": "Juice Works",
+      "lot": "F-070A"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "F-027A & 027B"
+    },
+    {
+      "name": "Madam Kwan's",
+      "lot": "F-052"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "F-001 & 002"
+    },
+    {
+      "name": "Peng Chu 彭厨",
+      "lot": "F-073"
+    },
+    {
+      "name": "Shantea Dessert",
+      "lot": "FK-05"
+    },
+    {
+      "name": "Souper Tang",
+      "lot": "F-080-082"
+    },
+    {
+      "name": "SUBWAY®",
+      "lot": "F-071"
+    },
+    {
+      "name": "Tanba Japanese BBQ & Hotpot",
+      "lot": "F-074"
+    },
+    {
+      "name": "TGI Fridays",
+      "lot": "F-072"
+    },
+    {
+      "name": "Ali Muthu & Ah Hock",
+      "lot": "G(E)-020"
+    },
+    {
+      "name": "Antipodean",
+      "lot": "G(E)-011A"
+    },
+    {
+      "name": "Ben's",
+      "lot": "G-080 & 081"
+    },
+    {
+      "name": "Beutea",
+      "lot": "G(E)K-12"
+    },
+    {
+      "name": "Burger King",
+      "lot": "G(E)-011 & G001"
+    },
+    {
+      "name": "Chili's Grill & Bar",
+      "lot": "G(E)-011B & 012"
+    },
+    {
+      "name": "dipndip",
+      "lot": "G(E)-008A"
+    },
+    {
+      "name": "Grand Taipei",
+      "lot": "G(E)-010 & TL(E)-09/02"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "G(E)-007"
+    },
+    {
+      "name": "Hong Kong Kim Gary Restaurant",
+      "lot": "G(E)-005"
+    },
+    {
+      "name": "LingLing LongLong Gastrobar by Chateau DC",
+      "lot": "G(E)-018"
+    },
+    {
+      "name": "MUJI 無印良品",
+      "lot": "G-068 & 069"
+    },
+    {
+      "name": "MyIPOH 怡保",
+      "lot": "G(E)-002"
+    },
+    {
+      "name": "NALE - The Nasi Lemak Company",
+      "lot": "G(E)-013"
+    },
+    {
+      "name": "NANYANG CAFE",
+      "lot": "G(E)-017"
+    },
+    {
+      "name": "Original Penang Kayu Nasi Kandar",
+      "lot": "G(E)-003"
+    },
+    {
+      "name": "Palsaik Korean BBQ",
+      "lot": "G(E)-013A"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G-048"
+    },
+    {
+      "name": "Starbucks Reserve",
+      "lot": "G-076-079"
+    },
+    {
+      "name": "The Barn",
+      "lot": "G(E)-009 & T/L(E)-09/01"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G-047"
+    },
+    {
+      "name": "Xiao Long Kan Chinese Fondue",
+      "lot": "G(E)-019"
+    },
+    {
+      "name": "Cha Tra Mue",
+      "lot": "LG-013"
+    },
+    {
+      "name": "4Fingers Crispy Chicken",
+      "lot": "LG-074A"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "LG-088B"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LG-037"
+    },
+    {
+      "name": "B.O.D 包栈",
+      "lot": "LG-046"
+    },
+    {
+      "name": "Beard Papa",
+      "lot": "LGK-08"
+    },
+    {
+      "name": "Bee Cheng Hiang 美珍香",
+      "lot": "LG-070"
+    },
+    {
+      "name": "Ben's Cookies",
+      "lot": "LGC-15 & 16"
+    },
+    {
+      "name": "Beryl's",
+      "lot": "LG-077"
+    },
+    {
+      "name": "BIBI’S POPIAH",
+      "lot": "LGK-05"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LGK-02"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "LG-009"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "LG-011"
+    },
+    {
+      "name": "Dubu Yo (Urban Korean Food)",
+      "lot": "LG-048"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "LGC-038 & 039"
+    },
+    {
+      "name": "Eureka Snack Bar",
+      "lot": "LG-065"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-015"
+    },
+    {
+      "name": "Finest Bake",
+      "lot": "LGC-08"
+    },
+    {
+      "name": "Garrett Popcorn Shops®",
+      "lot": "LGC-020 & 021"
+    },
+    {
+      "name": "Go Noodle House Plus",
+      "lot": "LG-059"
+    },
+    {
+      "name": "Good Chen",
+      "lot": "LG- 061"
+    },
+    {
+      "name": "Halla Holla",
+      "lot": "LGK-03"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LGK-07"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LGK-09"
+    },
+    {
+      "name": "Ipoh Kacang Putih",
+      "lot": "LGC-23"
+    },
+    {
+      "name": "Jollibee",
+      "lot": "LG-074"
+    },
+    {
+      "name": "Jungle House",
+      "lot": "LG-076"
+    },
+    {
+      "name": "Kamakura",
+      "lot": "LGK-06"
+    },
+    {
+      "name": "Kedai Kopitiam Oriental Kopi",
+      "lot": "LG-043"
+    },
+    {
+      "name": "KFC",
+      "lot": "LG-038"
+    },
+    {
+      "name": "Komugi",
+      "lot": "LG-078"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "LG-069"
+    },
+    {
+      "name": "Kwan Kee Store",
+      "lot": "LGK-11"
+    },
+    {
+      "name": "Lalezar",
+      "lot": "LG-039A"
+    },
+    {
+      "name": "LAPISAN Patisserie",
+      "lot": "LG-079"
+    },
+    {
+      "name": "Lavender",
+      "lot": "LG-043A & 044 & 045"
+    },
+    {
+      "name": "Lim Fried Chicken (LFC)",
+      "lot": "LG-090"
+    },
+    {
+      "name": "Lo Hong Ka",
+      "lot": "LG-004 & 005"
+    },
+    {
+      "name": "Lung Ngen Claypot Coffee",
+      "lot": "LG-054"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "LGC-13&14"
+    },
+    {
+      "name": "Mak's Chee Authentic Wonton 麦氏西池港式",
+      "lot": "LG-063"
+    },
+    {
+      "name": "myBurgerLab",
+      "lot": "LG-055"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LG-053"
+    },
+    {
+      "name": "Oat Story",
+      "lot": "LGC-40 & 41"
+    },
+    {
+      "name": "Omega 猪肉粉 Pork Noodle",
+      "lot": "LG-058"
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": "LG-033"
+    },
+    {
+      "name": "POBBYICE",
+      "lot": "LGK-12"
+    },
+    {
+      "name": "Shae.co",
+      "lot": "LG-089"
+    },
+    {
+      "name": "ShuYi Grass Jelly & Tea",
+      "lot": "LG-093A"
+    },
+    {
+      "name": "Sin Man Kee Hong Kong Char Chan Teng",
+      "lot": "LG-058A"
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": "LGC-10"
+    },
+    {
+      "name": "Sukiya",
+      "lot": "LG-049 & 050"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": "LG-012A"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-012"
+    },
+    {
+      "name": "The Founders Bakery",
+      "lot": "LG-093"
+    },
+    {
+      "name": "The Manhattan Fish Market",
+      "lot": "LG-060"
+    },
+    {
+      "name": "Vanilla Mille Crepe",
+      "lot": "LG-089A"
+    },
+    {
+      "name": "Yin's Sourdough Bakery",
+      "lot": "LGC-30"
+    },
+    {
+      "name": "Yogurt Factory",
+      "lot": "LGK-10"
+    },
+    {
+      "name": "Yolé",
+      "lot": "LG-066"
+    },
+    {
+      "name": "樂天皇朝 Paradise Dynasty",
+      "lot": "LG-056 & 057"
+    },
+    {
+      "name": "贡梨 The Roasted Gong Pear",
+      "lot": "LGC-036 & 037"
+    }
+  ]
+}

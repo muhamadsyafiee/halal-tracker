@@ -1,0 +1,400 @@
+{
+ "mall": "Imago Shopping Mall",
+ "directory_url": "https://shop.imago.my/shop/shop-list",
+ "method": "browser_api_brands",
+ "count": 98,
+ "outlets": [
+  {
+   "name": "15 MINUTES BAKE",
+   "lot": "BF - 26/27"
+  },
+  {
+   "name": "CHATRAMUE",
+   "lot": "1F - SPK-03"
+  },
+  {
+   "name": "BURGER KING",
+   "lot": "BF - 04/05"
+  },
+  {
+   "name": "LLAO LLAO",
+   "lot": "BF - 60"
+  },
+  {
+   "name": "PAPA'S",
+   "lot": "BF - 59"
+  },
+  {
+   "name": "ROYCE'",
+   "lot": "BF - SPK-05"
+  },
+  {
+   "name": "SUBWAY",
+   "lot": "BF - 16"
+  },
+  {
+   "name": "UNCLE BOB",
+   "lot": "BF - 61"
+  },
+  {
+   "name": "NANDO'S",
+   "lot": "GF - 97/98"
+  },
+  {
+   "name": "SOULED OUT CAFÉ BAR",
+   "lot": "GF - 101"
+  },
+  {
+   "name": "STARBUCKS",
+   "lot": "GF - 33B/33C"
+  },
+  {
+   "name": "U-TEA",
+   "lot": "BF - 56"
+  },
+  {
+   "name": "THE ORI RECIPE",
+   "lot": "2F - 42A"
+  },
+  {
+   "name": "ZUS Coffee",
+   "lot": "GF - 51"
+  },
+  {
+   "name": "AYAM PENYET YOGJAKARTA",
+   "lot": "2F - 37A/37B"
+  },
+  {
+   "name": "DE’ASAMLAKSA",
+   "lot": "2F - 39B"
+  },
+  {
+   "name": "DUBUYO",
+   "lot": "BF - 18/48"
+  },
+  {
+   "name": "FAMOUS AMOS",
+   "lot": "BF - SPK-02"
+  },
+  {
+   "name": "GAM TONG HONG KONG CAFE",
+   "lot": "BF - 39"
+  },
+  {
+   "name": "IZ JERUK",
+   "lot": "BF - 50"
+  },
+  {
+   "name": "SUSHI KING KIOSK",
+   "lot": "BF - 55"
+  },
+  {
+   "name": "TEPPANYA CAFE & BAR",
+   "lot": "BF - 47"
+  },
+  {
+   "name": "NASI ANJE 1",
+   "lot": "2F - 39A"
+  },
+  {
+   "name": "VEGGIE TIME",
+   "lot": "2F - 42B"
+  },
+  {
+   "name": "KUIH MANIS",
+   "lot": "2F - 38A"
+  },
+  {
+   "name": "5 STAR HAINANESE CHICKEN RICE & BBQ",
+   "lot": "2F - 36A/36B"
+  },
+  {
+   "name": "Grill Patio",
+   "lot": "GF - 86/86-M"
+  },
+  {
+   "name": "KOI Thé",
+   "lot": "GF - 52"
+  },
+  {
+   "name": "GUMMY BEAR",
+   "lot": "BF - 99"
+  },
+  {
+   "name": "HING'S CUISINE",
+   "lot": "2F - 41A/41B"
+  },
+  {
+   "name": "HAPPY POTATO",
+   "lot": "BF - 64"
+  },
+  {
+   "name": "KARAMELL ALMONDO",
+   "lot": "BF - 51"
+  },
+  {
+   "name": "SECRET RECIPE",
+   "lot": "BF - 24/45"
+  },
+  {
+   "name": "SUSHI KING",
+   "lot": "BF - 22"
+  },
+  {
+   "name": "TEALIVE",
+   "lot": "BF - 14B"
+  },
+  {
+   "name": "THE CHICKEN RICE SHOP",
+   "lot": "BF - 17/36"
+  },
+  {
+   "name": "4FINGERS CRISPY CHICKEN",
+   "lot": "BF - 03"
+  },
+  {
+   "name": "BASKIN-ROBBINS",
+   "lot": "GF - SPK-01"
+  },
+  {
+   "name": "MADAM KWAN'S",
+   "lot": "GF - 32/32A"
+  },
+  {
+   "name": "POPO'S RECIPE",
+   "lot": "2F - 40B"
+  },
+  {
+   "name": "HWC Coffee",
+   "lot": "GF - 21"
+  },
+  {
+   "name": "Rotiboy",
+   "lot": "BF - 58"
+  },
+  {
+   "name": "Mee Hiris China Muslim",
+   "lot": "GF - 84/84M"
+  },
+  {
+   "name": "BIG APPLE DONUTS & COFFEE",
+   "lot": "BF - 15"
+  },
+  {
+   "name": "BOOST JUICE BARS",
+   "lot": "BF - 66"
+  },
+  {
+   "name": "COOL CITY",
+   "lot": "BF - 52"
+  },
+  {
+   "name": "I LOVE YOO!",
+   "lot": "2F - 39B"
+  },
+  {
+   "name": "JAPAN BOAT TAKOYAKI",
+   "lot": "BF - 57"
+  },
+  {
+   "name": "MIA BOAT NOODLE",
+   "lot": "BF - 37"
+  },
+  {
+   "name": "NYONYA HOUSE",
+   "lot": "BF - 40/41"
+  },
+  {
+   "name": "OLDE STATION KOPITIAM",
+   "lot": "BF - 62"
+  },
+  {
+   "name": "PEZZO PIZZA",
+   "lot": "BF - 49"
+  },
+  {
+   "name": "QCC BAKED",
+   "lot": "2F - SPK-03"
+  },
+  {
+   "name": "1 Coto Makassar Asli",
+   "lot": "2F - 38B"
+  },
+  {
+   "name": "GODIVA",
+   "lot": "GF - SPK-02"
+  },
+  {
+   "name": "SEOUL GARDEN",
+   "lot": "GF - 95/96"
+  },
+  {
+   "name": "SUSHI ZANMAI",
+   "lot": "BF - 43"
+  },
+  {
+   "name": "UPPERSTAR CAFÉ",
+   "lot": "GF - 49/50/50A"
+  },
+  {
+   "name": "DESA MOO",
+   "lot": "BF - 65"
+  },
+  {
+   "name": "Cha Qian Sui",
+   "lot": "BF - 53"
+  },
+  {
+   "name": "Coolblog",
+   "lot": "2F - SPK 2-02"
+  },
+  {
+   "name": "Shuyi Tealicious",
+   "lot": "BF - 25"
+  },
+  {
+   "name": "Yoyo Cafe",
+   "lot": "BF - 12"
+  },
+  {
+   "name": "Blue Tandoor Restaurant & Grill",
+   "lot": "GF - 80/81"
+  },
+  {
+   "name": "The Well Café",
+   "lot": "BF - 44"
+  },
+  {
+   "name": "Little Penang Kopitiam",
+   "lot": "GF - 82/82M"
+  },
+  {
+   "name": "CHAGEE",
+   "lot": "GF - 107"
+  },
+  {
+   "name": "Fatty Fish",
+   "lot": "BF - 42A"
+  },
+  {
+   "name": "CHUNK & DUNK",
+   "lot": "1F - SPK-02"
+  },
+  {
+   "name": "Ah Yen Traditional Fried Pork Kuey Teow",
+   "lot": "BF - 38"
+  },
+  {
+   "name": "Sushi Panda",
+   "lot": "2F - SPK-01"
+  },
+  {
+   "name": "TianFu ChuanXiang",
+   "lot": "BF - 42B"
+  },
+  {
+   "name": "Dolly Dim Sum",
+   "lot": "GF - 41/42"
+  },
+  {
+   "name": "BOYA Nanyang Kopitiam",
+   "lot": "BF - 46"
+  },
+  {
+   "name": "Hot & Roll",
+   "lot": "BF - 63"
+  },
+  {
+   "name": "Empire Sushi",
+   "lot": "BF - SPK-03/04"
+  },
+  {
+   "name": "La Chicá",
+   "lot": "1F - 78"
+  },
+  {
+   "name": "HAPPY CHUBS",
+   "lot": "GF - 99"
+  },
+  {
+   "name": "Fatt Kee Seafood Restaurant",
+   "lot": "BF - 06"
+  },
+  {
+   "name": "Beryl's",
+   "lot": "BF - 21"
+  },
+  {
+   "name": "The Bretzel Co.",
+   "lot": "BF - 108"
+  },
+  {
+   "name": "Ju Xiang",
+   "lot": "BF - 14A"
+  },
+  {
+   "name": "Old Ko Kee",
+   "lot": "BF - 107"
+  },
+  {
+   "name": "Thong Bowl",
+   "lot": "GF - 106"
+  },
+  {
+   "name": "Beutea",
+   "lot": "BF - 102"
+  },
+  {
+   "name": "Jollibee",
+   "lot": "BF - 85"
+  },
+  {
+   "name": "Kyochon Chicken",
+   "lot": "BF - 76"
+  },
+  {
+   "name": "Crowd 99",
+   "lot": "BF - 106"
+  },
+  {
+   "name": "Kenangan Coffee",
+   "lot": "BF - 103"
+  },
+  {
+   "name": "Multibake",
+   "lot": "BF - 81"
+  },
+  {
+   "name": "Kopi Kaw",
+   "lot": "BF - 98"
+  },
+  {
+   "name": "Osote",
+   "lot": "BF - 109"
+  },
+  {
+   "name": "Gohson Coffee",
+   "lot": "GF - 90"
+  },
+  {
+   "name": "Tuk Tuk Thai Boat Noodle",
+   "lot": "BF - 82"
+  },
+  {
+   "name": "Enso Teppanyaki",
+   "lot": "GF - 102/103"
+  },
+  {
+   "name": "A&W",
+   "lot": "GF - 105"
+  },
+  {
+   "name": "Fatty Lai Crab Pot",
+   "lot": "BF - 40/41"
+  },
+  {
+   "name": "McDonald's",
+   "lot": "GF - 83"
+  }
+ ]
+}

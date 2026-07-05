@@ -1,0 +1,412 @@
+{
+  "mall": "Alamanda Shopping Centre",
+  "directory_url": "https://www.alamanda.com.my/shopping-categories/",
+  "count": 57,
+  "summary": {
+    "certified": 22,
+    "review": 15,
+    "uncertified": 20,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Portugis lkan Bakar",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mee Tarik",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "JJ FOOD & BEVERAGE GROUP SDN BHD"
+    },
+    {
+      "name": "Nasi Kandar",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "certified",
+      "myehalal_matches": 31,
+      "cert_holder": "NASI KANDAR BERATUR 786"
+    },
+    {
+      "name": "Little Wok",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "CYS F&B SDN BHD"
+    },
+    {
+      "name": "Ayam Penyet",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "certified",
+      "myehalal_matches": 18,
+      "cert_holder": "APC AYAM PENYET CORNER"
+    },
+    {
+      "name": "Roti John",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nasi Campur",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "KAFETERIA SINAR CAHAYA"
+    },
+    {
+      "name": "Noodles",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "AK NOODLES HOUSE CITY SQUARE SDN BHD"
+    },
+    {
+      "name": "Western",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "certified",
+      "myehalal_matches": 39,
+      "cert_holder": "FANA WESTERN ENTERPRISE"
+    },
+    {
+      "name": "Yong Tau Foo",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "AFADIKRAM ENTERPRISE"
+    },
+    {
+      "name": "Chili Pan Mee",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bento",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 32,
+      "cert_holder": "HOSPITAL BENTONG PAHANG"
+    },
+    {
+      "name": "Wafflestop",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cendol",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "JOYFULTASTEKK ENTERPRISE"
+    },
+    {
+      "name": "Sizzling Hotplate",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Thai Casine",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chicken Rice",
+      "lot": "Ground Floor, Lot G 17",
+      "status": "certified",
+      "myehalal_matches": 178,
+      "cert_holder": "AUNTY SUE CHICKEN RICE HOUSE"
+    },
+    {
+      "name": "KFC",
+      "lot": "Ground Floor, Lot G 89",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Ground Floor, Lot G 90",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Burger King",
+      "lot": "Lower Ground Floor, Lot LG 28 - LG 29",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Nando's",
+      "lot": "Plaza Floor,Lot P07",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Bread History",
+      "lot": "Lower Ground Floor, Lot LG 33B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "Lower Ground Floor, Lot LG 35",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "Lower Ground Floor, Lot LG 70",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lower Ground Floor, Lot LG 71",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "Lower Ground Floor, Lot LG OS02",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "Lower Ground Floor, Lot LG OS03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "LG OS04, Lower Ground Floor",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Beryl’s",
+      "lot": "Lower Ground Floor, Lot LG OS05",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "Ground Floor, Lot G OS15",
+      "status": "review",
+      "myehalal_matches": 70,
+      "cert_holder": "GREY HERON SDN BHD"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Ground Floor, Lot G OS19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "Plaza Floor, Lot P 02",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cili Kampung",
+      "lot": "Ground Floor, Lot G 91",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "ASAM PEDAS CILI KAMPUNG ENTERPRISE"
+    },
+    {
+      "name": "Secret Recipe Cakes & Cafe",
+      "lot": "Ground Floor, Lot G53",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Johnny's Steamboat",
+      "lot": "Ground Floor, G84B_G85",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sepiring",
+      "lot": "Lower Ground Floor, Lot LG 30",
+      "status": "certified",
+      "myehalal_matches": 4,
+      "cert_holder": "SEPIRING CAFE SDN BHD"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "Lower Ground Floor, Lot LG 31 - LG 33",
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G OS16, Ground Floor",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Ground Floor , Lot G OS18",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "Lower Ground Floor, Lot LG 36",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "Ground Floor, G88",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "Lot G16, Ground Floor",
+      "status": "review",
+      "myehalal_matches": 14,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Pelita (Opening Soon)",
+      "lot": "Ground Floor, Lot G 01_82",
+      "status": "certified",
+      "myehalal_matches": 15,
+      "cert_holder": "NASI KANDAR PELITA SDN BHD"
+    },
+    {
+      "name": "Oiso",
+      "lot": "Ground Floor, Lot G56",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Padi House",
+      "lot": "G 83, Ground Floor",
+      "status": "certified",
+      "myehalal_matches": 13,
+      "cert_holder": "PADI HOUSE HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "Lower Ground Floor, Lot LG 07",
+      "status": "certified",
+      "myehalal_matches": 36,
+      "cert_holder": "ORIENTAL COFFEE INTERNATIONAL SDN BHD"
+    },
+    {
+      "name": "Beutea (Opening Soon)",
+      "lot": "Lower Ground Floor, Lot LG 69",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "DubuYo Mini",
+      "lot": "P 05 , Plaza Floor",
+      "status": "certified",
+      "myehalal_matches": 14,
+      "cert_holder": "DUBUYO SDN. BHD."
+    },
+    {
+      "name": "Sushi King",
+      "lot": "Plaza Floor, Lot P06",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "Ground Floor, Lot G54-55",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": "Ground Floor, Lot G-15",
+      "status": "review",
+      "myehalal_matches": 135,
+      "cert_holder": "BB COFFEE SDN BHD"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Ground Floor, Lot G 22",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Plaza Floor, Lot P04",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "Plaza Floor, Lot P 03",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "Ground Floor, Lot G 53A",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "A'Decade",
+      "lot": "Ground Floor, Lot G51",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chakri Village",
+      "lot": "Ground Floor, Lot G50",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

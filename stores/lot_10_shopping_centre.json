@@ -1,0 +1,188 @@
+{
+  "mall": "Lot 10 Shopping Centre",
+  "directory_url": "https://lot10.com.my/pages/directory",
+  "count": 25,
+  "summary": {
+    "certified": 3,
+    "review": 3,
+    "uncertified": 19,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Auntea Jenny 沪上阿姨",
+      "lot": "LCT/T4",
+      "status": "review",
+      "myehalal_matches": 20,
+      "cert_holder": "SENJUN INDUSTRIAL SDN BHD"
+    },
+    {
+      "name": "Beryl's",
+      "lot": "G3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "G22",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "D.MasKing",
+      "lot": "H20",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Durian BB",
+      "lot": "T23",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GENKI SUSHI",
+      "lot": "F2 - F5",
+      "status": "certified",
+      "myehalal_matches": 6,
+      "cert_holder": "GENKI SUSHI (MALAYSIA) SDN. BHD"
+    },
+    {
+      "name": "Japan Rail Cafe",
+      "lot": "P14",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Japan Rail Dining",
+      "lot": "P1-P15, P20-P21",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jipinhe Scones",
+      "lot": "LTC / T6, Bintang Terrace",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "JIPINHE SCONES (MY) SDN. BHD."
+    },
+    {
+      "name": "Kuafood Fried Chuan",
+      "lot": "LTC / T5",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kung Fu Panda Tea",
+      "lot": "LTC/T8",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koppiku",
+      "lot": "G19",
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "KOPPIKU SDN. BHD."
+    },
+    {
+      "name": "Lot 10 Hutong",
+      "lot": "Level LG",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "EMART24 HOLDINGS SDN. BHD."
+    },
+    {
+      "name": "Machi Machi",
+      "lot": "G12",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "G4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mee Tarik Muslim",
+      "lot": "T3(B)",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "JJ FOOD & BEVERAGE GROUP SDN BHD"
+    },
+    {
+      "name": "Molten Chocolate Cafe",
+      "lot": "LTC/T3(A)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MMM cafe by Lesim",
+      "lot": "LTC/T9 & LTC/T10",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sideways Noodles (Coming Soon)",
+      "lot": "T7",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "F27 & F28",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Optimist Coffee",
+      "lot": "SE1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Story of Wharf 碼頭故事",
+      "lot": "R1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Table",
+      "lot": "Lot 10",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YOMARO",
+      "lot": "G22",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "32 Parfait",
+      "lot": "G12",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

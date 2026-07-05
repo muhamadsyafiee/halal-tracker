@@ -1,0 +1,332 @@
+{
+  "mall": "Sungei Wang Plaza",
+  "directory_url": "https://www.sungeiwang.com/shop/",
+  "method": "https://www.sungeiwang.com/wp-admin/admin-ajax.php?html (action=enterromwidget)",
+  "count": 81,
+  "outlets": [
+    {
+      "name": "101 Grill & Bar",
+      "lot": "C8(B) & C25"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "C49 - C51"
+    },
+    {
+      "name": "Ah Fatt Kopi Cafe",
+      "lot": "FK1"
+    },
+    {
+      "name": "Ah Yip Herbal Soup",
+      "lot": "C10(B) & C11"
+    },
+    {
+      "name": "AllAce",
+      "lot": "C23(B)"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "C21(A)"
+    },
+    {
+      "name": "Ayam Penyet Betawi",
+      "lot": "C35"
+    },
+    {
+      "name": "Beryl's Chocolate",
+      "lot": "LG134"
+    },
+    {
+      "name": "Blue Sky Fruit Shop",
+      "lot": "F116(A)"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "PK2"
+    },
+    {
+      "name": "Bread History",
+      "lot": "TK10"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "C22(A&B) - K1 - K3"
+    },
+    {
+      "name": "Chocolate Fame",
+      "lot": "CHF-1"
+    },
+    {
+      "name": "Chocolate Fame M.A.G",
+      "lot": "C22(A) & (B) - K4 & K5"
+    },
+    {
+      "name": "Chocolate Fame M.A.G",
+      "lot": "C22(A&B) - K4 & K5"
+    },
+    {
+      "name": "Chocolate Fame M.A.G",
+      "lot": "KLG8, KLG-9 & 10"
+    },
+    {
+      "name": "Chocolate Fame M.A.G",
+      "lot": "CS3 & CS4"
+    },
+    {
+      "name": "Coffee Mingle",
+      "lot": "TC-K01 - TC-K03 & TC029 - TC030"
+    },
+    {
+      "name": "Country’s Tid-Bits & Candies Cottage",
+      "lot": "GB1 - GB5"
+    },
+    {
+      "name": "D' Food Caravanz",
+      "lot": "TC035 - TC038"
+    },
+    {
+      "name": "Damok Restaurant",
+      "lot": "T085"
+    },
+    {
+      "name": "Dimsum Bros",
+      "lot": "E39"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "C12(A)"
+    },
+    {
+      "name": "Edzlicious Time",
+      "lot": "TB1"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "KG-1"
+    },
+    {
+      "name": "Food King @ Taste of Asia",
+      "lot": "LGP02"
+    },
+    {
+      "name": "Hoco Café",
+      "lot": "AS122"
+    },
+    {
+      "name": "Home's Kitchen",
+      "lot": "GP02"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "FC11 - FC15A"
+    },
+    {
+      "name": "I Love Yoo",
+      "lot": "E43-1"
+    },
+    {
+      "name": "Ilike & Yogurt in a Can",
+      "lot": "CS1 & CS2"
+    },
+    {
+      "name": "Iz Tropical Fruit",
+      "lot": "FC16"
+    },
+    {
+      "name": "Kakatoo",
+      "lot": "C9 & C10(A)"
+    },
+    {
+      "name": "Kopi Club",
+      "lot": "C1(B)"
+    },
+    {
+      "name": "Le Tian Vegetarian",
+      "lot": "E1"
+    },
+    {
+      "name": "Lian Jie Noodle House",
+      "lot": "GP03"
+    },
+    {
+      "name": "Lintang Coffee",
+      "lot": "E46"
+    },
+    {
+      "name": "Madre's",
+      "lot": "FK2"
+    },
+    {
+      "name": "Mala JJiang Mala TTang",
+      "lot": "GP04"
+    },
+    {
+      "name": "Medan Selera Dapur Sedap",
+      "lot": "E38"
+    },
+    {
+      "name": "Mee Tarik Faizal Kong",
+      "lot": "C37"
+    },
+    {
+      "name": "Melayu Goreng @ Taste of Asia",
+      "lot": "LGP04"
+    },
+    {
+      "name": "Mini Bowl @ Taste of Asia",
+      "lot": "LGP01"
+    },
+    {
+      "name": "Mixue",
+      "lot": "LG001-C (EXT)"
+    },
+    {
+      "name": "My Tasty Muruku",
+      "lot": "FC19"
+    },
+    {
+      "name": "Nasi Kandar @ Taste of Asia",
+      "lot": "LGP06"
+    },
+    {
+      "name": "Nui",
+      "lot": "E43-2"
+    },
+    {
+      "name": "Nyonya Recipe Malaysia",
+      "lot": "FC16"
+    },
+    {
+      "name": "Pa & Ma Delicious Kitchen",
+      "lot": "E40"
+    },
+    {
+      "name": "Papparoti",
+      "lot": "C21(B)"
+    },
+    {
+      "name": "Q zai Egg Waffle",
+      "lot": "FB2"
+    },
+    {
+      "name": "Restaurant Soon Teck",
+      "lot": "E7-E9"
+    },
+    {
+      "name": "Restoran Okiphattaya",
+      "lot": "E41"
+    },
+    {
+      "name": "Restoran Riyadh",
+      "lot": "E49"
+    },
+    {
+      "name": "Restoran Sin Palimen",
+      "lot": "E48"
+    },
+    {
+      "name": "Restoran Sin Tai Kar Lok",
+      "lot": "E10-E11"
+    },
+    {
+      "name": "Sabi Enterprise",
+      "lot": "CS5"
+    },
+    {
+      "name": "Saudi Burger",
+      "lot": "LG001-1A"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "KC1"
+    },
+    {
+      "name": "Sister Curry Mee",
+      "lot": "FK5"
+    },
+    {
+      "name": "Sizzling Depot @ Taste of Asia",
+      "lot": "LGP05"
+    },
+    {
+      "name": "Surrshi",
+      "lot": "LGB5 & LGB5A"
+    },
+    {
+      "name": "Tealive",
+      "lot": "C44"
+    },
+    {
+      "name": "Teppanyaki",
+      "lot": "PUB-S1"
+    },
+    {
+      "name": "Thai Ikan Bakar @ Taste of Asia",
+      "lot": "LGP03"
+    },
+    {
+      "name": "Thank You So Lunch",
+      "lot": "E2"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "C29 - C32"
+    },
+    {
+      "name": "The Lady Chicken Rice",
+      "lot": "E4"
+    },
+    {
+      "name": "Thong Kee Cafe",
+      "lot": "E5-E6"
+    },
+    {
+      "name": "Thong Kee Cafe",
+      "lot": "FK3"
+    },
+    {
+      "name": "Twist QQuyo",
+      "lot": null
+    },
+    {
+      "name": "U-Village Restaurant",
+      "lot": "LB-K1 & LB-R1"
+    },
+    {
+      "name": "Union Artisan Coffee",
+      "lot": "COS-G1-2"
+    },
+    {
+      "name": "Village Moments / Heritaste",
+      "lot": "GP07S & GK04"
+    },
+    {
+      "name": "Vinh City",
+      "lot": "TC032 & TC033"
+    },
+    {
+      "name": "Yan Jie Mian Restaurant",
+      "lot": "E3"
+    },
+    {
+      "name": "YFL Happy Trading",
+      "lot": "KF-2A(3)"
+    },
+    {
+      "name": "Yi Poh",
+      "lot": "GP01"
+    },
+    {
+      "name": "Yum Rice by D.F",
+      "lot": "FK4"
+    },
+    {
+      "name": "Zaitoun",
+      "lot": "Sungei Wang Walk"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "PK5"
+    }
+  ]
+}

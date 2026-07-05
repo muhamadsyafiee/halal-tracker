@@ -1,0 +1,480 @@
+{
+  "mall": "Setia City Mall",
+  "directory_url": "https://setiacitymall.com/index.php/directory/",
+  "method": "curl",
+  "count": 118,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": null
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": null
+    },
+    {
+      "name": "Asam Pedas Premier",
+      "lot": null
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": null
+    },
+    {
+      "name": "Ayam Penyet Ria",
+      "lot": null
+    },
+    {
+      "name": "Bananabro",
+      "lot": null
+    },
+    {
+      "name": "Bangkok Bangkok",
+      "lot": null
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null
+    },
+    {
+      "name": "Beutea 茶仙子",
+      "lot": null
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": null
+    },
+    {
+      "name": "Black Canyon",
+      "lot": null
+    },
+    {
+      "name": "BMS Organics",
+      "lot": null
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": null
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": null
+    },
+    {
+      "name": "Burger King",
+      "lot": null
+    },
+    {
+      "name": "Cafe Chef Wan",
+      "lot": null
+    },
+    {
+      "name": "Candy House",
+      "lot": null
+    },
+    {
+      "name": "Chagee",
+      "lot": null
+    },
+    {
+      "name": "Chateraise",
+      "lot": null
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": null
+    },
+    {
+      "name": "Childhood",
+      "lot": null
+    },
+    {
+      "name": "Chili’s",
+      "lot": null
+    },
+    {
+      "name": "Chizu",
+      "lot": null
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": null
+    },
+    {
+      "name": "Dandy",
+      "lot": null
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": null
+    },
+    {
+      "name": "Dookki",
+      "lot": null
+    },
+    {
+      "name": "Dubuyo",
+      "lot": null
+    },
+    {
+      "name": "Dunkin’",
+      "lot": null
+    },
+    {
+      "name": "dáo",
+      "lot": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null
+    },
+    {
+      "name": "Empire Sushi (Dine-In)",
+      "lot": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": null
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": null
+    },
+    {
+      "name": "Go Noodle House Plus",
+      "lot": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": null
+    },
+    {
+      "name": "Grand Imperial",
+      "lot": null
+    },
+    {
+      "name": "Haidilao Huǒguō 海底捞火锅",
+      "lot": null
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": null
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": null
+    },
+    {
+      "name": "I love Yoo",
+      "lot": null
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": null
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": null
+    },
+    {
+      "name": "ISTANOODLE",
+      "lot": null
+    },
+    {
+      "name": "Jardin Coffee",
+      "lot": null
+    },
+    {
+      "name": "Jipinhe Scones (Temporarily Closed)",
+      "lot": null
+    },
+    {
+      "name": "JM Bariani House",
+      "lot": null
+    },
+    {
+      "name": "Johnny’s Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Juice Works",
+      "lot": null
+    },
+    {
+      "name": "Jungle House (Coming Soon)",
+      "lot": null
+    },
+    {
+      "name": "K Fry Urban Korean",
+      "lot": null
+    },
+    {
+      "name": "Ke Ren Lai",
+      "lot": null
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": null
+    },
+    {
+      "name": "KOI",
+      "lot": null
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": null
+    },
+    {
+      "name": "Krata-B",
+      "lot": null
+    },
+    {
+      "name": "Kyros Kebab",
+      "lot": null
+    },
+    {
+      "name": "Lavender",
+      "lot": null
+    },
+    {
+      "name": "Little Nyonya",
+      "lot": null
+    },
+    {
+      "name": "Llao Llao",
+      "lot": null
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": null
+    },
+    {
+      "name": "Luna Luna",
+      "lot": null
+    },
+    {
+      "name": "MadChilli Pan Mee",
+      "lot": null
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": null
+    },
+    {
+      "name": "MBG Fruit Shop",
+      "lot": null
+    },
+    {
+      "name": "McDonald’s",
+      "lot": null
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": null
+    },
+    {
+      "name": "Mon Chinese Beef Roti",
+      "lot": null
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": null
+    },
+    {
+      "name": "Mr. Tuk Tuk",
+      "lot": null
+    },
+    {
+      "name": "myEureka",
+      "lot": null
+    },
+    {
+      "name": "NakNak",
+      "lot": null
+    },
+    {
+      "name": "Nando’s",
+      "lot": null
+    },
+    {
+      "name": "Nasi Lemak Shop",
+      "lot": null
+    },
+    {
+      "name": "Nong Geng Ji Hunan Cuisine 农耕记湖南菜",
+      "lot": null
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": null
+    },
+    {
+      "name": "O’Briens Irish Sandwich Café",
+      "lot": null
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": null
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": null
+    },
+    {
+      "name": "Pop Meal",
+      "lot": null
+    },
+    {
+      "name": "Potato Corner",
+      "lot": null
+    },
+    {
+      "name": "RASA Food Arena",
+      "lot": null
+    },
+    {
+      "name": "Rich Kopitiam",
+      "lot": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null
+    },
+    {
+      "name": "Rotiboy",
+      "lot": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": null
+    },
+    {
+      "name": "Serai",
+      "lot": null
+    },
+    {
+      "name": "Shabu-yo",
+      "lot": null
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": null
+    },
+    {
+      "name": "Signature Market",
+      "lot": null
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": null
+    },
+    {
+      "name": "Sopoong",
+      "lot": null
+    },
+    {
+      "name": "Subway",
+      "lot": null
+    },
+    {
+      "name": "Sukiya",
+      "lot": null
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": null
+    },
+    {
+      "name": "Sushi King",
+      "lot": null
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": null
+    },
+    {
+      "name": "SUSHIHAN",
+      "lot": null
+    },
+    {
+      "name": "Tealive",
+      "lot": null
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": null
+    },
+    {
+      "name": "Teazzi",
+      "lot": null
+    },
+    {
+      "name": "Teh Tarik Place",
+      "lot": null
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": null
+    },
+    {
+      "name": "Thong Bowl & Thong Cha",
+      "lot": null
+    },
+    {
+      "name": "Ticco (Coming Soon)",
+      "lot": null
+    },
+    {
+      "name": "TIEN by PUTIEN",
+      "lot": null
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": null
+    },
+    {
+      "name": "True Bakery",
+      "lot": null
+    },
+    {
+      "name": "YANG GUO FU",
+      "lot": null
+    },
+    {
+      "name": "Yayoi",
+      "lot": null
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": null
+    }
+  ]
+}

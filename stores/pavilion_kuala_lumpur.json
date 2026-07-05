@@ -1,0 +1,1203 @@
+{
+  "mall": "Pavilion Kuala Lumpur",
+  "directory_url": "https://www.pavilion-kl.com/stores/",
+  "count": 170,
+  "summary": {
+    "certified": 23,
+    "review": 29,
+    "uncertified": 117,
+    "non_halal": 1
+  },
+  "outlets": [
+    {
+      "name": "% Arabica",
+      "lot": "Lot 3.08.02 & E3.08.02, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "108 Matcha Saro",
+      "lot": "Lot P1.12.1B, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "13DE Marzo Cafe",
+      "lot": "Lot C3.10.04, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Al Halabi Express",
+      "lot": "Lot P1.11.03, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Al Halabi Gourmet Restaurant",
+      "lot": "Lot 7.01.06 & E7.01.06, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Al-Amar Lebanese Cuisine",
+      "lot": "Lot 6.10.00, Level 6",
+      "status": "review",
+      "myehalal_matches": 971,
+      "cert_holder": "ALADDIN KITCHEN CAFE"
+    },
+    {
+      "name": "An Viet",
+      "lot": "Lot 1.05.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Aori Ramen",
+      "lot": "Lot 6.36.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Arthur’s Storehouse (The Guinness Experience)",
+      "lot": "Lot C4.06.02, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "Lot P1.10.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Barbeque Nation",
+      "lot": "Lot 9.102.00, Level 9, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin 31 Robbins",
+      "lot": "Lot 6.03.00 & 6.04.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beryl’s",
+      "lot": "Lot TL1.108.00, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BEUTEA",
+      "lot": "Lot 1.32.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "Boost Juice Bars (Level 1)",
+      "lot": "Lot P1.12.02, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boost Juice Bars (Level 6)",
+      "lot": "Lot P6.03.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bubu Kōbō",
+      "lot": "Lot P6.14.00, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Burger King",
+      "lot": "Lot 1.103.00 & E1.103.0, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Café Kitsuné",
+      "lot": "Lot P2.07.00, Level 2, Centre Court",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Calia",
+      "lot": "Lot 6.11.00 & E6.11.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Canton Court",
+      "lot": "Lot 1.29.05, 2.29.01, 3.33.01, Level 1, 2 & 3, Couture Pavilion",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "PEAK KITCHEN SDN. BHD."
+    },
+    {
+      "name": "Celadon Royal Thai Cuisine",
+      "lot": "Lot 6.37.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "Lot 6.43.00, Level 6",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Chez Choux",
+      "lot": "Lot P1.06.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "CHEZ CHOUX (M) SDN BHD"
+    },
+    {
+      "name": "CHICHA San Chen 吃茶三千",
+      "lot": "Lot 6.01.01, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "Lot P1.12.1A, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cloud 9",
+      "lot": "Lot 9.104.00, Level 9, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "lot": "Lot P1.24.00 & P1.25.01, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cookiecrumbs",
+      "lot": "Lot 1.110.00, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Coolblog",
+      "lot": "Lot C5.06.00, Level 5",
+      "status": "certified",
+      "myehalal_matches": 161,
+      "cert_holder": "COOLBLOG ENTERPRISE SDN BHD"
+    },
+    {
+      "name": "Croissant Taiyaki",
+      "lot": "Lot 1.13.01, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "D Empire",
+      "lot": "Lot 6.33.00 & 6.34.00, Level 6",
+      "status": "certified",
+      "myehalal_matches": 6,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Da On Fine Korean Cuisine",
+      "lot": "Lot 6.40.00, Level 6",
+      "status": "review",
+      "myehalal_matches": 28,
+      "cert_holder": "SEKOLAH AGAMA KENANGAN DATO` ONN"
+    },
+    {
+      "name": "Dai Cha Dim",
+      "lot": "Lot 6.01.03, Level 6",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "FARM FRESH JOMCHA SDN. BHD."
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "Lot 6.01.05, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "dipndip",
+      "lot": "Lot 7.103.01 & E7.102.00, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "Lot 1.102.00 & E1.102.00, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "ASIA MEX CONCEPTS SDN BHD"
+    },
+    {
+      "name": "Dome Café",
+      "lot": "Lot P2.08.00, Level 2, Centre Court",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "DOME CAFE SDN.BHD"
+    },
+    {
+      "name": "Donkai",
+      "lot": "Lot 1.108.00, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "4L HOLDING SDN. BHD."
+    },
+    {
+      "name": "Dragon-i Peking Duck",
+      "lot": "Lot 1.17.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "DRAGON INN (1995)"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Lot P1.04.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Fei Fei Crab +",
+      "lot": "Lot 8.101.00, 8.102.00, 8.103.01 & 8.103.02, Level 8, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Fei Fei Crab Restaurant",
+      "lot": "Lot 8.106.00 & S8.100.02, Level 8, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "FIVE GUYS",
+      "lot": "Lot C3.06.01, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Food Place",
+      "lot": "Lot 1.29.01-1.29.04, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Food Republic",
+      "lot": "Lot 1.41.00 - 1.51.00 & P1.13.00 - P1.20.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "fRost n Bites",
+      "lot": "Lot C3.13.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Fuiyoh! It’s Uncle Roger",
+      "lot": "Lot 7.102.00, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Garrett Popcorn Shops",
+      "lot": "Lot 1.109.00, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "CARAMELCRISP MALAYSIA SDN BHD"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "Lot 1.07.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "Gindaco",
+      "lot": "Lot 1.13.01, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "LH VENTURE SDN. BHD."
+    },
+    {
+      "name": "Godiva",
+      "lot": "Lot P2.15.00, Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Lot C3.17.00, Level 3, Connection",
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "Grand Imperial",
+      "lot": "Lot 6.39.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Grand Taipei 大臺北",
+      "lot": "Lot 9.100.00 & S9.101.00, Level 9, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Grandmama’s",
+      "lot": "Lot 6.01.02, P6.01.00 & P6.02.00, Level 6",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "CHAMPION VISTA SDN. BHD."
+    },
+    {
+      "name": "GSY Shop",
+      "lot": "Lot TL1.107.00, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Haidilao Hot Pot",
+      "lot": "Lot 10.104.0,10.105.0 & P10.101, Level 10, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hansang",
+      "lot": "Lot 8.100.00 & S8.100.01, Level 8, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Harriston Chocolatier Café",
+      "lot": "Lot 2.75.00, 2.71.01 & 2.71.02, Level 2, Couture Pavilion",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hokkaido Ramen Santouka",
+      "lot": "Lot 6.24.03, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HOT CRUSH 趁热集合",
+      "lot": "Lot C3.02.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "Lot P6.06.00, Level 6",
+      "status": "review",
+      "myehalal_matches": 66,
+      "cert_holder": "PALATERIUM SDN. BHD."
+    },
+    {
+      "name": "Ichi Zen Japanese Restaurant",
+      "lot": "Lot 6.24.1B, Level 6, Tokyo Street",
+      "status": "review",
+      "myehalal_matches": 8,
+      "cert_holder": "ZENSHO ICHIBAN MALAYSIA SDN BHD"
+    },
+    {
+      "name": "illy Caffè",
+      "lot": "Lot P1.25.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ippudo",
+      "lot": "Lot C4.07.00, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jordan Hong Kong Restaurant 佐敦冰室",
+      "lot": "Lot 1.107.00, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kamakura",
+      "lot": "Lot P6.04.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kampachi",
+      "lot": "Lot 6.09.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "Lot P1.05.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 123,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "KFC",
+      "lot": "Lot 1.106.00 & S1.106.00, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "KGB – Killer Gourmet Burgers",
+      "lot": "Lot 4.102.00 & E4.100.0, Level 4, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "Lot 1.59.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Komugi",
+      "lot": "Lot 1.12.01 & 1.13.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 13,
+      "cert_holder": "MULTIPLE REWARD SDN BHD"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "Lot P1.02.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "lot": "Lot TL1.110.00, Level 1, Pavilion Elite",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "KyoChon 1991",
+      "lot": "Lot 1.54.00 - 1.58.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 11,
+      "cert_holder": "KYOCHON SDN. BHD."
+    },
+    {
+      "name": "La Boca – Latino Bar",
+      "lot": "Lot C3.10.03, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "LAC Nutrition For Life",
+      "lot": "Lot 1.06.00, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lam Heung Ling Lemon Tea",
+      "lot": "Lot T1.103.0 & T1.104.0, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lavender",
+      "lot": "Lot P1.07.00 & 1.08.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "KOPERASI BELA MASYARAKAT MELAKA BERHAD (HOTEL KOBEMAS)"
+    },
+    {
+      "name": "Leekor Leekor",
+      "lot": "Lot P1.11.04, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Light Capture Café",
+      "lot": "Lot 1M.04.00, Level 1M",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "llaollao",
+      "lot": "Lot 3.07.02 & E3.07.02, Level 3, Connection",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Loka Espresso",
+      "lot": "Lot P4.17.00 & E4.17.00, Level 4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "LONGJING 绿茶",
+      "lot": "Lot 6.01.06, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lovns Coffee",
+      "lot": "Lot C4.09.00, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "Lot 6.35.00, Level 6",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "HEXTAR LUCKIN (M) SDN BHD"
+    },
+    {
+      "name": "Madam Kwan’s",
+      "lot": "Lot 1.16.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "SUEZ TOP VENTURES SDN BHD"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "Lot P1.03.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MAiSEN",
+      "lot": "Lot 6.24.02, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Malaya Heritage",
+      "lot": "Lot C3.10.1B, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MAMA KIMBAP",
+      "lot": "Lot 7.101.01, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Matcha Hero Kyoto",
+      "lot": "Lot P6.16.00, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Melvados",
+      "lot": "Lot P1.23.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MICHELANGELO’S RISTORANTE ITALIANO",
+      "lot": "Lot C3.04.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "myEureka Snack",
+      "lot": "Lot P6.15.00, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "NaiSnow 奈雪",
+      "lot": "Lot C3.10.02, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nando’s",
+      "lot": "Lot 1.105.00 & E1.105.0, Level 1, Pavilion Elite",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Nanyang Cafe",
+      "lot": "Lot 7.104.00 & 7.105.00, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nasi Lemak Shop",
+      "lot": "Lot 1.52.00, 1.53.00 & P1.08.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "NLS F&B SDN. BHD."
+    },
+    {
+      "name": "Naughty Babe Dirty Duck",
+      "lot": "Lot C4.05.01 & C4.05.02, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nespresso",
+      "lot": "Lot P4.02.00, Level 4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ning Ji Lemon Tea",
+      "lot": "Lot C3.11.02, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "No Nonsense Coffee",
+      "lot": "Lot C5.05.00, Level 5, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nong Geng Ji 农耕记",
+      "lot": "Lot C4.03.00, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "Lot 1.09.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OCEAN TWE12VE",
+      "lot": "Lot C3.04.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Okonomi by Tokyo Don",
+      "lot": "Lot 6.24.1C, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Oloiya",
+      "lot": "Lot 1.12.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "On Lee Noodle Shop",
+      "lot": "Lot C4.06.01, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "Lot 1.30.00, Level 1",
+      "status": "certified",
+      "myehalal_matches": 36,
+      "cert_holder": "ORIENTAL COFFEE INTERNATIONAL SDN BHD"
+    },
+    {
+      "name": "O’Cha",
+      "lot": "Lot P6.08.00, Level 6",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "KOHI & OCHA CAFE"
+    },
+    {
+      "name": "O’Galito",
+      "lot": "Lot C3.05.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pao Xiang Bah Kut Teh",
+      "lot": "Lot C4.01.00, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ParaThai",
+      "lot": "Lot 1.03.00 & 1.04.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "KUNG FU PARADISE SDN BHD`"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "Lot C3.03.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PAUL",
+      "lot": "Lot 2.09.02, E2.9.02 & P2.20.00, Level 2",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "LE TAMELIER SDN. BHD."
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Lot 1.100.00, 1.101.00 & S1.101.00, Level 1, Pavilion Elite",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "Lot P1.09.02, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "ROCKS FOODS SDN. BHD."
+    },
+    {
+      "name": "Putien",
+      "lot": "Lot 6.01.04, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Quivo",
+      "lot": "Lot 3.09.02, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "Lot 9.106.00, Level 9, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ralph’s Coffee",
+      "lot": "Lot. 3.55.00 & 3.56.00, Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "RasaNya Steamboat",
+      "lot": "Lot 8.105.00, Level 8, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "RasaTea House",
+      "lot": "Lot 8.100.00, Level 8, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rightside",
+      "lot": "Lot P1.11.01, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rocku Yakiniku",
+      "lot": "Lot 7.01.03, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lot 1.11.02, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "ROYCE’",
+      "lot": "Lot. P1.25.03, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Samy & Min Bak Kut Teh",
+      "lot": "Lot 5.01.09, Level 5",
+      "status": "non_halal",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sancha",
+      "lot": "Lot 1.109.00, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Semangkuk Mi Tarik Lanzhou Lamian China",
+      "lot": "Lot 1.60.00 - 1.66.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Serai @ Pavilion KL",
+      "lot": "Lot 7.01.04, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shake Shack",
+      "lot": "Lot 1.14.00, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 4,
+      "cert_holder": "SHAKE SHACK MALAYSIA SDN BHD"
+    },
+    {
+      "name": "Shojikiya",
+      "lot": "Lot 6.24.07, Level 6, Tokyo Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shuyi 书亦",
+      "lot": "TL 1.111.00, Level 1, Pavilion Elite",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "YIASPIRE CATERING MANAGEMENT (MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Silian Siwawa Guizhou 丝恋丝娃娃",
+      "lot": "Lot 9.103.01 & 9.103.02, Level 9, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Siong Tong Gai",
+      "lot": "Lot 7.01.01, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Snowflake",
+      "lot": "Lot P4.01.00 & E4.01.00, Level 4",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "ASIA SNOWFLAKE GROUP SDN BHD"
+    },
+    {
+      "name": "Starbucks Coffee (Level 3)",
+      "lot": "Lot 3.03.01, C3.08.00, C3.09.00, Level 3, Connection",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Starbucks Coffee (Level 6)",
+      "lot": "Lot 6.02.00, Level 6",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Suki-ya",
+      "lot": "Lot 6.24.04, Level 6, Tokyo Street",
+      "status": "certified",
+      "myehalal_matches": 32,
+      "cert_holder": "M SUKI MAJU ENTERPRISE"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "Lot 6.24.1A, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TAI ER Suancai & Fish 太二酸菜鱼",
+      "lot": "Lot 6.12.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Taimal Herbs & Medicine",
+      "lot": "Lot 1.11.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tan Ngan Lo",
+      "lot": "Lot P1.09.01, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TANYU 探鱼",
+      "lot": "Lot 7.01.02, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "Lot 1.10.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 14,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "TGI Friday’s",
+      "lot": "Lot 6.01.07 & 6.01.08, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Barn",
+      "lot": "Lot C4.04.00, Level 4, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Lot 1.104.00 & E1.104.0, Level 1, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Lot C3.01.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tokyo Milk Cheese Factory",
+      "lot": "Lot P1.01.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tony Roma’s",
+      "lot": "Lot 1.15.00, Level 1, Gourmet Emporium",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "GRAND COMPANIONS SDN BHD"
+    },
+    {
+      "name": "TWG Tea",
+      "lot": "P2.16.00, 2.34.01 & 2.34.02, Level 2, Couture Pavilion",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Two Sons Bistro",
+      "lot": "Lot 6.44.00 & 6.45.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Venchi",
+      "lot": "Lot 3.06.02 & E3.06.02, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Village Roast Duck",
+      "lot": "Lot 7.01.05, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Weissbrau",
+      "lot": "Lot 3.05.02 & C3.16.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Winky Walnut",
+      "lot": "Lot C3.11.01, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Xiangshan Fish Steamboat 香杉木桶鱼",
+      "lot": "Lot 7.01.07, Level 7, Dining Loft",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yakiniku Kuro",
+      "lot": "Lot 1.18.02, Level 1, Gourmet Emporium",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "KURO YAKINIKU SDN. BHD."
+    },
+    {
+      "name": "Yang Guo Fu Mala Tang",
+      "lot": "Lot 7.101.02, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yee3",
+      "lot": "Lot C3.06.00, Level 3, Connection",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yolé",
+      "lot": "Lot 1.05.01, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yu Yan",
+      "lot": "Lot 7.100.00, Level 7, Pavilion Elite",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yun Nans 云海肴",
+      "lot": "Lot 6.41.00 & 6.42.00, Level 6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "Lot 1.02.00, Level 1, Gourmet Emporium",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "Lot 4.02.03 & 4.02.04, Level 4, Connection",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

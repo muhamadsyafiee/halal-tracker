@@ -1,0 +1,144 @@
+{
+  "mall": "Genting Highlands Premium Outlets",
+  "directory_url": "https://www.premiumoutlets.com.my/genting-highlands-premium-outlets/stores",
+  "method": "json_api",
+  "count": 34,
+  "outlets": [
+    {
+      "name": "Absolute Thai Highlands",
+      "lot": "Suite 1100"
+    },
+    {
+      "name": "Ali, Muthu & Ah Hock Kopitiam",
+      "lot": "Suite 1112"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "Suite 507"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "Suite 1516"
+    },
+    {
+      "name": "Best Kacang Putih",
+      "lot": "KIOSK – High Street"
+    },
+    {
+      "name": "BOOST",
+      "lot": "Suite 134"
+    },
+    {
+      "name": "Burger King",
+      "lot": "Suite 1104"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "Suite 1000"
+    },
+    {
+      "name": "DubuYo",
+      "lot": "Suite 1108"
+    },
+    {
+      "name": "DÔME Café",
+      "lot": "Suite 1118"
+    },
+    {
+      "name": "Easy Store",
+      "lot": "Unit 1"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Suite 639"
+    },
+    {
+      "name": "FIDANI Chocolatier",
+      "lot": "Suite 622"
+    },
+    {
+      "name": "Godiva",
+      "lot": "Suite 708"
+    },
+    {
+      "name": "Golden Bites",
+      "lot": "Kiosk"
+    },
+    {
+      "name": "Hot & Cold Drinks",
+      "lot": "Unit 6"
+    },
+    {
+      "name": "Hot Plate",
+      "lot": "Unit 4"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "Suite 1110"
+    },
+    {
+      "name": "JR Curry",
+      "lot": "Unit 2"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "lot": "Suite 1116"
+    },
+    {
+      "name": "Madam Kwan's Select",
+      "lot": "Suite 1518"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "Unit 9"
+    },
+    {
+      "name": "Nasi Campur & Lauk Lauk",
+      "lot": "Unit 8"
+    },
+    {
+      "name": "New Rainbow River Fish Restaurant",
+      "lot": "Suite 1506"
+    },
+    {
+      "name": "OLDTOWN White Coffee",
+      "lot": "Suite 1502"
+    },
+    {
+      "name": "Only Mee",
+      "lot": "Unit 7"
+    },
+    {
+      "name": "Peranakan Place",
+      "lot": "Suite 1508"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "Suite 422"
+    },
+    {
+      "name": "Tealive",
+      "lot": "Suite 1514"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Suite 1510"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Suite 638"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf (Location 2)",
+      "lot": "Suite 132"
+    },
+    {
+      "name": "The Grove",
+      "lot": "Suite 204"
+    },
+    {
+      "name": "Umi Nasi Ayam",
+      "lot": "Unit 5"
+    }
+  ]
+}

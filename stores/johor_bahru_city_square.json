@@ -1,0 +1,174 @@
+{
+  "mall": "Johor Bahru City Square",
+  "directory_url": "https://www.citysqjb.com/store-directories",
+  "count": 23,
+  "summary": {
+    "certified": 6,
+    "review": 4,
+    "uncertified": 13,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "AK Noodles",
+      "lot": "Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Arashi",
+      "lot": "Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Avery-Day",
+      "lot": "Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BAR-B-Q Plaza",
+      "lot": "Level 3",
+      "status": "review",
+      "myehalal_matches": 173,
+      "cert_holder": "APAH KA BAR ENTERPRISE"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BornGa Korean Restaurant",
+      "lot": "Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Burger King",
+      "lot": "Level 1",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": "Level 1",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "J & J BAKERY DAILY FRESH"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Level 3",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Level 3",
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "Hock Kee Kopitiam",
+      "lot": "Level 4",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "J.Co Donuts & Coffee",
+      "lot": "Level 1",
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Meng Meng Roasted Duck",
+      "lot": "Level 3",
+      "status": "certified",
+      "myehalal_matches": 14,
+      "cert_holder": "KWAN YOKE MENG"
+    },
+    {
+      "name": "Ming Ang",
+      "lot": "Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "Basement 1",
+      "status": "certified",
+      "myehalal_matches": 36,
+      "cert_holder": "ORIENTAL COFFEE INTERNATIONAL SDN BHD"
+    },
+    {
+      "name": "Penang Road Famous Teochew Chendul",
+      "lot": "Level 3",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "Level 1",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Tao Yuan",
+      "lot": "Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ticco",
+      "lot": "Level 3",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "TICCO SUCCESS SDN. BHD."
+    }
+  ]
+}

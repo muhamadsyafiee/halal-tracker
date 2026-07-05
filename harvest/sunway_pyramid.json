@@ -1,0 +1,1016 @@
+{
+  "mall": "Sunway Pyramid",
+  "directory_url": "https://www.sunwaypyramid.com/directory",
+  "method": "https://www.sunwaypyramid.com/api/directory/live/v1/public/shops/list-paged?refcode=FOOD_BEVERAGES",
+  "count": 252,
+  "outlets": [
+    {
+      "name": "108 Matcha Saro",
+      "lot": "GF.122C"
+    },
+    {
+      "name": "4Fingers",
+      "lot": "LG2.127"
+    },
+    {
+      "name": "A Decade",
+      "lot": "LG2.52, LG2.53"
+    },
+    {
+      "name": "A&W",
+      "lot": "LG2.42A"
+    },
+    {
+      "name": "ABC One Cafeteria",
+      "lot": "B1.001"
+    },
+    {
+      "name": "AUNTEA JENNY",
+      "lot": "LG1.38B"
+    },
+    {
+      "name": "Aftermeal",
+      "lot": "OB-G-1"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "LG2.88"
+    },
+    {
+      "name": "Andaman Seafood",
+      "lot": "LOT 1F-12 (Sunway Resort Hotel)"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LG1.38"
+    },
+    {
+      "name": "Auntie Anne's Pretzel",
+      "lot": "LG2.37"
+    },
+    {
+      "name": "Ayam Penyet Express",
+      "lot": "LG2.86"
+    },
+    {
+      "name": "BEBEK GORENG PAK NDUT",
+      "lot": "LG2.49"
+    },
+    {
+      "name": "BESTORE",
+      "lot": "LG2.51A"
+    },
+    {
+      "name": "BUNGKUS KAW KAW",
+      "lot": "LG2.75A"
+    },
+    {
+      "name": "BananaBro",
+      "lot": "LG2.85"
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": "LG2.35, LG2.36"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "LG1.121A"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "F1.57"
+    },
+    {
+      "name": "Batter Bing 不二卷煎饼果子",
+      "lot": "F1.K2B"
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "lot": "LG2.58A"
+    },
+    {
+      "name": "Ben'S Cookies",
+      "lot": "LG2.135A"
+    },
+    {
+      "name": "Beryl's Cafe",
+      "lot": "LG2.95"
+    },
+    {
+      "name": "Black Tap Craft Burgers & Shakes",
+      "lot": "Lobby Level, Sunway Resort Hotel"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "F1.79"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG2.RINK"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG2.136A"
+    },
+    {
+      "name": "BreadStory",
+      "lot": "LG2.138D-1"
+    },
+    {
+      "name": "Burger King",
+      "lot": "F1.87A & F1.90"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "OB5.G.2"
+    },
+    {
+      "name": "CHATEAU DE C.A.F.F.E.I.N.E.E.S",
+      "lot": "Eight Gourmets Gala (EGG), Suite G-01, The Pinnacle Annexe"
+    },
+    {
+      "name": "CHATERAISE",
+      "lot": "LG2.33"
+    },
+    {
+      "name": "CHONGDEE TEAHOUSE",
+      "lot": "G1.96A & G1.96B"
+    },
+    {
+      "name": "CHUCHAT",
+      "lot": "F1.95A"
+    },
+    {
+      "name": "CILI KAMPUNG",
+      "lot": "OB-G-5"
+    },
+    {
+      "name": "ChaPanda",
+      "lot": "LG2.133C"
+    },
+    {
+      "name": "Chagee",
+      "lot": "LG2.142B"
+    },
+    {
+      "name": "Chatramue",
+      "lot": "F1.95B"
+    },
+    {
+      "name": "Chez Choux",
+      "lot": "LG2.50"
+    },
+    {
+      "name": "Chicken Claypot House",
+      "lot": "OB2.G.U2"
+    },
+    {
+      "name": "Childhood",
+      "lot": "LG2.76"
+    },
+    {
+      "name": "Chili's",
+      "lot": "G1.97"
+    },
+    {
+      "name": "Chizu",
+      "lot": "LG1.08"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "LG2.135B"
+    },
+    {
+      "name": "City Milk",
+      "lot": "F1.AV.11C"
+    },
+    {
+      "name": "Come True Cafe",
+      "lot": "OB.G.2B"
+    },
+    {
+      "name": "Country's Tid Bits & Candies Cottage",
+      "lot": "LG2.91"
+    },
+    {
+      "name": "DIN",
+      "lot": "LG2.128C"
+    },
+    {
+      "name": "Dandy",
+      "lot": "LG2.128A"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "G1.41, G1.PT01"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "LG2.28"
+    },
+    {
+      "name": "Dookki",
+      "lot": "LG1.110"
+    },
+    {
+      "name": "Dragon-i Peking Duck",
+      "lot": "G1.43"
+    },
+    {
+      "name": "DubuYo",
+      "lot": "LG2.92"
+    },
+    {
+      "name": "Dunkin Donuts",
+      "lot": "LG2.43"
+    },
+    {
+      "name": "Eggette Lab",
+      "lot": "F1.AV.11"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG2.51"
+    },
+    {
+      "name": "Esquire Kitchen",
+      "lot": "G1.42A"
+    },
+    {
+      "name": "FEI FEI CRAB",
+      "lot": "OB2.G.U3"
+    },
+    {
+      "name": "FOUR BEANS SOY DESSERTS",
+      "lot": "LG1.106A"
+    },
+    {
+      "name": "FROST N BITES",
+      "lot": "F1.58H"
+    },
+    {
+      "name": "Formosa",
+      "lot": "F1.AV.167"
+    },
+    {
+      "name": "Fresh Fruits",
+      "lot": "F1.58D"
+    },
+    {
+      "name": "GIGI Coffee",
+      "lot": "LG2.08A"
+    },
+    {
+      "name": "GODIVA",
+      "lot": "GF.Ice Rink Railing"
+    },
+    {
+      "name": "GORDON RAMSAY BAR & GRILL",
+      "lot": "Lobby Level, Sunway Resort Hotel"
+    },
+    {
+      "name": "GOTCHA",
+      "lot": "LG1.21"
+    },
+    {
+      "name": "GRAND IMPERIAL RESTAURANT",
+      "lot": "Suite 101, First Floor, The Pinnacle Annex"
+    },
+    {
+      "name": "Genki Sushi",
+      "lot": "LG1.109"
+    },
+    {
+      "name": "Giant B Pure Honey",
+      "lot": "LG2 PC-028"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG2.41"
+    },
+    {
+      "name": "Gordon Ramsay Street Pizza",
+      "lot": "LG1.46A"
+    },
+    {
+      "name": "GravyBaby",
+      "lot": "SPWG004 - SPEG006"
+    },
+    {
+      "name": "HAN BUN SIK",
+      "lot": "F1.AV.197&198"
+    },
+    {
+      "name": "HAN PO CHA",
+      "lot": "F1.AV.196A"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "F1.07"
+    },
+    {
+      "name": "HOTPOT KITCHEN",
+      "lot": "OB.K7"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "F1.91A,F1.91B"
+    },
+    {
+      "name": "Haidilao Hotpot",
+      "lot": "G1.PT.02"
+    },
+    {
+      "name": "Hana Dining + Sake Bar",
+      "lot": "OB2.G.U1"
+    },
+    {
+      "name": "Hokkaido Baked Cheese Tart",
+      "lot": "F1.AV.11A"
+    },
+    {
+      "name": "Hong Kong Kim Gary",
+      "lot": "LG1.98B"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG2.50"
+    },
+    {
+      "name": "Hou Duck",
+      "lot": "LG2.129A-2"
+    },
+    {
+      "name": "Häagen-Dazs",
+      "lot": "LG1.71A"
+    },
+    {
+      "name": "IPPUDO",
+      "lot": "G1.45"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "LG2.31"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "F1.96C"
+    },
+    {
+      "name": "Ipoh Kacang Putih",
+      "lot": "LG2 PC-012"
+    },
+    {
+      "name": "JOHNNY’S RESTAURANT",
+      "lot": "LG2.55 & LG2.55A"
+    },
+    {
+      "name": "JOHOR MINI STEAMBOAT & VILLAGECIOUS",
+      "lot": "F1.AV.155 & F1.AV.195A"
+    },
+    {
+      "name": "JOLLIBEE",
+      "lot": "LG2.126A"
+    },
+    {
+      "name": "JP & CO Cafe",
+      "lot": "LG2.47"
+    },
+    {
+      "name": "JUICY",
+      "lot": "LG1.70A"
+    },
+    {
+      "name": "Jordan Hong Kong Restaurant",
+      "lot": "F1.73"
+    },
+    {
+      "name": "Joymom's",
+      "lot": "LG2.K.16"
+    },
+    {
+      "name": "Juice Works",
+      "lot": "LG2.72B"
+    },
+    {
+      "name": "K Fry",
+      "lot": "OB.K4"
+    },
+    {
+      "name": "KAI Japanese Dining & Buffet",
+      "lot": "Sunway Resort Hotel"
+    },
+    {
+      "name": "KFC",
+      "lot": "LG2.40A"
+    },
+    {
+      "name": "KIND KONES",
+      "lot": "LG2.138D-2"
+    },
+    {
+      "name": "KRISPY KREME DOUGHNUTS",
+      "lot": "F1.58"
+    },
+    {
+      "name": "KUMO KUMO",
+      "lot": "LG1.83B"
+    },
+    {
+      "name": "KWAN KEE STORE",
+      "lot": "LG2. 79B"
+    },
+    {
+      "name": "KakatooGo",
+      "lot": "LG2.137A-2"
+    },
+    {
+      "name": "Kebab King",
+      "lot": "F1.58E"
+    },
+    {
+      "name": "Kedai Kopi Malaya",
+      "lot": "LG2.133D"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "LG1.77A"
+    },
+    {
+      "name": "Kinori",
+      "lot": "LG2.K.10"
+    },
+    {
+      "name": "Koi The",
+      "lot": "LG2.125"
+    },
+    {
+      "name": "Komugi",
+      "lot": "LG2.139C"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "LG2.138B"
+    },
+    {
+      "name": "LAVENDER",
+      "lot": "LG2.45 & 46"
+    },
+    {
+      "name": "LEEKOR LEEKOR",
+      "lot": "F1.K1A"
+    },
+    {
+      "name": "LUCKIN COFFEE",
+      "lot": "OB5.G.01A"
+    },
+    {
+      "name": "Laem Charoen Thai Seafood",
+      "lot": "G1.98"
+    },
+    {
+      "name": "Le Bourne Chocolate Salon",
+      "lot": "LG2.K.13"
+    },
+    {
+      "name": "Legend of Tea",
+      "lot": "LG1.98A"
+    },
+    {
+      "name": "Linkway Café",
+      "lot": "Lobby Level, Sunway Resort Hotel"
+    },
+    {
+      "name": "Lizzie Café & Bakery",
+      "lot": "G1.76A"
+    },
+    {
+      "name": "Loong Kee",
+      "lot": "LG2.72"
+    },
+    {
+      "name": "Lung Ngen Claypot Coffee",
+      "lot": "LG2.138C-2"
+    },
+    {
+      "name": "MAHNAZ FOOD",
+      "lot": "LG2.89"
+    },
+    {
+      "name": "MBG Fresh Fruits Shop",
+      "lot": "LG2.98"
+    },
+    {
+      "name": "MIX STORE",
+      "lot": "LG2.132A&B"
+    },
+    {
+      "name": "MUGIN YORUYA @ M CRUSH",
+      "lot": "G1.PT.10 & 10A"
+    },
+    {
+      "name": "Madam Kwan's",
+      "lot": "LG1.47"
+    },
+    {
+      "name": "Maisen Tonkatsu",
+      "lot": "LG1.45"
+    },
+    {
+      "name": "Manjoe Taiwanese Dumplings Restaurant",
+      "lot": "LG2.87"
+    },
+    {
+      "name": "Mantra Indian Cuisine",
+      "lot": "LG2.122"
+    },
+    {
+      "name": "Manuka",
+      "lot": "LG1.82A"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "LG2.41"
+    },
+    {
+      "name": "McDonald's Kiosk",
+      "lot": "F1.101"
+    },
+    {
+      "name": "Miga",
+      "lot": "LG2.38A"
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "LG2.K.15"
+    },
+    {
+      "name": "Mixue",
+      "lot": "OB2G.09"
+    },
+    {
+      "name": "Mon Chinese Beef Roti",
+      "lot": "LG2.136B"
+    },
+    {
+      "name": "Mr Bean",
+      "lot": "F1.92,F1.93"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "F1.86C"
+    },
+    {
+      "name": "Mr. Tuk Tuk",
+      "lot": "LG2.27"
+    },
+    {
+      "name": "NANYANG CAFE",
+      "lot": "G1.PT.07"
+    },
+    {
+      "name": "NONG GENG JI HUNAN CUISINE 农耕记湖南菜",
+      "lot": "LG1.42"
+    },
+    {
+      "name": "Nadeje",
+      "lot": "G1.82B"
+    },
+    {
+      "name": "Nak Nak",
+      "lot": "LG2.126"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LG2.56"
+    },
+    {
+      "name": "Nespresso",
+      "lot": "LG1.02A"
+    },
+    {
+      "name": "ONEXOX",
+      "lot": "F1.72"
+    },
+    {
+      "name": "Oga Tea & Dining",
+      "lot": "LG1.122C"
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": "LG2.136C"
+    },
+    {
+      "name": "Old Nanyang Coffee",
+      "lot": "F1.AV.177 - 181 & F1.AV.193"
+    },
+    {
+      "name": "Ole-Ole Bali",
+      "lot": "G1.136"
+    },
+    {
+      "name": "One Bowl Lamian Noodles Lanzhou China",
+      "lot": "LG2.96"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "G1.108, G1.109"
+    },
+    {
+      "name": "Oriental Kopi Specialty Store",
+      "lot": "LG2.K.8"
+    },
+    {
+      "name": "Oriental Sun",
+      "lot": "G1.42"
+    },
+    {
+      "name": "PENANG CHENDUL",
+      "lot": "LG2.90"
+    },
+    {
+      "name": "POISON APPLE",
+      "lot": "Eight Gourmets Gala (EGG), Suite G01, The Pinnacle"
+    },
+    {
+      "name": "POKOK",
+      "lot": "OB-G-3"
+    },
+    {
+      "name": "Palsaik Korean BBQ",
+      "lot": "OB K5 & K6A"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "LG1.33A"
+    },
+    {
+      "name": "Park’s Bagels",
+      "lot": "LG2.Rink B"
+    },
+    {
+      "name": "Pineyard",
+      "lot": "LG2.133A"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "LG2.40B"
+    },
+    {
+      "name": "Pommes Frites",
+      "lot": "F1.AV.196"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LG2.96B"
+    },
+    {
+      "name": "Pure Cookies",
+      "lot": "LG2 PC-020"
+    },
+    {
+      "name": "Putien",
+      "lot": "LG1.43A"
+    },
+    {
+      "name": "RICH KOPITIAM",
+      "lot": "SPYR G1.PT.05&06"
+    },
+    {
+      "name": "ROYCE'",
+      "lot": "F1.02A"
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "OB2.F.U2"
+    },
+    {
+      "name": "Ramen Bankara",
+      "lot": "LG2.131A"
+    },
+    {
+      "name": "Redcup",
+      "lot": "LG2.132C"
+    },
+    {
+      "name": "Rocku Yakiniku",
+      "lot": "LG1.43"
+    },
+    {
+      "name": "SHABU-YO",
+      "lot": "G1.99"
+    },
+    {
+      "name": "SHIN JJAJANG JJAMBBONG",
+      "lot": "OB.K6, Ground floor"
+    },
+    {
+      "name": "STUFF’D",
+      "lot": "LG2.53A"
+    },
+    {
+      "name": "SUNWAY LAGOON MART",
+      "lot": "F1.67"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "LG2.48"
+    },
+    {
+      "name": "Seminyak by Warung Eropa",
+      "lot": "OB-G-2A"
+    },
+    {
+      "name": "Seremban Kee Mei Siew Pow",
+      "lot": "F1.K1"
+    },
+    {
+      "name": "Shake Shack",
+      "lot": "OB.K2,K3 & K3C"
+    },
+    {
+      "name": "Shihlin Taiwan Street Foods",
+      "lot": "F1.AV.128"
+    },
+    {
+      "name": "Simple Life Healthy (Vegetarian)",
+      "lot": "F1.86A"
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": "LG2.31B"
+    },
+    {
+      "name": "Snowflake",
+      "lot": "F1.65A"
+    },
+    {
+      "name": "Souper Tang",
+      "lot": "LG1.112"
+    },
+    {
+      "name": "Sparkora BBQ",
+      "lot": "OB2.G.03A & OB2.G.U10"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G1.130A & 131A"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "SP3G001"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG2.32"
+    },
+    {
+      "name": "Sukiya",
+      "lot": "LG2.30"
+    },
+    {
+      "name": "Sunway Lagoon Kedai Runcit",
+      "lot": "PC-202 (PushCart)"
+    },
+    {
+      "name": "Supamala Hotpot",
+      "lot": "LG2.122C"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": "LG2.122D"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG2.93"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "OB2.F.U1"
+    },
+    {
+      "name": "Swich Café",
+      "lot": "LG2.133B"
+    },
+    {
+      "name": "TACOBELL",
+      "lot": "LG2.40"
+    },
+    {
+      "name": "TAIWAN SPICY NOODLE HOUSE",
+      "lot": "F1.AV.135"
+    },
+    {
+      "name": "TANG GUI FEI TANGHULU",
+      "lot": "LG2.K.9"
+    },
+    {
+      "name": "TANYU 探鱼",
+      "lot": "LG2.128B"
+    },
+    {
+      "name": "TGI Fridays™",
+      "lot": "LG1.111"
+    },
+    {
+      "name": "TGV Cinemas (Kiosk)",
+      "lot": "LG1.95A"
+    },
+    {
+      "name": "THE CHAMBER",
+      "lot": "G1.PT.03B"
+    },
+    {
+      "name": "THE FOUNDERS BAKERY",
+      "lot": "LG1.70B"
+    },
+    {
+      "name": "THE OWLS CAFE",
+      "lot": "G1.PT.08"
+    },
+    {
+      "name": "TICCO",
+      "lot": "LG1.48"
+    },
+    {
+      "name": "TONKATSU BY MA MAISON",
+      "lot": "G1.PT.09"
+    },
+    {
+      "name": "TOUS les JOURS",
+      "lot": "G1.119A & G1.126C"
+    },
+    {
+      "name": "Tai Er",
+      "lot": "G1.98A"
+    },
+    {
+      "name": "TamJai Mixian",
+      "lot": "LG2.137B"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "LG1.40 & 41"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "F1.71A"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "OB3.LG2.1 & LG2.127A"
+    },
+    {
+      "name": "Thai Thai",
+      "lot": "G1.135"
+    },
+    {
+      "name": "The Boring Coco",
+      "lot": "LG1.25"
+    },
+    {
+      "name": "The Brew House",
+      "lot": "SPWG002 & SPWG003"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG2.97"
+    },
+    {
+      "name": "The Coach Coffeeshop",
+      "lot": "G1.10A"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G1.RINK"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "LG1.117D"
+    },
+    {
+      "name": "The Elixir Kombucha",
+      "lot": "F1.K2A"
+    },
+    {
+      "name": "The Walking Hotpot",
+      "lot": "F1.AV.199"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "GF.122A,GF.122B"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "LG2.131B"
+    },
+    {
+      "name": "VCR",
+      "lot": "GF.112A,G1.112B"
+    },
+    {
+      "name": "VILLAGE ROAST DUCK",
+      "lot": "G1.40"
+    },
+    {
+      "name": "Velife Snack Bar",
+      "lot": "LG2 PC705-9"
+    },
+    {
+      "name": "Verrona Hills",
+      "lot": "LG1.110B"
+    },
+    {
+      "name": "WARABIMOCHI KAMAKURA",
+      "lot": "LG2.K.7"
+    },
+    {
+      "name": "WOK HEY",
+      "lot": "LG2.43A"
+    },
+    {
+      "name": "Waffuru",
+      "lot": null
+    },
+    {
+      "name": "Wagyu More",
+      "lot": "LG1.98C"
+    },
+    {
+      "name": "Whisk",
+      "lot": "LG1.117A"
+    },
+    {
+      "name": "Wok Man",
+      "lot": "G1.110"
+    },
+    {
+      "name": "YAMAGUCHI FISH MARKET",
+      "lot": "Suite G-01, The Pinnacle Annexe"
+    },
+    {
+      "name": "YEAST",
+      "lot": "Lobby Level, Sunway Pyramid Hotel"
+    },
+    {
+      "name": "YGF Malatang",
+      "lot": "LG2.137A1"
+    },
+    {
+      "name": "Yakiniku Kuro",
+      "lot": "LG2.39"
+    },
+    {
+      "name": "Yi Poh",
+      "lot": "F1.AV.147 & F1.AV.195"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "LG2.37"
+    },
+    {
+      "name": "Zaitoun",
+      "lot": "F1.100C"
+    },
+    {
+      "name": "Zen House Japanese Vegetarian Restaurant",
+      "lot": "LG2.99"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "OB.K8"
+    },
+    {
+      "name": "Zus Signature Coffee",
+      "lot": "LG1.115A-1"
+    },
+    {
+      "name": "being Juice",
+      "lot": null
+    },
+    {
+      "name": "dipndip",
+      "lot": "LG2.83"
+    },
+    {
+      "name": "llao llao",
+      "lot": "F1.49"
+    },
+    {
+      "name": "myEureka Snack Bar",
+      "lot": "F1.100D"
+    },
+    {
+      "name": "nononsense coffee",
+      "lot": "LG1.33 - 37 (inside Atmos)"
+    },
+    {
+      "name": "Ăn Viet",
+      "lot": "LG1.46"
+    },
+    {
+      "name": "绿茶餐厅 LONGJING",
+      "lot": "LG1.107&108"
+    }
+  ]
+}

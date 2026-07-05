@@ -1,0 +1,156 @@
+{
+  "mall": "Plaza Merdeka",
+  "directory_url": "http://plazamerdeka.com/shop-3/",
+  "method": "html_embedded_json",
+  "count": 37,
+  "outlets": [
+    {
+      "name": "Coffee & Toast",
+      "lot": "L3-21"
+    },
+    {
+      "name": "Desserts",
+      "lot": "L3-21a"
+    },
+    {
+      "name": "Chicken Rice",
+      "lot": "L3-F01"
+    },
+    {
+      "name": "Laksa, Noodles & Nasi Lemak",
+      "lot": "L3-F02"
+    },
+    {
+      "name": "Malay Fast Food",
+      "lot": "L3-F03"
+    },
+    {
+      "name": "Hot Plate",
+      "lot": "L3-F04"
+    },
+    {
+      "name": "Thai",
+      "lot": "L3-F05"
+    },
+    {
+      "name": "Western",
+      "lot": "L3-F06"
+    },
+    {
+      "name": "Yong Tau Foo",
+      "lot": "L3-F07"
+    },
+    {
+      "name": "Fusion",
+      "lot": "L3-F08"
+    },
+    {
+      "name": "Local Specialty",
+      "lot": "L3-F09"
+    },
+    {
+      "name": "Claypot",
+      "lot": "L3-F10"
+    },
+    {
+      "name": "Nasi Briyani",
+      "lot": "L3-F11"
+    },
+    {
+      "name": "Asian Cuisine",
+      "lot": "L3-F12"
+    },
+    {
+      "name": "Crispy Chicken",
+      "lot": "L3-F13"
+    },
+    {
+      "name": "Drink Stall",
+      "lot": "L3-F15"
+    },
+    {
+      "name": "Sugarbun / Centuryin Cafe",
+      "lot": "L3-30-35"
+    },
+    {
+      "name": "Ding Tea",
+      "lot": "L1-12"
+    },
+    {
+      "name": "McDonald's - L1",
+      "lot": "L1-15"
+    },
+    {
+      "name": "Gloria Jean's Coffee",
+      "lot": "G-01"
+    },
+    {
+      "name": "Subway",
+      "lot": "G-11"
+    },
+    {
+      "name": "McDonald's - G",
+      "lot": "G12, G13"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "G-38"
+    },
+    {
+      "name": "Burger King",
+      "lot": "G-43, G-43(s), G-44, G-45"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G-46"
+    },
+    {
+      "name": "Magic Bite/My Pretzels",
+      "lot": "LG-10, LG-11"
+    },
+    {
+      "name": "Potato King",
+      "lot": "LG-32"
+    },
+    {
+      "name": "The Drinking Hippo",
+      "lot": "LG-34"
+    },
+    {
+      "name": "Pezzo Pizza",
+      "lot": "LG-38a, LG-38"
+    },
+    {
+      "name": "SCR Xpress",
+      "lot": "LG-50"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "LG-51"
+    },
+    {
+      "name": "Seoul Chicken",
+      "lot": "LG-52"
+    },
+    {
+      "name": "KFC - LG",
+      "lot": "LG-53"
+    },
+    {
+      "name": "Sakae Sushi",
+      "lot": "LG-54, LG-55"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-56, LG-57"
+    },
+    {
+      "name": "Summer Sweet",
+      "lot": "LG-64"
+    },
+    {
+      "name": "Macao Imperial Tea",
+      "lot": null
+    }
+  ]
+}

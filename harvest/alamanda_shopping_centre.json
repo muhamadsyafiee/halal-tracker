@@ -1,0 +1,236 @@
+{
+  "mall": "Alamanda Shopping Centre",
+  "directory_url": "https://www.alamanda.com.my/shopping-categories/",
+  "method": "json_endpoint",
+  "count": 57,
+  "outlets": [
+    {
+      "name": "Portugis lkan Bakar",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Mee Tarik",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Nasi Kandar",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Little Wok",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Ayam Penyet",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Roti John",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Nasi Campur",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Noodles",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Western",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Yong Tau Foo",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Chili Pan Mee",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Bento",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Wafflestop",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Cendol",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Sizzling Hotplate",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Thai Casine",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "Chicken Rice",
+      "lot": "Ground Floor, Lot G 17"
+    },
+    {
+      "name": "KFC",
+      "lot": "Ground Floor, Lot G 89"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Ground Floor, Lot G 90"
+    },
+    {
+      "name": "Burger King",
+      "lot": "Lower Ground Floor, Lot LG 28 - LG 29"
+    },
+    {
+      "name": "Nando's",
+      "lot": "Plaza Floor,Lot P07"
+    },
+    {
+      "name": "Bread History",
+      "lot": "Lower Ground Floor, Lot LG 33B"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "Lower Ground Floor, Lot LG 35"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "Lower Ground Floor, Lot LG 70"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lower Ground Floor, Lot LG 71"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "Lower Ground Floor, Lot LG OS02"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "Lower Ground Floor, Lot LG OS03"
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "LG OS04, Lower Ground Floor"
+    },
+    {
+      "name": "Beryl’s",
+      "lot": "Lower Ground Floor, Lot LG OS05"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "Ground Floor, Lot G OS15"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Ground Floor, Lot G OS19"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "Plaza Floor, Lot P 02"
+    },
+    {
+      "name": "Cili Kampung",
+      "lot": "Ground Floor, Lot G 91"
+    },
+    {
+      "name": "Secret Recipe Cakes & Cafe",
+      "lot": "Ground Floor, Lot G53"
+    },
+    {
+      "name": "Johnny's Steamboat",
+      "lot": "Ground Floor, G84B_G85"
+    },
+    {
+      "name": "Sepiring",
+      "lot": "Lower Ground Floor, Lot LG 30"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "Lower Ground Floor, Lot LG 31 - LG 33"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G OS16, Ground Floor"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Ground Floor , Lot G OS18"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "Lower Ground Floor, Lot LG 36"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "Ground Floor, G88"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "Lot G16, Ground Floor"
+    },
+    {
+      "name": "Pelita (Opening Soon)",
+      "lot": "Ground Floor, Lot G 01_82"
+    },
+    {
+      "name": "Oiso",
+      "lot": "Ground Floor, Lot G56"
+    },
+    {
+      "name": "Padi House",
+      "lot": "G 83, Ground Floor"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "Lower Ground Floor, Lot LG 07"
+    },
+    {
+      "name": "Beutea (Opening Soon)",
+      "lot": "Lower Ground Floor, Lot LG 69"
+    },
+    {
+      "name": "DubuYo Mini",
+      "lot": "P 05 , Plaza Floor"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "Plaza Floor, Lot P06"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "Ground Floor, Lot G54-55"
+    },
+    {
+      "name": "Bask Bear Coffee & Toasties",
+      "lot": "Ground Floor, Lot G-15"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Ground Floor, Lot G 22"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Plaza Floor, Lot P04"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "Plaza Floor, Lot P 03"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "Ground Floor, Lot G 53A"
+    },
+    {
+      "name": "A'Decade",
+      "lot": "Ground Floor, Lot G51"
+    },
+    {
+      "name": "Chakri Village",
+      "lot": "Ground Floor, Lot G50"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "mall": "KTCC Mall",
+  "directory_url": "https://ktccmall.com.my/directory.php",
+  "count": 34,
+  "summary": {
+    "certified": 12,
+    "review": 6,
+    "uncertified": 16,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "MammaBunz",
+      "lot": "Lot K12, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Big Apple Donut & Coffee",
+      "lot": "Lot K56, Level G",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Chatime",
+      "lot": "Lot K45, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "My Eureka",
+      "lot": "Lot K49, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "My Laksa",
+      "lot": "Lot K60, Level G",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "D LAKSA (M) SDN. BHD."
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "Lot 26, Level G",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Daboba",
+      "lot": "Lot 36, Level G",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "BOBA TEA SDN BHD"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "Lot 25, Level G",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Sweetly Snack",
+      "lot": "Lot K63A, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Korea Cotton Candy",
+      "lot": "Lot K41, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Takoyaki & Tart",
+      "lot": "Lot K43, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nasken Coffee",
+      "lot": "Lot 16, Level G",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "NASKEN INTERNATIONAL SDN. BHD"
+    },
+    {
+      "name": "Tealive",
+      "lot": "Lot K39, Level G",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Llao Llao",
+      "lot": "Lot K47A, Level G",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "Lot K67, Level G",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Xing Fu Tang",
+      "lot": "Lot 05, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Lot 27, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YAS Chocolate House",
+      "lot": "Lot K48, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "Lot K51, Level G",
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "Hokkaido Ice Cream Puff",
+      "lot": "Lot K52, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "Lot K53A, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SlurpBee Hunter",
+      "lot": "Lot K58, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Lot K68, Level G",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Ayam Penyet",
+      "lot": "Lot 06, Level 1",
+      "status": "certified",
+      "myehalal_matches": 18,
+      "cert_holder": "APC AYAM PENYET CORNER"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Johnny's Restaurant",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "Lot 03, Level 1",
+      "status": "certified",
+      "myehalal_matches": 21,
+      "cert_holder": "BERJAYA ROASTERS (M) SDN BHD"
+    },
+    {
+      "name": "KFC",
+      "lot": "Lot 08, Level 1",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "Lot 02, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Lot 05, Level 1",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "Lot 03A, Level 1",
+      "status": "certified",
+      "myehalal_matches": 104,
+      "cert_holder": "TEXAS CHICKEN (MALAYSIA) SDN BHD"
+    },
+    {
+      "name": "Mee Tarik Warisan Asli",
+      "lot": "Lot 07, Level 1",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "JJ FOOD & BEVERAGE GROUP SDN BHD"
+    },
+    {
+      "name": "About Sushi",
+      "lot": "Lot K07, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Lot K11, Level 1",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    }
+  ]
+}

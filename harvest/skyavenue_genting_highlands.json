@@ -1,0 +1,288 @@
+{
+  "mall": "SkyAvenue Genting Highlands",
+  "directory_url": "https://www.rwgenting.com/en/things-to-do/shopping/skyavenue-complex.html",
+  "method": "curl_html",
+  "count": 70,
+  "outlets": [
+    {
+      "name": "ABSOLUTE THAI",
+      "lot": "T2-10&11"
+    },
+    {
+      "name": "AH YIP HERBAL SOUP",
+      "lot": "T2C-38"
+    },
+    {
+      "name": "BABAJIA",
+      "lot": "T2-16"
+    },
+    {
+      "name": "BAR.B.Q PLAZA",
+      "lot": "T2C-33"
+    },
+    {
+      "name": "BEAUTY IN THE POT",
+      "lot": "T3-25,26,27,28,29,30"
+    },
+    {
+      "name": "BEENA'S SIGNATURE",
+      "lot": "T2-56B"
+    },
+    {
+      "name": "BURGER & LOBSTER",
+      "lot": "T2-13"
+    },
+    {
+      "name": "C CHUAN VILLAGE",
+      "lot": "T2-46 & 47"
+    },
+    {
+      "name": "DAFU CONGEE",
+      "lot": "T2-19"
+    },
+    {
+      "name": "DAI CHA DIM",
+      "lot": "T1-01"
+    },
+    {
+      "name": "DIN TAI FUNG",
+      "lot": "T2-15"
+    },
+    {
+      "name": "DRAGON-I",
+      "lot": "T2-22 & 23"
+    },
+    {
+      "name": "FIVE GUYS",
+      "lot": "T2-25"
+    },
+    {
+      "name": "GO NOODLE HOUSE PLUS",
+      "lot": "T2C-37"
+    },
+    {
+      "name": "GOON WAH FISH HEAD NOODLES",
+      "lot": "T2C-35"
+    },
+    {
+      "name": "GRANDMAMA’S",
+      "lot": "T2-06"
+    },
+    {
+      "name": "I LOVE YOO",
+      "lot": "T2C-02B"
+    },
+    {
+      "name": "IL LAGO",
+      "lot": null
+    },
+    {
+      "name": "JOM MAKAN SKYAVENUE",
+      "lot": "T3-25,26,27,28,29,30"
+    },
+    {
+      "name": "JOM MAKAN STREET FOOD",
+      "lot": "T2C-MFS"
+    },
+    {
+      "name": "JR CURRY HOUSE",
+      "lot": "T2C-B19"
+    },
+    {
+      "name": "KAM'S KITCHEN",
+      "lot": "T2C-02C"
+    },
+    {
+      "name": "LA FIESTA BY MARTA'S KITCHEN",
+      "lot": "T2-29"
+    },
+    {
+      "name": "GOLDEN TREASURES HONG KONG CAFÉ",
+      "lot": "T2C-02A"
+    },
+    {
+      "name": "MADAM KWAN'S",
+      "lot": "T2-30"
+    },
+    {
+      "name": "MALAYSIAN FOOD STREET",
+      "lot": "T2C-MFS"
+    },
+    {
+      "name": "MARRY BROWN",
+      "lot": "T2C-B19"
+    },
+    {
+      "name": "NYONYA COLORS",
+      "lot": "T2-48"
+    },
+    {
+      "name": "ONLY MEE",
+      "lot": "T2C-B19"
+    },
+    {
+      "name": "PALSAIK KOREAN BBQ",
+      "lot": "T2C-08 & T3-08"
+    },
+    {
+      "name": "PARADISE DYNASTY, LENU AND CANTON PARADISE",
+      "lot": "T2-03"
+    },
+    {
+      "name": "PENYET PENYET.COM",
+      "lot": "T2-56D"
+    },
+    {
+      "name": "PEPPER LUNCH",
+      "lot": "T2-05"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "T2C-B05 & B06"
+    },
+    {
+      "name": "RICHDAD",
+      "lot": "T2-17"
+    },
+    {
+      "name": "SAMTAI YAMCH'A",
+      "lot": "T2C-B03"
+    },
+    {
+      "name": "TAI BAE",
+      "lot": "T2-31"
+    },
+    {
+      "name": "Golden Tai Fook Porridge",
+      "lot": "T2-19"
+    },
+    {
+      "name": "TAMPOPO JAPANESE RESTAURANT",
+      "lot": "T2-20 & 21"
+    },
+    {
+      "name": "HARRY RAMSDEN",
+      "lot": "T2C-22-23A"
+    },
+    {
+      "name": "TONO LIVE HOUSE",
+      "lot": "T2C-31 & 32"
+    },
+    {
+      "name": "WANHOI YAMCH'A",
+      "lot": "T2-7 & 8 & 9"
+    },
+    {
+      "name": "YESTERYEAR",
+      "lot": "T2C-25"
+    },
+    {
+      "name": "YU PALACE",
+      "lot": "T2-29A"
+    },
+    {
+      "name": "ZOK NOODLE HOUSE",
+      "lot": "T2C-36"
+    },
+    {
+      "name": "AUNTEA JENNY",
+      "lot": "T2-38"
+    },
+    {
+      "name": "AUNTIE ANNE'S",
+      "lot": "T2-39"
+    },
+    {
+      "name": "BEUTEA",
+      "lot": "T2-H02"
+    },
+    {
+      "name": "BLANK",
+      "lot": "T2-H01"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "T2-13A"
+    },
+    {
+      "name": "ATMOS",
+      "lot": "T2B-47 & 48"
+    },
+    {
+      "name": "EUREKA",
+      "lot": "T2C-01H"
+    },
+    {
+      "name": "FAMOUS AMOS",
+      "lot": "T2C-01I"
+    },
+    {
+      "name": "GODIVA",
+      "lot": "T2M-14"
+    },
+    {
+      "name": "GOVIDA PUSH CART",
+      "lot": "T2M-14"
+    },
+    {
+      "name": "HENG HENG LOCAL DELIGHTS",
+      "lot": "T2C-01E & 01F"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "T2-12"
+    },
+    {
+      "name": "KACANG PUTIH KING & TIDBITS",
+      "lot": "T2-M15 & M16"
+    },
+    {
+      "name": "KOI THÉ",
+      "lot": "T2-53A"
+    },
+    {
+      "name": "KOONG WOH TONG",
+      "lot": "T2-33A"
+    },
+    {
+      "name": "KRISPY KREME DOUGHNUTS",
+      "lot": "T2C-12"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "T2-35"
+    },
+    {
+      "name": "MOOLAN",
+      "lot": "T2C-B01"
+    },
+    {
+      "name": "MOOLAN SIGNATURE",
+      "lot": "T2-H03"
+    },
+    {
+      "name": "SWEET HUG",
+      "lot": "T2-57"
+    },
+    {
+      "name": "SWENSEN'S",
+      "lot": "T2-A1"
+    },
+    {
+      "name": "SWENSEN'S",
+      "lot": "T2-M17"
+    },
+    {
+      "name": "YUEN FONG",
+      "lot": "T2C-01C & 01D"
+    },
+    {
+      "name": "YUEN FONG DRIED MEAT",
+      "lot": "T2C-01C & 01D"
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "T2A-39A & 40"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "mall": "Sunway Carnival Mall",
+  "directory_url": "https://www.sunwaycarnival.com/directory",
+  "method": "json_api",
+  "count": 105,
+  "outlets": [
+    {
+      "name": "4 FINGERS CRISPY CHICKEN",
+      "lot": "2F-50"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "LG-K28"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "LG-K31"
+    },
+    {
+      "name": "Ayee Southern Thai Fried Chicken",
+      "lot": "LG-K29"
+    },
+    {
+      "name": "Bananabro",
+      "lot": "LG-03A"
+    },
+    {
+      "name": "BAR.B.Q PLAZA",
+      "lot": "LG-22"
+    },
+    {
+      "name": "Bask Bear Coffee",
+      "lot": "LG-K22"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "GF-28 & 29"
+    },
+    {
+      "name": "Bee Cheng Hiang",
+      "lot": "LG-43A"
+    },
+    {
+      "name": "Beutea",
+      "lot": "LG-K07"
+    },
+    {
+      "name": "Black Canyon",
+      "lot": "LG-65"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "2F-41 & 42"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG-K02A"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG-50"
+    },
+    {
+      "name": "Budak Hotplate",
+      "lot": "LG-K42"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG-62"
+    },
+    {
+      "name": "Cafe Amazon",
+      "lot": "1F-K13A"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "1F-K15"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "LG-K01"
+    },
+    {
+      "name": "Chili's",
+      "lot": "LG-67"
+    },
+    {
+      "name": "Cho Dong Jib",
+      "lot": "LG-33A & 35"
+    },
+    {
+      "name": "City Milk",
+      "lot": "LG-K16"
+    },
+    {
+      "name": "Cornery - The Popcorn Gallery",
+      "lot": "LG-K03"
+    },
+    {
+      "name": "Damas King",
+      "lot": "LG-K41"
+    },
+    {
+      "name": "Daseo",
+      "lot": "2F-47"
+    },
+    {
+      "name": "Dave's Deli",
+      "lot": "LG-40 & 41"
+    },
+    {
+      "name": "DIN TAI FUNG",
+      "lot": "LG-28, 29 & K13C"
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "LG-26, 27 & K13B"
+    },
+    {
+      "name": "Eito San",
+      "lot": "LG-K36"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "LG-K20 & K21"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "LG-K02B"
+    },
+    {
+      "name": "Fei.s Rice Noodles",
+      "lot": "LG-21"
+    },
+    {
+      "name": "Four Beans Soy Desserts",
+      "lot": "2F-K08A"
+    },
+    {
+      "name": "Four Spoons Ice Cream",
+      "lot": "LG-K09"
+    },
+    {
+      "name": "Garrett Popcorn Shops",
+      "lot": "LG-53"
+    },
+    {
+      "name": "GDGN Vintage Cuisine",
+      "lot": "2F-40"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-K26"
+    },
+    {
+      "name": "Haagen Dazs",
+      "lot": "1F-K02"
+    },
+    {
+      "name": "Haidilao Hotpot",
+      "lot": "1F-30, 31 & 32"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "LG-30"
+    },
+    {
+      "name": "Hong Kong Kim Gary Restaurant",
+      "lot": "LG-61"
+    },
+    {
+      "name": "HONGYEE",
+      "lot": "LG-K43"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "LG-K23A"
+    },
+    {
+      "name": "HWC",
+      "lot": "1F-K01"
+    },
+    {
+      "name": "I LOVE YOO!",
+      "lot": "LG-K33"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "LG-68"
+    },
+    {
+      "name": "iMP'za",
+      "lot": "LG-K18"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "1F-K16"
+    },
+    {
+      "name": "Johnny's Steamboat",
+      "lot": "LG-66"
+    },
+    {
+      "name": "Jom Chá by Farm Fresh",
+      "lot": "2F-K27"
+    },
+    {
+      "name": "Kaki 5",
+      "lot": "LG-K17"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "2F-13B"
+    },
+    {
+      "name": "KIA LAI CAKE PASTRY",
+      "lot": "LG-K06"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "LG-K13A"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "LG-K33A"
+    },
+    {
+      "name": "Lee‘s Signature Fish",
+      "lot": "1F-50"
+    },
+    {
+      "name": "Leomag Waffle",
+      "lot": "2F-K08"
+    },
+    {
+      "name": "Little Nyonya",
+      "lot": "LG-01"
+    },
+    {
+      "name": "LLao LLao",
+      "lot": "LG-K01A"
+    },
+    {
+      "name": "Mee Hiris China Muslim Restaurant",
+      "lot": "LG-03"
+    },
+    {
+      "name": "Mix Store",
+      "lot": "2F-37"
+    },
+    {
+      "name": "MIXUE",
+      "lot": "LG-K05A"
+    },
+    {
+      "name": "Mr Dakgalbi",
+      "lot": "2F-51"
+    },
+    {
+      "name": "Mr Shawerma",
+      "lot": "LG-K02"
+    },
+    {
+      "name": "Nando's",
+      "lot": "LG-02"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "1F-62 & 63"
+    },
+    {
+      "name": "PapaFry",
+      "lot": "LG-K43A"
+    },
+    {
+      "name": "ParaThai",
+      "lot": "LG-03B"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "GF-53"
+    },
+    {
+      "name": "Pasta Port",
+      "lot": "LG-K27"
+    },
+    {
+      "name": "Penang Chendul",
+      "lot": "LG-32 & 33"
+    },
+    {
+      "name": "Penyet Penyet.com",
+      "lot": "LG-36 & 37"
+    },
+    {
+      "name": "Pho Vietz",
+      "lot": "2F-31"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "LG-K05"
+    },
+    {
+      "name": "Robataya",
+      "lot": "2F-52"
+    },
+    {
+      "name": "Rollney",
+      "lot": "2F-K26"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "LG-47"
+    },
+    {
+      "name": "Rutin Noodle Cuisine",
+      "lot": "LG-45 & K11"
+    },
+    {
+      "name": "Salad Atelier",
+      "lot": "LG-K19"
+    },
+    {
+      "name": "SALON DU CHOCOLAT",
+      "lot": "1F-K06"
+    },
+    {
+      "name": "Shabu-Yo",
+      "lot": "LG-05"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-K25"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "LG-K35"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG-31"
+    },
+    {
+      "name": "Sukiya Tokyo Bowls & Noodles",
+      "lot": "LG-69"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-02A"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "LG-63"
+    },
+    {
+      "name": "Tai Ho Jiak",
+      "lot": "LG-52"
+    },
+    {
+      "name": "Tang Tea",
+      "lot": "LG-K23"
+    },
+    {
+      "name": "Tealive",
+      "lot": "2F-K03A"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-63A"
+    },
+    {
+      "name": "The Brew House",
+      "lot": "GF-26 & 27"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-70"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "LG-53A"
+    },
+    {
+      "name": "Thong Bowl & Thong Cha",
+      "lot": "LG-38 & 39"
+    },
+    {
+      "name": "TORO FRIES",
+      "lot": "2F-K10"
+    },
+    {
+      "name": "Uncle Kin Chili Pan Mee",
+      "lot": "LG-K30"
+    },
+    {
+      "name": "Winter Warmers Coffee Tea House",
+      "lot": "1F-61"
+    },
+    {
+      "name": "Xiang Xiang Hunan Cuisine",
+      "lot": "1F-51 & 52"
+    },
+    {
+      "name": "Xing Lin Herbs Drinks",
+      "lot": "2F-K09"
+    },
+    {
+      "name": "XiXiang Kaya Kopitiam",
+      "lot": "2F-39"
+    },
+    {
+      "name": "YGF Malatang",
+      "lot": "2F-33A"
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "1F-K05"
+    },
+    {
+      "name": "Yuzhou Tea",
+      "lot": "2F-13A"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "1F-K17"
+    }
+  ]
+}

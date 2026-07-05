@@ -1,0 +1,240 @@
+{
+ "mall": "The Curve",
+ "directory_url": "https://thecurve.com.my/directory/",
+ "method": "browser_esg",
+ "count": 58,
+ "outlets": [
+  {
+   "name": "Tealive",
+   "lot": null
+  },
+  {
+   "name": "Juice Works",
+   "lot": null
+  },
+  {
+   "name": "Zus Coffee",
+   "lot": null
+  },
+  {
+   "name": "Auntie Anne’s",
+   "lot": null
+  },
+  {
+   "name": "Petite Maison Brasserie",
+   "lot": "G88A"
+  },
+  {
+   "name": "Wunderbar German",
+   "lot": "G66"
+  },
+  {
+   "name": "Congkak",
+   "lot": "G51"
+  },
+  {
+   "name": "Dolly Dim Sum",
+   "lot": "G86 / G86A / G88B"
+  },
+  {
+   "name": "Italiannies",
+   "lot": "G75"
+  },
+  {
+   "name": "Kim Gary Restaurant",
+   "lot": "140"
+  },
+  {
+   "name": "Macha & Co",
+   "lot": "G41"
+  },
+  {
+   "name": "Oiso",
+   "lot": "154"
+  },
+  {
+   "name": "Tasty Chapathi",
+   "lot": "G68"
+  },
+  {
+   "name": "T.G.I Friday’s",
+   "lot": "G77 / G78 / G82"
+  },
+  {
+   "name": "The Chicken Rice Shop",
+   "lot": "G50"
+  },
+  {
+   "name": "The Steamboat by Ketam Village",
+   "lot": "G52"
+  },
+  {
+   "name": "Waroeng Penyet",
+   "lot": "132"
+  },
+  {
+   "name": "Starbucks Coffee",
+   "lot": "G88"
+  },
+  {
+   "name": "Teh Tarik Place",
+   "lot": "G36 / G36A"
+  },
+  {
+   "name": "DÔME Café",
+   "lot": "G85"
+  },
+  {
+   "name": "Gigi Coffee Diner",
+   "lot": "GZF1 / GZF2 / GZF3"
+  },
+  {
+   "name": "O’Briens Irish Sandwich Cafe",
+   "lot": "G79"
+  },
+  {
+   "name": "Secret Recipe",
+   "lot": "G1"
+  },
+  {
+   "name": "Baskin-Robbins",
+   "lot": null
+  },
+  {
+   "name": "Bungkus Kaw Kaw",
+   "lot": null
+  },
+  {
+   "name": "Cold Stone Creamery",
+   "lot": null
+  },
+  {
+   "name": "Daily Fresh",
+   "lot": null
+  },
+  {
+   "name": "Famous Amos",
+   "lot": null
+  },
+  {
+   "name": "Hot & Roll",
+   "lot": null
+  },
+  {
+   "name": "J.CO Donuts & Coffee",
+   "lot": "GZF-7A"
+  },
+  {
+   "name": "Thosai Cafè",
+   "lot": "GZF-4"
+  },
+  {
+   "name": "Soup Base Kitchen",
+   "lot": "133"
+  },
+  {
+   "name": "Hokkaido Baked Cheese Tart",
+   "lot": "G1"
+  },
+  {
+   "name": "Flint",
+   "lot": "G41A/G43"
+  },
+  {
+   "name": "Gamaro Chicken & Burger",
+   "lot": "G110"
+  },
+  {
+   "name": "Dae Ga Korean Grill & BBQ",
+   "lot": "146"
+  },
+  {
+   "name": "Padi House",
+   "lot": "141 / 142 / 143"
+  },
+  {
+   "name": "Suki-Ya",
+   "lot": "155 / 156"
+  },
+  {
+   "name": "Suria Food Court",
+   "lot": "148 / 157C"
+  },
+  {
+   "name": "Yishensu",
+   "lot": "144 / 145"
+  },
+  {
+   "name": "The Coffee Bean & Tea Leaf",
+   "lot": "G31"
+  },
+  {
+   "name": "Me'nate Steak Hub",
+   "lot": "G53"
+  },
+  {
+   "name": "Richeese Factory",
+   "lot": "G68A"
+  },
+  {
+   "name": "Kim's Roaster",
+   "lot": "138 / 139"
+  },
+  {
+   "name": "Koppiku",
+   "lot": null
+  },
+  {
+   "name": "Toast Maker",
+   "lot": null
+  },
+  {
+   "name": "Serai",
+   "lot": "G72 / G73 / G74"
+  },
+  {
+   "name": "Kenangan Coffee",
+   "lot": "G94"
+  },
+  {
+   "name": "Happy Potato",
+   "lot": null
+  },
+  {
+   "name": "Empire Sushi",
+   "lot": null
+  },
+  {
+   "name": "Milk & Barley",
+   "lot": null
+  },
+  {
+   "name": "Bingxue",
+   "lot": null
+  },
+  {
+   "name": "BBQ Town",
+   "lot": "G45 / G39D"
+  },
+  {
+   "name": "Gula Cakery",
+   "lot": "G49"
+  },
+  {
+   "name": "Lotteria",
+   "lot": "GZF5 / GZF6"
+  },
+  {
+   "name": "Top Kunafa",
+   "lot": null
+  },
+  {
+   "name": "Thai Charoen",
+   "lot": "152 / 152A"
+  },
+  {
+   "name": "K Bunsik",
+   "lot": "G107"
+  }
+ ]
+}

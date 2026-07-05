@@ -1,0 +1,279 @@
+{
+  "mall": "KB Mall",
+  "directory_url": "https://kbmall.com.my/Directory.html",
+  "count": 38,
+  "summary": {
+    "certified": 17,
+    "review": 8,
+    "uncertified": 13,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Pacific Bakery & Coffee",
+      "lot": "Lot G-888, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "Lot G47, Level G",
+      "status": "review",
+      "myehalal_matches": 25,
+      "cert_holder": "TEAFE (M) SDN BHD"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "Lot G01, Level G",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "KFC",
+      "lot": "Lot G23 & G23A, Level G",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Harold's Bread",
+      "lot": "Lot G25, Level G",
+      "status": "certified",
+      "myehalal_matches": 99,
+      "cert_holder": "HAROLDS BREAD (M) SDN BHD"
+    },
+    {
+      "name": "ChaGee",
+      "lot": "Lot G26, Level G",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "Lot G27 & G28, Level G",
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Lot G29, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "McDonald's",
+      "lot": "Lot G29A & G30, Level G",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Lot G40, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "Lot G43, Level G",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Mexico Taste",
+      "lot": "Lot G43A, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "Lot G53, Level G",
+      "status": "certified",
+      "myehalal_matches": 104,
+      "cert_holder": "TEXAS CHICKEN (MALAYSIA) SDN BHD"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "Lot G55, Level G",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Kopi Kenangan",
+      "lot": "Lot GK02A-F, Level G",
+      "status": "certified",
+      "myehalal_matches": 122,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "GIGI Coffee",
+      "lot": "Lot GK05A, Level G",
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "Sweetly",
+      "lot": "Lot GK08, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Lot GK09, Level G",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Tealive",
+      "lot": "Lot GK10, Level G",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Big Apple Donuts",
+      "lot": "Lot GK11, Level G",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "llaollao",
+      "lot": "Lot GK12/13A, Level G",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "Hot & Rolls",
+      "lot": "Lot GK13, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lot GK15, Level G",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Nasken Coffee",
+      "lot": "Lot GK16, Level G",
+      "status": "certified",
+      "myehalal_matches": 7,
+      "cert_holder": "NASKEN INTERNATIONAL SDN. BHD"
+    },
+    {
+      "name": "Little Tako",
+      "lot": "Lot GK31, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "Lot GK23A, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baked Sweet Potato",
+      "lot": "Lot GK37, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cool Blog",
+      "lot": "Lot GK22, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Lot GK33, Level G",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "Lot GK43, Level G",
+      "status": "review",
+      "myehalal_matches": 70,
+      "cert_holder": "GREY HERON SDN BHD"
+    },
+    {
+      "name": "My Laksa",
+      "lot": "Lot 1K07, Level 1",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "D LAKSA (M) SDN. BHD."
+    },
+    {
+      "name": "McDonald's Ice Cream Kiosk",
+      "lot": "Lot 1K08, Level 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Medan Selera KB",
+      "lot": "Lot 2.01, Level 2",
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "DAYANG ROSNANI BINTI AWG JULI"
+    },
+    {
+      "name": "Mr. Dakgalbi",
+      "lot": "Lot 2.18, Level 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ayam penyet AP",
+      "lot": "Lot 2.16A, Level 2",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "APC AYAM PENYET CORNER"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "Lot 3.01A, Level 3",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Sushi King",
+      "lot": "Lot 3.02/03/03A, Level 3",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "Sugarbomb",
+      "lot": "Lot GK13B, Level G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "mall": "Genting Highlands Premium Outlets",
+  "directory_url": "https://www.premiumoutlets.com.my/genting-highlands-premium-outlets/stores",
+  "count": 34,
+  "summary": {
+    "certified": 7,
+    "review": 10,
+    "uncertified": 17,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Absolute Thai Highlands",
+      "lot": "Suite 1100",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ali, Muthu & Ah Hock Kopitiam",
+      "lot": "Suite 1112",
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "NASI LEMAK GEMPAK SDN BHD"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "Suite 507",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "Suite 1516",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Best Kacang Putih",
+      "lot": "KIOSK – High Street",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BOOST",
+      "lot": "Suite 134",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Burger King",
+      "lot": "Suite 1104",
+      "status": "review",
+      "myehalal_matches": 189,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "Suite 1000",
+      "status": "certified",
+      "myehalal_matches": 161,
+      "cert_holder": "COOLBLOG ENTERPRISE SDN BHD"
+    },
+    {
+      "name": "DubuYo",
+      "lot": "Suite 1108",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "DUBUYO SDN. BHD."
+    },
+    {
+      "name": "DÔME Café",
+      "lot": "Suite 1118",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "DOME CAFE SDN.BHD"
+    },
+    {
+      "name": "Easy Store",
+      "lot": "Unit 1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Suite 639",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "FIDANI Chocolatier",
+      "lot": "Suite 622",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Godiva",
+      "lot": "Suite 708",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Golden Bites",
+      "lot": "Kiosk",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hot & Cold Drinks",
+      "lot": "Unit 6",
+      "status": "review",
+      "myehalal_matches": 5,
+      "cert_holder": "AMVERTON COVE GOLF & ISLAND RESORT SDN BHD"
+    },
+    {
+      "name": "Hot Plate",
+      "lot": "Unit 4",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "ANOR MAJU ENTERPRISE"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "Suite 1110",
+      "status": "certified",
+      "myehalal_matches": 8,
+      "cert_holder": "ZENSHO ICHIBAN MALAYSIA SDN BHD"
+    },
+    {
+      "name": "JR Curry",
+      "lot": "Unit 2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "lot": "Suite 1116",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "Madam Kwan's Select",
+      "lot": "Suite 1518",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "SUEZ TOP VENTURES SDN BHD"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "Unit 9",
+      "status": "certified",
+      "myehalal_matches": 240,
+      "cert_holder": "MARRYBROWN SDN BHD (FORMERLY KNOWN AS MARRYBROWN FRIED CHICKEN SDN BHD)"
+    },
+    {
+      "name": "Nasi Campur & Lauk Lauk",
+      "lot": "Unit 8",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "KAFETERIA SINAR CAHAYA"
+    },
+    {
+      "name": "New Rainbow River Fish Restaurant",
+      "lot": "Suite 1506",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OLDTOWN White Coffee",
+      "lot": "Suite 1502",
+      "status": "review",
+      "myehalal_matches": 108,
+      "cert_holder": "KOPITIAM ASIA PACIFIC SDN BHD"
+    },
+    {
+      "name": "Only Mee",
+      "lot": "Unit 7",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Peranakan Place",
+      "lot": "Suite 1508",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "Suite 422",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Tealive",
+      "lot": "Suite 1514",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Suite 1510",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Suite 638",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf (Location 2)",
+      "lot": "Suite 132",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Grove",
+      "lot": "Suite 204",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Umi Nasi Ayam",
+      "lot": "Unit 5",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

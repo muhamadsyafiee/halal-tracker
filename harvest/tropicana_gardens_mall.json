@@ -1,0 +1,84 @@
+{
+  "mall": "Tropicana Gardens Mall",
+  "directory_url": "https://www.tropicanacorp.com.my/merchant-listing",
+  "method": "ajax_json:getMerchantMobile",
+  "count": 19,
+  "outlets": [
+    {
+      "name": "Chapter One",
+      "lot": null
+    },
+    {
+      "name": "Chuan Yue De Cuisine",
+      "lot": null
+    },
+    {
+      "name": "Cream & Culture",
+      "lot": null
+    },
+    {
+      "name": "Elegant Fine Food",
+      "lot": null
+    },
+    {
+      "name": "Fruit Addicts",
+      "lot": null
+    },
+    {
+      "name": "Gin Shui Tei",
+      "lot": null
+    },
+    {
+      "name": "India Gate Restaurant",
+      "lot": null
+    },
+    {
+      "name": "JWC, The Factory 30",
+      "lot": null
+    },
+    {
+      "name": "MIN Cafe",
+      "lot": null
+    },
+    {
+      "name": "Meltkies",
+      "lot": null
+    },
+    {
+      "name": "QingHeGu Korean Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Shu Guo Yin Xiang Hotpot",
+      "lot": null
+    },
+    {
+      "name": "Sutera Dining",
+      "lot": null
+    },
+    {
+      "name": "Tedboy",
+      "lot": null
+    },
+    {
+      "name": "The Den - Capri by Fraser",
+      "lot": null
+    },
+    {
+      "name": "TheBar",
+      "lot": null
+    },
+    {
+      "name": "Twenty7 Restaurant",
+      "lot": null
+    },
+    {
+      "name": "Yuan Lao Si Hotpot",
+      "lot": null
+    },
+    {
+      "name": "flaaah",
+      "lot": null
+    }
+  ]
+}

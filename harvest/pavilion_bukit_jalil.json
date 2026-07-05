@@ -1,0 +1,656 @@
+{
+  "mall": "Pavilion Bukit Jalil",
+  "directory_url": "https://pavilion-bukitjalil.com/directory",
+  "method": "endpoint",
+  "count": 162,
+  "outlets": [
+    {
+      "name": "11 Bowl",
+      "lot": "5.01.01"
+    },
+    {
+      "name": "A&W",
+      "lot": "1.17.00"
+    },
+    {
+      "name": "An Viet",
+      "lot": "1.21.00"
+    },
+    {
+      "name": "Ant Cave",
+      "lot": "3.113.00 & E3.113.00"
+    },
+    {
+      "name": "Arthur's Storehouse",
+      "lot": "3.110.00, 3.111.00, E3.110.00"
+    },
+    {
+      "name": "Aunt Wu Bone Soup Rice Noodles",
+      "lot": "1.48.00"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "5.88.00"
+    },
+    {
+      "name": "B.O.D 包栈 包点专卖店",
+      "lot": "1.31.00"
+    },
+    {
+      "name": "Bask Bear Supreme",
+      "lot": "1.79.01"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "P3.08.01"
+    },
+    {
+      "name": "BBQ TOWN",
+      "lot": "4.53.00, 4.54.00, 4.56.00"
+    },
+    {
+      "name": "Bear With Mee",
+      "lot": "1.15.00"
+    },
+    {
+      "name": "Bestore",
+      "lot": "3.97.00 Level 3 (Pink Zone)"
+    },
+    {
+      "name": "BEUTEA 茶仙子",
+      "lot": "2.15.00"
+    },
+    {
+      "name": "BHC Chicken",
+      "lot": "L1.50.00"
+    },
+    {
+      "name": "Bold Burger Crispy Chicken",
+      "lot": "4.18.00"
+    },
+    {
+      "name": "Boncafé @ Home",
+      "lot": "P4.19.01"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "P1.12.00"
+    },
+    {
+      "name": "BUKIT JALIL TSUTAYA BOOKS",
+      "lot": "2.88.00 - Lot 2.89.00"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "P1.13.02"
+    },
+    {
+      "name": "Burger & Taco",
+      "lot": "1.66.00"
+    },
+    {
+      "name": "Burger King",
+      "lot": "1.07.00 & 1.08.00"
+    },
+    {
+      "name": "Candy House",
+      "lot": "P1.20.00"
+    },
+    {
+      "name": "Cha B",
+      "lot": "P1.01.00"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "3.78.00"
+    },
+    {
+      "name": "ChaPanda",
+      "lot": "2.75.00"
+    },
+    {
+      "name": "ChaTraMue",
+      "lot": "P1.03.00"
+    },
+    {
+      "name": "ChezChoux",
+      "lot": "P1.11.00"
+    },
+    {
+      "name": "CHICHA San Chen 吃茶三千",
+      "lot": "P1.09.00"
+    },
+    {
+      "name": "CHONGDEE",
+      "lot": "3.37.00"
+    },
+    {
+      "name": "Christine's Bakery",
+      "lot": "3.33.00 & Lot P3.06.01"
+    },
+    {
+      "name": "ChuChat",
+      "lot": "4.15.00"
+    },
+    {
+      "name": "Churros+",
+      "lot": "1.37.01"
+    },
+    {
+      "name": "D'Laksa",
+      "lot": "1.19.00"
+    },
+    {
+      "name": "Dai Cha Dim",
+      "lot": "2.38.00, Lot 2.39.00 & Lot 2.79.00"
+    },
+    {
+      "name": "DELICIEUX COFFEE & FOOD",
+      "lot": "2.66.00"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "1.77.00 & Lot 1.82.00"
+    },
+    {
+      "name": "DOME Café",
+      "lot": "3.46.00, 3.47.00 & E3.46.00"
+    },
+    {
+      "name": "Dragon-i",
+      "lot": "1.35.00"
+    },
+    {
+      "name": "Dubuyo Mini",
+      "lot": "1.10.00"
+    },
+    {
+      "name": "Dunkin'",
+      "lot": "P1.08.00"
+    },
+    {
+      "name": "dáo desserts soymilk & bean curd",
+      "lot": "2.18.00"
+    },
+    {
+      "name": "Eat Pizza",
+      "lot": "1.55.00"
+    },
+    {
+      "name": "Eat Toast",
+      "lot": "5.27.00"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "1.69.01"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "P1.10.01"
+    },
+    {
+      "name": "Food Republic",
+      "lot": "1.16.00"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "P3.12.00, Level 3 (Pink Zone)"
+    },
+    {
+      "name": "Gloria Jean's Coffees",
+      "lot": "4.44.00"
+    },
+    {
+      "name": "Gong cha",
+      "lot": "P1.10.00"
+    },
+    {
+      "name": "Grand Harbour",
+      "lot": "5.86.00, 5.92.00, 5.93.00, 5.94.00 & 5.95.00"
+    },
+    {
+      "name": "Grandmama's - Flavours of Malaysia",
+      "lot": "1.34.00"
+    },
+    {
+      "name": "Haidilao Hotpot",
+      "lot": "5.32.00"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "1.79.01"
+    },
+    {
+      "name": "Healy Mac's Irish Bar & Restaurant",
+      "lot": "3.118.00 & E3.118.00"
+    },
+    {
+      "name": "Huo Long MalaTang",
+      "lot": "1.06.00"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "P2.24.01"
+    },
+    {
+      "name": "I Love Yoo!",
+      "lot": "1.39.00"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "1.44.00"
+    },
+    {
+      "name": "illy Caffè",
+      "lot": "P3.08.00"
+    },
+    {
+      "name": "India Gate",
+      "lot": "1.14.00"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "P3.12.01"
+    },
+    {
+      "name": "Iron House Cafe",
+      "lot": "2.54.00, 2.55.00 & 2.65.00"
+    },
+    {
+      "name": "Jipinhe Scones 吉品合",
+      "lot": "P5.16.00"
+    },
+    {
+      "name": "JO'S CHA",
+      "lot": "P3.13.00"
+    },
+    {
+      "name": "Jollibee",
+      "lot": "1.99.00"
+    },
+    {
+      "name": "Jordan Hong Kong Cafe",
+      "lot": "1.41.00"
+    },
+    {
+      "name": "JP & CO",
+      "lot": "2.25.00 & P2.13.00"
+    },
+    {
+      "name": "Juicy",
+      "lot": "P1.06.02"
+    },
+    {
+      "name": "Khiang",
+      "lot": "1.03.00"
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "1.46.00"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "1.45.00"
+    },
+    {
+      "name": "Kopi Rakyat",
+      "lot": "5.01.02"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts",
+      "lot": "P1.15.02"
+    },
+    {
+      "name": "Kyochon 1991",
+      "lot": "3.109.01 & E3.109.01"
+    },
+    {
+      "name": "Lavender",
+      "lot": "1.42.00"
+    },
+    {
+      "name": "Lee’s Signature Fish",
+      "lot": "5.39.00 & 5.40.00"
+    },
+    {
+      "name": "llaollao",
+      "lot": "P1.07.00"
+    },
+    {
+      "name": "LONGJING 绿茶餐厅",
+      "lot": "2.31.00"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "3.18.00"
+    },
+    {
+      "name": "Madam Kwan's",
+      "lot": "1.43.00 & Lot 1.67.00"
+    },
+    {
+      "name": "Manjoe",
+      "lot": "1.20.00"
+    },
+    {
+      "name": "MBG Fruit Shop",
+      "lot": "1.53.00"
+    },
+    {
+      "name": "MEE HIRIS CHINA MUSLIM",
+      "lot": "1.12.00"
+    },
+    {
+      "name": "Meng Meng Roasted Duck",
+      "lot": "3.98.00 & 3.108.00"
+    },
+    {
+      "name": "MIAO",
+      "lot": "3.38.00"
+    },
+    {
+      "name": "Mitsuyado Seimen",
+      "lot": "1.68.00"
+    },
+    {
+      "name": "Mo-Mo-Paradise",
+      "lot": "3.81.00"
+    },
+    {
+      "name": "MOIM",
+      "lot": "3.25.00"
+    },
+    {
+      "name": "Molten Chocolate Café",
+      "lot": "5.50.00 & Lot E5.50.00"
+    },
+    {
+      "name": "Moonlight Cake House & Café",
+      "lot": "1.30.00"
+    },
+    {
+      "name": "More Yogurt",
+      "lot": "1.56.00"
+    },
+    {
+      "name": "Mr.Dakgalbi",
+      "lot": "1.15.01"
+    },
+    {
+      "name": "myEureka Snack",
+      "lot": "P1.15.01"
+    },
+    {
+      "name": "Nabe Hotpot & Sukiyaki",
+      "lot": "3.63.00 & 3.53.00"
+    },
+    {
+      "name": "Nando's",
+      "lot": "1.91.00"
+    },
+    {
+      "name": "Nanyang Café",
+      "lot": "1.52.00 & Lot P1.21.00"
+    },
+    {
+      "name": "Naughty Babe Dirty Duck",
+      "lot": "3.85 & 3.115"
+    },
+    {
+      "name": "Ningji",
+      "lot": "P3.05.00"
+    },
+    {
+      "name": "Nong Geng Ji Hunan Cuisine 农耕记湖南菜",
+      "lot": "1.28.00"
+    },
+    {
+      "name": "Oloiya 我来也",
+      "lot": "1.38.00"
+    },
+    {
+      "name": "Omega Pork Noodle",
+      "lot": "1.83.00"
+    },
+    {
+      "name": "Oriental Kopi 华阳",
+      "lot": "1.22.00 & Lot 1.23.00"
+    },
+    {
+      "name": "Palsaik Korean BBQ",
+      "lot": "1.51.00"
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "3.86.00 & P3.09.00"
+    },
+    {
+      "name": "Park's Bagels",
+      "lot": "4.45.00"
+    },
+    {
+      "name": "POBBYICE",
+      "lot": "P1.16.01"
+    },
+    {
+      "name": "PUTIEN",
+      "lot": "5.87.00"
+    },
+    {
+      "name": "Que Tang Yu Fang",
+      "lot": "2.07.00"
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": "1.26.00"
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "P1.04.00"
+    },
+    {
+      "name": "ROYCE'",
+      "lot": "P1.19.00"
+    },
+    {
+      "name": "Samy & Min Bak Kut Teh",
+      "lot": "1.27.00"
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "3.107.00 & Lot E3.107.0 Level 3 (Pink Zone)"
+    },
+    {
+      "name": "Seniman",
+      "lot": "4.31.00"
+    },
+    {
+      "name": "Shangogo 山沟沟里的粉",
+      "lot": "1.33.00"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "1.32.00"
+    },
+    {
+      "name": "SI SI NAN CUN",
+      "lot": "3.104.00"
+    },
+    {
+      "name": "Simple Life",
+      "lot": "1.18.00"
+    },
+    {
+      "name": "Siong Tong Gai Restaurant",
+      "lot": "5.100.00 & 5.100.01"
+    },
+    {
+      "name": "SOULed OUT",
+      "lot": "3.112.00 & E3.112.00"
+    },
+    {
+      "name": "SOUR LITTLE 7 酸小7",
+      "lot": "1.05.00"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "1.45.00"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "3.114.00 & Lot E3.114.00"
+    },
+    {
+      "name": "Sticky",
+      "lot": "1.62.00"
+    },
+    {
+      "name": "Subway",
+      "lot": "1.40.00"
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "5.41.00, Lot 5.42.00 & Lot 5.79.00"
+    },
+    {
+      "name": "Sukiya Tokyo Bowls & Noodles",
+      "lot": "1.11.00"
+    },
+    {
+      "name": "Super Kitchen Chilli Pan Mee",
+      "lot": "1.25.00"
+    },
+    {
+      "name": "Sushi Jiro",
+      "lot": "1.49.00"
+    },
+    {
+      "name": "Sushi Koi",
+      "lot": "2.36.00, 2.37.00 & 2.80.00"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "5.54.00 & Lot 5.55.00"
+    },
+    {
+      "name": "Tang Xiao Man",
+      "lot": "P1.19.01"
+    },
+    {
+      "name": "Tea Expert",
+      "lot": "5.73.00"
+    },
+    {
+      "name": "Tealive PLUS",
+      "lot": "P1.14.00"
+    },
+    {
+      "name": "teazzi",
+      "lot": "2.63.00"
+    },
+    {
+      "name": "TGI Fridays™",
+      "lot": "3.119.00"
+    },
+    {
+      "name": "The Alley",
+      "lot": "3.117.00 & E3.177.00"
+    },
+    {
+      "name": "The Chamber",
+      "lot": "3.32.00 & E3.32.00"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "1.09.00"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "2.44.00"
+    },
+    {
+      "name": "THE EIGHT",
+      "lot": "1.24.00"
+    },
+    {
+      "name": "The Grass",
+      "lot": "4.28.01"
+    },
+    {
+      "name": "The Roasted Gong Pear",
+      "lot": "P1.18.00, Level 1 (Orange Zone)"
+    },
+    {
+      "name": "The Travelling Duck",
+      "lot": "1.36.00"
+    },
+    {
+      "name": "Tonkatsu by Ma Maison",
+      "lot": "3.122.00 & 3.123.00"
+    },
+    {
+      "name": "Torii Teppanyaki",
+      "lot": "1.13.00"
+    },
+    {
+      "name": "Uncle Luo",
+      "lot": "1.04.00"
+    },
+    {
+      "name": "Vanilla Mille Crepe",
+      "lot": "P1.13.01"
+    },
+    {
+      "name": "Verrona Hills Bread & Patisserie",
+      "lot": "2.45.00, 2.46.00, 2.72.00"
+    },
+    {
+      "name": "Waffle Hut",
+      "lot": "5.01.03"
+    },
+    {
+      "name": "XiangNan QingWei",
+      "lot": "3.54.00, 3.55.00 & 3.62.00"
+    },
+    {
+      "name": "Yam Fresh",
+      "lot": "3.36.00"
+    },
+    {
+      "name": "YANG’S",
+      "lot": "5.26.00"
+    },
+    {
+      "name": "Yee3",
+      "lot": "P3.01.00"
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "2.46.01"
+    },
+    {
+      "name": "YOMIES RICE X YOGURT",
+      "lot": "P1.16.02"
+    },
+    {
+      "name": "Young Sanna Mee",
+      "lot": "1.100.00"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "5.35.00"
+    },
+    {
+      "name": "Zui Ma Tou Hot Pot 醉码头",
+      "lot": "4.87.00"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "P1.05.00"
+    },
+    {
+      "name": "真功夫好饮 Real Kungfu GD",
+      "lot": "1.57.00"
+    }
+  ]
+}

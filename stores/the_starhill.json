@@ -1,0 +1,97 @@
+{
+  "mall": "The Starhill",
+  "directory_url": "https://thestarhill.com.my/pages/shop-directory",
+  "count": 12,
+  "summary": {
+    "certified": 0,
+    "review": 0,
+    "uncertified": 12,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Cafe Marais",
+      "lot": "G",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Jogoya",
+      "lot": "LG05",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Luk Yu Tea House",
+      "lot": "LG03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MüRO",
+      "lot": "LG08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Okaju Japanese Grill",
+      "lot": "G30-31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Opera Cafe",
+      "lot": "G29(A) & G(B)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rue de Paris Café",
+      "lot": "UG31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shook!",
+      "lot": "LG01 & LG02",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tarbush",
+      "lot": "LG06-07",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Alchemy",
+      "lot": "LG09",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chamber",
+      "lot": "UG26-28",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "XUYAN 叙宴",
+      "lot": "G01 – G02 - G32",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

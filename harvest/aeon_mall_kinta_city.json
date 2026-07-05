@@ -1,0 +1,120 @@
+{
+  "mall": "AEON Mall Kinta City",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-kinta-city",
+  "method": "html",
+  "count": 28,
+  "outlets": [
+    {
+      "name": "HOCKHUA TONIC",
+      "lot": "G01&G45"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "G02"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "G18"
+    },
+    {
+      "name": "JOHNNY’S RESTAURANT",
+      "lot": "G19"
+    },
+    {
+      "name": "SHIHLIN TAIWAN STREET SNACKS",
+      "lot": "G20"
+    },
+    {
+      "name": "ICHIBAN RAMEN",
+      "lot": "G25"
+    },
+    {
+      "name": "VIVO AMERICAN PIZZA & PANINI",
+      "lot": "G26"
+    },
+    {
+      "name": "THE COFFEE BEAN & TEA LEAF",
+      "lot": "G33"
+    },
+    {
+      "name": "BLACK CANYON",
+      "lot": "G29"
+    },
+    {
+      "name": "EU YAN SANG",
+      "lot": "G35"
+    },
+    {
+      "name": "AUNTIE ANNE&#039;S",
+      "lot": "G36"
+    },
+    {
+      "name": "EMPIRE SUSHI",
+      "lot": "G37"
+    },
+    {
+      "name": "LEGEND OF TEA",
+      "lot": "G38"
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "G42"
+    },
+    {
+      "name": "RESTAURANT TING HAO",
+      "lot": "F52"
+    },
+    {
+      "name": "KINTA VILLAGE",
+      "lot": "F57"
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "F61"
+    },
+    {
+      "name": "SECRET RECIPE",
+      "lot": "F62"
+    },
+    {
+      "name": "llaollao",
+      "lot": "G41"
+    },
+    {
+      "name": "BURGER KING",
+      "lot": "G27 & G28"
+    },
+    {
+      "name": "KRISPY KREME",
+      "lot": "G48"
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "F65"
+    },
+    {
+      "name": "SUKIYA",
+      "lot": "G16"
+    },
+    {
+      "name": "SEOUL GARDEN",
+      "lot": "G21 & G22"
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "GK01"
+    },
+    {
+      "name": "RICHEESE FACTORY",
+      "lot": "G17"
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "KF-02"
+    },
+    {
+      "name": "BAHULU PERAK",
+      "lot": "F48"
+    }
+  ]
+}

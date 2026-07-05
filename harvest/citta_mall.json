@@ -1,0 +1,192 @@
+{
+  "mall": "Citta Mall",
+  "directory_url": "https://citta.com.my/listings/",
+  "method": "curl_html_pagination",
+  "count": 46,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "G-10 (Ground Floor)"
+    },
+    {
+      "name": "Ayee Southern Thai Fried Chicken",
+      "lot": "G-32 (Ground Floor)"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G-20 & G-A20 (Ground Floor)"
+    },
+    {
+      "name": "BBQ Town",
+      "lot": "G-46 & G-A46 (Ground Floor)"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G-K10 (Ground Floor)"
+    },
+    {
+      "name": "Breadstory",
+      "lot": "LG-K01 (Lower Ground)"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "G31 (Ground Floor)"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "G-15 (Ground Floor)"
+    },
+    {
+      "name": "Chili’s",
+      "lot": "G-01 (Ground Floor)"
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": "G-K02 (Ground Floor)"
+    },
+    {
+      "name": "Deli Wau",
+      "lot": "G-47 & G-A47 (Ground Floor)"
+    },
+    {
+      "name": "ec eato",
+      "lot": "LG-12 (Lower Ground)"
+    },
+    {
+      "name": "FruitLab",
+      "lot": "G-K03 (Ground Floor)"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "G-K05 (Ground Floor)"
+    },
+    {
+      "name": "Iyakimono",
+      "lot": "G-K06 (Ground Floor)"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "G-K15 (Ground Floor)"
+    },
+    {
+      "name": "LÈTEN",
+      "lot": "G-17 (Ground Floor)"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "G-25 (Ground Floor)"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "LG-K03A (Lower Ground)"
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "G-33 (Ground Floor)"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "G-43 (Ground Floor)"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "G-41 (Ground Floor)"
+    },
+    {
+      "name": "Mie Ayam Bakso Bogor",
+      "lot": "G-K02A (Ground Floor)"
+    },
+    {
+      "name": "Mixue",
+      "lot": "G-K07C (Ground Floor)"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "G-13A (Ground Floor)"
+    },
+    {
+      "name": "Onde Onde",
+      "lot": "G-49 (Ground Floor)"
+    },
+    {
+      "name": "Original Penang Kayu Nasi Kandar",
+      "lot": "G-12, G-13, G-A12 & G-A13 (Ground Floor)"
+    },
+    {
+      "name": "Para Thai",
+      "lot": "G-18 & G-19 (Ground Floor)"
+    },
+    {
+      "name": "Ramen Seirock-ya",
+      "lot": "G-45 & G-A45 (Ground Floor)"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G-35 (Ground Floor)"
+    },
+    {
+      "name": "Secret Recipe (Hokkaido Baked Cheese Tart)",
+      "lot": "G-36 (Ground Floor)"
+    },
+    {
+      "name": "So Juice",
+      "lot": "G-K18 (Ground Floor)"
+    },
+    {
+      "name": "Sopoong",
+      "lot": "G-40 (Ground Floor)"
+    },
+    {
+      "name": "Stuff’d",
+      "lot": "G-16 & 16A (Ground Floor)"
+    },
+    {
+      "name": "Subway",
+      "lot": "G-06 & G-A06 (Ground Floor)"
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "G-03, G-03A & G-05 (Ground Floor)"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "G-30 (Ground Floor)"
+    },
+    {
+      "name": "Tealive",
+      "lot": "G-K08 (Ground Floor)"
+    },
+    {
+      "name": "The Barn",
+      "lot": "G-07- G-09 (Ground Floor)"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G-39 (Ground Floor)"
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "G-K12 & G-K13 (Ground Floor)"
+    },
+    {
+      "name": "Union Roastery",
+      "lot": "G-11 (Ground Floor)"
+    },
+    {
+      "name": "US Pizza",
+      "lot": "G-K01 (Ground Floor)"
+    },
+    {
+      "name": "Waroeng",
+      "lot": "F-10 (First Floor)"
+    },
+    {
+      "name": "YiPinLao Hot Pot BBQ",
+      "lot": "G-42A & G-42B (Ground Floor)"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "G-48 - G-48A (Ground Floor)"
+    }
+  ]
+}

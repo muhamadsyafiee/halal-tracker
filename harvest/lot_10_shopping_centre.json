@@ -1,0 +1,108 @@
+{
+  "mall": "Lot 10 Shopping Centre",
+  "directory_url": "https://lot10.com.my/pages/directory",
+  "method": "html",
+  "count": 25,
+  "outlets": [
+    {
+      "name": "Auntea Jenny 沪上阿姨",
+      "lot": "LCT/T4"
+    },
+    {
+      "name": "Beryl's",
+      "lot": "G3"
+    },
+    {
+      "name": "Cinnabon",
+      "lot": "G22"
+    },
+    {
+      "name": "D.MasKing",
+      "lot": "H20"
+    },
+    {
+      "name": "Durian BB",
+      "lot": "T23"
+    },
+    {
+      "name": "GENKI SUSHI",
+      "lot": "F2 - F5"
+    },
+    {
+      "name": "Japan Rail Cafe",
+      "lot": "P14"
+    },
+    {
+      "name": "Japan Rail Dining",
+      "lot": "P1-P15, P20-P21"
+    },
+    {
+      "name": "Jipinhe Scones",
+      "lot": "LTC / T6, Bintang Terrace"
+    },
+    {
+      "name": "Kuafood Fried Chuan",
+      "lot": "LTC / T5"
+    },
+    {
+      "name": "Kung Fu Panda Tea",
+      "lot": "LTC/T8"
+    },
+    {
+      "name": "Koppiku",
+      "lot": "G19"
+    },
+    {
+      "name": "Lot 10 Hutong",
+      "lot": "Level LG"
+    },
+    {
+      "name": "Machi Machi",
+      "lot": "G12"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "G4"
+    },
+    {
+      "name": "Mee Tarik Muslim",
+      "lot": "T3(B)"
+    },
+    {
+      "name": "Molten Chocolate Cafe",
+      "lot": "LTC/T3(A)"
+    },
+    {
+      "name": "MMM cafe by Lesim",
+      "lot": "LTC/T9 & LTC/T10"
+    },
+    {
+      "name": "Sideways Noodles (Coming Soon)",
+      "lot": "T7"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "F27 & F28"
+    },
+    {
+      "name": "The Optimist Coffee",
+      "lot": "SE1"
+    },
+    {
+      "name": "The Story of Wharf 碼頭故事",
+      "lot": "R1"
+    },
+    {
+      "name": "The Table",
+      "lot": "Lot 10"
+    },
+    {
+      "name": "YOMARO",
+      "lot": "G22"
+    },
+    {
+      "name": "32 Parfait",
+      "lot": "G12"
+    }
+  ]
+}

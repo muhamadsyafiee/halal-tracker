@@ -1,0 +1,132 @@
+{
+  "mall": "AEON Seremban 2",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-seremban-2",
+  "method": "html",
+  "count": 31,
+  "outlets": [
+    {
+      "name": "LAC Nutrition for Life",
+      "lot": "G33"
+    },
+    {
+      "name": "OLD TOWN WHITE COFFEE",
+      "lot": "G37"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "G38"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G39"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "G40"
+    },
+    {
+      "name": "Johnny&#039;s Restaurant",
+      "lot": "G42"
+    },
+    {
+      "name": "KFC",
+      "lot": "G45"
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "G46"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "G47"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G48"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G49 & G50"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snack",
+      "lot": "G53"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G55"
+    },
+    {
+      "name": "Pappa Roti",
+      "lot": "G57"
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "G58"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "G59"
+    },
+    {
+      "name": "Purple Cane",
+      "lot": "G60"
+    },
+    {
+      "name": "Subway",
+      "lot": "G61"
+    },
+    {
+      "name": "Big Apple Donuts & Coffee",
+      "lot": "G62"
+    },
+    {
+      "name": "Auntie Anne",
+      "lot": "G66"
+    },
+    {
+      "name": "llaollao",
+      "lot": "KF2"
+    },
+    {
+      "name": "FAMOUS AMOS",
+      "lot": "KF1"
+    },
+    {
+      "name": "MCDONALD&#039;S",
+      "lot": "G43"
+    },
+    {
+      "name": "POP MEALS",
+      "lot": "G41"
+    },
+    {
+      "name": "GIGI COFFEE",
+      "lot": "KF8"
+    },
+    {
+      "name": "HONG KONG KIM GARY RESTAURANT",
+      "lot": "G51"
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "KF6"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "G63"
+    },
+    {
+      "name": "GONG CHA",
+      "lot": "KF5"
+    },
+    {
+      "name": "KRISPY KREME",
+      "lot": "GK1"
+    },
+    {
+      "name": "BANANABRO",
+      "lot": "G52"
+    }
+  ]
+}

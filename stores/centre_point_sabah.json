@@ -1,0 +1,475 @@
+{
+  "mall": "Centre Point Sabah",
+  "directory_url": "https://centrepointsabah.com/stores-map/",
+  "count": 66,
+  "summary": {
+    "certified": 8,
+    "review": 12,
+    "uncertified": 46,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "1 SOTO MAKASSAR ASLI",
+      "lot": "S8 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ATUKUUPI",
+      "lot": "S26C BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BBQ CHICKEN (KOREA FRIED CHICKEN)",
+      "lot": "E16B A2 FIFTH FLOOR",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "GENESIS BBQ CHICKEN (M) SDN. BHD."
+    },
+    {
+      "name": "Big Old Brother Fast Food",
+      "lot": "S20 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BING CHUN DELIGHT SDN BHD",
+      "lot": "BF P1 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bonda Fareez Cafe",
+      "lot": "D14 THIRD FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "COOL CITY",
+      "lot": "P43 FOURTH FLOOR",
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "COOLBLOG ENTERPRISE SDN BHD"
+    },
+    {
+      "name": "COOLBLOG",
+      "lot": "BF 1A BASEMENT",
+      "status": "certified",
+      "myehalal_matches": 161,
+      "cert_holder": "COOLBLOG ENTERPRISE SDN BHD"
+    },
+    {
+      "name": "CREPE EXPRESS",
+      "lot": "BF4A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "CREPE N WAFFLE",
+      "lot": "L4A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "CRISPY KAMPUNG",
+      "lot": "BF 3A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DAPUR ABANG J",
+      "lot": "D18 THIRD FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DAYA SQUID",
+      "lot": "K3 FOURTH FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "EASY FRESH FRUITS",
+      "lot": "S28B BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Efira Cafe & Catering",
+      "lot": "S39 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GEN-Y ELEVEN",
+      "lot": "L3B BASEMENT",
+      "status": "review",
+      "myehalal_matches": 67,
+      "cert_holder": "EQUAL SIGN SDN.BHD. (SCAPES HOTEL GENTING HIGHLANDS)"
+    },
+    {
+      "name": "GO GO TEA",
+      "lot": "S28A BASEMENT",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Golden Fish",
+      "lot": "B50 A SECOND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HAPPY POTATO",
+      "lot": "PF6A FOURTH FLOOR",
+      "status": "certified",
+      "myehalal_matches": 22,
+      "cert_holder": "HAPPY POTATO VENTURES SDN BHD"
+    },
+    {
+      "name": "JENG HOMEMADE",
+      "lot": "B45 A SECOND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "JJ GOLDEN FISH",
+      "lot": "1FD FIRST FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "JOLLIBEE",
+      "lot": "G75A C GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ka Hon Wei Restaurant",
+      "lot": "S25 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kedai Makan Islamic Restoran",
+      "lot": "S40 S41 BASEMENT",
+      "status": "certified",
+      "myehalal_matches": 9,
+      "cert_holder": "KEDAI MAKAN ANAK DESA"
+    },
+    {
+      "name": "Kinabalu Fried Chicken",
+      "lot": "S11 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KINCHAI BOUTIQUE CAFE",
+      "lot": "B66 SECOND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KOTA KINABALU CITY",
+      "lot": "S8 BASEMENT",
+      "status": "certified",
+      "myehalal_matches": 6,
+      "cert_holder": "MERCURE KOTA KINABALU CITY CENTRE"
+    },
+    {
+      "name": "KUNG FU LA MIAN",
+      "lot": "S10 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Manisa Cafe",
+      "lot": "S37 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "L5 L8 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "METTING U (HAPPY NIKO)",
+      "lot": "2FE SECOND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "NASI ANJE 1",
+      "lot": "S13 S14 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nasi Ayam CPS",
+      "lot": "S22 S23 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 22,
+      "cert_holder": "NASI AYAM CHEE MENG"
+    },
+    {
+      "name": "NASI AYAM PENYET STATION",
+      "lot": "S12 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 22,
+      "cert_holder": "NASI AYAM CHEE MENG"
+    },
+    {
+      "name": "Nelta Cafe & Catering",
+      "lot": "S9 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ONE MOREEE",
+      "lot": "L10 B BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OSBEL",
+      "lot": "L9 B1 B2 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PAK KOPI 1969 CENTRE POINT",
+      "lot": "BF 2A BASEMENT",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "PAK LI KOPITIAM SDN BHD"
+    },
+    {
+      "name": "PAKZO",
+      "lot": "S16 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Palm Cafe",
+      "lot": "P32A C FOURTH FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PAPA’S",
+      "lot": "S30 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "PAPASTORY SDN BHD"
+    },
+    {
+      "name": "PEZZO PIZZA",
+      "lot": "L10 A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Plus One",
+      "lot": "S21 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "PURE TAY MILO",
+      "lot": "K2 FOURTH FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "QC FACTORY CONCEPT",
+      "lot": "A64 FIRST FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "QCC BAKED",
+      "lot": "GF6B GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "RASA DAMASCUS",
+      "lot": "S26A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KFC",
+      "lot": "S17 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "RFC",
+      "lot": "G26 GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ROBERT T",
+      "lot": "1FH FIRST FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "P22 P23 FOURTH FLOOR",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "SQ Delight",
+      "lot": "D58 THIRD FLOOR",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "P37 FOURTH FLOOR",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "SUBWAY",
+      "lot": "S1 BASEMENT",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "SUGAR LIPS",
+      "lot": "P9L10 C BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SUGARBUN",
+      "lot": "S1 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Super Faezah Cafeteria",
+      "lot": "S38 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sushi King",
+      "lot": "P32B FOURTH FLOOR",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "SUSHI PANDA",
+      "lot": "G5 GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sweet Centre",
+      "lot": "S27 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TEA TWISTER/TEA PUSING",
+      "lot": "G76 L3 GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "THE SNACK HOUSE",
+      "lot": "L3A BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "UNCLE BOB",
+      "lot": "S34 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Wan Chai Food Corner",
+      "lot": "S24 BASEMENT",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YOYO CAFE",
+      "lot": "G51 GROUND FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YULK KREPEK",
+      "lot": "K4 FOURTH FLOOR",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    }
+  ]
+}

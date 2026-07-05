@@ -1,0 +1,360 @@
+{
+  "mall": "The Gardens Mall",
+  "directory_url": "https://www.thegardensmall.com.my/stores",
+  "method": "stores/stores/get-stores-for-modal (POST id) + /stores?per_page=<offset> pagination",
+  "count": 88,
+  "outlets": [
+    {
+      "name": "% ARABICA (Coming Soon)",
+      "lot": "F-K01"
+    },
+    {
+      "name": "Absolute Thai Gardens",
+      "lot": "T-219, 3rd Floor"
+    },
+    {
+      "name": "Alexis",
+      "lot": "F-209 & 209A, 1st Floor"
+    },
+    {
+      "name": "BananaBro",
+      "lot": "LG-243B, Lower Ground Floor"
+    },
+    {
+      "name": "Barcook",
+      "lot": "LG-225, Lower Ground Floor"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "S-K01, 2nd Floor"
+    },
+    {
+      "name": "Beauty In The Pot",
+      "lot": "Lot T-201B, 3rd Floor"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "LG-221, Lower Ground Floor"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "T-K02, 3rd Floor"
+    },
+    {
+      "name": "BreadStory",
+      "lot": "LG-212, Lower Ground Floor"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "LG-K23"
+    },
+    {
+      "name": "Canton-i (Under Renovations)",
+      "lot": "LG-202 & 203A, Lower Ground Floor"
+    },
+    {
+      "name": "cha:coal (Coming Soon)",
+      "lot": "T-216D, 3rd Floor"
+    },
+    {
+      "name": "Chagee",
+      "lot": "T-K01, 3rd Floor"
+    },
+    {
+      "name": "Chicken Claypot House",
+      "lot": "LG-233, Lower Ground Floor"
+    },
+    {
+      "name": "Chonky Cookies",
+      "lot": "LG-K03, Lower Ground Floor."
+    },
+    {
+      "name": "Coliseum",
+      "lot": "LG-216, Lower Ground Floor"
+    },
+    {
+      "name": "Delectable Treats",
+      "lot": "LG-K25B, Lower Ground Floor"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "LG-207 & 208, Lower Ground Floor"
+    },
+    {
+      "name": "DOME Cafe",
+      "lot": "F-237B & 238"
+    },
+    {
+      "name": "DOME Cafe (F-K05)",
+      "lot": "F-K05"
+    },
+    {
+      "name": "Eggette Lab",
+      "lot": "LG-K08A, Lower Ground Floor"
+    },
+    {
+      "name": "Eight Ounce Coffee",
+      "lot": "F-K06, 1st Floor"
+    },
+    {
+      "name": "Eight Ounce Coffee (Coming Soon)",
+      "lot": "F-226C, 1st Floor"
+    },
+    {
+      "name": "Fong Lye Coffee Tea House",
+      "lot": "T-208, 3rd Floor"
+    },
+    {
+      "name": "Genki Sushi",
+      "lot": "LG-232A, Lower Ground Floor"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "LG-C9, Lower Ground Floor"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "S-238B, 2nd Floor"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LG-K09A, Lower Ground Floor"
+    },
+    {
+      "name": "Hock Kee Heritage",
+      "lot": "Lot S-226B, 2nd Floor"
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "S-213, 2nd Floor"
+    },
+    {
+      "name": "I Love YOO!",
+      "lot": "LG-K06, Lower Ground Floor"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "LG-K22, Lower Ground Floor"
+    },
+    {
+      "name": "IPPUDO | MAiSEN",
+      "lot": "T-217 & 218, 3rd Floor"
+    },
+    {
+      "name": "KGB - Killer Gourmet Burgers",
+      "lot": "LG-232B, Lower Ground Floor"
+    },
+    {
+      "name": "Ko Hyang",
+      "lot": "Lot LG-236A&B, Lower Ground Floor"
+    },
+    {
+      "name": "KOI Thé",
+      "lot": "LG-211, Lower Ground Floor"
+    },
+    {
+      "name": "Kubis & Kale",
+      "lot": "Lot LG-201A&B, Lower Ground Floor"
+    },
+    {
+      "name": "Llaollao",
+      "lot": "LG-K19, Lower Ground Floor"
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": "LG-K01, Lower Ground Floor"
+    },
+    {
+      "name": "LÄDERACH",
+      "lot": "G-211 & 248"
+    },
+    {
+      "name": "Machi Machi",
+      "lot": "LG-226, Lower Ground Floor"
+    },
+    {
+      "name": "ManJoe",
+      "lot": "T-235, 3rd Floor"
+    },
+    {
+      "name": "MARCO",
+      "lot": "T-206, 3rd Floor"
+    },
+    {
+      "name": "Monster Curry & Café モンスターカレー",
+      "lot": "LG-231B, Lower Ground Floor"
+    },
+    {
+      "name": "Mr. Tuk Tuk",
+      "lot": "LG-243A, Lower Ground Floor"
+    },
+    {
+      "name": "Nadeje",
+      "lot": "LG-227, Lower Ground Floor"
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "LG-230A, Lower Ground Floor"
+    },
+    {
+      "name": "Padi House",
+      "lot": "T-237 A&B, 3rd Floor"
+    },
+    {
+      "name": "Penang Flavours",
+      "lot": "Lot LG-235, Lower Ground Floor"
+    },
+    {
+      "name": "Pulau Ketam Yong Tau Foo",
+      "lot": "LG-K07, Lower Ground Floor"
+    },
+    {
+      "name": "Purple Cane Tea Cuisine",
+      "lot": "LG-206, Lower Ground Floor"
+    },
+    {
+      "name": "PUTIEN",
+      "lot": "S-215, 2nd Floor"
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "T-201A, 3rd Floor"
+    },
+    {
+      "name": "Red Kettle",
+      "lot": "G-250A, Ground Floor"
+    },
+    {
+      "name": "Rich Kopitiam",
+      "lot": "LG-228 & 228A, Lower Ground Floor"
+    },
+    {
+      "name": "ROCKU Yakiniku",
+      "lot": "S-209, 2nd Floor"
+    },
+    {
+      "name": "Royce",
+      "lot": "LG-K25A, Lower Ground Floor"
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "LG-239, Lower Ground Floor"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "LG-K05, Lower Ground Floor"
+    },
+    {
+      "name": "Shojikiya & Sushi Zanmai",
+      "lot": "LG-240 & 241A, Lower Ground Floor"
+    },
+    {
+      "name": "Shucked",
+      "lot": "T-218A, 3rd Floor"
+    },
+    {
+      "name": "SNITCH By The Thieves",
+      "lot": "T-225 A&B, 3rd Floor"
+    },
+    {
+      "name": "SOU'S KITCHEN",
+      "lot": "G-247, Ground Floor"
+    },
+    {
+      "name": "Soyya",
+      "lot": "LG-K28, Lower Ground Floor"
+    },
+    {
+      "name": "SUSHI JIRO",
+      "lot": "Lot LG-K02, Lower Ground Floor"
+    },
+    {
+      "name": "SUSHIHAN",
+      "lot": "LG-210, Lower Ground Floor"
+    },
+    {
+      "name": "Tapestry",
+      "lot": "F-247, 1st Floor"
+    },
+    {
+      "name": "Tealive Plus",
+      "lot": "LG-K09B, Lower Ground Floor"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-213 , Lower Ground Floor"
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "LG-223, Lower Ground Floor"
+    },
+    {
+      "name": "The Han Room",
+      "lot": "T-216A, 3rd Floor"
+    },
+    {
+      "name": "Tofu G (Coming Soon)",
+      "lot": "LG-237B"
+    },
+    {
+      "name": "TWG Tea",
+      "lot": "G-233A, Ground Floor"
+    },
+    {
+      "name": "UPEH",
+      "lot": "LG-230B, Lower Ground Floor"
+    },
+    {
+      "name": "Venchi",
+      "lot": "G-235, Ground Floor"
+    },
+    {
+      "name": "Verrona Hills Bread & Pâtisserie (Coming Soon)",
+      "lot": "LG-217, Lower Ground"
+    },
+    {
+      "name": "Village Roast Duck",
+      "lot": "LG-205, Lower Ground Floor"
+    },
+    {
+      "name": "Wagyu More",
+      "lot": "T-216B, 3rd Floor"
+    },
+    {
+      "name": "YAYOI",
+      "lot": "LG – 231C, Lower Ground Floor"
+    },
+    {
+      "name": "yewyewkl / MOGU Yakiniku",
+      "lot": "LG-231A, Lower Ground Floor"
+    },
+    {
+      "name": "Yomie's Rice X Yogurt",
+      "lot": "LG-K08B, Lower Ground Floor"
+    },
+    {
+      "name": "Yong Sheng",
+      "lot": "LG-K27, Lower Ground Floor"
+    },
+    {
+      "name": "Yoursnackies Desserts (Coming Soon)",
+      "lot": "LG-K03, Lower Ground"
+    },
+    {
+      "name": "YU By Oriental Group",
+      "lot": "Lot G-243, Ground Floor"
+    },
+    {
+      "name": "Yuzu Japanese Restaurant",
+      "lot": "T-236, 3rd Floor"
+    },
+    {
+      "name": "ZUS Signature Coffee (Coming Soon)",
+      "lot": "G-249, Ground Floor"
+    },
+    {
+      "name": "Ăn Viet",
+      "lot": "LG-203B, Lower Ground Floor"
+    }
+  ]
+}

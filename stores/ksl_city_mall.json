@@ -1,0 +1,272 @@
+{
+  "mall": "KSL City Mall",
+  "directory_url": "https://www.kslcity.com.my/shops",
+  "count": 37,
+  "summary": {
+    "certified": 7,
+    "review": 3,
+    "uncertified": 27,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Meng Meng Roasted Duck",
+      "lot": "L2-132 C",
+      "status": "certified",
+      "myehalal_matches": 14,
+      "cert_holder": "KWAN YOKE MENG"
+    },
+    {
+      "name": "Khun Thai Tea",
+      "lot": "G-S03A-2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Uncle Five Coffee",
+      "lot": "LG-038",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "LG-047, 048, 046",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Boost Juice Bar",
+      "lot": "LG-TC36",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yew Kok Ann Herbal",
+      "lot": "L2-132A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "llao llao.",
+      "lot": "LG-030",
+      "status": "review",
+      "myehalal_matches": 133,
+      "cert_holder": "PETRA EMPIRE SDN BHD"
+    },
+    {
+      "name": "COCA CONUT",
+      "lot": "LG-30A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "COLD STONE CREAMERY",
+      "lot": "G-K01, K02",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MR SOTONG 鱿鱼先生",
+      "lot": "G-B6-B&C",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "OLD CHANG KEE",
+      "lot": "LG-DF-07",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "wang ji bah kut teh",
+      "lot": "L1-98",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "D’PENYETZ",
+      "lot": "L1-97",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Weng Lok Kee Bakery",
+      "lot": "LG-DF06",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Moonlight Cake House",
+      "lot": "LG-43",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "MOONLIGHT CAKE HOUSE (EAST COAST) SDN. BHD."
+    },
+    {
+      "name": "TIAN XI KOPI",
+      "lot": "L2-132(C3&C5)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koi The",
+      "lot": "G-B6-A & S02A-1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Glutton Food Street",
+      "lot": "LG-FS",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nam Heong Kiosk",
+      "lot": "LG-TC16",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "D'Laksa",
+      "lot": "LG-64",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beutea",
+      "lot": "LG-35",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "B.O.D 包栈",
+      "lot": "LG-052",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": "CBE ENGINEERING SDN. BHD."
+    },
+    {
+      "name": "Pin Wan Wan",
+      "lot": "LG-67, 68",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "柠季NINGJI Lemon Tea store",
+      "lot": "LG-K40",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ORIENTAL KOPI 华阳",
+      "lot": "G-52",
+      "status": "certified",
+      "myehalal_matches": 36,
+      "cert_holder": "ORIENTAL COFFEE INTERNATIONAL SDN BHD"
+    },
+    {
+      "name": "Century Herbs",
+      "lot": "LG-009",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sushi Plus",
+      "lot": "LG-TC 07, TC 08",
+      "status": "certified",
+      "myehalal_matches": 3,
+      "cert_holder": "PLUS GROUP SDN BHD"
+    },
+    {
+      "name": "Empurau Kopitiam",
+      "lot": "LG-044",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "I Love Yoo",
+      "lot": "LG-027",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "You Kee XO",
+      "lot": "LG-033",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Souper Tang",
+      "lot": "G-026, 027, 028",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Matang Seafood Restaurant",
+      "lot": "LG-034",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-050, 051, 049",
+      "status": "certified",
+      "myehalal_matches": 143,
+      "cert_holder": "SUSHI KING (EAST MALAYSIA) SDN. BHD."
+    },
+    {
+      "name": "CuanYue MalaTang",
+      "lot": "LG-002",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Old Street Taste",
+      "lot": "L2-81",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "EASY MART F&B SDN. BHD."
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "LG-031",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "G-S04B",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "mall": "SkyAvenue Genting Highlands",
+  "directory_url": "https://www.rwgenting.com/en/things-to-do/shopping/skyavenue-complex.html",
+  "count": 69,
+  "summary": {
+    "certified": 12,
+    "review": 6,
+    "uncertified": 51,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "ABSOLUTE THAI",
+      "lot": "T2-10&11",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "AH YIP HERBAL SOUP",
+      "lot": "T2C-38",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BABAJIA",
+      "lot": "T2-16",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BAR.B.Q PLAZA",
+      "lot": "T2C-33",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BEAUTY IN THE POT",
+      "lot": "T3-25,26,27,28,29,30",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BEENA'S SIGNATURE",
+      "lot": "T2-56B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BURGER & LOBSTER",
+      "lot": "T2-13",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "C CHUAN VILLAGE",
+      "lot": "T2-46 & 47",
+      "status": "certified",
+      "myehalal_matches": 3,
+      "cert_holder": "ZHAO JI CHUAN CHENG (M) SDN. BHD."
+    },
+    {
+      "name": "DAFU CONGEE",
+      "lot": "T2-19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DAI CHA DIM",
+      "lot": "T1-01",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "FARM FRESH JOMCHA SDN. BHD."
+    },
+    {
+      "name": "DIN TAI FUNG",
+      "lot": "T2-15",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DRAGON-I",
+      "lot": "T2-22 & 23",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "DRAGON INN (1995)"
+    },
+    {
+      "name": "FIVE GUYS",
+      "lot": "T2-25",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GO NOODLE HOUSE PLUS",
+      "lot": "T2C-37",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GOON WAH FISH HEAD NOODLES",
+      "lot": "T2C-35",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GRANDMAMA’S",
+      "lot": "T2-06",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "I LOVE YOO",
+      "lot": "T2C-02B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "IL LAGO",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "JOM MAKAN SKYAVENUE",
+      "lot": "T3-25,26,27,28,29,30",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "GENTING MALAYSIA BERHAD"
+    },
+    {
+      "name": "JOM MAKAN STREET FOOD",
+      "lot": "T2C-MFS",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "GENTING MALAYSIA BERHAD"
+    },
+    {
+      "name": "JR CURRY HOUSE",
+      "lot": "T2C-B19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KAM'S KITCHEN",
+      "lot": "T2C-02C",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "LA FIESTA BY MARTA'S KITCHEN",
+      "lot": "T2-29",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GOLDEN TREASURES HONG KONG CAFÉ",
+      "lot": "T2C-02A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MADAM KWAN'S",
+      "lot": "T2-30",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MALAYSIAN FOOD STREET",
+      "lot": "T2C-MFS",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MARRY BROWN",
+      "lot": "T2C-B19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "NYONYA COLORS",
+      "lot": "T2-48",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ONLY MEE",
+      "lot": "T2C-B19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PALSAIK KOREAN BBQ",
+      "lot": "T2C-08 & T3-08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PARADISE DYNASTY, LENU AND CANTON PARADISE",
+      "lot": "T2-03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PENYET PENYET.COM",
+      "lot": "T2-56D",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "PEPPER LUNCH",
+      "lot": "T2-05",
+      "status": "certified",
+      "myehalal_matches": 6,
+      "cert_holder": "PEPPER LUNCH KL EAST SDN BHD"
+    },
+    {
+      "name": "PIZZA HUT",
+      "lot": "T2C-B05 & B06",
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "RICHDAD",
+      "lot": "T2-17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SAMTAI YAMCH'A",
+      "lot": "T2C-B03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TAI BAE",
+      "lot": "T2-31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Golden Tai Fook Porridge",
+      "lot": "T2-19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TAMPOPO JAPANESE RESTAURANT",
+      "lot": "T2-20 & 21",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HARRY RAMSDEN",
+      "lot": "T2C-22-23A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TONO LIVE HOUSE",
+      "lot": "T2C-31 & 32",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "WANHOI YAMCH'A",
+      "lot": "T2-7 & 8 & 9",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YESTERYEAR",
+      "lot": "T2C-25",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YU PALACE",
+      "lot": "T2-29A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ZOK NOODLE HOUSE",
+      "lot": "T2C-36",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "AUNTEA JENNY",
+      "lot": "T2-38",
+      "status": "review",
+      "myehalal_matches": 20,
+      "cert_holder": "SENJUN INDUSTRIAL SDN BHD"
+    },
+    {
+      "name": "AUNTIE ANNE'S",
+      "lot": "T2-39",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BEUTEA",
+      "lot": "T2-H02",
+      "status": "certified",
+      "myehalal_matches": 35,
+      "cert_holder": "BEUTEA HOLDING SDN BHD"
+    },
+    {
+      "name": "BLANK",
+      "lot": "T2-H01",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "THE BLANKET HOTEL SDN. BHD."
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "T2-13A",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "ATMOS",
+      "lot": "T2B-47 & 48",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "EUREKA",
+      "lot": "T2C-01H",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "FAMOUS AMOS",
+      "lot": "T2C-01I",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "GODIVA",
+      "lot": "T2M-14",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GOVIDA PUSH CART",
+      "lot": "T2M-14",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HENG HENG LOCAL DELIGHTS",
+      "lot": "T2C-01E & 01F",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "SEKOLAH AGAMA NURUL FALAH GUGUSAN LOK HENG BARAT"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "T2-12",
+      "status": "certified",
+      "myehalal_matches": 14,
+      "cert_holder": "HEYTEA MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "KACANG PUTIH KING & TIDBITS",
+      "lot": "T2-M15 & M16",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "KACANG PUTIH MK PAGOH & CAFE"
+    },
+    {
+      "name": "KOI THÉ",
+      "lot": "T2-53A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KOONG WOH TONG",
+      "lot": "T2-33A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "KRISPY KREME DOUGHNUTS",
+      "lot": "T2C-12",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "BERJAYA KRISPY KREME DOUGHNUTS SDN BHD"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "T2-35",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "HEXTAR LUCKIN (M) SDN BHD"
+    },
+    {
+      "name": "MOOLAN",
+      "lot": "T2C-B01",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "MOOLAN SIGNATURE",
+      "lot": "T2-H03",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SWEET HUG",
+      "lot": "T2-57",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "SWENSEN'S",
+      "lot": "T2-A1",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YUEN FONG",
+      "lot": "T2C-01C & 01D",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YUEN FONG DRIED MEAT",
+      "lot": "T2C-01C & 01D",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ZUS COFFEE",
+      "lot": "T2A-39A & 40",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "mall": "Quill City Mall",
+  "directory_url": "https://quillcitymall.com.my/directory/",
+  "method": "endpoint",
+  "count": 45,
+  "outlets": [
+    {
+      "name": "KIMCHIRANG (Coming Soon)",
+      "lot": "2"
+    },
+    {
+      "name": "KungFu Ramen (Coming Soon)",
+      "lot": "LG"
+    },
+    {
+      "name": "ALittle Tea",
+      "lot": "G"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "G"
+    },
+    {
+      "name": "Munch Rally",
+      "lot": "8"
+    },
+    {
+      "name": "Fruit Addicts",
+      "lot": "LG"
+    },
+    {
+      "name": "Lucky Cup",
+      "lot": "LG"
+    },
+    {
+      "name": "HH Hotpot (Coming Soon)",
+      "lot": "LG"
+    },
+    {
+      "name": "TCM Murtabak",
+      "lot": "LG"
+    },
+    {
+      "name": "Nasi Kukus Rimba",
+      "lot": "2"
+    },
+    {
+      "name": "Lycka-Lycka",
+      "lot": "1"
+    },
+    {
+      "name": "Little Canton",
+      "lot": "G"
+    },
+    {
+      "name": "RuSim Thai Kitchen",
+      "lot": "G"
+    },
+    {
+      "name": "Chagee",
+      "lot": "G"
+    },
+    {
+      "name": "Luck Bros Kopi",
+      "lot": "G"
+    },
+    {
+      "name": "Happy Potato",
+      "lot": "LG"
+    },
+    {
+      "name": "Ayam Penyet Best",
+      "lot": "4"
+    },
+    {
+      "name": "Kee Nguyen Coffee",
+      "lot": "1"
+    },
+    {
+      "name": "Pak Punjab Restaurant",
+      "lot": "2"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "2"
+    },
+    {
+      "name": "KFC",
+      "lot": "2"
+    },
+    {
+      "name": "Mycha",
+      "lot": "2"
+    },
+    {
+      "name": "D’ Oldtime Kopitiam",
+      "lot": "3"
+    },
+    {
+      "name": "Coolblog",
+      "lot": "1"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "G"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G"
+    },
+    {
+      "name": "Mell Bistro",
+      "lot": "G"
+    },
+    {
+      "name": "Starbucks",
+      "lot": "G"
+    },
+    {
+      "name": "Hometown Hainan Coffee",
+      "lot": "G"
+    },
+    {
+      "name": "KAKATOO",
+      "lot": "G"
+    },
+    {
+      "name": "Thai Chicken Rice Station",
+      "lot": "LG"
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "LG"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG"
+    },
+    {
+      "name": "Tealive",
+      "lot": "LG"
+    },
+    {
+      "name": "Sushi Plus",
+      "lot": "LG"
+    },
+    {
+      "name": "Pop Meals",
+      "lot": "LG"
+    },
+    {
+      "name": "SEN Teppanyaki",
+      "lot": "LG"
+    },
+    {
+      "name": "Pak Curry",
+      "lot": "LG"
+    },
+    {
+      "name": "Mixue",
+      "lot": "LG"
+    },
+    {
+      "name": "Kokos",
+      "lot": "LG"
+    },
+    {
+      "name": "Kluang Station",
+      "lot": "LG"
+    },
+    {
+      "name": "Kafe Ruuma",
+      "lot": "LG"
+    },
+    {
+      "name": "Burger King",
+      "lot": "LG"
+    },
+    {
+      "name": "Bread History",
+      "lot": "LG"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "LG"
+    }
+  ]
+}

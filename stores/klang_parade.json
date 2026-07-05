@@ -1,0 +1,76 @@
+{
+  "mall": "Klang Parade",
+  "directory_url": "https://klang.parade.com.my/store/",
+  "count": 9,
+  "summary": {
+    "certified": 1,
+    "review": 2,
+    "uncertified": 6,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G-50",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Don Kaiten",
+      "lot": "G-65",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dynasty Dragon Seafood Restaurant",
+      "lot": "S-65 & 66",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "GO Noodle House",
+      "lot": "G-61",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Just You Dessert Cafe",
+      "lot": "G-57",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "G-59",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Old Town White Coffee",
+      "lot": "G-63",
+      "status": "review",
+      "myehalal_matches": 7,
+      "cert_holder": "COSMO RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Tealive",
+      "lot": "G-58",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "G-70",
+      "status": "certified",
+      "myehalal_matches": 104,
+      "cert_holder": "TEXAS CHICKEN (MALAYSIA) SDN BHD"
+    }
+  ]
+}

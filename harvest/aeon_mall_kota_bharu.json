@@ -1,0 +1,164 @@
+{
+  "mall": "AEON Mall Kota Bharu",
+  "directory_url": "https://aeonmallmy.com/page/mall/aeon-mall-kota-bharu",
+  "method": "html",
+  "count": 39,
+  "outlets": [
+    {
+      "name": "BLACK CANYON",
+      "lot": "G32"
+    },
+    {
+      "name": "THE COFFEE BEAN & TEA LEAF",
+      "lot": "G37"
+    },
+    {
+      "name": "NANDO’S",
+      "lot": "G38"
+    },
+    {
+      "name": "BASKIN ROBBINS",
+      "lot": "G39"
+    },
+    {
+      "name": "TEXAS CHICKEN",
+      "lot": "G41"
+    },
+    {
+      "name": "SECRET RECIPE & HOKKAIDO BAKED CHEESE TART",
+      "lot": "G43"
+    },
+    {
+      "name": "AUNTIE ANNE’S",
+      "lot": "KG11"
+    },
+    {
+      "name": "SWEETLY",
+      "lot": "KG7"
+    },
+    {
+      "name": "EMPIRE SUSHI",
+      "lot": "KG9"
+    },
+    {
+      "name": "MEE TARIK WARISAN",
+      "lot": "S27"
+    },
+    {
+      "name": "PENYET PENYET.COM",
+      "lot": "S30"
+    },
+    {
+      "name": "BOAT NOODLE",
+      "lot": "S42"
+    },
+    {
+      "name": "THE CHICKEN RICE SHOP",
+      "lot": "S43"
+    },
+    {
+      "name": "SUSHI KING",
+      "lot": "S46"
+    },
+    {
+      "name": "TEALIVE",
+      "lot": "S48A"
+    },
+    {
+      "name": "JUICE WORKS",
+      "lot": "S49"
+    },
+    {
+      "name": "HOT & ROLL",
+      "lot": "S51"
+    },
+    {
+      "name": "FOOD AVENUE OPERATOR",
+      "lot": "S52"
+    },
+    {
+      "name": "A&W",
+      "lot": "G33"
+    },
+    {
+      "name": "LLAO LLAO",
+      "lot": "KG10"
+    },
+    {
+      "name": "DAILY FRESH",
+      "lot": "KS3"
+    },
+    {
+      "name": "ROTI BOY",
+      "lot": "KG8"
+    },
+    {
+      "name": "NASKEN COFFEE",
+      "lot": "KF 5"
+    },
+    {
+      "name": "BANANA BRO",
+      "lot": "S28"
+    },
+    {
+      "name": "COOLBLOG",
+      "lot": "KS05"
+    },
+    {
+      "name": "4 FINGERS CRISPY CHICKEN",
+      "lot": "S31"
+    },
+    {
+      "name": "CHATRAMUE",
+      "lot": "S32"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "G35"
+    },
+    {
+      "name": "OISO KOREAN",
+      "lot": "S29"
+    },
+    {
+      "name": "JOM CHA",
+      "lot": "KS1A"
+    },
+    {
+      "name": "POTATO CORNER",
+      "lot": "KG1 & KG2"
+    },
+    {
+      "name": "BOOST JUICE",
+      "lot": "KG3"
+    },
+    {
+      "name": "JINJAK CHIKIN",
+      "lot": "S50"
+    },
+    {
+      "name": "CHILL UP",
+      "lot": "KF3"
+    },
+    {
+      "name": "KENANGAN COFFEE",
+      "lot": "F35A & B"
+    },
+    {
+      "name": "KOPI RAKYAT",
+      "lot": "KF01"
+    },
+    {
+      "name": "THONG BOWL",
+      "lot": "G01A"
+    },
+    {
+      "name": "PARATHAI",
+      "lot": "G36"
+    },
+    {
+      "name": "HOCK KEE KOPITIAM",
+      "lot": "G42"
+    }
+  ]
+}

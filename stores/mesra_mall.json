@@ -1,0 +1,188 @@
+{
+  "mall": "Mesra Mall",
+  "directory_url": "https://www.mesramall.com.my/shopping/",
+  "count": 25,
+  "summary": {
+    "certified": 11,
+    "review": 4,
+    "uncertified": 10,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Rotiboy",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Tealive",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "Big Apple Donuts and Coffee",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean Tea Leaf",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Chicken Rice Shop",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "OUR CHICKEN RICE SHOP"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "SEOUL GARDEN RESTAURANT SDN. BHD."
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "RICHEESE FACTORY MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 212,
+      "cert_holder": "PIZZA HUT RESTAURANTS SDN BHD"
+    },
+    {
+      "name": "Arabic Delight",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Burger & Drinks",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Chicken Rice",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 178,
+      "cert_holder": "AUNTY SUE CHICKEN RICE HOUSE"
+    },
+    {
+      "name": "Desserts",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "HUJAN RIMBA DESSERTS SDN. BHD."
+    },
+    {
+      "name": "D’Bunga Lawang",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "D’ Laksa",
+      "lot": null,
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "KAFE DEWI LAKSA"
+    },
+    {
+      "name": "Fruits & Snacks",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mee Tarik Warisan Asli",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "JJ FOOD & BEVERAGE GROUP SDN BHD"
+    },
+    {
+      "name": "Rasa Kampung",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sizzles – Hot Plate",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Wok & Grill",
+      "lot": null,
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yong Tau Fu",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "AFADIKRAM ENTERPRISE"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": null,
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

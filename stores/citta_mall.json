@@ -1,0 +1,335 @@
+{
+  "mall": "Citta Mall",
+  "directory_url": "https://citta.com.my/listings/",
+  "count": 46,
+  "summary": {
+    "certified": 12,
+    "review": 12,
+    "uncertified": 22,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "G-10 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 108,
+      "cert_holder": "ABE WAN GLOBAL SDN BHD"
+    },
+    {
+      "name": "Ayee Southern Thai Fried Chicken",
+      "lot": "G-32 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G-20 & G-A20 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BBQ Town",
+      "lot": "G-46 & G-A46 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "G-K10 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Breadstory",
+      "lot": "LG-K01 (Lower Ground)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "G31 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "G-15 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 148,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Chili’s",
+      "lot": "G-01 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "RESTORAN AZLEZAH SIGNATURE CHILI CRAB SDN BHD"
+    },
+    {
+      "name": "Daily Fresh",
+      "lot": "G-K02 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "J & J BAKERY DAILY FRESH"
+    },
+    {
+      "name": "Deli Wau",
+      "lot": "G-47 & G-A47 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ec eato",
+      "lot": "LG-12 (Lower Ground)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "FruitLab",
+      "lot": "G-K03 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "G-K05 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 10,
+      "cert_holder": "HOT & ROLL HOLDINGS SDN BHD"
+    },
+    {
+      "name": "Iyakimono",
+      "lot": "G-K06 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "G-K15 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 123,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "LÈTEN",
+      "lot": "G-17 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "G-25 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "HEXTAR LUCKIN (M) SDN BHD"
+    },
+    {
+      "name": "Mahnaz Food",
+      "lot": "LG-K03A (Lower Ground)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Marrybrown",
+      "lot": "G-33 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 240,
+      "cert_holder": "MARRYBROWN SDN BHD (FORMERLY KNOWN AS MARRYBROWN FRIED CHICKEN SDN BHD)"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "G-43 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "Mee Hiris China Muslim",
+      "lot": "G-41 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "MHFB RESOURCES SDN BHD"
+    },
+    {
+      "name": "Mie Ayam Bakso Bogor",
+      "lot": "G-K02A (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mixue",
+      "lot": "G-K07C (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 251,
+      "cert_holder": "MIXUE MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Nando’s",
+      "lot": "G-13A (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Onde Onde",
+      "lot": "G-49 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "MAKANERY SDN.BHD."
+    },
+    {
+      "name": "Original Penang Kayu Nasi Kandar",
+      "lot": "G-12, G-13, G-A12 & G-A13 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Para Thai",
+      "lot": "G-18 & G-19 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "GARDEN RECIPE CAFE (M) SDN.BHD."
+    },
+    {
+      "name": "Ramen Seirock-ya",
+      "lot": "G-45 & G-A45 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 9,
+      "cert_holder": "JOYPACK FOODS MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G-35 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Secret Recipe (Hokkaido Baked Cheese Tart)",
+      "lot": "G-36 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "So Juice",
+      "lot": "G-K18 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Sopoong",
+      "lot": "G-40 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 6,
+      "cert_holder": "FUTURE OUTLOOK SDN BHD"
+    },
+    {
+      "name": "Stuff’d",
+      "lot": "G-16 & 16A (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Subway",
+      "lot": "G-06 & G-A06 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Suki-Ya",
+      "lot": "G-03, G-03A & G-05 (Ground Floor)",
+      "status": "certified",
+      "myehalal_matches": 32,
+      "cert_holder": "M SUKI MAJU ENTERPRISE"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "G-30 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Tealive",
+      "lot": "G-K08 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 877,
+      "cert_holder": "LOOB INTEGRATED SDN BHD"
+    },
+    {
+      "name": "The Barn",
+      "lot": "G-07- G-09 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "G-39 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "G-K12 & G-K13 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Union Roastery",
+      "lot": "G-11 (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "US Pizza",
+      "lot": "G-K01 (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "DOMMAL FOOD SERVICES SDN BHD"
+    },
+    {
+      "name": "Waroeng",
+      "lot": "F-10 (First Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "YiPinLao Hot Pot BBQ",
+      "lot": "G-42A & G-42B (Ground Floor)",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "G-48 - G-48A (Ground Floor)",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}

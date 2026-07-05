@@ -1,0 +1,240 @@
+{
+  "mall": "Avenue K",
+  "directory_url": "https://www.avenuek.com.my/stores/",
+  "method": "endpoint",
+  "count": 58,
+  "outlets": [
+    {
+      "name": "B.O.D",
+      "lot": "C- SAC-C-1"
+    },
+    {
+      "name": "Carousel & Co.",
+      "lot": "L4- 2 & 6"
+    },
+    {
+      "name": "Beutea",
+      "lot": "C- 1"
+    },
+    {
+      "name": "Senkura Ichiba",
+      "lot": "L2- 4"
+    },
+    {
+      "name": "Shimmy Gelato",
+      "lot": "G- SAC-G-1"
+    },
+    {
+      "name": "Kani Kawa",
+      "lot": "L2- 6A"
+    },
+    {
+      "name": "Yin’s Sourdough Bakery & Café",
+      "lot": "C- 14"
+    },
+    {
+      "name": "Sugoi Udon",
+      "lot": "L2- 2"
+    },
+    {
+      "name": "SuprrJus",
+      "lot": "UC- SAC-UC-1"
+    },
+    {
+      "name": "Shabu Fuku",
+      "lot": "L3- 15"
+    },
+    {
+      "name": "Kosa Coffee",
+      "lot": "G- 11 & 14"
+    },
+    {
+      "name": "RAW",
+      "lot": "L1- 17"
+    },
+    {
+      "name": "Subway",
+      "lot": "UC- 8"
+    },
+    {
+      "name": "Wagyu and Rice",
+      "lot": "L2- 4,5"
+    },
+    {
+      "name": "Kumo x Rebel",
+      "lot": "L2- 3"
+    },
+    {
+      "name": "Tsukiji Sushi",
+      "lot": "L2- SAC-L2-3A & 3B"
+    },
+    {
+      "name": "Arabian.B",
+      "lot": "L2- 18"
+    },
+    {
+      "name": "Just Good Coffee",
+      "lot": "UC- SAC-UC-3"
+    },
+    {
+      "name": "Sandwich Box",
+      "lot": "C- 3A"
+    },
+    {
+      "name": "Bread History",
+      "lot": "C- 3A"
+    },
+    {
+      "name": "Tengyu Omakase",
+      "lot": "L3- 14A & 14C"
+    },
+    {
+      "name": "Feliz",
+      "lot": "L4- 5"
+    },
+    {
+      "name": "PEONY by CANTON BOY",
+      "lot": "G- 9"
+    },
+    {
+      "name": "Yakiniku Tenshin",
+      "lot": "L3- 14A & 14C"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "C- 6"
+    },
+    {
+      "name": "Aroii Thai",
+      "lot": "L2- 11"
+    },
+    {
+      "name": "The Italy Coffee",
+      "lot": "L2- 19"
+    },
+    {
+      "name": "Le Mirch",
+      "lot": "L4- 8"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "C- 13"
+    },
+    {
+      "name": "Food City",
+      "lot": "L2- 9 & 10"
+    },
+    {
+      "name": "TACO BELL",
+      "lot": "UC- 3 & 3B"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "C- 28"
+    },
+    {
+      "name": "HWC COFFEE",
+      "lot": "C- 12"
+    },
+    {
+      "name": "Farmer’s Bar",
+      "lot": "L3- 14B"
+    },
+    {
+      "name": "Dodo Korea",
+      "lot": "M- 20 & SAC-M-1"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "C- 16B"
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "C- 2A"
+    },
+    {
+      "name": "Frank’s Bar",
+      "lot": "L3- 6"
+    },
+    {
+      "name": "Natalina Italian Kitchen",
+      "lot": "L3- 6"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "C- 15A"
+    },
+    {
+      "name": "Stuff’d",
+      "lot": "C- 15"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "UC- 1"
+    },
+    {
+      "name": "Ming Ren Xuan",
+      "lot": "L3- 5"
+    },
+    {
+      "name": "Bankara Ramen",
+      "lot": "L2- 7"
+    },
+    {
+      "name": "Boost Juice",
+      "lot": "C- SAC-C-2"
+    },
+    {
+      "name": "Noodle Shack",
+      "lot": "UC- 6"
+    },
+    {
+      "name": "Samba Brazilian Steakhouse & Skewer Bar",
+      "lot": "L3- 3 & 4A"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "M- 19"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "UC- 7"
+    },
+    {
+      "name": "Nando’s",
+      "lot": "G- 17"
+    },
+    {
+      "name": "Krispy Kreme",
+      "lot": "C- 5"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "lot": "G- SAC-G-2"
+    },
+    {
+      "name": "GO Noodle House",
+      "lot": "L1- 18"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "G- 7"
+    },
+    {
+      "name": "KFC",
+      "lot": "UC- 2"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "C- 16A"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "L1- 19 & SAC-L1-1"
+    },
+    {
+      "name": "Salad Atelier",
+      "lot": "L2- SAC-L2-2"
+    }
+  ]
+}

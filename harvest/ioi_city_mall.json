@@ -1,0 +1,728 @@
+{
+ "mall": "IOI City Mall",
+ "directory_url": "https://www.ioicitymall.com.my/directory-icm/",
+ "method": "ajax mallcategory=foodnbeverage",
+ "count": 180,
+ "outlets": [
+  {
+   "name": "10GRAM",
+   "lot": "LG-78F"
+  },
+  {
+   "name": "4 FINGERS CRISPY CHICKEN",
+   "lot": "L1-13B"
+  },
+  {
+   "name": "A&W",
+   "lot": "L2-26A"
+  },
+  {
+   "name": "ABSOLUTE THAI",
+   "lot": "LG-67"
+  },
+  {
+   "name": "AH CHENG LAKSA",
+   "lot": "LG-52"
+  },
+  {
+   "name": "AK NOODLES HOUSE",
+   "lot": "LG-235"
+  },
+  {
+   "name": "AKHA THAI COFFEE & TEA",
+   "lot": "F-K9"
+  },
+  {
+   "name": "ALI, MUTHU & AH HOCK",
+   "lot": "LG-49"
+  },
+  {
+   "name": "AMALFI",
+   "lot": "GE-15"
+  },
+  {
+   "name": "ASAM PEDAS PREMIER",
+   "lot": "LG-240"
+  },
+  {
+   "name": "AUNTIE ANNE'S",
+   "lot": "LG-K11"
+  },
+  {
+   "name": "AWAGYU YAKINIKU",
+   "lot": "GE-216 & GE-ES-216"
+  },
+  {
+   "name": "All About Chew",
+   "lot": "LG-K219"
+  },
+  {
+   "name": "Ayam Gepuk Hut",
+   "lot": "LG-78E"
+  },
+  {
+   "name": "BAAJI'S",
+   "lot": "LG-93"
+  },
+  {
+   "name": "BANANABRO",
+   "lot": "LG - 71"
+  },
+  {
+   "name": "BANGLO 289",
+   "lot": "LG-78G"
+  },
+  {
+   "name": "BASKIN ROBBINS",
+   "lot": "F-K1"
+  },
+  {
+   "name": "BASKIN ROBBINS",
+   "lot": "LG-255"
+  },
+  {
+   "name": "BEN'S COOKIES",
+   "lot": "LG-K8A"
+  },
+  {
+   "name": "BERYL'S",
+   "lot": "LG-41B"
+  },
+  {
+   "name": "BHAI JIM JUM",
+   "lot": "LG-39"
+  },
+  {
+   "name": "BHC Chicken",
+   "lot": "L3-211"
+  },
+  {
+   "name": "BIG APPLE DONUTS AND COFFEE",
+   "lot": "LG-35"
+  },
+  {
+   "name": "BISOU BAKE SHOP",
+   "lot": "L2-K203"
+  },
+  {
+   "name": "BLACK CANYON",
+   "lot": "LG-79B"
+  },
+  {
+   "name": "BMS ORGANICS (VEGETARIAN)",
+   "lot": "LG-42"
+  },
+  {
+   "name": "BOAT NOODLE",
+   "lot": "L219A-2"
+  },
+  {
+   "name": "BOOST JUICE BAR",
+   "lot": "S-K4"
+  },
+  {
+   "name": "BUNGKUS KAW KAW",
+   "lot": "LG-256A"
+  },
+  {
+   "name": "Bliss Dessert",
+   "lot": "LG-K213"
+  },
+  {
+   "name": "CAFE CHEF WAN",
+   "lot": "GE-203"
+  },
+  {
+   "name": "CAFE COLOMBO",
+   "lot": "LG-242"
+  },
+  {
+   "name": "CHAGEE (flagship)",
+   "lot": "GE-2"
+  },
+  {
+   "name": "CHAGEE (kiosk)",
+   "lot": "G-K5"
+  },
+  {
+   "name": "CHEESEU BISTRO & DESSERT BAR",
+   "lot": "LG-224"
+  },
+  {
+   "name": "CHEEZUTO",
+   "lot": "LG-C57-K"
+  },
+  {
+   "name": "CHEZ CHOUX",
+   "lot": "LG-K5G"
+  },
+  {
+   "name": "CHILI'S",
+   "lot": "GE-7"
+  },
+  {
+   "name": "CHIZU",
+   "lot": "LG-K11A"
+  },
+  {
+   "name": "CHRISTINE'S BAKERY",
+   "lot": "L220-2"
+  },
+  {
+   "name": "CHURROS+",
+   "lot": "LG-66A"
+  },
+  {
+   "name": "CINNABON",
+   "lot": "LG-K215"
+  },
+  {
+   "name": "CORNERY",
+   "lot": "LG-K9"
+  },
+  {
+   "name": "Cold Stone Creamery",
+   "lot": "L1-K201"
+  },
+  {
+   "name": "Coliseum @ LG-51",
+   "lot": "LG-51"
+  },
+  {
+   "name": "Crème De La Crème - CDLC",
+   "lot": "LG-K219"
+  },
+  {
+   "name": "D'PENYETZ",
+   "lot": "LG-228"
+  },
+  {
+   "name": "DABOBA",
+   "lot": "F-K7"
+  },
+  {
+   "name": "DAVE'S DELI",
+   "lot": "LG-85"
+  },
+  {
+   "name": "DIMSUSU",
+   "lot": "LG78B-2"
+  },
+  {
+   "name": "DIN BY DIN TAI FUNG",
+   "lot": "LG257-2"
+  },
+  {
+   "name": "DODO KOREA",
+   "lot": "LG-232"
+  },
+  {
+   "name": "DOLLY DIM SUM",
+   "lot": "LG-82B"
+  },
+  {
+   "name": "DOME",
+   "lot": "GE-205"
+  },
+  {
+   "name": "DOOKKI",
+   "lot": "L1-12B"
+  },
+  {
+   "name": "DOTNUTS",
+   "lot": "LG-K212"
+  },
+  {
+   "name": "DOTTY'S PASTRIES",
+   "lot": "GE-3B"
+  },
+  {
+   "name": "DRAGON-I",
+   "lot": "LG94-2"
+  },
+  {
+   "name": "DUBUYO",
+   "lot": "LG-44"
+  },
+  {
+   "name": "DUNKIN' DONUTS",
+   "lot": "LG-K13"
+  },
+  {
+   "name": "EMPIRE SUSHI",
+   "lot": "L1-K202"
+  },
+  {
+   "name": "EMPIRE SUSHI",
+   "lot": "LG-K14"
+  },
+  {
+   "name": "FAMILY MART",
+   "lot": "LG-218"
+  },
+  {
+   "name": "FAMOUS AMOS",
+   "lot": "LG-K25"
+  },
+  {
+   "name": "FOOD EMPIRE",
+   "lot": "L3-223"
+  },
+  {
+   "name": "FOOD JUNCTION",
+   "lot": "L232-2"
+  },
+  {
+   "name": "FUEL SHACK",
+   "lot": "LG-59"
+  },
+  {
+   "name": "GIGI COFFEE",
+   "lot": "LG - K5H"
+  },
+  {
+   "name": "GO NOODLE HOUSE",
+   "lot": "L2-14"
+  },
+  {
+   "name": "GODIVA",
+   "lot": "G-49"
+  },
+  {
+   "name": "GONG CHA",
+   "lot": "LG- 74A"
+  },
+  {
+   "name": "GULA PETITE",
+   "lot": "F-K8B"
+  },
+  {
+   "name": "Garrett Popcorn",
+   "lot": "LG-K26"
+  },
+  {
+   "name": "HAAGEN DAZS",
+   "lot": "LG-K11B"
+  },
+  {
+   "name": "HAIDILAO",
+   "lot": "GE-17"
+  },
+  {
+   "name": "HANBING",
+   "lot": "LG-75"
+  },
+  {
+   "name": "HAPPY POTATO",
+   "lot": "LG-48B"
+  },
+  {
+   "name": "HO MIN SAN 好面善",
+   "lot": "LG-237"
+  },
+  {
+   "name": "HOGAN BAKERY",
+   "lot": "LG-26"
+  },
+  {
+   "name": "HOKKAIDO BAKED CHEESE TART",
+   "lot": "LG-K12"
+  },
+  {
+   "name": "HOT & ROLL",
+   "lot": "F-K16"
+  },
+  {
+   "name": "HOT BIRD",
+   "lot": "LG-226"
+  },
+  {
+   "name": "HWC COFFEE",
+   "lot": "F-K18"
+  },
+  {
+   "name": "I LOVE YOO!",
+   "lot": "LG-74B"
+  },
+  {
+   "name": "ICHIBAN RAMEN",
+   "lot": "LG-80C"
+  },
+  {
+   "name": "INDOASLI",
+   "lot": "LG38-2"
+  },
+  {
+   "name": "INSIDE SCOOP",
+   "lot": "S-K3"
+  },
+  {
+   "name": "IPPUDO",
+   "lot": "GE-207"
+  },
+  {
+   "name": "IRAMA SIGNATURE",
+   "lot": "GE-11"
+  },
+  {
+   "name": "ISABELLE RESTAURANT & BAR",
+   "lot": "GE-204"
+  },
+  {
+   "name": "ISTANOODLE",
+   "lot": "LG-73"
+  },
+  {
+   "name": "JANGSAJANG DEOPBAP",
+   "lot": "LG-236"
+  },
+  {
+   "name": "JARDIN COFFEE",
+   "lot": "G-K6"
+  },
+  {
+   "name": "JM BARIANI HOUSE",
+   "lot": "LG-227"
+  },
+  {
+   "name": "JOHNNY'S RESTAURANTS",
+   "lot": "LG-78D"
+  },
+  {
+   "name": "JOLLIBEE",
+   "lot": "LG-239"
+  },
+  {
+   "name": "JOM AMIGO",
+   "lot": "L1E-208-212"
+  },
+  {
+   "name": "JOM CHA",
+   "lot": "F-K14"
+  },
+  {
+   "name": "JORDAN HONG KONG",
+   "lot": "L116-2"
+  },
+  {
+   "name": "JP & CO",
+   "lot": "GE9-2"
+  },
+  {
+   "name": "JU BANQUET & RESTAURANT",
+   "lot": "L3-213-215"
+  },
+  {
+   "name": "JUICE WORKS",
+   "lot": "LG-K8"
+  },
+  {
+   "name": "JUICY",
+   "lot": "LG-K221"
+  },
+  {
+   "name": "JUST GOOD COFFEE",
+   "lot": "F-K4"
+  },
+  {
+   "name": "K GARDEN KOREAN BBQ",
+   "lot": "FE205-3"
+  },
+  {
+   "name": "K-FRY URBAN KOREAN",
+   "lot": "G-26"
+  },
+  {
+   "name": "KEE NGUYEN",
+   "lot": "LG-C30-K"
+  },
+  {
+   "name": "KENNY HILLS BAKERS",
+   "lot": "GE217-2"
+  },
+  {
+   "name": "KENNY ROGERS ROASTERS",
+   "lot": "LG-70"
+  },
+  {
+   "name": "KHAWAJA MIDDLE EASTERN RESTAURANT",
+   "lot": "GE-1"
+  },
+  {
+   "name": "KOI Thé",
+   "lot": "LG-48A"
+  },
+  {
+   "name": "KOONG WOH TONG",
+   "lot": "LG-89B"
+  },
+  {
+   "name": "KRISPY KREME DOUGHNUTS",
+   "lot": "F-K3"
+  },
+  {
+   "name": "KYOCHON 1991",
+   "lot": "LG-30"
+  },
+  {
+   "name": "KYOTO KATSU",
+   "lot": "LG-62"
+  },
+  {
+   "name": "Kakatoo.Go",
+   "lot": "LG-77"
+  },
+  {
+   "name": "Kedai Kopi Suka Hati",
+   "lot": "LG-32B"
+  },
+  {
+   "name": "Kenangan Coffee",
+   "lot": "LG-K211"
+  },
+  {
+   "name": "Korea Cotton Candy",
+   "lot": "LG-C13-K"
+  },
+  {
+   "name": "LA GAYA (by JOGOYA)",
+   "lot": "L137-4"
+  },
+  {
+   "name": "LAEM CHAROEN THAI SEAFOOD",
+   "lot": "LG-81-2"
+  },
+  {
+   "name": "LAOHUNAN",
+   "lot": "L1-235A"
+  },
+  {
+   "name": "LAUSANJEE",
+   "lot": "LG-231"
+  },
+  {
+   "name": "LAVENDER",
+   "lot": "LG-29C"
+  },
+  {
+   "name": "LAVISH RESTAURANT & BAR",
+   "lot": "GE211-2"
+  },
+  {
+   "name": "LE SHRIMP RAMEN",
+   "lot": "LG-254"
+  },
+  {
+   "name": "LITTLE EAT SHOP",
+   "lot": "L2-18"
+  },
+  {
+   "name": "LLAO LLAO",
+   "lot": "LG-K10A"
+  },
+  {
+   "name": "LLAO LLAO",
+   "lot": "LG-246A"
+  },
+  {
+   "name": "La Mesa",
+   "lot": "GE213-2"
+  },
+  {
+   "name": "Luckin Coffee",
+   "lot": "GE-19"
+  },
+  {
+   "name": "MADAM CROFFLE",
+   "lot": "LG-K217"
+  },
+  {
+   "name": "MADAM KWAN'S",
+   "lot": "LG246-2"
+  },
+  {
+   "name": "MAKII MAKII",
+   "lot": "LG-261"
+  },
+  {
+   "name": "MAMA THAI",
+   "lot": "LG-238"
+  },
+  {
+   "name": "MARRYBROWN",
+   "lot": "L114C-2"
+  },
+  {
+   "name": "MBG FRUITSHOP",
+   "lot": "LGK16-4"
+  },
+  {
+   "name": "MCDONALD'S",
+   "lot": "LG57-2"
+  },
+  {
+   "name": "MEE HIRIS CHINA MUSLIM",
+   "lot": "LG-250"
+  },
+  {
+   "name": "MELTKIES",
+   "lot": "LG-C23"
+  },
+  {
+   "name": "MI TARIK SINLAN",
+   "lot": "LG-79A"
+  },
+  {
+   "name": "MIX STORE",
+   "lot": "L134-3"
+  },
+  {
+   "name": "MON CHINESE BEEF ROTI",
+   "lot": "LG-256B"
+  },
+  {
+   "name": "MR TUK TUK",
+   "lot": "LG-31C"
+  },
+  {
+   "name": "MR.DAKGALBI",
+   "lot": "GE-12"
+  },
+  {
+   "name": "MYEONGDONG TOPOKKI",
+   "lot": "LG -43"
+  },
+  {
+   "name": "Mo-Mo Paradise",
+   "lot": "L3207-2"
+  },
+  {
+   "name": "Mokky's with Flaaah",
+   "lot": "GE-210"
+  },
+  {
+   "name": "NADEJE",
+   "lot": "L1-K203"
+  },
+  {
+   "name": "NAK NAK",
+   "lot": "LG248-2"
+  },
+  {
+   "name": "NANDO'S",
+   "lot": "LG53-2"
+  },
+  {
+   "name": "NEWJUiCE",
+   "lot": "LG-K214"
+  },
+  {
+   "name": "NIKUMAI",
+   "lot": "LG-78"
+  },
+  {
+   "name": "NY STEAK SHACK",
+   "lot": "LG-45"
+  },
+  {
+   "name": "Nanyang Cafe",
+   "lot": "LG-84"
+  },
+  {
+   "name": "Nasi Lemak Shop",
+   "lot": "LG - 233"
+  },
+  {
+   "name": "OGA TEA & DINING",
+   "lot": "GE-215"
+  },
+  {
+   "name": "OISO",
+   "lot": "L1- 72"
+  },
+  {
+   "name": "OLE-OLE BALI",
+   "lot": "G28-2"
+  },
+  {
+   "name": "OMBAK KITCHEN",
+   "lot": "LG-225"
+  },
+  {
+   "name": "OPPADAK OVEN BAKED CHICKEN",
+   "lot": "LG - 46"
+  },
+  {
+   "name": "ORIENTAL KOPI",
+   "lot": "LG-29A"
+  },
+  {
+   "name": "OldTown White Coffee",
+   "lot": "LG-252"
+  },
+  {
+   "name": "PARATHAI",
+   "lot": "LG-253"
+  },
+  {
+   "name": "PARIS BAGUETTE",
+   "lot": "LG-63"
+  },
+  {
+   "name": "PENANG ROAD FAMOUS TEOCHEW CHENDUL",
+   "lot": "LG-68"
+  },
+  {
+   "name": "PERFECT ICE",
+   "lot": "LG-32B"
+  },
+  {
+   "name": "PIZZA HUT",
+   "lot": "L2-17"
+  },
+  {
+   "name": "POKOK",
+   "lot": "GE-201"
+  },
+  {
+   "name": "POP MEALS",
+   "lot": "LG-36"
+  },
+  {
+   "name": "POTATO CORNER",
+   "lot": "LG-K222"
+  },
+  {
+   "name": "QCC Baked",
+   "lot": "S-K8"
+  },
+  {
+   "name": "RAKUZEN",
+   "lot": "FE201-3"
+  },
+  {
+   "name": "RAMEN SEIROCK-YA",
+   "lot": "LG-229"
+  },
+  {
+   "name": "RASA ROSZ",
+   "lot": "L3-210"
+  },
+  {
+   "name": "ROBATA SUSHI AND GRILL",
+   "lot": "LG-262"
+  },
+  {
+   "name": "ROTIBOY (WEST)",
+   "lot": "LG-K15"
+  },
+  {
+   "name": "ROYCE'",
+   "lot": "LG-K29"
+  },
+  {
+   "name": "Rotiboy (East)",
+   "lot": "B1 - 208"
+  }
+ ]
+}

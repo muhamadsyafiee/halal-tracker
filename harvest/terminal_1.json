@@ -1,0 +1,10 @@
+{
+  "mall": "Terminal 1",
+  "directory_url": "https://www.terminal1sbn.com/tenants/",
+  "method": "curl_html",
+  "count": 2,
+  "outlets": [
+    { "name": "KFC", "lot": "LG 33" },
+    { "name": "McDonald's", "lot": "LG 35" }
+  ]
+}

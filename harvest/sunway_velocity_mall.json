@@ -1,0 +1,628 @@
+{
+  "mall": "Sunway Velocity Mall",
+  "directory_url": "https://www.sunwayvelocitymall.com/directory",
+  "method": "endpoint",
+  "count": 155,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "B-21A"
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "4-42"
+    },
+    {
+      "name": "AN VIET",
+      "lot": "B-46"
+    },
+    {
+      "name": "AntCave",
+      "lot": "3-20"
+    },
+    {
+      "name": "Antipodean",
+      "lot": "VS1-G-05, Sunway Velocity Two (Plot A)"
+    },
+    {
+      "name": "Auntea Jenny",
+      "lot": "3-97"
+    },
+    {
+      "name": "Auntie Anne's",
+      "lot": "B-50A"
+    },
+    {
+      "name": "BANTIANYAO Grilled Fish 半天妖烤鱼",
+      "lot": "2-26"
+    },
+    {
+      "name": "Bar.B.Q Plaza",
+      "lot": "3-19"
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "G-71"
+    },
+    {
+      "name": "Bestore",
+      "lot": "B-73 & B-74"
+    },
+    {
+      "name": "Beutea",
+      "lot": "1-28A"
+    },
+    {
+      "name": "BHC Chicken",
+      "lot": "B-02"
+    },
+    {
+      "name": "Bingxue Tea & Ice Cream",
+      "lot": "3-27A"
+    },
+    {
+      "name": "BMS Organics & Oat Story",
+      "lot": "B-81"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "B-31"
+    },
+    {
+      "name": "Bread History",
+      "lot": "B-20"
+    },
+    {
+      "name": "Bread Story",
+      "lot": "B-41"
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "B-34 & B-36"
+    },
+    {
+      "name": "Burger King",
+      "lot": "B-04"
+    },
+    {
+      "name": "Candy House",
+      "lot": "2-72 & 73"
+    },
+    {
+      "name": "Chaboys",
+      "lot": "3-29"
+    },
+    {
+      "name": "Chagee",
+      "lot": "G-15"
+    },
+    {
+      "name": "Chapanda",
+      "lot": "1-76"
+    },
+    {
+      "name": "Chateraise",
+      "lot": "1-70"
+    },
+    {
+      "name": "Chef Long",
+      "lot": "VS2-G-01 & VS2-G-02"
+    },
+    {
+      "name": "Chili's",
+      "lot": "G-37 & 38"
+    },
+    {
+      "name": "ChopJoy Sichuan Street Food",
+      "lot": "3-28 & 3-126"
+    },
+    {
+      "name": "COTTI Coffee",
+      "lot": "2-79 & 2-80"
+    },
+    {
+      "name": "Dave's Deli",
+      "lot": "3-03 & 3-04"
+    },
+    {
+      "name": "DayOne DayOne Noodles",
+      "lot": "B-44 & 45"
+    },
+    {
+      "name": "Din Tai Fung",
+      "lot": "B-76 & B-77"
+    },
+    {
+      "name": "Dotnuts",
+      "lot": "B-47D & B47E"
+    },
+    {
+      "name": "Dragon-i",
+      "lot": "1-29"
+    },
+    {
+      "name": "Dua Nasi Kari Malatang",
+      "lot": "4-02"
+    },
+    {
+      "name": "Dubuyo",
+      "lot": "B-22"
+    },
+    {
+      "name": "Easy Heng Pork Noodle House",
+      "lot": "4-01D"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "B-33 & B-35"
+    },
+    {
+      "name": "Eureka Snack Bar",
+      "lot": "3-56"
+    },
+    {
+      "name": "FaFa Lamian",
+      "lot": "VS2-G-05, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "B-50B"
+    },
+    {
+      "name": "Fei Fan Hotpot",
+      "lot": "4-26 & 4-27"
+    },
+    {
+      "name": "fRost n bites",
+      "lot": "B-01D"
+    },
+    {
+      "name": "Genki Sushi",
+      "lot": "2-03"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "1-71"
+    },
+    {
+      "name": "GO Noodle House",
+      "lot": "B-42 & B-43"
+    },
+    {
+      "name": "Gong Cha",
+      "lot": "B-72B"
+    },
+    {
+      "name": "Grand Imperial Restaurant (喜粤海鲜酒家)",
+      "lot": "5-01"
+    },
+    {
+      "name": "Haidilao Hotpot",
+      "lot": "3-16"
+    },
+    {
+      "name": "Han Gang",
+      "lot": "4-04"
+    },
+    {
+      "name": "HEYTEA",
+      "lot": "1-03"
+    },
+    {
+      "name": "Hometown Hainan Coffee",
+      "lot": "B-26"
+    },
+    {
+      "name": "Hot & Roll",
+      "lot": "B-47F"
+    },
+    {
+      "name": "HotPot Kitchen",
+      "lot": "2-28"
+    },
+    {
+      "name": "Huo Long MalaTang",
+      "lot": "3-18"
+    },
+    {
+      "name": "Häagen-Dazs",
+      "lot": "G-67A"
+    },
+    {
+      "name": "I Love Yoo !",
+      "lot": "3-36"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "3-06 & 3-07"
+    },
+    {
+      "name": "ILike&",
+      "lot": "4-10"
+    },
+    {
+      "name": "Inside Scoop",
+      "lot": "1-38"
+    },
+    {
+      "name": "Ipoh Ais Kopi",
+      "lot": "4-07 - 08"
+    },
+    {
+      "name": "Ippudo",
+      "lot": "G-34"
+    },
+    {
+      "name": "Jipinhe Scones 吉品合",
+      "lot": "2-36"
+    },
+    {
+      "name": "Jollibee",
+      "lot": "B-27"
+    },
+    {
+      "name": "Joymom's",
+      "lot": "B-37"
+    },
+    {
+      "name": "Juicy",
+      "lot": "1-85"
+    },
+    {
+      "name": "Ke Ren Lai",
+      "lot": "2-27"
+    },
+    {
+      "name": "KFC",
+      "lot": "B-24"
+    },
+    {
+      "name": "Koi The",
+      "lot": "1-04"
+    },
+    {
+      "name": "Koong Woh Tong",
+      "lot": "B-47B"
+    },
+    {
+      "name": "Korean BBQ House",
+      "lot": "VS1-01-05, Sunway Velocity Two (Plot A)"
+    },
+    {
+      "name": "Kwan Kee Store",
+      "lot": "B-39"
+    },
+    {
+      "name": "LFC - Lim Fried Chicken",
+      "lot": "4-01C"
+    },
+    {
+      "name": "llao llao",
+      "lot": "B-32"
+    },
+    {
+      "name": "LONGJING",
+      "lot": "1-30"
+    },
+    {
+      "name": "Luckin Coffee",
+      "lot": "VS2-G-08"
+    },
+    {
+      "name": "Lucky Mala Noodle",
+      "lot": "B-15"
+    },
+    {
+      "name": "Ma Zi Pan Mee",
+      "lot": "4-01E"
+    },
+    {
+      "name": "Mami Sisters",
+      "lot": "B1-PC-012"
+    },
+    {
+      "name": "McDonald's",
+      "lot": "B-08, 09, 10"
+    },
+    {
+      "name": "McDonald's Ice Cream",
+      "lot": "1-86"
+    },
+    {
+      "name": "Melvados",
+      "lot": "B-01C"
+    },
+    {
+      "name": "Miao",
+      "lot": "B-64"
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "B-70"
+    },
+    {
+      "name": "MIRICE",
+      "lot": "VS2-G-06, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "MIX.STORE",
+      "lot": "B-21"
+    },
+    {
+      "name": "Mixue",
+      "lot": "3-59"
+    },
+    {
+      "name": "Modu Three Brothers",
+      "lot": "4-05 & 4-06"
+    },
+    {
+      "name": "Mr. Ayam Penyet",
+      "lot": "3-05"
+    },
+    {
+      "name": "Mr. Wu",
+      "lot": "VS2-G-07, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "Muu Thai",
+      "lot": "B-16"
+    },
+    {
+      "name": "Nando's",
+      "lot": "B-28 & B-29"
+    },
+    {
+      "name": "Nanyang Café",
+      "lot": "G-36"
+    },
+    {
+      "name": "Oh Cha Matcha",
+      "lot": "2-70"
+    },
+    {
+      "name": "Oloiya",
+      "lot": "B-68"
+    },
+    {
+      "name": "Oriental Kopi",
+      "lot": "G-16A"
+    },
+    {
+      "name": "Original Nyonya",
+      "lot": "3-55 & 3-127"
+    },
+    {
+      "name": "Palsaik",
+      "lot": "2-59"
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": "4-91 & 4-92"
+    },
+    {
+      "name": "PLUS ONE",
+      "lot": "B-63"
+    },
+    {
+      "name": "PobbyIce",
+      "lot": "B-69"
+    },
+    {
+      "name": "Pokok",
+      "lot": "G-01"
+    },
+    {
+      "name": "Potato Corner",
+      "lot": "B-01B"
+    },
+    {
+      "name": "Prawn Noodle King",
+      "lot": "4-01A"
+    },
+    {
+      "name": "Purple Cane",
+      "lot": "B-02A"
+    },
+    {
+      "name": "Putien",
+      "lot": "2-25"
+    },
+    {
+      "name": "Qili Go Fresh Fruit",
+      "lot": "3-57"
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "1-28"
+    },
+    {
+      "name": "Ramen Takahashi",
+      "lot": "B-60 & B-62"
+    },
+    {
+      "name": "Sai Kee Authentic Home Cuisine",
+      "lot": "4-03"
+    },
+    {
+      "name": "Salad Atelier (SV2)",
+      "lot": "VS1-G-02, Sunway Velocity Two (Plot A)"
+    },
+    {
+      "name": "Seaweed Club",
+      "lot": "3-35 & 3-59B"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "G-28 & G-28A"
+    },
+    {
+      "name": "Seremban Kee Mei Siew Pow",
+      "lot": "B-71"
+    },
+    {
+      "name": "Shabu-Yo",
+      "lot": "3-58"
+    },
+    {
+      "name": "Shamroz Kacang Putih",
+      "lot": "B1-PC-013"
+    },
+    {
+      "name": "Signature Market",
+      "lot": "B-72A"
+    },
+    {
+      "name": "Sisters Crispy Popiah",
+      "lot": "B-47A"
+    },
+    {
+      "name": "Sot Bab",
+      "lot": "B-61"
+    },
+    {
+      "name": "Squid Boy",
+      "lot": "B-47G"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "G-27"
+    },
+    {
+      "name": "Station Cafeteria",
+      "lot": "4-01B"
+    },
+    {
+      "name": "STICKY",
+      "lot": "3-54I"
+    },
+    {
+      "name": "stuff'd",
+      "lot": "B-47C"
+    },
+    {
+      "name": "Subway",
+      "lot": "B-67"
+    },
+    {
+      "name": "Sukishi",
+      "lot": "2-16 & 2-17"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "4-09"
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "3-27"
+    },
+    {
+      "name": "Taan Thai",
+      "lot": "B-25"
+    },
+    {
+      "name": "Taning 挞柠",
+      "lot": "3-56A"
+    },
+    {
+      "name": "Tealive (Level 3)",
+      "lot": "3-31"
+    },
+    {
+      "name": "Teazzi",
+      "lot": "3-30"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "B-23"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "G-73, 74 & 75"
+    },
+    {
+      "name": "The Fish Bowl",
+      "lot": "2-27A"
+    },
+    {
+      "name": "The Hungry Beast Grill House",
+      "lot": "VS2-01-08, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "Three Squirrels",
+      "lot": "B-58 & B-59"
+    },
+    {
+      "name": "Tim Hortons",
+      "lot": "G-05"
+    },
+    {
+      "name": "TOKIPOKI",
+      "lot": "3-33 & 3-59A"
+    },
+    {
+      "name": "Tonkatsu by Ma Maison",
+      "lot": "B-65"
+    },
+    {
+      "name": "Verrona Hills",
+      "lot": "1-23 & 1-91"
+    },
+    {
+      "name": "Village Roast Duck",
+      "lot": "B-75"
+    },
+    {
+      "name": "Wasabi+",
+      "lot": "VS2-01-07, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "Wei Xiao Niu BBQ",
+      "lot": "VS2-G-03, Sunway Velocity Two (Plot B)"
+    },
+    {
+      "name": "Wok Hey",
+      "lot": "B-48"
+    },
+    {
+      "name": "Wok Man",
+      "lot": "2-04 & 2-05"
+    },
+    {
+      "name": "Xia Yuan Yuan 虾圆圆",
+      "lot": "3-32"
+    },
+    {
+      "name": "Xiao Gu Jie Jie",
+      "lot": "VS1-G-03, Sunway Velocity Two (Plot A)"
+    },
+    {
+      "name": "Yogiyo",
+      "lot": "B-66"
+    },
+    {
+      "name": "Yogurt Planet",
+      "lot": "3F-94"
+    },
+    {
+      "name": "YU YAN",
+      "lot": "B-78"
+    },
+    {
+      "name": "Yuan Fong Kopitiam",
+      "lot": "VS1-G-03A, Sunway Velocity Two (Plot A)"
+    },
+    {
+      "name": "Zen House (Japanese Vegetarian)",
+      "lot": "B-03"
+    },
+    {
+      "name": "Zok Noodle House",
+      "lot": "B-17"
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": "VS1-G-01, Sunway Velocity Two (Plot A)"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "mall": "1st Avenue Mall",
+  "directory_url": "https://www.1st-avenuepenang.com.my/directory/",
+  "method": "html_table",
+  "count": 25,
+  "outlets": [
+    {
+      "name": "A&W",
+      "lot": "LG-03"
+    },
+    {
+      "name": "Ai-CHA",
+      "lot": "LG-K02A"
+    },
+    {
+      "name": "Ayam Penyet Best",
+      "lot": "LG-10"
+    },
+    {
+      "name": "Black Ball",
+      "lot": "G-01D & G-01D(A)"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "LG-K06"
+    },
+    {
+      "name": "CHAGEE",
+      "lot": "G-03, 03A, 05 &12"
+    },
+    {
+      "name": "Cloud Eight (Sky Bar)",
+      "lot": "8-08 & 09"
+    },
+    {
+      "name": "Coco House",
+      "lot": "LG-09"
+    },
+    {
+      "name": "Cube Coffee",
+      "lot": "4-N"
+    },
+    {
+      "name": "Ding Ding Bingsu",
+      "lot": "8-K6 & K7"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "4-06A"
+    },
+    {
+      "name": "Food Hall",
+      "lot": "4-17"
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "LG-K05A & 05B"
+    },
+    {
+      "name": "Ichiban Ramen",
+      "lot": "LG-07"
+    },
+    {
+      "name": "J.CO Donuts & Coffee",
+      "lot": "G-05, 07 & 13"
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "LG-02"
+    },
+    {
+      "name": "OldTown White Coffee Basic",
+      "lot": "LG-111"
+    },
+    {
+      "name": "Scoop.com",
+      "lot": "3F-PS09(B)"
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": "3-11 & 12"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "lot": "G-09 & G-10"
+    },
+    {
+      "name": "Subway",
+      "lot": "LG-08"
+    },
+    {
+      "name": "Sushi King",
+      "lot": "LG-71"
+    },
+    {
+      "name": "Taco Bell",
+      "lot": "LG-03A"
+    },
+    {
+      "name": "Texas Chicken",
+      "lot": "LG-15, 16 & 17"
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "LG-18 & 69A (Al-fresco)"
+    }
+  ]
+}

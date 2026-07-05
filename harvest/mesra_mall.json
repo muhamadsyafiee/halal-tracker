@@ -1,0 +1,108 @@
+{
+  "mall": "Mesra Mall",
+  "directory_url": "https://www.mesramall.com.my/shopping/",
+  "method": "category_pages_html",
+  "count": 25,
+  "outlets": [
+    {
+      "name": "Rotiboy",
+      "lot": null
+    },
+    {
+      "name": "Tealive",
+      "lot": null
+    },
+    {
+      "name": "Big Apple Donuts and Coffee",
+      "lot": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": null
+    },
+    {
+      "name": "Boost Juice",
+      "lot": null
+    },
+    {
+      "name": "The Coffee Bean Tea Leaf",
+      "lot": null
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": null
+    },
+    {
+      "name": "Chicken Rice Shop",
+      "lot": null
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": null
+    },
+    {
+      "name": "Seoul Garden",
+      "lot": null
+    },
+    {
+      "name": "Richeese Factory",
+      "lot": null
+    },
+    {
+      "name": "Pizza Hut",
+      "lot": null
+    },
+    {
+      "name": "Arabic Delight",
+      "lot": null
+    },
+    {
+      "name": "Burger & Drinks",
+      "lot": null
+    },
+    {
+      "name": "Chicken Rice",
+      "lot": null
+    },
+    {
+      "name": "Desserts",
+      "lot": null
+    },
+    {
+      "name": "D’Bunga Lawang",
+      "lot": null
+    },
+    {
+      "name": "D’ Laksa",
+      "lot": null
+    },
+    {
+      "name": "Fruits & Snacks",
+      "lot": null
+    },
+    {
+      "name": "Mee Tarik Warisan Asli",
+      "lot": null
+    },
+    {
+      "name": "Rasa Kampung",
+      "lot": null
+    },
+    {
+      "name": "Sizzles – Hot Plate",
+      "lot": null
+    },
+    {
+      "name": "Wok & Grill",
+      "lot": null
+    },
+    {
+      "name": "Yong Tau Fu",
+      "lot": null
+    },
+    {
+      "name": "ZUS Coffee",
+      "lot": null
+    }
+  ]
+}

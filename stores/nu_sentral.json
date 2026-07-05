@@ -1,0 +1,699 @@
+{
+  "mall": "NU Sentral",
+  "directory_url": "https://www.nusentral.com/store-directory/",
+  "count": 98,
+  "summary": {
+    "certified": 21,
+    "review": 19,
+    "uncertified": 58,
+    "non_halal": 0
+  },
+  "outlets": [
+    {
+      "name": "Cinnabon",
+      "lot": "Level Concourse, CC.10C",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kopi Rakyat",
+      "lot": "Level Ground, GF.26",
+      "status": "certified",
+      "myehalal_matches": 3,
+      "cert_holder": "KOPI RAKYAT SDN BHD"
+    },
+    {
+      "name": "4 Fingers Crispy Chicken",
+      "lot": "Level Concourse, CC.14",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "5 Coffee (OFFFFive Coffee)",
+      "lot": "Level Ground, GF.22",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ah Cheng Laksa",
+      "lot": "Level Lower Ground, LG.16",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ali, Muthu & Ah Hock",
+      "lot": "Level Ground, GF.37, GF.38",
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "NASI LEMAK GEMPAK SDN BHD"
+    },
+    {
+      "name": "Aroii Thai",
+      "lot": "Level Lower Ground, LG.33",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Auntie Anne’s",
+      "lot": "Level Concourse, CC.13A",
+      "status": "review",
+      "myehalal_matches": 19,
+      "cert_holder": "CHRISNA JENIO SDN BHD"
+    },
+    {
+      "name": "Ayam Penyet AP",
+      "lot": "Level Lower Ground, LG.17",
+      "status": "certified",
+      "myehalal_matches": 2,
+      "cert_holder": "APC AYAM PENYET CORNER"
+    },
+    {
+      "name": "B.Bap Korean Food",
+      "lot": "Level Ground, GF.08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bake Brown",
+      "lot": "Level Ground, GF.21",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "BROWN BREAD BAKERY"
+    },
+    {
+      "name": "Banana Bistro",
+      "lot": "Level 4, L4.12",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Baskin Robbins",
+      "lot": "Level Ground, GF.48",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "BBQ Nation Select",
+      "lot": "Level 5, L5.08, L5.09",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beard Papa’s",
+      "lot": "Level Lower Ground, LG.11",
+      "status": "review",
+      "myehalal_matches": 4,
+      "cert_holder": "ALICORN SDN. BHD."
+    },
+    {
+      "name": "Being Juice",
+      "lot": "Level Lower Ground, LG.52",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Beryl’s Chocolate",
+      "lot": "Level Lower Ground, LG.41A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bibi’s Popiah",
+      "lot": "Level Lower Ground, LG.44",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Big Apple Donut & Coffee",
+      "lot": "Level Concourse, CC.12",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "BIG APPLE INTERASIA SDN BHD"
+    },
+    {
+      "name": "Boat Noodle",
+      "lot": "Level 4, L4.06",
+      "status": "certified",
+      "myehalal_matches": 34,
+      "cert_holder": "AROIVER BOAT NOODLE"
+    },
+    {
+      "name": "Boost Juice Bars",
+      "lot": "Level Concourse, CC.10B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bread History",
+      "lot": "Level Lower Ground, LG.41",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Bungkus Kaw Kaw",
+      "lot": "Level Lower Ground, LG.37",
+      "status": "review",
+      "myehalal_matches": 63,
+      "cert_holder": "G&T BRAND SDN BHD"
+    },
+    {
+      "name": "Chagee Express",
+      "lot": "Level Concourse, CC.10D",
+      "status": "certified",
+      "myehalal_matches": 5,
+      "cert_holder": "CHAGEE (M) SDN. BHD."
+    },
+    {
+      "name": "Churros+",
+      "lot": "Level Lower Ground, LG.50C",
+      "status": "review",
+      "myehalal_matches": 8,
+      "cert_holder": "CORNERY FNB SDN BHD"
+    },
+    {
+      "name": "Cong Caphe",
+      "lot": "Level Lower Ground, LG.19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Cornery",
+      "lot": "Level Lower Ground, LG.50D",
+      "status": "certified",
+      "myehalal_matches": 13,
+      "cert_holder": "CORNERY FNB SDN BHD"
+    },
+    {
+      "name": "Creem Artisan",
+      "lot": "Level Ground, GF.04",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "DIN by Din Tai Fung",
+      "lot": "Level 3, L3.5, L3.6",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dodo Korea",
+      "lot": "Level 4, L4.07",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dolly Dim Sum",
+      "lot": "Level Lower Ground, LG.42A, LG.43",
+      "status": "review",
+      "myehalal_matches": 15,
+      "cert_holder": "ASIA MEX CONCEPTS SDN BHD"
+    },
+    {
+      "name": "Dubu Yo",
+      "lot": "Level 4, L4.04",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Dunkin Donuts",
+      "lot": "Level Lower Ground, LG.50A, LG.50B",
+      "status": "certified",
+      "myehalal_matches": 89,
+      "cert_holder": "GOLDEN DONUTS SDN BHD"
+    },
+    {
+      "name": "Empire Sushi",
+      "lot": "Level Lower Ground, LG.14",
+      "status": "certified",
+      "myehalal_matches": 159,
+      "cert_holder": "EMPIRE SUSHI SDN. BHD."
+    },
+    {
+      "name": "Famous Amos",
+      "lot": "Level Concourse, CC.10A",
+      "status": "certified",
+      "myehalal_matches": 116,
+      "cert_holder": "THE FAMOUS AMOS CHOCOLATE CHIP COOKIE CORPORATION (M) SDN BHD"
+    },
+    {
+      "name": "Fuel Shack",
+      "lot": "Level 5, L5.11",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "SHALIMAR TEAHOUSE SDN. BHD."
+    },
+    {
+      "name": "Gigi Coffee",
+      "lot": "Level Lower Ground, LG.42",
+      "status": "certified",
+      "myehalal_matches": 54,
+      "cert_holder": "GIGI COFFEE SDN. BHD."
+    },
+    {
+      "name": "Godiva Chocolatier",
+      "lot": "Level Concourse, CC.37A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Haagen Dazs",
+      "lot": "Level 1, L1.27",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Hanbing Korean Dessert Café",
+      "lot": "Level Lower Ground, LG.21",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Havana Dining",
+      "lot": "Level 6, L6.01, L6.02, L6.03, L6.04",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Homie Recipe",
+      "lot": "Level Lower Ground, LG.18",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HRC SkyLounge",
+      "lot": "Level 6, L6.02, L6.02B",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "HWC Coffee",
+      "lot": "Level 4, L4.23",
+      "status": "review",
+      "myehalal_matches": 66,
+      "cert_holder": "PALATERIUM SDN. BHD."
+    },
+    {
+      "name": "illy Caffè",
+      "lot": "Level Ground, GF.41",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kailash Parbat",
+      "lot": "Level Lower Ground, LG.27, LG.28",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kakatoo",
+      "lot": "Level Ground, GF.46, GF.47",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "LJP KITCHEN SDN. BHD."
+    },
+    {
+      "name": "Kenangan Coffee",
+      "lot": "Level Lower Ground, LG.09",
+      "status": "certified",
+      "myehalal_matches": 123,
+      "cert_holder": "KOPI KENANGAN SDN. BHD."
+    },
+    {
+      "name": "Kenny Rogers Roasters",
+      "lot": "Level 4, L4.20, L4.21",
+      "status": "certified",
+      "myehalal_matches": 21,
+      "cert_holder": "BERJAYA ROASTERS (M) SDN BHD"
+    },
+    {
+      "name": "KFC",
+      "lot": "Level 5, L5.16",
+      "status": "review",
+      "myehalal_matches": 828,
+      "cert_holder": "QSR STORES SDN BHD"
+    },
+    {
+      "name": "Kopi Saigon (Coming Soon)",
+      "lot": "Level Ground, GF.34",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Kra Pow",
+      "lot": "Level Ground, GF.44, GF.45",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Lizzie by Lisette’s Cafe",
+      "lot": "Level Lower Ground, LG.25",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Luck Bros Kopi",
+      "lot": "Level Concourse, CC.06,07,08",
+      "status": "review",
+      "myehalal_matches": 3,
+      "cert_holder": "HORIZON MIRACLES SDN. BHD."
+    },
+    {
+      "name": "luckin coffee",
+      "lot": "Level Ground, LG.49",
+      "status": "certified",
+      "myehalal_matches": 48,
+      "cert_holder": "HEXTAR LUCKIN (M) SDN BHD"
+    },
+    {
+      "name": "McDonald’s",
+      "lot": "Level 4, L4.02, L4.03",
+      "status": "review",
+      "myehalal_matches": 426,
+      "cert_holder": "GERBANG ALAF RESTAURANTS SDN BHD (FORMERLY KNOWN AS GOLDEN ARCHES RESTAURANTS SDN BHD)"
+    },
+    {
+      "name": "Melvados",
+      "lot": "Level Ground, GF.35",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Milk & Barley",
+      "lot": "Level Ground Floor, LG.40",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mixue Ice Cream and Tea",
+      "lot": "Level Lower Ground, LG.10",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Mr Tuk Tuk",
+      "lot": "Level 4, L4.10, L4.11A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nando’s",
+      "lot": "Level 4, L4.05",
+      "status": "certified",
+      "myehalal_matches": 94,
+      "cert_holder": "NANDO'S CHICKENLAND MALAYSIA SENDIRIAN BERHAD"
+    },
+    {
+      "name": "Nyonya Colors",
+      "lot": "Level 3, L3.27",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Nyonya Tingkat by Aroma Village",
+      "lot": "Level 5, L5.12",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "O’Briens",
+      "lot": "Level Ground, GF.07",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "NORTH POLESTAR ALLIANCE SDN. BHD."
+    },
+    {
+      "name": "Original Penang Kayu Nasi Kandar",
+      "lot": "Level Lower Ground, LG.30, LG.31",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Pak Jen",
+      "lot": "Level Ground, GF.27,GF.28",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Paris Baguette",
+      "lot": "Level Concourse, CC.15A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Quizinn Foodcourt by Rasa Food Arena",
+      "lot": "Level 3, L3.14",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rakuzen",
+      "lot": "Level 4, L4.18, L4.19",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Ramen Seirock-ya",
+      "lot": "Level 5, L5.05",
+      "status": "review",
+      "myehalal_matches": 9,
+      "cert_holder": "JOYPACK FOODS MALAYSIA SDN. BHD."
+    },
+    {
+      "name": "Rasa Habibi",
+      "lot": "Level Lower Ground, LG.32",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Roberto’s",
+      "lot": "Level Lower Ground, LG.26",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Rollti",
+      "lot": "Level Lower Ground, LG.39",
+      "status": "review",
+      "myehalal_matches": 2,
+      "cert_holder": "IWEALTH GLOBAL F&B SDN. BHD."
+    },
+    {
+      "name": "Rotiboy",
+      "lot": "Lower Ground, LG.12",
+      "status": "certified",
+      "myehalal_matches": 90,
+      "cert_holder": "ROTIBOY BAKESHOPPE SDN BHD"
+    },
+    {
+      "name": "Salad Atelier",
+      "lot": "Level Lower Ground, LG.20",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "San Francisco Coffee",
+      "lot": "Level Ground, GF.09",
+      "status": "certified",
+      "myehalal_matches": 18,
+      "cert_holder": "SAN FRANCISCO COFFEE SDN BHD"
+    },
+    {
+      "name": "Secret Recipe",
+      "lot": "Level Concourse, CC.05",
+      "status": "certified",
+      "myehalal_matches": 342,
+      "cert_holder": "SECRET RECIPE CAKES & CAFE SDN BHD"
+    },
+    {
+      "name": "Shihlin Taiwan Street Snacks",
+      "lot": "Level 4, L4.8A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Shin Jjajang . Budae Jjigae",
+      "lot": "Level 3, L3.07, L3.08",
+      "status": "review",
+      "myehalal_matches": 1,
+      "cert_holder": "CIDO DESIGN SDN. BHD."
+    },
+    {
+      "name": "Slim Chicken",
+      "lot": "Level 5, L5.06",
+      "status": "certified",
+      "myehalal_matches": 1,
+      "cert_holder": "SLIM FOODS MALAYSIA SDN BHD"
+    },
+    {
+      "name": "Sparq Coffee",
+      "lot": "Level 3, L3.15",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Starbucks",
+      "lot": "Level Ground, GF.05, GF.06",
+      "status": "certified",
+      "myehalal_matches": 269,
+      "cert_holder": "BERJAYA STARBUCKS COFFEE COMPANY SDN BHD"
+    },
+    {
+      "name": "Subway",
+      "lot": "Level 4, L4.13",
+      "status": "review",
+      "myehalal_matches": 101,
+      "cert_holder": "PEGACORN SDN. BHD."
+    },
+    {
+      "name": "Sushi Zanmai",
+      "lot": "Level 5, L5.1A, L5.2",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Taco Bell",
+      "lot": "Level 4, L4.11",
+      "status": "review",
+      "myehalal_matches": 17,
+      "cert_holder": "TAKOS SDN BHD"
+    },
+    {
+      "name": "Tea Garden",
+      "lot": "Level 4, L4.01",
+      "status": "certified",
+      "myehalal_matches": 50,
+      "cert_holder": "TEA GARDEN RESTAURANT (MY) SDN. BHD."
+    },
+    {
+      "name": "Tealive & llaollao",
+      "lot": "Level Concourse, CC.04",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Thai Chicken Rice Station",
+      "lot": "Level Lower Ground, LG.15",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Chicken Rice Shop",
+      "lot": "Level 4, L4.16, L4.17",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "lot": "Level Lower Ground, LG.29",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "THE FISH BOWL",
+      "lot": "Level 5, L5.10",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "The Grass",
+      "lot": "Level Lower Ground , LG.13",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "TIRAMISU & COFFEE",
+      "lot": "Level 5, L504A",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Toast Maker",
+      "lot": "Level Lower Ground, LG.38",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Volcano Crisp",
+      "lot": "Level Lower Ground, LG.53",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Waroeng Penyet",
+      "lot": "Level 4, L4.08",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Yamazaki by Sun Moulin",
+      "lot": "Level Concourse, CC.13",
+      "status": "uncertified",
+      "myehalal_matches": 0,
+      "cert_holder": null
+    },
+    {
+      "name": "Zus Coffee",
+      "lot": "Level Concourse, CC.04A",
+      "status": "review",
+      "myehalal_matches": 823,
+      "cert_holder": "ZUSPRESSO (M) SDN BHD (1340330-X)"
+    }
+  ]
+}
